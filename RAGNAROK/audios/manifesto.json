@@ -1,0 +1,20 @@
+{
+  "provider": "ElevenLabs",
+  "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+  "voice_name": "Roger - Laid-Back, Casual, Resonant",
+  "voice_model": "eleven_multilingual_v2",
+  "voice_text": "Atreus. Fique perto. Não sabemos o que nos espera.",
+  "note": "Voz provisória de catálogo; não é a voz oficial nem clonagem do ator. Fala de teste criada para este pacote; não transcrição do jogo.",
+  "sound_effect_prompts": [
+    {
+      "file": "machado_gelo.mp3",
+      "text": "A single powerful heavy battle axe swing followed by a sharp magical ice shattering impact, cinematic close perspective, crisp metal whoosh, frost crackle, no music, no voices",
+      "duration_seconds": 3.0
+    },
+    {
+      "file": "vento_midgard.mp3",
+      "text": "Cold winter wind through a deserted Nordic pine forest, softly shifting snow, distant low wooden creaks, continuous atmospheric ambience, no music, no voices, no animals",
+      "duration_seconds": 6.0
+    }
+  ]
+}

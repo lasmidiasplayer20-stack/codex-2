@@ -1,0 +1,104 @@
+{
+  "delivery": "Primeiro pacote visual e sonoro de Kratos",
+  "source_video_analyzed": false,
+  "source_video_blocker": "Transferência acima de 32 MiB não suportada nesta sessão",
+  "storyboard_scope": "Teste de abertura de 30 segundos; não é o storyboard do filme inteiro",
+  "assets": [
+    {
+      "path": "audios/efeitos_sonoros/machado_gelo.mp3",
+      "bytes": 48944,
+      "sha256": "b221675a23c1b1483ac89c99322883ba11f0591e53cc48e4f97a1e86ce62b9a4",
+      "duration_seconds": 3.030204,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "provider": "ElevenLabs"
+    },
+    {
+      "path": "audios/efeitos_sonoros/vento_midgard.mp3",
+      "bytes": 97009,
+      "sha256": "bf7fcd71fe054fab4f33697670b7357a42fd57b013fe09da78b9f7bf2d50e80b",
+      "duration_seconds": 6.034286,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "provider": "ElevenLabs"
+    },
+    {
+      "path": "audios/vozes/kratos/kratos_teste_ptbr.mp3",
+      "bytes": 61065,
+      "sha256": "c412946ec16d530fc11fbe249a0b49d85f78dc228dfef73f5a530a6003632170",
+      "duration_seconds": 3.787755,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ],
+      "provider": "ElevenLabs"
+    },
+    {
+      "path": "imagens/assets/armas/armas_e_fx_conceito.png",
+      "bytes": 3678696,
+      "sha256": "de44a5d812c713f050c9b6f5eb2b3139de15c27279fc15de9473087651a703e4",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "provider": "image_gen"
+    },
+    {
+      "path": "imagens/cenarios/midgard/midgard_fimbulwinter.png",
+      "bytes": 2930727,
+      "sha256": "1e443dbd1611dae0df4e52acbee81f486ed237753f960a592bbeaf5d8e3299da",
+      "width": 1672,
+      "height": 941,
+      "mode": "RGB",
+      "provider": "image_gen"
+    },
+    {
+      "path": "imagens/personagens/kratos/kratos_conceito.png",
+      "bytes": 3355085,
+      "sha256": "49dc42882028da8f2e7d4528c69dbaf9de0dce69f849b5fd4e9c70eba800243e",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "provider": "image_gen"
+    },
+    {
+      "path": "imagens/personagens/kratos/kratos_model_sheet.png",
+      "bytes": 2917650,
+      "sha256": "f5c76912cae41d8884d771c07388f67f30c1eb11eff5931a696c6c55892afdcf",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "provider": "image_gen"
+    },
+    {
+      "path": "imagens/personagens/kratos/kratos_poses.png",
+      "bytes": 3252140,
+      "sha256": "0b94c36d833b1094e128a994881336ccb221e28c9a76f708010f848f410308ac",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "provider": "image_gen"
+    },
+    {
+      "path": "imagens/storyboards/abertura_fimbulwinter_01.png",
+      "bytes": 3439310,
+      "sha256": "ac68adc6b139cc9ca31f2b55fed74927697b4d61ca3d59c2d2795239fe8f18b7",
+      "width": 1942,
+      "height": 809,
+      "mode": "RGB",
+      "provider": "image_gen"
+    }
+  ]
+}
