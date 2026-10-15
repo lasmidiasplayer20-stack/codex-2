@@ -2,7 +2,9 @@
 
 ## Linguagem
 
-Gravura nórdica pintada: silhuetas angulares, contorno forte, três massas de luz e sombra, acabamento de pincel seco e textura de papel. A proposta preserva a identificação de Kratos e muda a apresentação visual em relação às imagens do jogo. Não houve extração de quadros do vídeo de referência.
+Gravura nórdica pintada: silhuetas angulares, contorno forte, três massas de luz e sombra, acabamento de pincel seco e textura de papel. A proposta preserva a identificação de Kratos e muda a apresentação visual em relação às imagens do jogo. As artes iniciais foram criadas antes do acesso ao vídeo; depois, quadros foram extraídos apenas para análise local, sem reutilização nas artes do projeto.
+
+A referência acessada posteriormente usa corpos caricatos, olhos grandes e animação 2D com movimento seletivo. Para levar a direção atual à animação, simplificar o excesso de pequenos detalhes de couro, ornamentos e textura. Manter a identidade da arte principal, mas produzir uma versão limpa em camadas e testar um plano de atuação antes de expandir o elenco. Ver `ANALISE_VIDEO.md` para a comparação.
 
 | Uso | Cor de referência |
 | --- | --- |

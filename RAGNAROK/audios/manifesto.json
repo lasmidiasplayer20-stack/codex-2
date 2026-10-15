@@ -15,6 +15,11 @@
       "file": "vento_midgard.mp3",
       "text": "Cold winter wind through a deserted Nordic pine forest, softly shifting snow, distant low wooden creaks, continuous atmospheric ambience, no music, no voices, no animals",
       "duration_seconds": 6.0
+    },
+    {
+      "file": "gelo_despertar.mp3",
+      "text": "Subtle magical frost awakening on a cold steel axe blade, delicate rising icy shimmer and tiny crystal crackles, restrained soft close-up sound, no impact, no whoosh, no music, no voices",
+      "duration_seconds": 2.0
     }
   ]
 }

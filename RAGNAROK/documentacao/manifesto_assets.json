@@ -1,7 +1,5 @@
 {
   "delivery": "Primeiro pacote visual e sonoro de Kratos",
-  "source_video_analyzed": false,
-  "source_video_blocker": "Transferência acima de 32 MiB não suportada nesta sessão",
   "storyboard_scope": "Teste de abertura de 30 segundos; não é o storyboard do filme inteiro",
   "assets": [
     {
@@ -100,5 +98,8 @@
       "mode": "RGB",
       "provider": "image_gen"
     }
-  ]
+  ],
+  "source_video_analyzed_at_initial_delivery": false,
+  "source_video_blocker_at_initial_delivery": "Transferência acima de 32 MiB não suportada nesta sessão",
+  "subsequent_source_analysis": "ANALISE_VIDEO.md; download pelo Drive concluido"
 }

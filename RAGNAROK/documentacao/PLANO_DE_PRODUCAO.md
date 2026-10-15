@@ -4,7 +4,7 @@
 
 Manter Kratos e a história de Ragnarök. Criar desenhos, encenação e materiais de produção novos. A entrega inicial prioriza o teste visual de Kratos solicitado pelo usuário. O longa completo e o storyboard completo permanecem pendentes.
 
-O vídeo enviado está bloqueado pelo limite de transferência de 32 MiB desta sessão. Por isso, a estrutura abaixo é uma organização preliminar dos acontecimentos do jogo, não a decupagem daquele filme. Duração final, cortes e número de planos dependem de estudar uma referência acessível.
+O vídeo foi posteriormente acessado pelo Google Drive e analisado. A análise e a decupagem estão em `ANALISE_VIDEO.md` e `DECUPAGEM_REFERENCIA.csv`. A estrutura abaixo continua sendo uma organização preliminar dos acontecimentos do jogo inteiro; a referência em vídeo é uma paródia condensada e não desenvolve todos esses acontecimentos. Duração final, cortes e número de planos da nova versão ainda precisam ser fechados.
 
 ## Estrutura narrativa preliminar
 
@@ -39,11 +39,11 @@ Esta lista orienta cobertura da história principal. Subtramas, participações 
 | Storyboard | Oito quadros e tempos de um teste de abertura de 30 s | Decupagem completa de todos os blocos e animatic do filme. |
 | Vozes | Uma fala provisória de Kratos via ElevenLabs | Elenco vocal, roteiro de falas, direção, takes e sincronização. |
 | Sons | Vento de Midgard e golpe de machado/gelo via ElevenLabs | Foley, magia, criaturas, ambientes de cada reino e mixagem. |
-| Animação | Referências estáticas de poses e ação | Animação real, composição, edição, música e finalização. |
+| Animação | Referências de poses; quatro PNGs de quadros-chave; MP4 de quatro segundos com poses mantidas e som | Intermediários/rig e movimento contínuo de personagem; composição final e filme completo. |
 
 ## Sequência de trabalho
 
-1. Receber uma cópia acessível da referência; analisar enquadramento, ritmo, atuação e duração.
+1. **Concluído:** baixar a referência pelo Drive, examinar sua linguagem visual, mapear sequências e transcrever automaticamente o áudio.
 2. Consolidar a direção visual a partir da prévia de Kratos.
 3. Fechar roteiro da adaptação e lista de planos; manter o inventário de personagens sincronizado.
 4. Produzir sheets de cada personagem que efetivamente aparecer, cenários e props dos planos.

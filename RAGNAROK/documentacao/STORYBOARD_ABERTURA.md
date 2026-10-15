@@ -2,7 +2,7 @@
 
 **Duração planejada:** 30 segundos. **Formato proposto:** 16:9, 24 fps. **Estado:** oito quadros desenhados e planejamento abaixo; vídeo e animação de personagens ainda não renderizados.
 
-Esta é uma proposta inédita de encenação para testar o design dentro do contexto de Ragnarök. Não representa uma transcrição da abertura do jogo nem uma análise do MP4, que não pôde ser lido. A fala é provisória.
+Esta é uma proposta inédita de encenação para testar o design dentro do contexto de Ragnarök. Foi criada antes do acesso ao vídeo e não representa uma transcrição da abertura do jogo ou do MP4. A referência foi posteriormente analisada; ver `ANALISE_VIDEO.md`. A fala é provisória.
 
 | Plano | Tempo | Duração | Imagem e câmera | Atuação / animação a produzir | Áudio |
 | --- | --- | --- | --- | --- | --- |

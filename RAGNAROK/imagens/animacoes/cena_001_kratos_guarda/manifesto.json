@@ -1,0 +1,53 @@
+{
+  "scene": "cena_001_kratos_guarda",
+  "type": "quatro poses-chave; nao e animacao intermediada",
+  "duration_seconds": 4.0,
+  "preview_fps": 24,
+  "canvas_size": [
+    1672,
+    941
+  ],
+  "preview_size": [
+    1280,
+    720
+  ],
+  "frames": [
+    {
+      "file": "quadros/kratos_guarda_0001.png",
+      "pose": "repouso",
+      "hold_seconds": 1.0,
+      "width": 1672,
+      "height": 941,
+      "sha256": "4d6f5b5771f9d5c7027a9e7f8b1db215dd442353781dd0a1fe3a7934f2f8ba5b"
+    },
+    {
+      "file": "quadros/kratos_guarda_0002.png",
+      "pose": "percepcao_antecipacao",
+      "hold_seconds": 0.75,
+      "width": 1672,
+      "height": 941,
+      "sha256": "8338f8e51a2db2acee0b8bebd497c81f3e46111a71710565e84124c0767fde6b"
+    },
+    {
+      "file": "quadros/kratos_guarda_0003.png",
+      "pose": "empunhadura",
+      "hold_seconds": 0.75,
+      "width": 1672,
+      "height": 941,
+      "sha256": "85ef0d67d5ec8be9bc8de36b5f3518a1a0e683266b75e7e99246c968716e2945"
+    },
+    {
+      "file": "quadros/kratos_guarda_0004.png",
+      "pose": "guarda_gelo",
+      "hold_seconds": 1.5,
+      "width": 1672,
+      "height": 941,
+      "sha256": "db71148e90cc8e8357f38a59f66b7cdfb0bce084d931299f0dc07cb5471e3409"
+    }
+  ],
+  "notes": [
+    "A previa segura poses por tempos definidos, sem interpolacao.",
+    "Personagem e fundo estao achatados em cada PNG.",
+    "Continuidade e arte intermediaria precisam de limpeza antes da animacao final."
+  ]
+}

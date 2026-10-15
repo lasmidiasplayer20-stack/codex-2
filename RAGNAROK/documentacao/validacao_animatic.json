@@ -1,0 +1,30 @@
+{
+  "file": "videos/testes/kratos_guarda_animatic_4s.mp4",
+  "sha256": "b1ae5ff47a6483047936fd9bd040eee23ff8970ece651c8d4ba5c491fc606f84",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "avg_frame_rate": "24/1",
+        "nb_read_frames": "96"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "avg_frame_rate": "0/0",
+        "nb_read_frames": "173"
+      }
+    ],
+    "format": {
+      "duration": "4.000000",
+      "size": "926064"
+    }
+  },
+  "decoded_without_errors": true,
+  "notes": "96 quadros de reproducao e quatro poses distintas; animatic sem intermediarios"
+}
