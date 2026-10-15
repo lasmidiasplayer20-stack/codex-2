@@ -1,0 +1,17 @@
+{
+  "duration_seconds": 120.0,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": "24/1",
+  "frames": 2880,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "full_decode": "passed; ffmpeg -v error -f null",
+  "deterministic_sample": "passed",
+  "sha256": "10037d9c0aa29fe064e17aafd0657bc2ebc6bebbf751eed3f67d6039fbb3a3ad",
+  "original_story": true,
+  "elevenlabs_effects": 6
+}
