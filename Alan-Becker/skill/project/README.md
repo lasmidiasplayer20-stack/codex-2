@@ -35,7 +35,7 @@ python -m venv .venv
 .venv/bin/python src/run_all.py
 ```
 
-Paths resolve from the project directory. `.work/`, ignored by Git, stores extracted frames and temporary video parts. Match concurrency to the actual CPU/RAM quota. Completed parts may be resumed only with identical input/settings. Use a fresh workspace when changing the reference or tracing configuration; do not reuse incompatible caches.
+Paths resolve from the project directory. `.work/`, ignored by Git, stores extracted frames and temporary video parts. Match concurrency to the actual CPU/RAM quota. Completed parts may be resumed only with identical input/settings. Use `src/run_all.py --rebuild` after adapting parameters when changing the reference or tracing configuration. It preserves old working/vector data under `.cache/` and does not reuse incompatible completed output. A missing final movie also triggers regeneration, so copying only the skill/project sources remains reproducible.
 
 This concrete example intentionally checks its input dimensions, FPS, and expected count. Before adapting it to another video, derive all dimensions, rational timing, flow-grid bounds, validation expectations, and output paths from that new input. Do not disable assertions and call the result validated.
 
