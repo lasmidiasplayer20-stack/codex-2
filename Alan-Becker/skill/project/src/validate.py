@@ -36,13 +36,16 @@ for p in sorted((ROOT/'analysis').glob('part-*.json')):
  data=json.loads(p.read_text())
  frames.extend(x['frame'] for x in data['frames_mapping'])
  motion_count+=sum('motion_from_previous' in x for x in data['frames_mapping'])
- with zipfile.ZipFile(ROOT/data['vector_archive']) as bundle:
-  assert bundle.testzip() is None
-  expected=[f'{i:06d}.svg' for i in range(data['start_frame'],data['end_frame_exclusive'])]
-  assert bundle.namelist()==expected
-  for name in expected:
-   svg=bundle.read(name);assert b'<image' not in svg and b'base64' not in svg
-  archives.append({'file':data['vector_archive'],'frames':len(expected),'bytes':(ROOT/data['vector_archive']).stat().st_size})
+ expected=[f'{i:06d}.svg' for i in range(data['start_frame'],data['end_frame_exclusive'])]
+ actual=[]
+ for name in data.get('vector_archives') or [data['vector_archive']]:
+  with zipfile.ZipFile(ROOT/name) as bundle:
+   assert bundle.testzip() is None
+   actual.extend(bundle.namelist())
+   for entry in bundle.namelist():
+    svg=bundle.read(entry);assert b'<image' not in svg and b'base64' not in svg
+   archives.append({'file':name,'frames':len(bundle.namelist()),'bytes':(ROOT/name).stat().st_size})
+ assert actual==expected
  flow=np.load(ROOT/'analysis'/f"flow-{data['part']:02d}.npz")
  assert flow['flow'].shape==(data['frames'],45,80,2)
  assert np.isfinite(flow['flow']).all()

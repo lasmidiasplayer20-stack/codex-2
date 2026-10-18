@@ -13,4 +13,5 @@ if metadata.exists():
 if not (ROOT/'analysis/refinement-complete.json').exists():
  for name in ['recreate.py','refine.py']:
   subprocess.run([sys.executable,str(ROOT/'src'/name)],check=True)
+subprocess.run([sys.executable,str(ROOT/'src/package_vectors.py')],check=True)
 subprocess.run([sys.executable,str(ROOT/'src/validate.py')],check=True)

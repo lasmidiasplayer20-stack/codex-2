@@ -13,7 +13,7 @@ Every one of the **4,078 source frames** is reconstructed as filled SVG paths an
 - `src/run_all.py`: complete baseline → refinement → validation workflow.
 - `src/recreate.py`: extraction, reconstruction, mapping, and multipart export.
 - `src/refine.py`: higher-precision primary colored silhouettes and presentation panels, retained only when source-relative MSE improves.
-- `vectors/part-*.zip`: editable SVG drawings, one per frame, using global indices.
+- `vectors/part-*.zip`: editable SVG drawings, one per frame, using global indices. Oversized archives are split into ordered chunks for hosting; report manifests retain exact coverage.
 - `analysis/reference.json`: metadata, hash, settings, and method limitations.
 - `analysis/parts.json`: exact, nonoverlapping processing frame intervals.
 - `analysis/part-*.json`: per-frame correspondence, color components, image changes, flow summaries, and camera/cut candidates.
