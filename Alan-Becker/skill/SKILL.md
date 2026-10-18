@@ -50,10 +50,14 @@ Preserve rational FPS and exact frame count for CFR sources. For VFR sources, re
 
 Render a requested preview for its actual requested duration, publish it to the authorized accessible location, and label it separately from the full movie. Continue already-authorized full production while incorporating feedback; do not invent an approval gate.
 
+## Choose the current user's publication destination
+
+Read `references/publication-destination.md`. If the current user has not already explicitly supplied their own authorized repository for this task, ask which repository in their account or organization should receive the project and video. If they do not have one, ask them to create it and provide its URL; continue local production while waiting. Never default to the skill author's repository, an example URL, a previous user's destination, or the checkout's `git origin`. Hosting this skill in a repository does not authorize publishing new users' work there. Reuse an explicitly supplied destination without asking again.
+
 ## Validate and publish
 
 Run a complete decode of final video and audio, inspect FFprobe metadata, verify frame/timestamp coverage and every vector archive, test flow arrays for finite aligned data, and compare audio samples at several times including joins. Review image comparisons spanning the whole video. Distinguish numerical validation, visual review, and unverified fidelity claims.
 
-Keep project sources and reproducible assets together. For this requested layout, use `Alan-Becker/skill/SKILL.md`, `Alan-Becker/skill/project/`, and `Alan-Becker/video/<complete-film>.mp4`. Other tasks must follow their own requested paths. Keep temporary parts and previews out of a final-only video folder.
+Keep project sources and reproducible assets together. Use the current user's requested folders. The bundled case study illustrates a skill with a nested project and a separate final-video folder; its repository owner, branch, and folder names are not defaults for new users. Keep temporary parts and previews out of a final-only video folder.
 
-Commit/push only when authorized. Verify the remote commit and intended file paths. Share a direct full-video link and project/skill links, and state remaining approximation limits plainly. Never report an active rendering process or a preview as a delivered complete film.
+Commit/push only to the current user's explicitly chosen, authorized destination. Check that the actual remote matches it before the first write, then verify the remote commit and intended file paths. Share a direct full-video link and project/skill links, and state remaining approximation limits plainly. Never report an active rendering process or a preview as a delivered complete film.
