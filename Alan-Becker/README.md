@@ -29,3 +29,7 @@ ffmpeg -y -i silent.mp4 -i audio/mix.wav -c:v copy -c:a aac -b:a 192k -t 120 -mo
 O código desenha cada quadro; não usa vídeo, contornos ou imagens de Alan Becker. Os anexos fornecidos foram consultados como referência de organização, rigs e revisão. A história, personagens, cenário e movimento foram criados para este curta. A animação é dirigida por código, sem simulação física autônoma. A estética de bonecos e interação com ferramentas atende ao pedido, com identidade visual e história próprias.
 
 Nenhuma credencial integra o projeto. Os efeitos já estão incluídos; a reprodução não chama APIs nem gera custos.
+
+## Recriação da nova referência
+
+O projeto novo fica em [skill/project](skill/project/README.md), junto da [skill em inglês](skill/SKILL.md). O MP4 completo será publicado em `video/teamwater-recriado-1080p.mp4` após terminar o refinamento e a validação. O curta UM PIXEL acima permanece preservado.

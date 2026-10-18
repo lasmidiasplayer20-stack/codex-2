@@ -1,0 +1,23 @@
+{
+  "purpose": "Human overview of the entire source; exact frame mappings are in part-*.json and vectors/part-*.zip.",
+  "intervals_are": "Approximate narrative ranges, not asserted exact cut timestamps.",
+  "sequences": [
+    {"seconds": [0, 12], "setting": "Water park", "action": "Orange stick character approaches the waterslide; gray visitors, tables, shower, and slide entrance establish the setting."},
+    {"seconds": [12, 20], "setting": "Slide interior and transition", "action": "Character moves through the dark blue slide with splashes and rapid pose changes; transition to the dry landscape."},
+    {"seconds": [20, 32], "setting": "Dry settlement", "action": "Orange character traverses the landscape and approaches a yellow water container on a metal stand."},
+    {"seconds": [32, 42], "setting": "Container close-ups", "action": "Cup/tap interaction and drinking-related gestures; container and lid are handled while a gray resident appears."},
+    {"seconds": [42, 52], "setting": "Settlement and excavation", "action": "Residents carry water and work around homes and excavations; camera reveals local conditions."},
+    {"seconds": [52, 62], "setting": "Yellow container", "action": "Orange character gestures with a resident and leans over/into the container; pose and framing change."},
+    {"seconds": [62, 74], "setting": "Container and proposal", "action": "Blue character joins Orange; exchange of objects, gestures, and helmets introduces the construction plan."},
+    {"seconds": [74, 84], "setting": "Plan and settlement", "action": "Diagram on the container and helmeted characters link the plan to a larger village view."},
+    {"seconds": [84, 98], "setting": "Construction site", "action": "A vehicle and workers arrive; equipment and a water tower become visible among the residents."},
+    {"seconds": [98, 112], "setting": "Village and wide landscape", "action": "Orange celebrates; camera expands to a broad view of settlements and distribution across the landscape."},
+    {"seconds": [112, 124], "setting": "Water park presentation", "action": "Return to the park; Orange presents a population/percentage graphic, including a red highlighted group."},
+    {"seconds": [124, 134], "setting": "Presentation board", "action": "Board drawings show water-related actions, donations appear, and the displayed percentage changes."},
+    {"seconds": [134, 145], "setting": "Park and campaign board", "action": "The percentage board moves aside and the campaign message appears while characters react."},
+    {"seconds": [145, 157], "setting": "Campaign message", "action": "Board displays teamwater.org, the funding goal, and the August date range with a stopwatch graphic."},
+    {"seconds": [157, 167], "setting": "Campaign closing", "action": "LINK BELOW and a downward arrow accompany character gestures and falling donations."},
+    {"seconds": [167, 170.155828], "setting": "Ending", "action": "Final park action and the source ending, retained with the complete original audio duration."}
+  ],
+  "limitations": "This overview is not a joint-by-joint motion annotation. Frame-aligned SVGs provide the visible shape trajectories; optical flow and affine camera candidates are estimates. No movement is invented between original frames."
+}
