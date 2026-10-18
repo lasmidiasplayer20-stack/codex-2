@@ -1,0 +1,149 @@
+{
+  "status": "passed",
+  "video": "video/teamwater-recriado-1080p.mp4",
+  "sha256": "f409efd8ede70e58393d816eea8b2629887a9bf6e96765de8f624c88b2a4b0c8",
+  "bytes": 71147546,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24000/1001",
+  "frames": 4078,
+  "duration_seconds": 170.155828,
+  "full_video_audio_decode": "passed",
+  "mapped_frames": 4078,
+  "mapped_transitions": 4077,
+  "vector_archives": [
+    {
+      "file": "vectors/part-01.zip",
+      "frames": 240,
+      "bytes": 60914819
+    },
+    {
+      "file": "vectors/part-02.zip",
+      "frames": 240,
+      "bytes": 32418289
+    },
+    {
+      "file": "vectors/part-03.zip",
+      "frames": 240,
+      "bytes": 15230059
+    },
+    {
+      "file": "vectors/part-04.zip",
+      "frames": 240,
+      "bytes": 24097433
+    },
+    {
+      "file": "vectors/part-05.zip",
+      "frames": 240,
+      "bytes": 21480913
+    },
+    {
+      "file": "vectors/part-06.zip",
+      "frames": 240,
+      "bytes": 33542941
+    },
+    {
+      "file": "vectors/part-07.zip",
+      "frames": 240,
+      "bytes": 25141881
+    },
+    {
+      "file": "vectors/part-08.zip",
+      "frames": 240,
+      "bytes": 29201156
+    },
+    {
+      "file": "vectors/part-09.zip",
+      "frames": 240,
+      "bytes": 27110633
+    },
+    {
+      "file": "vectors/part-10.zip",
+      "frames": 240,
+      "bytes": 25164667
+    },
+    {
+      "file": "vectors/part-11.zip",
+      "frames": 240,
+      "bytes": 60000769
+    },
+    {
+      "file": "vectors/part-12.zip",
+      "frames": 240,
+      "bytes": 61668012
+    },
+    {
+      "file": "vectors/part-13-chunk-01.zip",
+      "frames": 155,
+      "bytes": 67009284
+    },
+    {
+      "file": "vectors/part-13-chunk-02.zip",
+      "frames": 85,
+      "bytes": 17775153
+    },
+    {
+      "file": "vectors/part-14-chunk-01.zip",
+      "frames": 174,
+      "bytes": 66763749
+    },
+    {
+      "file": "vectors/part-14-chunk-02.zip",
+      "frames": 66,
+      "bytes": 38362538
+    },
+    {
+      "file": "vectors/part-15-chunk-01.zip",
+      "frames": 108,
+      "bytes": 66862563
+    },
+    {
+      "file": "vectors/part-15-chunk-02.zip",
+      "frames": 132,
+      "bytes": 30584574
+    },
+    {
+      "file": "vectors/part-16.zip",
+      "frames": 240,
+      "bytes": 82012130
+    },
+    {
+      "file": "vectors/part-17.zip",
+      "frames": 238,
+      "bytes": 53105980
+    }
+  ],
+  "flow_grids": "All present, finite, and aligned to source frame indices",
+  "audio_alignment": [
+    {
+      "time_seconds": 0,
+      "correlation": 1.0
+    },
+    {
+      "time_seconds": 20,
+      "correlation": 1.0
+    },
+    {
+      "time_seconds": 50,
+      "correlation": 1.0
+    },
+    {
+      "time_seconds": 80,
+      "correlation": 1.0
+    },
+    {
+      "time_seconds": 110,
+      "correlation": 1.0
+    },
+    {
+      "time_seconds": 140,
+      "correlation": 1.0
+    },
+    {
+      "time_seconds": 165,
+      "correlation": 1.0
+    }
+  ],
+  "pixel_identical": false,
+  "limits": "Vector approximation of compressed 640x360 source; not a recovered original rig or hidden motion. Optical flow/camera candidates are estimates."
+}

@@ -1,0 +1,142 @@
+{
+  "status": "passed",
+  "samples": [
+    {
+      "frame": 0,
+      "psnr_db_vs_expected_vector": 41.24157459406754
+    },
+    {
+      "frame": 239,
+      "psnr_db_vs_expected_vector": 38.644033248758035
+    },
+    {
+      "frame": 240,
+      "psnr_db_vs_expected_vector": 39.41073982959361
+    },
+    {
+      "frame": 479,
+      "psnr_db_vs_expected_vector": 45.72046742182823
+    },
+    {
+      "frame": 480,
+      "psnr_db_vs_expected_vector": 45.799344431261915
+    },
+    {
+      "frame": 719,
+      "psnr_db_vs_expected_vector": 41.86186296495552
+    },
+    {
+      "frame": 720,
+      "psnr_db_vs_expected_vector": 42.27929150480881
+    },
+    {
+      "frame": 959,
+      "psnr_db_vs_expected_vector": 41.265382204561895
+    },
+    {
+      "frame": 960,
+      "psnr_db_vs_expected_vector": 41.5326362174516
+    },
+    {
+      "frame": 1199,
+      "psnr_db_vs_expected_vector": 43.06823834797834
+    },
+    {
+      "frame": 1200,
+      "psnr_db_vs_expected_vector": 43.28440606657772
+    },
+    {
+      "frame": 1439,
+      "psnr_db_vs_expected_vector": 41.59577334846887
+    },
+    {
+      "frame": 1440,
+      "psnr_db_vs_expected_vector": 41.9463677959327
+    },
+    {
+      "frame": 1679,
+      "psnr_db_vs_expected_vector": 40.177599138566585
+    },
+    {
+      "frame": 1680,
+      "psnr_db_vs_expected_vector": 40.58942757527885
+    },
+    {
+      "frame": 1919,
+      "psnr_db_vs_expected_vector": 39.004263689869504
+    },
+    {
+      "frame": 1920,
+      "psnr_db_vs_expected_vector": 39.77675730669483
+    },
+    {
+      "frame": 2159,
+      "psnr_db_vs_expected_vector": 43.10651001595211
+    },
+    {
+      "frame": 2160,
+      "psnr_db_vs_expected_vector": 43.5632108599852
+    },
+    {
+      "frame": 2399,
+      "psnr_db_vs_expected_vector": 42.150246579081376
+    },
+    {
+      "frame": 2400,
+      "psnr_db_vs_expected_vector": 42.548720533246396
+    },
+    {
+      "frame": 2639,
+      "psnr_db_vs_expected_vector": 39.51576786104588
+    },
+    {
+      "frame": 2640,
+      "psnr_db_vs_expected_vector": 40.465660333545884
+    },
+    {
+      "frame": 2879,
+      "psnr_db_vs_expected_vector": 40.0195178606998
+    },
+    {
+      "frame": 2880,
+      "psnr_db_vs_expected_vector": 40.605771416105085
+    },
+    {
+      "frame": 3119,
+      "psnr_db_vs_expected_vector": 41.19110052240242
+    },
+    {
+      "frame": 3120,
+      "psnr_db_vs_expected_vector": 41.456488629560646
+    },
+    {
+      "frame": 3359,
+      "psnr_db_vs_expected_vector": 39.317168687717775
+    },
+    {
+      "frame": 3360,
+      "psnr_db_vs_expected_vector": 39.28619628832627
+    },
+    {
+      "frame": 3599,
+      "psnr_db_vs_expected_vector": 40.82290662737275
+    },
+    {
+      "frame": 3600,
+      "psnr_db_vs_expected_vector": 41.68840127579492
+    },
+    {
+      "frame": 3839,
+      "psnr_db_vs_expected_vector": 42.932463982028196
+    },
+    {
+      "frame": 3840,
+      "psnr_db_vs_expected_vector": 43.07598132985877
+    },
+    {
+      "frame": 4077,
+      "psnr_db_vs_expected_vector": 148.13080360867912
+    }
+  ],
+  "meaning": "Encoded content matches expected reconstructed vectors at all processing-part starts/ends; does not establish exact source fidelity."
+}

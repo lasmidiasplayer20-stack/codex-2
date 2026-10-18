@@ -18,3 +18,5 @@ No API key is required. Installed dependencies, caches, temporary parts, and ext
 ## Your publication destination
 
 The skill asks where **you** want to publish unless you have already provided your own authorized repository for the current task. Create a repository in your account or organization and supply its URL. The repository hosting this example is never a default or a fallback for other users' projects. Local production can continue while the destination is being prepared.
+
+[Complete export validation](project/analysis/validation.json) and [encoded-part boundary checks](project/analysis/encoded-boundaries.json). The final reconstruction remains a vector approximation, not a recovered original rig or pixel-identical clone.

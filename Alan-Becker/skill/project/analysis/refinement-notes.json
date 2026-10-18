@@ -1,0 +1,12 @@
+{
+  "status": "applied",
+  "method": "Higher-precision source-derived primary colored silhouettes and white presentation panels; accepted only where MSE improves.",
+  "results": {
+    "applied": true,
+    "method": "Higher-precision foreground/text vector reconstruction in every source frame, retained where measured error decreases",
+    "improved_frames": 3847,
+    "baseline_mean_mse": 106.86891109415835,
+    "refined_mean_mse": 86.50714339457615
+  },
+  "limits": "Color selections are heuristics; invisible joints and exact original authoring data are not recovered."
+}

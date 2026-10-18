@@ -1,0 +1,21 @@
+{
+  "status": "rendered",
+  "frames": 4078,
+  "mapped_frame_transitions": 4077,
+  "parts": 17,
+  "output": "video/teamwater-recriado-1080p.mp4",
+  "mean_mae": 2.816573529411765,
+  "minimum_psnr_db": 19.7449,
+  "full_frame_coverage": true,
+  "editable_vector_frames": 4078,
+  "audio": "Original AAC stream copied once",
+  "exact_pixel_match": false,
+  "motion_method": "Frame-aligned vector retracing; optical flow/camera estimates provided for analysis, not used to invent movements",
+  "refinement": {
+    "applied": true,
+    "method": "Higher-precision foreground/text vector reconstruction in every source frame, retained where measured error decreases",
+    "improved_frames": 3847,
+    "baseline_mean_mse": 106.86891109415835,
+    "refined_mean_mse": 86.50714339457615
+  }
+}

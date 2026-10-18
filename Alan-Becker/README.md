@@ -32,4 +32,4 @@ Nenhuma credencial integra o projeto. Os efeitos já estão incluídos; a reprod
 
 ## Recriação da nova referência
 
-O projeto novo fica em [skill/project](skill/project/README.md), junto da [skill em inglês](skill/SKILL.md). O MP4 completo será publicado em `video/teamwater-recriado-1080p.mp4` após terminar o refinamento e a validação. O curta UM PIXEL acima permanece preservado.
+O projeto novo fica em [skill/project](skill/project/README.md), junto da [skill em inglês](skill/SKILL.md). O MP4 completo está em [video/teamwater-recriado-1080p.mp4](video/teamwater-recriado-1080p.mp4), com o áudio original e validação em `skill/project/analysis/validation.json`. O curta UM PIXEL acima permanece preservado.
