@@ -1,0 +1,19 @@
+{
+  "seconds": 60,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "cameras": 12,
+  "grease_pencil": true,
+  "packed_sounds": 2,
+  "external_images": [],
+  "planted_foot_fraction_sample": 0.5151515151515151,
+  "audio_duration_seconds": [
+    60,
+    60
+  ],
+  "validation_scope": "Quadros de sete momentos e movimento amostrado; sem render completo de 60s.",
+  "blend_sha256": "cac3c7b372d26977bd28a9a3b54e18cd93f9d02bf52c03baf11c491e6840ad25"
+}
