@@ -3,7 +3,7 @@
   "sample_rate": 24000,
   "seed": 20261023,
   "source": "NumPy noise shaping, synthesized sine/noise transients, no samples",
-  "wet_steps": 241,
+  "wet_steps": 264,
   "events": [
     {
       "t": 26.083,
@@ -174,7 +174,27 @@
       "type": "wet_step"
     },
     {
-      "t": 107.083,
+      "t": 106.833,
+      "type": "wet_step"
+    },
+    {
+      "t": 107.167,
+      "type": "wet_step"
+    },
+    {
+      "t": 107.167,
+      "type": "wet_step"
+    },
+    {
+      "t": 107.417,
+      "type": "wet_step"
+    },
+    {
+      "t": 107.667,
+      "type": "wet_step"
+    },
+    {
+      "t": 107.667,
       "type": "wet_step"
     },
     {
@@ -182,7 +202,23 @@
       "type": "wet_step"
     },
     {
-      "t": 108.25,
+      "t": 107.833,
+      "type": "wet_step"
+    },
+    {
+      "t": 108,
+      "type": "wet_step"
+    },
+    {
+      "t": 108.083,
+      "type": "wet_step"
+    },
+    {
+      "t": 108.333,
+      "type": "wet_step"
+    },
+    {
+      "t": 108.5,
       "type": "wet_step"
     },
     {
@@ -190,7 +226,15 @@
       "type": "wet_step"
     },
     {
-      "t": 109,
+      "t": 108.833,
+      "type": "wet_step"
+    },
+    {
+      "t": 108.917,
+      "type": "wet_step"
+    },
+    {
+      "t": 109.083,
       "type": "wet_step"
     },
     {
@@ -206,15 +250,19 @@
       "type": "wet_step"
     },
     {
-      "t": 110.417,
+      "t": 110.583,
       "type": "wet_step"
     },
     {
-      "t": 110.5,
+      "t": 110.667,
       "type": "wet_step"
     },
     {
       "t": 111,
+      "type": "wet_step"
+    },
+    {
+      "t": 111.5,
       "type": "wet_step"
     },
     {
@@ -226,6 +274,10 @@
       "type": "wet_step"
     },
     {
+      "t": 113.583,
+      "type": "wet_step"
+    },
+    {
       "t": 113.75,
       "type": "wet_step"
     },
@@ -234,7 +286,19 @@
       "type": "wet_step"
     },
     {
+      "t": 114,
+      "type": "wet_step"
+    },
+    {
+      "t": 114.167,
+      "type": "wet_step"
+    },
+    {
       "t": 114.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 114.333,
       "type": "wet_step"
     },
     {
@@ -246,6 +310,10 @@
       "type": "wet_step"
     },
     {
+      "t": 114.833,
+      "type": "wet_step"
+    },
+    {
       "t": 114.917,
       "type": "wet_step"
     },
@@ -254,7 +322,39 @@
       "type": "wet_step"
     },
     {
+      "t": 115.25,
+      "type": "wet_step"
+    },
+    {
       "t": 115.417,
+      "type": "wet_step"
+    },
+    {
+      "t": 115.667,
+      "type": "wet_step"
+    },
+    {
+      "t": 116.083,
+      "type": "wet_step"
+    },
+    {
+      "t": 116.5,
+      "type": "wet_step"
+    },
+    {
+      "t": 117,
+      "type": "wet_step"
+    },
+    {
+      "t": 117.083,
+      "type": "wet_step"
+    },
+    {
+      "t": 117.417,
+      "type": "wet_step"
+    },
+    {
+      "t": 117.917,
       "type": "wet_step"
     },
     {
@@ -646,11 +746,11 @@
       "type": "wet_step"
     },
     {
-      "t": 391.667,
+      "t": 391.75,
       "type": "wet_step"
     },
     {
-      "t": 391.75,
+      "t": 391.833,
       "type": "wet_step"
     },
     {
@@ -658,15 +758,11 @@
       "type": "wet_step"
     },
     {
-      "t": 392.167,
-      "type": "wet_step"
-    },
-    {
       "t": 392.25,
       "type": "wet_step"
     },
     {
-      "t": 392.25,
+      "t": 392.333,
       "type": "wet_step"
     },
     {
@@ -674,7 +770,7 @@
       "type": "wet_step"
     },
     {
-      "t": 392.5,
+      "t": 392.667,
       "type": "wet_step"
     },
     {
@@ -682,7 +778,7 @@
       "type": "wet_step"
     },
     {
-      "t": 392.917,
+      "t": 392.75,
       "type": "wet_step"
     },
     {
@@ -690,11 +786,11 @@
       "type": "wet_step"
     },
     {
-      "t": 393.25,
+      "t": 393.167,
       "type": "wet_step"
     },
     {
-      "t": 393.333,
+      "t": 393.25,
       "type": "wet_step"
     },
     {
@@ -702,7 +798,7 @@
       "type": "wet_step"
     },
     {
-      "t": 393.75,
+      "t": 393.667,
       "type": "wet_step"
     },
     {
@@ -714,11 +810,11 @@
       "type": "wet_step"
     },
     {
-      "t": 394.167,
+      "t": 394.083,
       "type": "wet_step"
     },
     {
-      "t": 394.583,
+      "t": 394.5,
       "type": "wet_step"
     },
     {
@@ -726,15 +822,19 @@
       "type": "wet_step"
     },
     {
-      "t": 395.167,
+      "t": 395.333,
       "type": "wet_step"
     },
     {
-      "t": 395.417,
+      "t": 395.583,
       "type": "wet_step"
     },
     {
-      "t": 395.917,
+      "t": 396,
+      "type": "wet_step"
+    },
+    {
+      "t": 396.5,
       "type": "wet_step"
     },
     {
@@ -742,7 +842,7 @@
       "type": "wet_step"
     },
     {
-      "t": 412.5,
+      "t": 412.583,
       "type": "wet_step"
     },
     {
@@ -754,19 +854,11 @@
       "type": "wet_step"
     },
     {
-      "t": 412.917,
-      "type": "wet_step"
-    },
-    {
-      "t": 413,
-      "type": "wet_step"
-    },
-    {
       "t": 413.083,
       "type": "wet_step"
     },
     {
-      "t": 413.25,
+      "t": 413.083,
       "type": "wet_step"
     },
     {
@@ -778,15 +870,11 @@
       "type": "wet_step"
     },
     {
-      "t": 413.667,
-      "type": "wet_step"
-    },
-    {
       "t": 413.75,
       "type": "wet_step"
     },
     {
-      "t": 414.083,
+      "t": 413.917,
       "type": "wet_step"
     },
     {
@@ -798,7 +886,7 @@
       "type": "wet_step"
     },
     {
-      "t": 414.5,
+      "t": 414.417,
       "type": "wet_step"
     },
     {
@@ -806,7 +894,7 @@
       "type": "wet_step"
     },
     {
-      "t": 414.917,
+      "t": 414.833,
       "type": "wet_step"
     },
     {
@@ -814,11 +902,7 @@
       "type": "wet_step"
     },
     {
-      "t": 415.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 415.917,
+      "t": 415.75,
       "type": "wet_step"
     },
     {
@@ -826,7 +910,15 @@
       "type": "wet_step"
     },
     {
-      "t": 416.667,
+      "t": 416.333,
+      "type": "wet_step"
+    },
+    {
+      "t": 416.75,
+      "type": "wet_step"
+    },
+    {
+      "t": 417.333,
       "type": "wet_step"
     },
     {
@@ -966,7 +1058,7 @@
       "type": "wet_step"
     },
     {
-      "t": 459.883,
+      "t": 462.179,
       "type": "clap"
     }
   ]

@@ -1,6 +1,6 @@
 from pathlib import Path
 import subprocess,concurrent.futures,time,json
-ROOT=Path(__file__).resolve().parent.parent;OUT=Path('/workspace/rain-renders-r2');OUT.mkdir(exist_ok=True)
+ROOT=Path(__file__).resolve().parent.parent;OUT=Path('/workspace/rain-renders-r3');OUT.mkdir(exist_ok=True)
 def render(i):
  path=OUT/f'part-{i+1:02d}.mp4';log=OUT/f'part-{i+1:02d}.log'
  if path.exists() and path.with_suffix('.mp4.json').exists():return i

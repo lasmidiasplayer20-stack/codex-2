@@ -2,7 +2,7 @@
 from pathlib import Path
 import subprocess,json,hashlib,shutil
 ROOT=Path(__file__).resolve().parent.parent
-PARTS=Path('/workspace/rain-renders-r2')
+PARTS=Path('/workspace/rain-renders-r3')
 # Override by editing this output path for another checkout; no Git commands are run here.
 REPO=Path('/workspace/codex-2');PROJECT=ROOT;OUT=PARTS/'01 - Andar ou Correr na chuva.mp4'
 metadata=[]

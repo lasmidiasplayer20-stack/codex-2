@@ -1,1 +1,17 @@
-{"name":"andar-ou-correr-na-chuva","version":"1.0.0","private":true,"type":"module","scripts":{"serve":"node scripts/serve.mjs","render":"node scripts/render.mjs","test":"node scripts/inspect.mjs"},"devDependencies":{"@playwright/test":"1.64.0"},"engines":{"node":">=22"}}
+{
+  "name": "andar-ou-correr-na-chuva",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "render": "node scripts/render.mjs",
+    "test": "node scripts/inspect-r3.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

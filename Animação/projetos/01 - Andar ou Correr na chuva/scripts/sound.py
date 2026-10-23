@@ -30,7 +30,8 @@ for m in motion:
  if m['action']!=previous:
   if m['action'] in ['splash_friend','wring_hem','wring_coat']:transient(m['t']+.8,'splash',.075,.2)
   if m['action']=='umbrella_flip':transient(m['t']+1.8,'snap',.055,.3)
-  if m['action']=='high_five':transient(m['t']+.3,'clap',.04,0)
+  if m['action']=='high_five':
+   c=chap[8];beat=(c['end']-c['start'])/8;transient(m['t']+beat*.38,'clap',.04,0)
  previous=m['action']
 # Slow wind envelope in the wind chapter. No sampled wind.
 a=int(chap[5]['start']*SR);b=int(chap[5]['end']*SR);tt=np.arange(b-a)/SR

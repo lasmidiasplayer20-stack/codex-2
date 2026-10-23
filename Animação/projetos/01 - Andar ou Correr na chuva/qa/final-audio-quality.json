@@ -9,23 +9,12 @@
     "clipped_samples": 0
   },
   "mix": {
-    "one_second_level_p90_minus_p10_db": 3.114654541015625,
+    "one_second_level_p90_minus_p10_db": 3.115997314453125,
     "duration_seconds": 479.981875,
     "peak_dbfs": -1.5126711130142212,
-    "active_frame_p90_minus_p10_db": 24.561351776123047,
+    "active_frame_p90_minus_p10_db": 24.55698585510254,
     "max_low_energy_gap_seconds": 0.12,
     "gaps_over_0_8_seconds": 0,
     "clipped_samples": 0
-  },
-  "mix_native_stereo": {
-    "sample_rate": 48000,
-    "peak_dbfs_per_channel": [
-      -4.421627998352051,
-      -4.351903438568115
-    ],
-    "clipped_samples_per_channel": [
-      0,
-      0
-    ]
   }
 }

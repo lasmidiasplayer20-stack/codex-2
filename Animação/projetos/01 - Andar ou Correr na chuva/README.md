@@ -1,18 +1,22 @@
+> Revisão 3 em renderização. Este projeto e os quadros abaixo já mostram a nova direção; os MP4s serão substituídos após a validação.
+
 # 01 - Andar ou Correr na chuva
 
 ![Quadro do filme renderizado](qa/capa.jpg)
 
 [Prévia de 1 minuto](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4) · [Filme completo de 8 minutos](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva.mp4)
 
-Revisão 2: filme de oito minutos em **1920 × 1080, 24 fps**, com cidade e personagens 3D construídos por código. A encenação tem 72 momentos em nove capítulos: primeiras gotas, desafio até o abrigo, comparação dos casacos, guarda-chuva virando, salto na poça com respingo no amigo, ajuda após uma escorregada e comemoração com contato das mãos. A câmera alterna aproximações, planos laterais, vistas de cima e rotações.
+Revisão 3: filme em 3D procedural, oito minutos, 1920 × 1080 e 24 fps. O estilo do jogo aparece nos volumes cartoon e nos contornos escuros do cenário, dos personagens e dos objetos. Os personagens são próprios; nenhum personagem ou modelo do jogo é importado.
 
-A explicação física permanece na rua: uma silhueta translúcida acompanha o corpo dos personagens e destaca as áreas superior e frontal. Os blocos isolados da primeira versão foram retirados. A frase sobre animação e programação fazia parte do roteiro anterior; foi substituída por uma explicação sobre repetir o experimento, com nova fala Gemini na mesma voz Puck.
+A direção usa abertura em close de uma gota, cortes entre contexto/ação/reação a cada aproximadamente 2,15 segundos, movimentos de câmera dentro dos planos, corrida com braços flexionados, gestos com preparação e retorno e uma comemoração que aproxima, toca e separa as mãos. As comparações usam duas câmeras 3D em tela dividida e recipientes tridimensionais com água subindo. Os personagens continuam volumétricos, em perspectiva, com sombras e silhuetas explicativas sobre os corpos.
 
-![Planos da revisão](qa/storyboard-r2.jpg)
+As referências de vídeo orientam a movimentação e a montagem, sem transformar o projeto em animação flat 2D. [Análise e direção](qa/referencia-e-direcao.md). A narração tratada da revisão anterior foi preservada; o trecho sobre programação continua removido. Os efeitos Python foram sincronizados com os novos movimentos.
+
+![Quadros da nova direção 3D](qa/direcao-r3.jpg)
 
 ## Arquivos
 
-- `index.html`, `film.js`, `story.js`: player, geometria, personagens articulados, chuva, câmera e elementos gráficos.
+- `index.html`, `film.js`, `story.js`, `direction.js`: player, geometria, personagens articulados, chuva, câmera e elementos gráficos.
 - `timing.json`: nove capítulos alinhados à narração final.
 - `narracao.txt`: texto do vídeo.
 - `audio/narracao.mp3`: voz Puck, Gemini 3.8 Flash TTS, com tratamento de volume e pausas.

@@ -1,6 +1,6 @@
 import{open}from'./browser.mjs';import{spawn}from'node:child_process';import{once}from'node:events';import{mkdir,writeFile}from'node:fs/promises';import{resolve,dirname}from'node:path';
 const args=Object.fromEntries(process.argv.slice(2).reduce((a,x,i,all)=>x.startsWith('--')?[...a,[x.slice(2),all[i+1]]]:a,[]));
-const start=Number(args.start||0),duration=Number(args.duration||60),fps=24,output=resolve(args.output||'/workspace/rain-renders-r2/part-01.mp4');await mkdir(dirname(output),{recursive:true});
+const start=Number(args.start||0),duration=Number(args.duration||60),fps=24,output=resolve(args.output||'/workspace/rain-renders-r3/part-01.mp4');await mkdir(dirname(output),{recursive:true});
 const b=await open();let ff;try{
  const ffargs=['-hide_banner','-loglevel','error','-f','image2pipe','-vcodec','mjpeg','-r',String(fps),'-i','pipe:0','-an','-c:v','libx264','-threads','2','-preset','veryfast','-crf','27','-pix_fmt','yuv420p','-r',String(fps),'-movflags','+faststart','-y',output];ff=spawn('ffmpeg',ffargs,{stdio:['pipe','ignore','pipe']});let stderr='';ff.stderr.on('data',x=>stderr+=x);let pipeError;ff.stdin.on('error',e=>pipeError=e);const completion=new Promise(r=>ff.on('close',r));
  const frames=Math.round(duration*fps),started=Date.now();
