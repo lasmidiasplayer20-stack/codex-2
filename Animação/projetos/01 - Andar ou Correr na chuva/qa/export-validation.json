@@ -1,0 +1,102 @@
+{
+  "file": "01 - Andar ou Correr na chuva.mp4",
+  "duration": 480.0,
+  "frames": 11520,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "audio": {
+    "codec": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "encoding": "copied H.264 video; AAC192k",
+  "complete_decode": true,
+  "decode_stderr": "",
+  "bytes": 82984035,
+  "sha256": "5914d4b1188bf1385b9a06045d331e8f99ddcb6dd0626347ea7e69760b82b14c",
+  "parts": [
+    {
+      "start": 0,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 1046.615
+    },
+    {
+      "start": 60,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 1077.99
+    },
+    {
+      "start": 120,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 1416.881
+    },
+    {
+      "start": 180,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 1406.105
+    },
+    {
+      "start": 240,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 1121.147
+    },
+    {
+      "start": 300,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 1101.817
+    },
+    {
+      "start": 360,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 997.132
+    },
+    {
+      "start": 420,
+      "duration": 60,
+      "fps": 24,
+      "width": 1920,
+      "height": 1080,
+      "frames": 1440,
+      "errors": [],
+      "renderElapsedSeconds": 999.3
+    }
+  ]
+}

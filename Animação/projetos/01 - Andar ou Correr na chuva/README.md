@@ -1,5 +1,3 @@
-> Prévia da revisão 2 disponível em 1080p. O MP4 completo ainda é o anterior enquanto a nova exportação termina. O código e o áudio deste projeto já correspondem à revisão 2.
-
 # 01 - Andar ou Correr na chuva
 
 ![Quadro do filme renderizado](qa/capa.jpg)
