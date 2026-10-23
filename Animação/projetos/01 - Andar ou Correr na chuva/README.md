@@ -1,5 +1,9 @@
 # 01 - Andar ou Correr na chuva
 
+![Quadro do filme renderizado](qa/capa.jpg)
+
+[Prévia de 1 minuto](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4) · [Filme completo de 8 minutos](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva.mp4)
+
 Animação explicativa de oito minutos, em português, com personagens e cidade 3D construídos por código. Inspirada na linguagem visual de um jogo cartoon procedural: volumes arredondados, contornos, cores quentes nas roupas e cenário de chuva. A montagem alterna enquadramentos a cada seis segundos, com órbitas, aproximações, planos laterais, baixos e de cima, além de diagramas tridimensionais.
 
 ## Arquivos
