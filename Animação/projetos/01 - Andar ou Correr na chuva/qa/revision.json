@@ -6,7 +6,7 @@
   ],
   "fps": 24,
   "source_sha256": {
-    "film.js": "b599b89fa2bb2b6af60a7dbcf11549a565c40dfcfd952b55b9fc1d9282c500e8",
+    "film.js": "683077054eeb2211dc5d6531acb21d29e6e321af78848d163744a1b0dabdaf2b",
     "story.js": "450ab1044c7b54e6b90c6e40f53b6b95803d3d4f42ca2b368abf3635b94e6891",
     "direction.js": "2739ff95f0a4dfe7a24553e6eb2138cbd091edd56b74a807678a8cc2da893df3",
     "narracao.txt": "102670e28134cc5b70b975e429404ebfec0224e5242f61eeea820169c825561d",
@@ -26,6 +26,7 @@
     ],
     "procedural3D": true,
     "imported_game_characters": 0,
-    "external_images_in_renderer": 0
+    "external_images_in_renderer": 0,
+    "bucket_support_refinement": "3D stands; one vessel per camera; visible water level above captions"
   }
 }
