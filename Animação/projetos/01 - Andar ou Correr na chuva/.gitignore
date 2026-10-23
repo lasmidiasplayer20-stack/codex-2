@@ -1,0 +1,5 @@
+node_modules/
+.qa-local/
+*.log
+.env*
+audio/raw-local/
