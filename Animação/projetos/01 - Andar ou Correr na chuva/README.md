@@ -55,6 +55,8 @@ Para o filme completo, renderize oito intervalos contíguos de 60 segundos, conc
 
 A narração final foi gerada em nove trechos com voz Puck e direção alegre, conversacional e moderada. O tratamento reduz diferenças lentas de ganho, comprime picos e normaliza a voz para aproximadamente -16 LUFS e -1,5 dBTP. Pausas de baixa energia acima de 0,65 segundo são encurtadas, preservando respirações e pausas curtas. Uma repetição no segundo trecho foi removida no intervalo de silêncio após a primeira leitura completa. A duração é ajustada suavemente a oito minutos com preservação de altura tonal; o ritmo original tratado também foi preservado fora do repositório. Validação de fala é automatizada, não escuta humana.
 
+Para uma nova leitura, `scripts/generate_narration.py` usa a chave configurada no ambiente e gera nove WAVs locais. Depois de conferir o conteúdo, `scripts/treat_voice.py` aplica o tratamento, ajusta a duração e atualiza `timing.json`; execute novamente `scripts/sound.py` e renderize o filme com esses novos tempos.
+
 Credenciais não são incluídas. Configure `GEMINI_API_KEY` de forma segura para futuras gerações; os áudios fornecidos permitem reproduzir o vídeo sem acessar a API.
 
 ## Física apresentada
