@@ -8,4 +8,4 @@ Série de vídeos criados por código, com projetos editáveis e exportações c
 
 Os próximos episódios seguem a numeração `02 - Título`, `03 - Título` e assim por diante. Cada filme deve ter um projeto com o mesmo número e nome. Partes de renderização e arquivos temporários ficam fora do repositório.
 
-Revisão 3 em renderização: o projeto editável já foi atualizado; os MP4s serão substituídos após a validação.
+Prévia da revisão 3 disponível em 1080p; o filme completo será atualizado ao concluir a renderização.
