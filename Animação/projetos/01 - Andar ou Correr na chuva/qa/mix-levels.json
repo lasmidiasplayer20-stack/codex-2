@@ -1,6 +1,0 @@
-{
-  "input_integrated_lufs": -16.24,
-  "input_true_peak_dbTP": -4.4,
-  "input_loudness_range_lu": 1.4,
-  "method": "FFmpeg loudnorm analysis of final mix"
-}

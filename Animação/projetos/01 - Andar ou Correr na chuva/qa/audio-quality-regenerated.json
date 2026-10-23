@@ -193,47 +193,32 @@
   },
   "parte-08.wav": {
     "before": {
-      "one_second_level_p90_minus_p10_db": 5.125051498413086,
-      "duration_seconds": 54.72,
-      "peak_dbfs": -1.1084911823272705,
-      "active_frame_p90_minus_p10_db": 16.50286865234375,
-      "max_low_energy_gap_seconds": 0.74,
-      "gaps_over_0_8_seconds": 0,
+      "one_second_level_p90_minus_p10_db": 3.8889331817626953,
+      "duration_seconds": 53.16,
+      "peak_dbfs": -1.828689694404602,
+      "active_frame_p90_minus_p10_db": 15.877747535705566,
+      "max_low_energy_gap_seconds": 0.98,
+      "gaps_over_0_8_seconds": 2,
       "clipped_samples": 0
     },
     "after": {
-      "one_second_level_p90_minus_p10_db": 2.129068374633789,
-      "duration_seconds": 52.71,
-      "peak_dbfs": -1.483581781387329,
-      "active_frame_p90_minus_p10_db": 15.134360313415527,
-      "max_low_energy_gap_seconds": 0.54,
+      "one_second_level_p90_minus_p10_db": 2.894253730773926,
+      "duration_seconds": 51.59,
+      "peak_dbfs": -1.4606575965881348,
+      "active_frame_p90_minus_p10_db": 14.405572891235352,
+      "max_low_energy_gap_seconds": 0.58,
       "gaps_over_0_8_seconds": 0,
       "clipped_samples": 0
     },
     "shortened_pauses": [
       {
-        "start": 16.27,
-        "original_seconds": 0.7,
+        "start": 14.56,
+        "original_seconds": 0.99,
         "remaining_seconds": 0.36
       },
       {
-        "start": 24.84,
-        "original_seconds": 0.68,
-        "remaining_seconds": 0.36
-      },
-      {
-        "start": 33.6,
-        "original_seconds": 0.67,
-        "remaining_seconds": 0.36
-      },
-      {
-        "start": 39.06,
-        "original_seconds": 0.75,
-        "remaining_seconds": 0.36
-      },
-      {
-        "start": 44.41,
-        "original_seconds": 0.69,
+        "start": 36.16,
+        "original_seconds": 0.91,
         "remaining_seconds": 0.36
       }
     ]
@@ -266,16 +251,8 @@
     ]
   },
   "final": {
-    "natural_duration": 449.96,
-    "atempo": 0.9374166666666667,
-    "metrics": {
-      "one_second_level_p90_minus_p10_db": 3.049931526184082,
-      "duration_seconds": 479.9844166666667,
-      "peak_dbfs": -1.4999483823776245,
-      "active_frame_p90_minus_p10_db": 15.861723899841309,
-      "max_low_energy_gap_seconds": 0.68,
-      "gaps_over_0_8_seconds": 0,
-      "clipped_samples": 0
-    }
+    "natural_duration": 448.84,
+    "atempo": 0.9350833333333333,
+    "target_duration": 480
   }
 }

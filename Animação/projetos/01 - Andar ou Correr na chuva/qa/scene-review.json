@@ -1,0 +1,1301 @@
+{
+  "results": [
+    {
+      "chapter": 1,
+      "action": "drops",
+      "time": 3.02924873005971,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.8731634330683151,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13750
+    },
+    {
+      "chapter": 1,
+      "action": "look_up",
+      "time": 9.340183584350772,
+      "camera": "faces",
+      "contact": false,
+      "handDistance": 2.128892858168801,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 1,
+      "action": "point_shelter",
+      "time": 15.651118438641834,
+      "camera": "shelter_wide",
+      "contact": false,
+      "handDistance": 2.7239445767201214,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 1,
+      "action": "challenge",
+      "time": 21.962053292932897,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 2.0813950925988203,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 1,
+      "action": "launch",
+      "time": 28.272988147223963,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 4.860748345026865,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.0997747107658855,
+        2.969391719067892
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 1,
+      "action": "arrive",
+      "time": 34.583923001515025,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 4.32214544568587,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.3197296529190625,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 1,
+      "action": "come_here",
+      "time": 40.89485785580609,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 2.1228503651450703,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.4268273684114615,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 1,
+      "action": "share_shelter",
+      "time": 47.20579271009715,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.9256798724444955,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 2,
+      "action": "line_up",
+      "time": 53.44871223598611,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.695288133227836,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 18,
+      "triangles": 13766
+    },
+    {
+      "chapter": 2,
+      "action": "box_outline",
+      "time": 59.617948489439456,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.6769597599439732,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15622
+    },
+    {
+      "chapter": 2,
+      "action": "tap_head",
+      "time": 65.7871847428928,
+      "camera": "faces",
+      "contact": false,
+      "handDistance": 2.052365259209358,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 17,
+      "triangles": 15618
+    },
+    {
+      "chapter": 2,
+      "action": "front_rain",
+      "time": 71.95642099634614,
+      "camera": "profile",
+      "contact": false,
+      "handDistance": 1.701641015827171,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 17,
+      "triangles": 15618
+    },
+    {
+      "chapter": 2,
+      "action": "turn_pair",
+      "time": 78.1256572497995,
+      "camera": "orbit",
+      "contact": false,
+      "handDistance": 1.8215812490860066,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15622
+    },
+    {
+      "chapter": 2,
+      "action": "measure_height",
+      "time": 84.29489350325284,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.528868944751357,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 33,
+      "triangles": 15790
+    },
+    {
+      "chapter": 2,
+      "action": "same_route",
+      "time": 90.4641297567062,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.9390133109104044,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 21,
+      "triangles": 15646
+    },
+    {
+      "chapter": 2,
+      "action": "ready_again",
+      "time": 96.63336601015953,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.7495759204851893,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 3,
+      "action": "start_clock",
+      "time": 102.89435879155157,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.7933113729830812,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 40,
+      "triangles": 15950
+    },
+    {
+      "chapter": 3,
+      "action": "walk_test",
+      "time": 109.25475447821051,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 3.355943121027378,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.6368336726121522,
+        0
+      ],
+      "drawCalls": 32,
+      "triangles": 15854
+    },
+    {
+      "chapter": 3,
+      "action": "run_test",
+      "time": 115.61515016486945,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 0.7674100711012481,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0.434689936948305
+      ],
+      "drawCalls": 32,
+      "triangles": 15854
+    },
+    {
+      "chapter": 3,
+      "action": "arrive_first",
+      "time": 121.9755458515284,
+      "camera": "shelter_wide",
+      "contact": false,
+      "handDistance": 3.4912644082193296,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.2276252544591146,
+        0
+      ],
+      "drawCalls": 32,
+      "triangles": 15854
+    },
+    {
+      "chapter": 3,
+      "action": "wait_drenched",
+      "time": 128.33594153818734,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 2.2138727652505317,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 33,
+      "triangles": 20334
+    },
+    {
+      "chapter": 3,
+      "action": "wipe_face",
+      "time": 134.69633722484627,
+      "camera": "faces",
+      "contact": false,
+      "handDistance": 1.873460706834019,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 32,
+      "triangles": 15854
+    },
+    {
+      "chapter": 3,
+      "action": "compare_buckets",
+      "time": 141.0567329115052,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.5902510465971929,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 40,
+      "triangles": 16414
+    },
+    {
+      "chapter": 3,
+      "action": "explain_top",
+      "time": 147.41712859816417,
+      "camera": "orbit",
+      "contact": false,
+      "handDistance": 1.547761053080594,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 32,
+      "triangles": 15854
+    },
+    {
+      "chapter": 4,
+      "action": "rain_profile",
+      "time": 154.0207111665627,
+      "camera": "profile",
+      "contact": false,
+      "handDistance": 1.8027756377319943,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "walk_through",
+      "time": 160.88774619017914,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 3.197252412546974,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.5160705887266133,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "run_through",
+      "time": 167.75478121379558,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 1.344259896909136,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0.7158539672508618
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "slow_drops",
+      "time": 174.621816237412,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.8062923658758567,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "count_front",
+      "time": 181.48885126102843,
+      "camera": "faces",
+      "contact": false,
+      "handDistance": 1.8707214697147725,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "equal_distance",
+      "time": 188.35588628464487,
+      "camera": "overhead",
+      "contact": false,
+      "handDistance": 2.1688580397318584,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "hands_compare",
+      "time": 195.2229213082613,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.857813393018687,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 4,
+      "action": "front_wrapup",
+      "time": 202.08995633187774,
+      "camera": "orbit",
+      "contact": false,
+      "handDistance": 2.0906862789418272,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15642
+    },
+    {
+      "chapter": 5,
+      "action": "meet_under_roof",
+      "time": 208.71829605204528,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.7399566167061107,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 5,
+      "action": "inspect_coat",
+      "time": 215.08804919347654,
+      "camera": "shelter_hands",
+      "contact": false,
+      "handDistance": 2.056893899191447,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 5,
+      "action": "wring_coat",
+      "time": 221.4578023349078,
+      "camera": "shelter_hands",
+      "contact": false,
+      "handDistance": 1.8557710720621434,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 18150
+    },
+    {
+      "chapter": 5,
+      "action": "drip_compare",
+      "time": 227.82755547633903,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.5088050242754394,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 18150
+    },
+    {
+      "chapter": 5,
+      "action": "top_vs_front",
+      "time": 234.1973086177703,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.416719186133062,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 15622
+    },
+    {
+      "chapter": 5,
+      "action": "nod_agree",
+      "time": 240.56706175920152,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.7428831290140567,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 5,
+      "action": "dry_friend",
+      "time": 246.93681490063278,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.9349817565489302,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13682
+    },
+    {
+      "chapter": 5,
+      "action": "thumbs_up",
+      "time": 253.30656804206404,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.7034354102802576,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 6,
+      "action": "gust_alert",
+      "time": 260.0407806790839,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 2.151494742177699,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 6,
+      "action": "lean_headwind",
+      "time": 267.1698244363248,
+      "camera": "profile",
+      "contact": false,
+      "handDistance": 1.6546159818571247,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.7301757560743127,
+        0.7301757560743127
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_open",
+      "time": 274.2988681935657,
+      "camera": "umbrella",
+      "contact": false,
+      "handDistance": 1.8588760562130775,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 29,
+      "triangles": 14606
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_flip",
+      "time": 281.42791195080656,
+      "camera": "umbrella",
+      "contact": false,
+      "handDistance": 2.107385195863515,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 29,
+      "triangles": 14606
+    },
+    {
+      "chapter": 6,
+      "action": "chase_umbrella",
+      "time": 288.55695570804744,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 3.094289606306461,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        1.0952636341114712
+      ],
+      "drawCalls": 29,
+      "triangles": 14606
+    },
+    {
+      "chapter": 6,
+      "action": "tailwind_walk",
+      "time": 295.6859994652883,
+      "camera": "profile",
+      "contact": false,
+      "handDistance": 2.1932531546442924,
+      "overlays": [
+        true,
+        false
+      ],
+      "speeds": [
+        0.7788541398126023,
+        0
+      ],
+      "drawCalls": 15,
+      "triangles": 15606
+    },
+    {
+      "chapter": 6,
+      "action": "side_by_side",
+      "time": 302.81504322252925,
+      "camera": "overhead",
+      "contact": false,
+      "handDistance": 1.4,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.9735676747657486,
+        0.9735676747657486
+      ],
+      "drawCalls": 17,
+      "triangles": 15618
+    },
+    {
+      "chapter": 6,
+      "action": "catch_umbrella",
+      "time": 309.94408697977013,
+      "camera": "umbrella",
+      "contact": false,
+      "handDistance": 2.19881398322358,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 29,
+      "triangles": 14606
+    },
+    {
+      "chapter": 7,
+      "action": "see_puddle",
+      "time": 317.0288566081455,
+      "camera": "feet",
+      "contact": false,
+      "handDistance": 3.1833771617337874,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13702
+    },
+    {
+      "chapter": 7,
+      "action": "jump_puddle",
+      "time": 324.0656625969165,
+      "camera": "feet",
+      "contact": false,
+      "handDistance": 2.201024280800274,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.8089607712765966,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13702
+    },
+    {
+      "chapter": 7,
+      "action": "splash_friend",
+      "time": 331.1024685856876,
+      "camera": "splash",
+      "contact": false,
+      "handDistance": 1.519714387248069,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 18182
+    },
+    {
+      "chapter": 7,
+      "action": "shocked_friend",
+      "time": 338.1392745744586,
+      "camera": "faces",
+      "contact": false,
+      "handDistance": 1.1458792012165187,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13702
+    },
+    {
+      "chapter": 7,
+      "action": "apologize",
+      "time": 345.1760805632297,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.9987722202931733,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13702
+    },
+    {
+      "chapter": 7,
+      "action": "wring_hem",
+      "time": 352.2128865520007,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.3467010506775285,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 18182
+    },
+    {
+      "chapter": 7,
+      "action": "careful_steps",
+      "time": 359.2496925407718,
+      "camera": "feet",
+      "contact": false,
+      "handDistance": 2.385194534553108,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.9863291051530686,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 13702
+    },
+    {
+      "chapter": 7,
+      "action": "wipe_and_laugh",
+      "time": 366.2864985295428,
+      "camera": "faces",
+      "contact": false,
+      "handDistance": 1.4782305851951436,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 13714
+    },
+    {
+      "chapter": 8,
+      "action": "set_start",
+      "time": 373.27004723286694,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.8,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 27,
+      "triangles": 13930
+    },
+    {
+      "chapter": 8,
+      "action": "check_distance",
+      "time": 380.19590054362357,
+      "camera": "overhead",
+      "contact": false,
+      "handDistance": 1.7069424483468734,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 41,
+      "triangles": 14098
+    },
+    {
+      "chapter": 8,
+      "action": "weigh_coats",
+      "time": 387.1217538543802,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.613799320268427,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 14490
+    },
+    {
+      "chapter": 8,
+      "action": "simultaneous_start",
+      "time": 394.0476071651368,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 3.2437428282685867,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.503195254639765,
+        0.39919990735382355
+      ],
+      "drawCalls": 27,
+      "triangles": 13930
+    },
+    {
+      "chapter": 8,
+      "action": "compare_clocks",
+      "time": 400.97346047589343,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.5902510465971929,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 27,
+      "triangles": 13930
+    },
+    {
+      "chapter": 8,
+      "action": "write_result",
+      "time": 407.89931378665005,
+      "camera": "hands",
+      "contact": false,
+      "handDistance": 1.7918491350223602,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 14026
+    },
+    {
+      "chapter": 8,
+      "action": "repeat_trial",
+      "time": 414.8251670974067,
+      "camera": "profile",
+      "contact": false,
+      "handDistance": 3.2437428282685867,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.503195254639765,
+        0.39919990735382355
+      ],
+      "drawCalls": 27,
+      "triangles": 13930
+    },
+    {
+      "chapter": 8,
+      "action": "agree_result",
+      "time": 421.7510204081633,
+      "camera": "pair",
+      "contact": false,
+      "handDistance": 1.9948329692146545,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 14026
+    },
+    {
+      "chapter": 9,
+      "action": "choose_route",
+      "time": 428.63131628197135,
+      "camera": "shelter_wide",
+      "contact": false,
+      "handDistance": 1.990293065024194,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 9,
+      "action": "spot_slip",
+      "time": 435.46225826575176,
+      "camera": "feet",
+      "contact": false,
+      "handDistance": 1.7107750670136908,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.08094930410958788,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 9,
+      "action": "steady_friend",
+      "time": 442.29320024953216,
+      "camera": "hands",
+      "contact": true,
+      "handDistance": 0,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 9,
+      "action": "go_together",
+      "time": 449.12414223331257,
+      "camera": "follow",
+      "contact": false,
+      "handDistance": 1.5791638705118507,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.3991511252587285,
+        1.3970743763400997
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 9,
+      "action": "enter_shelter",
+      "time": 455.955084217093,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.4866068747318517,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.4572243413476691,
+        0.4572243413476691
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 9,
+      "action": "high_five",
+      "time": 462.7860262008734,
+      "camera": "shelter_pair",
+      "contact": true,
+      "handDistance": 0,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    },
+    {
+      "chapter": 9,
+      "action": "shake_drops",
+      "time": 469.6169681846538,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.5571727187430455,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 18150
+    },
+    {
+      "chapter": 9,
+      "action": "final_wave",
+      "time": 476.4479101684342,
+      "camera": "shelter_pair",
+      "contact": false,
+      "handDistance": 1.6156062411595347,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 13670
+    }
+  ],
+  "errors": []
+}

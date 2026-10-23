@@ -17,9 +17,11 @@
     "externalImages": 0,
     "importedModels": 0,
     "fps": 24,
-    "width": 1280,
-    "height": 720
+    "width": 1920,
+    "height": 1080
   },
+  "authoredActions": 72,
+  "handContactsWithinTwoCentimeters": true,
   "playPauseSeek": true,
   "pageErrors": []
 }

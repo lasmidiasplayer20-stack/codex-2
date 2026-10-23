@@ -1,18 +1,24 @@
+> Prévia da revisão 2 disponível em 1080p. O MP4 completo ainda é o anterior enquanto a nova exportação termina. O código e o áudio deste projeto já correspondem à revisão 2.
+
 # 01 - Andar ou Correr na chuva
 
 ![Quadro do filme renderizado](qa/capa.jpg)
 
 [Prévia de 1 minuto](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4) · [Filme completo de 8 minutos](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva.mp4)
 
-Animação explicativa de oito minutos, em português, com personagens e cidade 3D construídos por código. Inspirada na linguagem visual de um jogo cartoon procedural: volumes arredondados, contornos, cores quentes nas roupas e cenário de chuva. A montagem alterna enquadramentos a cada seis segundos, com órbitas, aproximações, planos laterais, baixos e de cima, além de diagramas tridimensionais.
+Revisão 2: filme de oito minutos em **1920 × 1080, 24 fps**, com cidade e personagens 3D construídos por código. A encenação tem 72 momentos em nove capítulos: primeiras gotas, desafio até o abrigo, comparação dos casacos, guarda-chuva virando, salto na poça com respingo no amigo, ajuda após uma escorregada e comemoração com contato das mãos. A câmera alterna aproximações, planos laterais, vistas de cima e rotações.
+
+A explicação física permanece na rua: uma silhueta translúcida acompanha o corpo dos personagens e destaca as áreas superior e frontal. Os blocos isolados da primeira versão foram retirados. A frase sobre animação e programação fazia parte do roteiro anterior; foi substituída por uma explicação sobre repetir o experimento, com nova fala Gemini na mesma voz Puck.
+
+![Planos da revisão](qa/storyboard-r2.jpg)
 
 ## Arquivos
 
-- `index.html`, `film.js`: player, geometria, personagens articulados, chuva, câmera e elementos gráficos.
+- `index.html`, `film.js`, `story.js`: player, geometria, personagens articulados, chuva, câmera e elementos gráficos.
 - `timing.json`: nove capítulos alinhados à narração final.
 - `narracao.txt`: texto do vídeo.
 - `audio/narracao.mp3`: voz Puck, Gemini 3.8 Flash TTS, com tratamento de volume e pausas.
-- `audio/efeitos.mp3`: chuva, vento e passos sintetizados em NumPy.
+- `audio/efeitos.mp3`: chuva, vento, passos, respingos e transientes de guarda-chuva/comemoração sintetizados em NumPy.
 - `audio/mix.mp3`: mixagem usada na exportação, com efeitos reduzidos durante a voz.
 - `scripts/`: servidor, renderização determinística, síntese de som e validação.
 - `qa/`: relatórios técnicos e quadros de revisão.
@@ -34,6 +40,7 @@ npm test
 Para recriar os efeitos e a mixagem:
 
 ```sh
+node scripts/motion.mjs
 python3 scripts/sound.py
 ```
 
@@ -43,7 +50,7 @@ Para renderizar um trecho:
 node scripts/render.mjs --start 0 --duration 60 --output /tmp/chuva-parte-01.mp4
 ```
 
-O renderer exporta vídeo sem áudio a 1280×720 e 24 fps. Para juntar com o som:
+O renderer exporta vídeo sem áudio a 1920×1080 e 24 fps. Para juntar com o som:
 
 ```sh
 ffmpeg -i /tmp/chuva-parte-01.mp4 -i audio/mix.mp3 -t 60 -c:v copy -c:a aac -b:a 192k -movflags +faststart /tmp/chuva-previa.mp4
@@ -55,7 +62,7 @@ Para o filme completo, renderize oito intervalos contíguos de 60 segundos, conc
 
 A narração final foi gerada em nove trechos com voz Puck e direção alegre, conversacional e moderada. O tratamento reduz diferenças lentas de ganho, comprime picos e normaliza a voz para aproximadamente -16 LUFS e -1,5 dBTP. Pausas de baixa energia acima de 0,65 segundo são encurtadas, preservando respirações e pausas curtas. Uma repetição no segundo trecho foi removida no intervalo de silêncio após a primeira leitura completa. A duração é ajustada suavemente a oito minutos com preservação de altura tonal; o ritmo original tratado também foi preservado fora do repositório. Validação de fala é automatizada, não escuta humana.
 
-Para uma nova leitura, `scripts/generate_narration.py` usa a chave configurada no ambiente e gera nove WAVs locais. Depois de conferir o conteúdo, `scripts/treat_voice.py` aplica o tratamento, ajusta a duração e atualiza `timing.json`; execute novamente `scripts/sound.py` e renderize o filme com esses novos tempos.
+Para uma nova leitura, `scripts/generate_narration.py` usa a chave configurada no ambiente e gera nove WAVs locais. Depois de conferir o conteúdo, `scripts/treat_voice.py` aplica o tratamento, ajusta a duração e atualiza `timing.json`; execute novamente `node scripts/motion.mjs` e `python scripts/sound.py` e renderize o filme com esses novos tempos.
 
 Credenciais não são incluídas. Configure `GEMINI_API_KEY` de forma segura para futuras gerações; os áudios fornecidos permitem reproduzir o vídeo sem acessar a API.
 

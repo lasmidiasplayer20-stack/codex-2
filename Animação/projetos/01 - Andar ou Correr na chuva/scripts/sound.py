@@ -13,17 +13,25 @@ for start in range(0,N,size):
 for _ in range(3500):
  t=float(rng.uniform(0,D-.08));n=int(.05*SR);tt=np.arange(n)/SR;f=float(rng.uniform(1500,5200));sig=(np.sin(2*np.pi*f*tt)*np.exp(-tt*110)+rng.normal(0,.35,n)*np.exp(-tt*180)).astype(np.float32)*float(rng.uniform(.002,.012));pan=float(rng.uniform(-.8,.8));a=int(t*SR);mix[a:a+n,0]+=sig*(1-pan)*.5;mix[a:a+n,1]+=sig*(1+pan)*.5
 chap=json.loads((ROOT/'timing.json').read_text());events=[]
-for i,c in enumerate(chap):
- if i in [1,3,4]:continue
- # Footsteps sit below the explanatory voice; cadence follows walking vs running.
- for who,cadence,pan in [('walk',2.5,-.35),('run',4.4,.35)]:
-  end=c['end']
-  if i==0:end=min(end,c['start']+20)
-  if i==8:end=min(end,c['start']+(24 if who=='walk' else 13))
-  if i==6:end=min(end,c['start']+20)
-  for t in np.arange(c['start']+.25,end,1/cadence):
-   n=int(.12*SR);tt=np.arange(n)/SR;sig=(.034*np.sin(2*np.pi*(110*tt+6*tt*tt))*np.exp(-tt*55)+rng.normal(0,.017,n)*np.exp(-tt*36)).astype(np.float32)
-   a=int(t*SR);mix[a:a+n,0]+=sig*(1-pan)*.7;mix[a:a+n,1]+=sig*(1+pan)*.7;events.append({'t':round(float(t),3),'type':'wet_step','actor':who})
+motion=json.loads((ROOT/'qa/motion.json').read_text());last_step={'A':-1,'B':-1}
+def transient(t,kind,amp=.07,pan=0):
+ n=int(.24*SR);tt=np.arange(n)/SR
+ if kind=='clap':sig=rng.normal(0,1,n)*np.exp(-tt*75)
+ elif kind=='snap':sig=(rng.normal(0,1,n)*np.exp(-tt*45)+np.sin(2*np.pi*250*tt)*np.exp(-tt*35))
+ elif kind=='splash':sig=rng.normal(0,1,n)*np.exp(-tt*18)*(1+.3*np.sin(2*np.pi*800*tt))
+ else:sig=(np.sin(2*np.pi*(110*tt+6*tt*tt))*np.exp(-tt*55)+rng.normal(0,.5,n)*np.exp(-tt*36))
+ sig=sig.astype(np.float32)*amp;a=int(t*SR);n=min(n,N-a);mix[a:a+n,0]+=sig[:n]*(1-pan)*.6;mix[a:a+n,1]+=sig[:n]*(1+pan)*.6;events.append({'t':round(t,3),'type':kind})
+previous=''
+for m in motion:
+ for who,pan in [('A',-.35),('B',.35)]:
+  actor=m[who];speed=actor.get('speed',0);stride=1.22 if speed>1.15 else .82;step=int(actor.get('distance',0)/stride*2)
+  if speed>.08 and step!=last_step[who] and not actor.get('air'):transient(m['t'],'wet_step',.032,pan)
+  last_step[who]=step
+ if m['action']!=previous:
+  if m['action'] in ['splash_friend','wring_hem','wring_coat']:transient(m['t']+.8,'splash',.075,.2)
+  if m['action']=='umbrella_flip':transient(m['t']+1.8,'snap',.055,.3)
+  if m['action']=='high_five':transient(m['t']+.3,'clap',.04,0)
+ previous=m['action']
 # Slow wind envelope in the wind chapter. No sampled wind.
 a=int(chap[5]['start']*SR);b=int(chap[5]['end']*SR);tt=np.arange(b-a)/SR
 wind=rng.normal(0,1,b-a).astype(np.float32);wind=np.convolve(wind,np.ones(45)/45,'same');wind*=.018*(.5+.5*np.sin(tt*.6))

@@ -1,0 +1,16 @@
+{
+  "revision": 2,
+  "authored_beats": 72,
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "narration_changed_segment": 8,
+  "speech_verification": "Automatic transcription of replacement segment; no human listening claimed",
+  "source_sha256": {
+    "film.js": "190cabe76d19d89b4a460589ff30b43b487274c9ca0086a85590a344d58cbd3e",
+    "story.js": "450ab1044c7b54e6b90c6e40f53b6b95803d3d4f42ca2b368abf3635b94e6891",
+    "narracao.txt": "102670e28134cc5b70b975e429404ebfec0224e5242f61eeea820169c825561d"
+  }
+}
