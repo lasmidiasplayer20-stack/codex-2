@@ -99,3 +99,7 @@ After Effects não roda neste Linux: use o renderizador Python. JSX e servidor d
 As fontes originais continuam com suas licenças: Stick declara uso pelo proprietário do plugin, ícones Fluent são MIT e Anton é OFL. A adaptação não amplia direitos de redistribuição. Referências visuais originais foram preservadas como material do pacote fornecido pelo usuário.
 
 Veja `VALIDATION.json` para evidências dos testes desta instância. O ZIP portátil contém fontes/locks/instruções e demonstrações; dependências binárias, caches e ambientes virtuais são reinstalados por `setup`.
+
+## Produção nova — canal Então
+
+[02 — Quantas mentiras](projetos/02-quantas-mentiras/README.md): roteiro próprio em português, direção com 128 planos, voz Puck e CTAs vetoriais do Então. Exportação-alvo de 8min20s, 1920×1080/24 fps. O estado e os arquivos entregues ficam no README e na pasta `exports/` do projeto; esta produção não é uma das demos originais descritas acima.

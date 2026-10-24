@@ -1,0 +1,2567 @@
+{
+  "title": "E se você pudesse ver as mentiras?",
+  "duration": 500.0,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 4.37,
+      "line": "Você pergunta: está tudo bem? Ela sorri e responde que sim. Acima da cabeça dela, um número vermelho aumenta. Nove mil, trezentas e quatorze mentiras. Você acabou de descobrir uma mentira. Mas ainda não descobriu a verdade. E essa diferença vai custar muito mais do que imagina.",
+      "scene": "home: door; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 0,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s002",
+      "start": 4.37,
+      "end": 8.74,
+      "line": "Você pergunta: está tudo bem? Ela sorri e responde que sim. Acima da cabeça dela, um número vermelho aumenta. Nove mil, trezentas e quatorze mentiras. Você acabou de descobrir uma mentira. Mas ainda não descobriu a verdade. E essa diferença vai custar muito mais do que imagina.",
+      "scene": "home: door; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 0,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s003",
+      "start": 8.74,
+      "end": 13.1101,
+      "line": "Você pergunta: está tudo bem? Ela sorri e responde que sim. Acima da cabeça dela, um número vermelho aumenta. Nove mil, trezentas e quatorze mentiras. Você acabou de descobrir uma mentira. Mas ainda não descobriu a verdade. E essa diferença vai custar muito mais do que imagina.",
+      "scene": "home: door; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 0,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s004",
+      "start": 13.1101,
+      "end": 17.4801,
+      "line": "Você pergunta: está tudo bem? Ela sorri e responde que sim. Acima da cabeça dela, um número vermelho aumenta. Nove mil, trezentas e quatorze mentiras. Você acabou de descobrir uma mentira. Mas ainda não descobriu a verdade. E essa diferença vai custar muito mais do que imagina.",
+      "scene": "home: door; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 0,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s005",
+      "start": 17.4801,
+      "end": 20.972,
+      "line": "Imagine enxergar o total de mentiras que cada pessoa já contou. Nenhum aplicativo. Nenhum interrogatório. Só um contador, flutuando sobre a cabeça. Caio pensou primeiro na própria casa. Só que, para entender aquela noite, precisamos voltar uma semana.",
+      "scene": "street: reveal; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 1,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s006",
+      "start": 20.972,
+      "end": 24.464,
+      "line": "Imagine enxergar o total de mentiras que cada pessoa já contou. Nenhum aplicativo. Nenhum interrogatório. Só um contador, flutuando sobre a cabeça. Caio pensou primeiro na própria casa. Só que, para entender aquela noite, precisamos voltar uma semana.",
+      "scene": "street: reveal; track; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 1,
+        "mode": "track",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s007",
+      "start": 24.464,
+      "end": 27.9559,
+      "line": "Imagine enxergar o total de mentiras que cada pessoa já contou. Nenhum aplicativo. Nenhum interrogatório. Só um contador, flutuando sobre a cabeça. Caio pensou primeiro na própria casa. Só que, para entender aquela noite, precisamos voltar uma semana.",
+      "scene": "street: reveal; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 1,
+        "mode": "ots",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s008",
+      "start": 27.9559,
+      "end": 31.4478,
+      "line": "Imagine enxergar o total de mentiras que cada pessoa já contou. Nenhum aplicativo. Nenhum interrogatório. Só um contador, flutuando sobre a cabeça. Caio pensou primeiro na própria casa. Só que, para entender aquela noite, precisamos voltar uma semana.",
+      "scene": "street: reveal; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 1,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s009",
+      "start": 31.4478,
+      "end": 34.4109,
+      "line": "Caio era juiz. Conhecido por não deixar passar uma contradição. Naquela manhã, atravessou o tribunal ouvindo um elogio que adorava: o senhor sabe ler as pessoas. Nunca perguntou quantas vezes tinha lido alguém errado.",
+      "scene": "court: arrival; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 2,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s010",
+      "start": 34.4109,
+      "end": 37.374,
+      "line": "Caio era juiz. Conhecido por não deixar passar uma contradição. Naquela manhã, atravessou o tribunal ouvindo um elogio que adorava: o senhor sabe ler as pessoas. Nunca perguntou quantas vezes tinha lido alguém errado.",
+      "scene": "court: arrival; track; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 2,
+        "mode": "track",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s011",
+      "start": 37.374,
+      "end": 40.3372,
+      "line": "Caio era juiz. Conhecido por não deixar passar uma contradição. Naquela manhã, atravessou o tribunal ouvindo um elogio que adorava: o senhor sabe ler as pessoas. Nunca perguntou quantas vezes tinha lido alguém errado.",
+      "scene": "court: arrival; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 2,
+        "mode": "ots",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s012",
+      "start": 40.3372,
+      "end": 43.3003,
+      "line": "Caio era juiz. Conhecido por não deixar passar uma contradição. Naquela manhã, atravessou o tribunal ouvindo um elogio que adorava: o senhor sabe ler as pessoas. Nunca perguntou quantas vezes tinha lido alguém errado.",
+      "scene": "court: arrival; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 2,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s013",
+      "start": 43.3003,
+      "end": 47.5932,
+      "line": "Na saída, um homem sentado perto da escadaria pediu ajuda para comer. Chamava-se Rui. Olhos baixos, mãos inquietas, voz quase sumindo. Caio apertou a pasta contra o corpo e seguiu. Na cabeça dele, aqueles sinais já formavam uma história. Ninguém tinha contado aquela história.",
+      "scene": "street: reject; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 3,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s014",
+      "start": 47.5932,
+      "end": 51.886,
+      "line": "Na saída, um homem sentado perto da escadaria pediu ajuda para comer. Chamava-se Rui. Olhos baixos, mãos inquietas, voz quase sumindo. Caio apertou a pasta contra o corpo e seguiu. Na cabeça dele, aqueles sinais já formavam uma história. Ninguém tinha contado aquela história.",
+      "scene": "street: reject; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 3,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s015",
+      "start": 51.886,
+      "end": 56.1788,
+      "line": "Na saída, um homem sentado perto da escadaria pediu ajuda para comer. Chamava-se Rui. Olhos baixos, mãos inquietas, voz quase sumindo. Caio apertou a pasta contra o corpo e seguiu. Na cabeça dele, aqueles sinais já formavam uma história. Ninguém tinha contado aquela história.",
+      "scene": "street: reject; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 3,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s016",
+      "start": 56.1788,
+      "end": 60.4717,
+      "line": "Na saída, um homem sentado perto da escadaria pediu ajuda para comer. Chamava-se Rui. Olhos baixos, mãos inquietas, voz quase sumindo. Caio apertou a pasta contra o corpo e seguiu. Na cabeça dele, aqueles sinais já formavam uma história. Ninguém tinha contado aquela história.",
+      "scene": "street: reject; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 3,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s017",
+      "start": 60.4717,
+      "end": 64.372,
+      "line": "Em casa, Mara perguntou se ele estava cansado. Só um pouco. Era mentira. Ele estava esgotado. Abriu o computador durante o jantar. Ela recolheu os pratos em silêncio. Às vezes, o primeiro problema de uma conversa não é o que alguém diz. É o que ninguém pergunta.",
+      "scene": "home: rest; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 4,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s018",
+      "start": 64.372,
+      "end": 68.2723,
+      "line": "Em casa, Mara perguntou se ele estava cansado. Só um pouco. Era mentira. Ele estava esgotado. Abriu o computador durante o jantar. Ela recolheu os pratos em silêncio. Às vezes, o primeiro problema de uma conversa não é o que alguém diz. É o que ninguém pergunta.",
+      "scene": "home: rest; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 4,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s019",
+      "start": 68.2723,
+      "end": 72.1727,
+      "line": "Em casa, Mara perguntou se ele estava cansado. Só um pouco. Era mentira. Ele estava esgotado. Abriu o computador durante o jantar. Ela recolheu os pratos em silêncio. Às vezes, o primeiro problema de uma conversa não é o que alguém diz. É o que ninguém pergunta.",
+      "scene": "home: rest; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 4,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s020",
+      "start": 72.1727,
+      "end": 76.073,
+      "line": "Em casa, Mara perguntou se ele estava cansado. Só um pouco. Era mentira. Ele estava esgotado. Abriu o computador durante o jantar. Ela recolheu os pratos em silêncio. Às vezes, o primeiro problema de uma conversa não é o que alguém diz. É o que ninguém pergunta.",
+      "scene": "home: rest; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 4,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s021",
+      "start": 76.073,
+      "end": 80.0291,
+      "line": "Mais tarde, uma queda de energia apagou o apartamento. Quando a luz voltou, Caio viu os olhos de Mara, a porta da cozinha e um número impossível sobre a cabeça dela. Nove mil, trezentas e onze. O número continuava ali.",
+      "scene": "home: blackout; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 5,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s022",
+      "start": 80.0291,
+      "end": 83.9852,
+      "line": "Mais tarde, uma queda de energia apagou o apartamento. Quando a luz voltou, Caio viu os olhos de Mara, a porta da cozinha e um número impossível sobre a cabeça dela. Nove mil, trezentas e onze. O número continuava ali.",
+      "scene": "home: blackout; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 5,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s023",
+      "start": 83.9852,
+      "end": 87.9412,
+      "line": "Mais tarde, uma queda de energia apagou o apartamento. Quando a luz voltou, Caio viu os olhos de Mara, a porta da cozinha e um número impossível sobre a cabeça dela. Nove mil, trezentas e onze. O número continuava ali.",
+      "scene": "home: blackout; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 5,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s024",
+      "start": 87.9412,
+      "end": 91.8973,
+      "line": "Mais tarde, uma queda de energia apagou o apartamento. Quando a luz voltou, Caio viu os olhos de Mara, a porta da cozinha e um número impossível sobre a cabeça dela. Nove mil, trezentas e onze. O número continuava ali.",
+      "scene": "home: blackout; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 5,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s025",
+      "start": 91.8973,
+      "end": 94.9986,
+      "line": "Ele perguntou se ela tinha mexido no seu celular. Mara respondeu que não. O contador subiu. Caio mostrou o aparelho. Ela suspirou: estava tocando, eu desliguei o alarme. O primeiro teste funcionara.",
+      "scene": "home: test; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 6,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s026",
+      "start": 94.9986,
+      "end": 98.0998,
+      "line": "Ele perguntou se ela tinha mexido no seu celular. Mara respondeu que não. O contador subiu. Caio mostrou o aparelho. Ela suspirou: estava tocando, eu desliguei o alarme. O primeiro teste funcionara.",
+      "scene": "home: test; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 6,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s027",
+      "start": 98.0998,
+      "end": 101.2011,
+      "line": "Ele perguntou se ela tinha mexido no seu celular. Mara respondeu que não. O contador subiu. Caio mostrou o aparelho. Ela suspirou: estava tocando, eu desliguei o alarme. O primeiro teste funcionara.",
+      "scene": "home: test; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 6,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s028",
+      "start": 101.2011,
+      "end": 104.3023,
+      "line": "Ele perguntou se ela tinha mexido no seu celular. Mara respondeu que não. O contador subiu. Caio mostrou o aparelho. Ela suspirou: estava tocando, eu desliguei o alarme. O primeiro teste funcionara.",
+      "scene": "home: test; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 6,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s029",
+      "start": 104.3023,
+      "end": 107.9905,
+      "line": "De manhã, o espelho trouxe uma surpresa menos agradável. Quatorze mil e três. O próprio número era maior que o dela. Caio procurou uma explicação confortável. Gentileza. Coisas sem importância. Em poucos segundos, tinha encontrado desculpas para si que não oferecera a mais ninguém.",
+      "scene": "mirror: self; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 7,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s030",
+      "start": 107.9905,
+      "end": 111.6786,
+      "line": "De manhã, o espelho trouxe uma surpresa menos agradável. Quatorze mil e três. O próprio número era maior que o dela. Caio procurou uma explicação confortável. Gentileza. Coisas sem importância. Em poucos segundos, tinha encontrado desculpas para si que não oferecera a mais ninguém.",
+      "scene": "mirror: self; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 7,
+        "mode": "insert",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s031",
+      "start": 111.6786,
+      "end": 115.3668,
+      "line": "De manhã, o espelho trouxe uma surpresa menos agradável. Quatorze mil e três. O próprio número era maior que o dela. Caio procurou uma explicação confortável. Gentileza. Coisas sem importância. Em poucos segundos, tinha encontrado desculpas para si que não oferecera a mais ninguém.",
+      "scene": "mirror: self; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 7,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s032",
+      "start": 115.3668,
+      "end": 119.055,
+      "line": "De manhã, o espelho trouxe uma surpresa menos agradável. Quatorze mil e três. O próprio número era maior que o dela. Caio procurou uma explicação confortável. Gentileza. Coisas sem importância. Em poucos segundos, tinha encontrado desculpas para si que não oferecera a mais ninguém.",
+      "scene": "mirror: self; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 7,
+        "mode": "ots",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s033",
+      "start": 119.055,
+      "end": 123.1418,
+      "line": "Fez um segundo teste. Eu nunca julgo ninguém antes de ouvir os dois lados. O contador não mudou. Caio sorriu. Mas aquilo não provava que a frase era verdadeira. O contador só registrava o que a pessoa dizia sabendo que era falso. Convicção também pode estar errada.",
+      "scene": "mirror: belief; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 8,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s034",
+      "start": 123.1418,
+      "end": 127.2286,
+      "line": "Fez um segundo teste. Eu nunca julgo ninguém antes de ouvir os dois lados. O contador não mudou. Caio sorriu. Mas aquilo não provava que a frase era verdadeira. O contador só registrava o que a pessoa dizia sabendo que era falso. Convicção também pode estar errada.",
+      "scene": "mirror: belief; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 8,
+        "mode": "insert",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s035",
+      "start": 127.2286,
+      "end": 131.3155,
+      "line": "Fez um segundo teste. Eu nunca julgo ninguém antes de ouvir os dois lados. O contador não mudou. Caio sorriu. Mas aquilo não provava que a frase era verdadeira. O contador só registrava o que a pessoa dizia sabendo que era falso. Convicção também pode estar errada.",
+      "scene": "mirror: belief; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 8,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s036",
+      "start": 131.3155,
+      "end": 135.4023,
+      "line": "Fez um segundo teste. Eu nunca julgo ninguém antes de ouvir os dois lados. O contador não mudou. Caio sorriu. Mas aquilo não provava que a frase era verdadeira. O contador só registrava o que a pessoa dizia sabendo que era falso. Convicção também pode estar errada.",
+      "scene": "mirror: belief; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 8,
+        "mode": "ots",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s037",
+      "start": 135.4023,
+      "end": 139.2942,
+      "line": "Na cafeteria, a atendente disse que estava tudo ótimo. O número avançou. Antes que Caio comentasse, ela deixou cair uma colher. Tinha passado a noite com o filho doente. Não queria explicar a própria vida para cada cliente. Ele não soube o que fazer com a informação.",
+      "scene": "cafe: kindness; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 9,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s038",
+      "start": 139.2942,
+      "end": 143.186,
+      "line": "Na cafeteria, a atendente disse que estava tudo ótimo. O número avançou. Antes que Caio comentasse, ela deixou cair uma colher. Tinha passado a noite com o filho doente. Não queria explicar a própria vida para cada cliente. Ele não soube o que fazer com a informação.",
+      "scene": "cafe: kindness; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 9,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s039",
+      "start": 143.186,
+      "end": 147.0778,
+      "line": "Na cafeteria, a atendente disse que estava tudo ótimo. O número avançou. Antes que Caio comentasse, ela deixou cair uma colher. Tinha passado a noite com o filho doente. Não queria explicar a própria vida para cada cliente. Ele não soube o que fazer com a informação.",
+      "scene": "cafe: kindness; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 9,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s040",
+      "start": 147.0778,
+      "end": 150.9697,
+      "line": "Na cafeteria, a atendente disse que estava tudo ótimo. O número avançou. Antes que Caio comentasse, ela deixou cair uma colher. Tinha passado a noite com o filho doente. Não queria explicar a própria vida para cada cliente. Ele não soube o que fazer com a informação.",
+      "scene": "cafe: kindness; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 9,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s041",
+      "start": 150.9697,
+      "end": 155.3756,
+      "line": "Na rua, os números eram tantos que o mundo parecia uma vitrine de preços. Uma criança escondendo um biscoito. Um homem dizendo ao telefone que já estava chegando, ainda sentado no banco. Caio via cada mudança. Começava a prestar menos atenção em quem carregava o número.",
+      "scene": "street: crowd; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 10,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s042",
+      "start": 155.3756,
+      "end": 159.7816,
+      "line": "Na rua, os números eram tantos que o mundo parecia uma vitrine de preços. Uma criança escondendo um biscoito. Um homem dizendo ao telefone que já estava chegando, ainda sentado no banco. Caio via cada mudança. Começava a prestar menos atenção em quem carregava o número.",
+      "scene": "street: crowd; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 10,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s043",
+      "start": 159.7816,
+      "end": 164.1875,
+      "line": "Na rua, os números eram tantos que o mundo parecia uma vitrine de preços. Uma criança escondendo um biscoito. Um homem dizendo ao telefone que já estava chegando, ainda sentado no banco. Caio via cada mudança. Começava a prestar menos atenção em quem carregava o número.",
+      "scene": "street: crowd; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 10,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s044",
+      "start": 164.1875,
+      "end": 168.5935,
+      "line": "Na rua, os números eram tantos que o mundo parecia uma vitrine de preços. Uma criança escondendo um biscoito. Um homem dizendo ao telefone que já estava chegando, ainda sentado no banco. Caio via cada mudança. Começava a prestar menos atenção em quem carregava o número.",
+      "scene": "street: crowd; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 10,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s045",
+      "start": 168.5935,
+      "end": 172.0529,
+      "line": "No tribunal, um segurança afirmou ter visto um rapaz esconder um telefone. A voz era firme. A postura, impecável. O contador aumentou. O rapaz tremia, mal conseguia levantar o rosto. Disse que não tinha pegado nada. Seu número permaneceu igual. Nenhuma aparência bastava.",
+      "scene": "court: witness; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 11,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s046",
+      "start": 172.0529,
+      "end": 175.5124,
+      "line": "No tribunal, um segurança afirmou ter visto um rapaz esconder um telefone. A voz era firme. A postura, impecável. O contador aumentou. O rapaz tremia, mal conseguia levantar o rosto. Disse que não tinha pegado nada. Seu número permaneceu igual. Nenhuma aparência bastava.",
+      "scene": "court: witness; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 11,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s047",
+      "start": 175.5124,
+      "end": 178.9718,
+      "line": "No tribunal, um segurança afirmou ter visto um rapaz esconder um telefone. A voz era firme. A postura, impecável. O contador aumentou. O rapaz tremia, mal conseguia levantar o rosto. Disse que não tinha pegado nada. Seu número permaneceu igual. Nenhuma aparência bastava.",
+      "scene": "court: witness; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 11,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s048",
+      "start": 178.9718,
+      "end": 182.4312,
+      "line": "No tribunal, um segurança afirmou ter visto um rapaz esconder um telefone. A voz era firme. A postura, impecável. O contador aumentou. O rapaz tremia, mal conseguia levantar o rosto. Disse que não tinha pegado nada. Seu número permaneceu igual. Nenhuma aparência bastava.",
+      "scene": "court: witness; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 11,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s049",
+      "start": 182.4312,
+      "end": 186.6872,
+      "line": "Caio não apontou para uma testa invisível. Perguntou pela câmera, pelo horário, pela distância. A história do segurança começou a mudar. Uma gravação esquecida mostrou outro cliente recolhendo o aparelho. O que resolveu a situação não foi a acusação mágica. Foram perguntas que outras pessoas também podiam verificar.",
+      "scene": "court: questions; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 12,
+        "mode": "two",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s050",
+      "start": 186.6872,
+      "end": 190.9431,
+      "line": "Caio não apontou para uma testa invisível. Perguntou pela câmera, pelo horário, pela distância. A história do segurança começou a mudar. Uma gravação esquecida mostrou outro cliente recolhendo o aparelho. O que resolveu a situação não foi a acusação mágica. Foram perguntas que outras pessoas também podiam verificar.",
+      "scene": "court: questions; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 12,
+        "mode": "ots",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s051",
+      "start": 190.9431,
+      "end": 195.199,
+      "line": "Caio não apontou para uma testa invisível. Perguntou pela câmera, pelo horário, pela distância. A história do segurança começou a mudar. Uma gravação esquecida mostrou outro cliente recolhendo o aparelho. O que resolveu a situação não foi a acusação mágica. Foram perguntas que outras pessoas também podiam verificar.",
+      "scene": "court: questions; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 12,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s052",
+      "start": 195.199,
+      "end": 199.455,
+      "line": "Caio não apontou para uma testa invisível. Perguntou pela câmera, pelo horário, pela distância. A história do segurança começou a mudar. Uma gravação esquecida mostrou outro cliente recolhendo o aparelho. O que resolveu a situação não foi a acusação mágica. Foram perguntas que outras pessoas também podiam verificar.",
+      "scene": "court: questions; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 12,
+        "mode": "two",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s053",
+      "start": 199.455,
+      "end": 203.5022,
+      "line": "O rapaz saiu aliviado. Caio ficou olhando a cadeira vazia. Uma semana antes, talvez tivesse confundido medo com culpa. A vantagem impossível não tornava suas decisões infalíveis. Tornava ainda mais importante não pular etapas. Ele anotou duas palavras no caderno: conferir primeiro.",
+      "scene": "court: release; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 13,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s054",
+      "start": 203.5022,
+      "end": 207.5495,
+      "line": "O rapaz saiu aliviado. Caio ficou olhando a cadeira vazia. Uma semana antes, talvez tivesse confundido medo com culpa. A vantagem impossível não tornava suas decisões infalíveis. Tornava ainda mais importante não pular etapas. Ele anotou duas palavras no caderno: conferir primeiro.",
+      "scene": "court: release; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 13,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s055",
+      "start": 207.5495,
+      "end": 211.5968,
+      "line": "O rapaz saiu aliviado. Caio ficou olhando a cadeira vazia. Uma semana antes, talvez tivesse confundido medo com culpa. A vantagem impossível não tornava suas decisões infalíveis. Tornava ainda mais importante não pular etapas. Ele anotou duas palavras no caderno: conferir primeiro.",
+      "scene": "court: release; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 13,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s056",
+      "start": 211.5968,
+      "end": 215.644,
+      "line": "O rapaz saiu aliviado. Caio ficou olhando a cadeira vazia. Uma semana antes, talvez tivesse confundido medo com culpa. A vantagem impossível não tornava suas decisões infalíveis. Tornava ainda mais importante não pular etapas. Ele anotou duas palavras no caderno: conferir primeiro.",
+      "scene": "court: release; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 13,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s057",
+      "start": 215.644,
+      "end": 219.4734,
+      "line": "Naquela noite, Mara recebeu uma ligação e foi para a varanda. Voltou dizendo que era coisa do trabalho. Mais uma mentira. Caio sentiu o peito apertar. O contador mostrava uma resposta falsa. Sua imaginação ofereceu imediatamente uma explicação completa. Não havia prova daquela explicação.",
+      "scene": "home: distance; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 14,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s058",
+      "start": 219.4734,
+      "end": 223.3029,
+      "line": "Naquela noite, Mara recebeu uma ligação e foi para a varanda. Voltou dizendo que era coisa do trabalho. Mais uma mentira. Caio sentiu o peito apertar. O contador mostrava uma resposta falsa. Sua imaginação ofereceu imediatamente uma explicação completa. Não havia prova daquela explicação.",
+      "scene": "home: distance; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 14,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s059",
+      "start": 223.3029,
+      "end": 227.1324,
+      "line": "Naquela noite, Mara recebeu uma ligação e foi para a varanda. Voltou dizendo que era coisa do trabalho. Mais uma mentira. Caio sentiu o peito apertar. O contador mostrava uma resposta falsa. Sua imaginação ofereceu imediatamente uma explicação completa. Não havia prova daquela explicação.",
+      "scene": "home: distance; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 14,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s060",
+      "start": 227.1324,
+      "end": 230.9618,
+      "line": "Naquela noite, Mara recebeu uma ligação e foi para a varanda. Voltou dizendo que era coisa do trabalho. Mais uma mentira. Caio sentiu o peito apertar. O contador mostrava uma resposta falsa. Sua imaginação ofereceu imediatamente uma explicação completa. Não havia prova daquela explicação.",
+      "scene": "home: distance; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 14,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s061",
+      "start": 230.9618,
+      "end": 235.1196,
+      "line": "O celular dela ficou sobre a mesa. Caio estendeu a mão. Parou antes de tocar. A tela acendeu com uma mensagem curta: amanhã, no mesmo horário. passou a noite montando uma cena inteira a partir de seis palavras. Cada detalhe inventado parecia uma descoberta.",
+      "scene": "home: phone; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 15,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s062",
+      "start": 235.1196,
+      "end": 239.2775,
+      "line": "O celular dela ficou sobre a mesa. Caio estendeu a mão. Parou antes de tocar. A tela acendeu com uma mensagem curta: amanhã, no mesmo horário. passou a noite montando uma cena inteira a partir de seis palavras. Cada detalhe inventado parecia uma descoberta.",
+      "scene": "home: phone; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 15,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s063",
+      "start": 239.2775,
+      "end": 243.4354,
+      "line": "O celular dela ficou sobre a mesa. Caio estendeu a mão. Parou antes de tocar. A tela acendeu com uma mensagem curta: amanhã, no mesmo horário. passou a noite montando uma cena inteira a partir de seis palavras. Cada detalhe inventado parecia uma descoberta.",
+      "scene": "home: phone; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 15,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s064",
+      "start": 243.4354,
+      "end": 247.5932,
+      "line": "O celular dela ficou sobre a mesa. Caio estendeu a mão. Parou antes de tocar. A tela acendeu com uma mensagem curta: amanhã, no mesmo horário. passou a noite montando uma cena inteira a partir de seis palavras. Cada detalhe inventado parecia uma descoberta.",
+      "scene": "home: phone; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 15,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s065",
+      "start": 247.5932,
+      "end": 251.8829,
+      "line": "No dia seguinte, perguntou ao colega André se tinha visto Mara. Ele respondeu que não. O número subiu. André mudou de assunto e ofereceu um café. Caio recusou. A xícara parecia uma distração. Quando a suspeita domina, até um gesto simples pode virar evidência na nossa cabeça.",
+      "scene": "office: friend; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 16,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s066",
+      "start": 251.8829,
+      "end": 256.1726,
+      "line": "No dia seguinte, perguntou ao colega André se tinha visto Mara. Ele respondeu que não. O número subiu. André mudou de assunto e ofereceu um café. Caio recusou. A xícara parecia uma distração. Quando a suspeita domina, até um gesto simples pode virar evidência na nossa cabeça.",
+      "scene": "office: friend; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 16,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s067",
+      "start": 256.1726,
+      "end": 260.4623,
+      "line": "No dia seguinte, perguntou ao colega André se tinha visto Mara. Ele respondeu que não. O número subiu. André mudou de assunto e ofereceu um café. Caio recusou. A xícara parecia uma distração. Quando a suspeita domina, até um gesto simples pode virar evidência na nossa cabeça.",
+      "scene": "office: friend; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 16,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s068",
+      "start": 260.4623,
+      "end": 264.752,
+      "line": "No dia seguinte, perguntou ao colega André se tinha visto Mara. Ele respondeu que não. O número subiu. André mudou de assunto e ofereceu um café. Caio recusou. A xícara parecia uma distração. Quando a suspeita domina, até um gesto simples pode virar evidência na nossa cabeça.",
+      "scene": "office: friend; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 16,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s069",
+      "start": 264.752,
+      "end": 269.2874,
+      "line": "À tarde, Caio viu Mara entrar em um carro. André estava ao volante. Atravessou a rua e seguiu os dois à distância. Já não olhava para as pessoas ou para o caminho. Só para as duas cabeças à frente. O poder de enxergar mais estava fazendo seu mundo ficar menor.",
+      "scene": "street: follow; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 17,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s070",
+      "start": 269.2874,
+      "end": 273.8228,
+      "line": "À tarde, Caio viu Mara entrar em um carro. André estava ao volante. Atravessou a rua e seguiu os dois à distância. Já não olhava para as pessoas ou para o caminho. Só para as duas cabeças à frente. O poder de enxergar mais estava fazendo seu mundo ficar menor.",
+      "scene": "street: follow; track; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 17,
+        "mode": "track",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s071",
+      "start": 273.8228,
+      "end": 278.3583,
+      "line": "À tarde, Caio viu Mara entrar em um carro. André estava ao volante. Atravessou a rua e seguiu os dois à distância. Já não olhava para as pessoas ou para o caminho. Só para as duas cabeças à frente. O poder de enxergar mais estava fazendo seu mundo ficar menor.",
+      "scene": "street: follow; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 17,
+        "mode": "ots",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s072",
+      "start": 278.3583,
+      "end": 282.8937,
+      "line": "À tarde, Caio viu Mara entrar em um carro. André estava ao volante. Atravessou a rua e seguiu os dois à distância. Já não olhava para as pessoas ou para o caminho. Só para as duas cabeças à frente. O poder de enxergar mais estava fazendo seu mundo ficar menor.",
+      "scene": "street: follow; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 17,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s073",
+      "start": 282.8937,
+      "end": 286.6563,
+      "line": "O carro parou diante de um hospital. Mara desceu carregando uma sacola. André abriu o porta-malas e tirou uma manta. Caio permaneceu do outro lado da rua. A história que tinha inventado perdeu a primeira peça. Um prédio podia mudar o sentido de tudo sem alterar nenhum contador.",
+      "scene": "hospital: reveal; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 18,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s074",
+      "start": 286.6563,
+      "end": 290.419,
+      "line": "O carro parou diante de um hospital. Mara desceu carregando uma sacola. André abriu o porta-malas e tirou uma manta. Caio permaneceu do outro lado da rua. A história que tinha inventado perdeu a primeira peça. Um prédio podia mudar o sentido de tudo sem alterar nenhum contador.",
+      "scene": "hospital: reveal; track; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 18,
+        "mode": "track",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s075",
+      "start": 290.419,
+      "end": 294.1816,
+      "line": "O carro parou diante de um hospital. Mara desceu carregando uma sacola. André abriu o porta-malas e tirou uma manta. Caio permaneceu do outro lado da rua. A história que tinha inventado perdeu a primeira peça. Um prédio podia mudar o sentido de tudo sem alterar nenhum contador.",
+      "scene": "hospital: reveal; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 18,
+        "mode": "ots",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s076",
+      "start": 294.1816,
+      "end": 297.9442,
+      "line": "O carro parou diante de um hospital. Mara desceu carregando uma sacola. André abriu o porta-malas e tirou uma manta. Caio permaneceu do outro lado da rua. A história que tinha inventado perdeu a primeira peça. Um prédio podia mudar o sentido de tudo sem alterar nenhum contador.",
+      "scene": "hospital: reveal; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 18,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s077",
+      "start": 297.9442,
+      "end": 301.7394,
+      "line": "Pela janela, viu sua mãe numa cadeira, esperando um exame. Mara ajeitou a manta sobre os joelhos dela. André entregou documentos na recepção. Sua mãe sorriu para os dois. Aquela era a reunião secreta. Era a explicação daquela mentira.",
+      "scene": "hospital: mother; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 19,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s078",
+      "start": 301.7394,
+      "end": 305.5345,
+      "line": "Pela janela, viu sua mãe numa cadeira, esperando um exame. Mara ajeitou a manta sobre os joelhos dela. André entregou documentos na recepção. Sua mãe sorriu para os dois. Aquela era a reunião secreta. Era a explicação daquela mentira.",
+      "scene": "hospital: mother; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 19,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s079",
+      "start": 305.5345,
+      "end": 309.3296,
+      "line": "Pela janela, viu sua mãe numa cadeira, esperando um exame. Mara ajeitou a manta sobre os joelhos dela. André entregou documentos na recepção. Sua mãe sorriu para os dois. Aquela era a reunião secreta. Era a explicação daquela mentira.",
+      "scene": "hospital: mother; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 19,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s080",
+      "start": 309.3296,
+      "end": 313.1248,
+      "line": "Pela janela, viu sua mãe numa cadeira, esperando um exame. Mara ajeitou a manta sobre os joelhos dela. André entregou documentos na recepção. Sua mãe sorriu para os dois. Aquela era a reunião secreta. Era a explicação daquela mentira.",
+      "scene": "hospital: mother; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 19,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s081",
+      "start": 313.1248,
+      "end": 317.3641,
+      "line": "Caio entrou. Por que ninguém me contou? A mãe baixou os olhos. Eu pedi. Queria entender os exames antes de te preocupar. Mara respirou fundo. Eu devia ter conversado com você. O contador parou. A verdade não tornou a conversa fácil. Só permitiram que ela finalmente começasse.",
+      "scene": "hospital: talk; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 20,
+        "mode": "two",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s082",
+      "start": 317.3641,
+      "end": 321.6034,
+      "line": "Caio entrou. Por que ninguém me contou? A mãe baixou os olhos. Eu pedi. Queria entender os exames antes de te preocupar. Mara respirou fundo. Eu devia ter conversado com você. O contador parou. A verdade não tornou a conversa fácil. Só permitiram que ela finalmente começasse.",
+      "scene": "hospital: talk; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 20,
+        "mode": "ots",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s083",
+      "start": 321.6034,
+      "end": 325.8426,
+      "line": "Caio entrou. Por que ninguém me contou? A mãe baixou os olhos. Eu pedi. Queria entender os exames antes de te preocupar. Mara respirou fundo. Eu devia ter conversado com você. O contador parou. A verdade não tornou a conversa fácil. Só permitiram que ela finalmente começasse.",
+      "scene": "hospital: talk; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 20,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s084",
+      "start": 325.8426,
+      "end": 330.0819,
+      "line": "Caio entrou. Por que ninguém me contou? A mãe baixou os olhos. Eu pedi. Queria entender os exames antes de te preocupar. Mara respirou fundo. Eu devia ter conversado com você. O contador parou. A verdade não tornou a conversa fácil. Só permitiram que ela finalmente começasse.",
+      "scene": "hospital: talk; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 20,
+        "mode": "two",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s085",
+      "start": 330.0819,
+      "end": 332.8983,
+      "line": "Ele tinha razão em perceber que escondiam alguma coisa. Estava errado sobre o que era. Entender um motivo não apaga uma escolha. Mas escolher como responder exige mais do que flagrar alguém numa mentira.",
+      "scene": "hospital: listen; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 21,
+        "mode": "two",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s086",
+      "start": 332.8983,
+      "end": 335.7146,
+      "line": "Ele tinha razão em perceber que escondiam alguma coisa. Estava errado sobre o que era. Entender um motivo não apaga uma escolha. Mas escolher como responder exige mais do que flagrar alguém numa mentira.",
+      "scene": "hospital: listen; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 21,
+        "mode": "ots",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s087",
+      "start": 335.7146,
+      "end": 338.531,
+      "line": "Ele tinha razão em perceber que escondiam alguma coisa. Estava errado sobre o que era. Entender um motivo não apaga uma escolha. Mas escolher como responder exige mais do que flagrar alguém numa mentira.",
+      "scene": "hospital: listen; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 21,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s088",
+      "start": 338.531,
+      "end": 341.3474,
+      "line": "Ele tinha razão em perceber que escondiam alguma coisa. Estava errado sobre o que era. Entender um motivo não apaga uma escolha. Mas escolher como responder exige mais do que flagrar alguém numa mentira.",
+      "scene": "hospital: listen; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "hospital",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 21,
+        "mode": "two",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s089",
+      "start": 341.3474,
+      "end": 345.6359,
+      "line": "Mais tarde, André tentou aliviar o clima. Eu sabia que você ia entender. O número avançou. Ele percebeu o silêncio de Caio e se corrigiu: na verdade, eu estava com medo da sua reação. Caio quase riu. A frase desconfortável devolveu alguma confiança entre os dois.",
+      "scene": "office: promise; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 22,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s090",
+      "start": 345.6359,
+      "end": 349.9244,
+      "line": "Mais tarde, André tentou aliviar o clima. Eu sabia que você ia entender. O número avançou. Ele percebeu o silêncio de Caio e se corrigiu: na verdade, eu estava com medo da sua reação. Caio quase riu. A frase desconfortável devolveu alguma confiança entre os dois.",
+      "scene": "office: promise; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 22,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s091",
+      "start": 349.9244,
+      "end": 354.213,
+      "line": "Mais tarde, André tentou aliviar o clima. Eu sabia que você ia entender. O número avançou. Ele percebeu o silêncio de Caio e se corrigiu: na verdade, eu estava com medo da sua reação. Caio quase riu. A frase desconfortável devolveu alguma confiança entre os dois.",
+      "scene": "office: promise; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 22,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s092",
+      "start": 354.213,
+      "end": 358.5015,
+      "line": "Mais tarde, André tentou aliviar o clima. Eu sabia que você ia entender. O número avançou. Ele percebeu o silêncio de Caio e se corrigiu: na verdade, eu estava com medo da sua reação. Caio quase riu. A frase desconfortável devolveu alguma confiança entre os dois.",
+      "scene": "office: promise; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "office",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 22,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s093",
+      "start": 358.5015,
+      "end": 362.4831,
+      "line": "Na saída do hospital, Caio reencontrou Rui, o homem da escadaria. Agora reparou no que não tinha visto antes. Zero. Nenhuma mentira registrada. A primeira reação foi desconfiar do contador. Parecia mais fácil imaginar um defeito no universo do que admitir o próprio preconceito.",
+      "scene": "street: zero; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 23,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s094",
+      "start": 362.4831,
+      "end": 366.4646,
+      "line": "Na saída do hospital, Caio reencontrou Rui, o homem da escadaria. Agora reparou no que não tinha visto antes. Zero. Nenhuma mentira registrada. A primeira reação foi desconfiar do contador. Parecia mais fácil imaginar um defeito no universo do que admitir o próprio preconceito.",
+      "scene": "street: zero; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 23,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s095",
+      "start": 366.4646,
+      "end": 370.4462,
+      "line": "Na saída do hospital, Caio reencontrou Rui, o homem da escadaria. Agora reparou no que não tinha visto antes. Zero. Nenhuma mentira registrada. A primeira reação foi desconfiar do contador. Parecia mais fácil imaginar um defeito no universo do que admitir o próprio preconceito.",
+      "scene": "street: zero; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 23,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s096",
+      "start": 370.4462,
+      "end": 374.4278,
+      "line": "Na saída do hospital, Caio reencontrou Rui, o homem da escadaria. Agora reparou no que não tinha visto antes. Zero. Nenhuma mentira registrada. A primeira reação foi desconfiar do contador. Parecia mais fácil imaginar um defeito no universo do que admitir o próprio preconceito.",
+      "scene": "street: zero; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 23,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s097",
+      "start": 374.4278,
+      "end": 377.8614,
+      "line": "Desta vez, ele parou. Perguntou o nome. Perguntou se já tinha comido. Rui respondeu que sim, de manhã, mas aceitava um lanche para mais tarde. Não havia descoberto uma fraude. Só tinha ido embora antes de descobrir qualquer coisa.",
+      "scene": "street: ask; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 24,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s098",
+      "start": 377.8614,
+      "end": 381.295,
+      "line": "Desta vez, ele parou. Perguntou o nome. Perguntou se já tinha comido. Rui respondeu que sim, de manhã, mas aceitava um lanche para mais tarde. Não havia descoberto uma fraude. Só tinha ido embora antes de descobrir qualquer coisa.",
+      "scene": "street: ask; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 24,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s099",
+      "start": 381.295,
+      "end": 384.7287,
+      "line": "Desta vez, ele parou. Perguntou o nome. Perguntou se já tinha comido. Rui respondeu que sim, de manhã, mas aceitava um lanche para mais tarde. Não havia descoberto uma fraude. Só tinha ido embora antes de descobrir qualquer coisa.",
+      "scene": "street: ask; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 24,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s100",
+      "start": 384.7287,
+      "end": 388.1623,
+      "line": "Desta vez, ele parou. Perguntou o nome. Perguntou se já tinha comido. Rui respondeu que sim, de manhã, mas aceitava um lanche para mais tarde. Não havia descoberto uma fraude. Só tinha ido embora antes de descobrir qualquer coisa.",
+      "scene": "street: ask; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 24,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s101",
+      "start": 388.1623,
+      "end": 391.5667,
+      "line": "Compraram dois sanduíches. Rui abriu o seu, separou metade e ofereceu. Guarda para depois, então. Aquilo não fazia de Rui um santo nem uma prova sobre todas as pessoas. Fazia dele alguém que merecia ser tratado como alguém.",
+      "scene": "bench: share; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 25,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s102",
+      "start": 391.5667,
+      "end": 394.9711,
+      "line": "Compraram dois sanduíches. Rui abriu o seu, separou metade e ofereceu. Guarda para depois, então. Aquilo não fazia de Rui um santo nem uma prova sobre todas as pessoas. Fazia dele alguém que merecia ser tratado como alguém.",
+      "scene": "bench: share; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 25,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s103",
+      "start": 394.9711,
+      "end": 398.3755,
+      "line": "Compraram dois sanduíches. Rui abriu o seu, separou metade e ofereceu. Guarda para depois, então. Aquilo não fazia de Rui um santo nem uma prova sobre todas as pessoas. Fazia dele alguém que merecia ser tratado como alguém.",
+      "scene": "bench: share; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 25,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s104",
+      "start": 398.3755,
+      "end": 401.7799,
+      "line": "Compraram dois sanduíches. Rui abriu o seu, separou metade e ofereceu. Guarda para depois, então. Aquilo não fazia de Rui um santo nem uma prova sobre todas as pessoas. Fazia dele alguém que merecia ser tratado como alguém.",
+      "scene": "bench: share; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 25,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s105",
+      "start": 401.7799,
+      "end": 405.6414,
+      "line": "Em casa, Caio encontrou Mara na cozinha. Eu achei que tinha entendido tudo, disse. Eu não tinha prova. Completei as lacunas. Olhou o reflexo no vidro. Não procurou absolvição no próprio número. Pediu desculpas sem colocar uma explicação defensiva no final.",
+      "scene": "mirror: admit; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 26,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s106",
+      "start": 405.6414,
+      "end": 409.503,
+      "line": "Em casa, Caio encontrou Mara na cozinha. Eu achei que tinha entendido tudo, disse. Eu não tinha prova. Completei as lacunas. Olhou o reflexo no vidro. Não procurou absolvição no próprio número. Pediu desculpas sem colocar uma explicação defensiva no final.",
+      "scene": "mirror: admit; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 26,
+        "mode": "insert",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s107",
+      "start": 409.503,
+      "end": 413.3646,
+      "line": "Em casa, Caio encontrou Mara na cozinha. Eu achei que tinha entendido tudo, disse. Eu não tinha prova. Completei as lacunas. Olhou o reflexo no vidro. Não procurou absolvição no próprio número. Pediu desculpas sem colocar uma explicação defensiva no final.",
+      "scene": "mirror: admit; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 26,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s108",
+      "start": 413.3646,
+      "end": 417.2261,
+      "line": "Em casa, Caio encontrou Mara na cozinha. Eu achei que tinha entendido tudo, disse. Eu não tinha prova. Completei as lacunas. Olhou o reflexo no vidro. Não procurou absolvição no próprio número. Pediu desculpas sem colocar uma explicação defensiva no final.",
+      "scene": "mirror: admit; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "mirror",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 26,
+        "mode": "ots",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s109",
+      "start": 417.2261,
+      "end": 421.0158,
+      "line": "Eles combinaram conversar sobre a mãe dele, os exames e o medo dos dois. Sem interrogatório. Caio também contou que quase mexera no celular. Mara afastou o prato e ouviu. O poder não consertou a relação. O trabalho continuava sendo deles.",
+      "scene": "home: agreement; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 27,
+        "mode": "two",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s110",
+      "start": 421.0158,
+      "end": 424.8056,
+      "line": "Eles combinaram conversar sobre a mãe dele, os exames e o medo dos dois. Sem interrogatório. Caio também contou que quase mexera no celular. Mara afastou o prato e ouviu. O poder não consertou a relação. O trabalho continuava sendo deles.",
+      "scene": "home: agreement; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 27,
+        "mode": "ots",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s111",
+      "start": 424.8056,
+      "end": 428.5953,
+      "line": "Eles combinaram conversar sobre a mãe dele, os exames e o medo dos dois. Sem interrogatório. Caio também contou que quase mexera no celular. Mara afastou o prato e ouviu. O poder não consertou a relação. O trabalho continuava sendo deles.",
+      "scene": "home: agreement; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 27,
+        "mode": "close",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s112",
+      "start": 428.5953,
+      "end": 432.385,
+      "line": "Eles combinaram conversar sobre a mãe dele, os exames e o medo dos dois. Sem interrogatório. Caio também contou que quase mexera no celular. Mara afastou o prato e ouviu. O poder não consertou a relação. O trabalho continuava sendo deles.",
+      "scene": "home: agreement; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 27,
+        "mode": "two",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s113",
+      "start": 432.385,
+      "end": 436.0771,
+      "line": "Na manhã seguinte, alguém entrou nervoso na sala de audiência. Caio percebeu as mãos tremendo e abriu espaço para uma pausa. Outra pessoa falou com segurança. Ele pediu detalhes do mesmo jeito. O que tinha mudado era a pressa de transformar impressão em sentença.",
+      "scene": "court: lesson; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 28,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s114",
+      "start": 436.0771,
+      "end": 439.7692,
+      "line": "Na manhã seguinte, alguém entrou nervoso na sala de audiência. Caio percebeu as mãos tremendo e abriu espaço para uma pausa. Outra pessoa falou com segurança. Ele pediu detalhes do mesmo jeito. O que tinha mudado era a pressa de transformar impressão em sentença.",
+      "scene": "court: lesson; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 28,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s115",
+      "start": 439.7692,
+      "end": 443.4612,
+      "line": "Na manhã seguinte, alguém entrou nervoso na sala de audiência. Caio percebeu as mãos tremendo e abriu espaço para uma pausa. Outra pessoa falou com segurança. Ele pediu detalhes do mesmo jeito. O que tinha mudado era a pressa de transformar impressão em sentença.",
+      "scene": "court: lesson; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 28,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s116",
+      "start": 443.4612,
+      "end": 447.1533,
+      "line": "Na manhã seguinte, alguém entrou nervoso na sala de audiência. Caio percebeu as mãos tremendo e abriu espaço para uma pausa. Outra pessoa falou com segurança. Ele pediu detalhes do mesmo jeito. O que tinha mudado era a pressa de transformar impressão em sentença.",
+      "scene": "court: lesson; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "court",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 28,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s117",
+      "start": 447.1533,
+      "end": 450.8002,
+      "line": "Esse contador pertence à ficção. Na vida real, não temos números flutuantes nem um gesto que entregue toda mentira. A história exagera uma habilidade para revelar um hábito comum. A gente vê um sinal, completa as lacunas e chama o resultado de certeza.",
+      "scene": "diagram: rules; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 29,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s118",
+      "start": 450.8002,
+      "end": 454.4471,
+      "line": "Esse contador pertence à ficção. Na vida real, não temos números flutuantes nem um gesto que entregue toda mentira. A história exagera uma habilidade para revelar um hábito comum. A gente vê um sinal, completa as lacunas e chama o resultado de certeza.",
+      "scene": "diagram: rules; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 29,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s119",
+      "start": 454.4471,
+      "end": 458.094,
+      "line": "Esse contador pertence à ficção. Na vida real, não temos números flutuantes nem um gesto que entregue toda mentira. A história exagera uma habilidade para revelar um hábito comum. A gente vê um sinal, completa as lacunas e chama o resultado de certeza.",
+      "scene": "diagram: rules; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 29,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s120",
+      "start": 458.094,
+      "end": 461.7409,
+      "line": "Esse contador pertence à ficção. Na vida real, não temos números flutuantes nem um gesto que entregue toda mentira. A história exagera uma habilidade para revelar um hábito comum. A gente vê um sinal, completa as lacunas e chama o resultado de certeza.",
+      "scene": "diagram: rules; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 29,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s121",
+      "start": 461.7409,
+      "end": 465.748,
+      "line": "Talvez você quisesse esse poder para nunca mais ser enganado. No fim, descobriu outro medo: passar a vida inteira julgando corretamente uma frase e compreendendo errado uma pessoa. Saber que alguém mentiu pode abrir uma pergunta. Não deveria encerrar todas as outras.",
+      "scene": "bench: ending; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 30,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s122",
+      "start": 465.748,
+      "end": 469.7552,
+      "line": "Talvez você quisesse esse poder para nunca mais ser enganado. No fim, descobriu outro medo: passar a vida inteira julgando corretamente uma frase e compreendendo errado uma pessoa. Saber que alguém mentiu pode abrir uma pergunta. Não deveria encerrar todas as outras.",
+      "scene": "bench: ending; track; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 30,
+        "mode": "track",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s123",
+      "start": 469.7552,
+      "end": 473.7623,
+      "line": "Talvez você quisesse esse poder para nunca mais ser enganado. No fim, descobriu outro medo: passar a vida inteira julgando corretamente uma frase e compreendendo errado uma pessoa. Saber que alguém mentiu pode abrir uma pergunta. Não deveria encerrar todas as outras.",
+      "scene": "bench: ending; ots; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 30,
+        "mode": "ots",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s124",
+      "start": 473.7623,
+      "end": 477.7694,
+      "line": "Talvez você quisesse esse poder para nunca mais ser enganado. No fim, descobriu outro medo: passar a vida inteira julgando corretamente uma frase e compreendendo errado uma pessoa. Saber que alguém mentiu pode abrir uma pergunta. Não deveria encerrar todas as outras.",
+      "scene": "bench: ending; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 30,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s125",
+      "start": 477.7694,
+      "end": 483.327,
+      "line": "Agora imagine o contador aparecendo sobre a sua própria cabeça. Você gostaria que as pessoas vissem apenas aquele total? Ou pediria que conhecessem a história antes de julgar? Se pudesse enxergar as mentiras de todo mundo, qual seria a primeira pergunta que faria? Conte nos comentários. Se essa pergunta ficou na sua cabeça, inscreva-se no Então e ative o sino. Aqui, uma hipótese abre espaço para outra.",
+      "scene": "street: question; wide; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 31,
+        "mode": "wide",
+        "part": 0
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s126",
+      "start": 483.327,
+      "end": 488.8847,
+      "line": "Agora imagine o contador aparecendo sobre a sua própria cabeça. Você gostaria que as pessoas vissem apenas aquele total? Ou pediria que conhecessem a história antes de julgar? Se pudesse enxergar as mentiras de todo mundo, qual seria a primeira pergunta que faria? Conte nos comentários. Se essa pergunta ficou na sua cabeça, inscreva-se no Então e ative o sino. Aqui, uma hipótese abre espaço para outra.",
+      "scene": "street: question; two; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 31,
+        "mode": "two",
+        "part": 1
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s127",
+      "start": 488.8847,
+      "end": 494.4424,
+      "line": "Agora imagine o contador aparecendo sobre a sua própria cabeça. Você gostaria que as pessoas vissem apenas aquele total? Ou pediria que conhecessem a história antes de julgar? Se pudesse enxergar as mentiras de todo mundo, qual seria a primeira pergunta que faria? Conte nos comentários. Se essa pergunta ficou na sua cabeça, inscreva-se no Então e ative o sino. Aqui, uma hipótese abre espaço para outra.",
+      "scene": "street: question; insert; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 31,
+        "mode": "insert",
+        "part": 2
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    },
+    {
+      "id": "s128",
+      "start": 494.4424,
+      "end": 500.0,
+      "line": "Agora imagine o contador aparecendo sobre a sua própria cabeça. Você gostaria que as pessoas vissem apenas aquele total? Ou pediria que conhecessem a história antes de julgar? Se pudesse enxergar as mentiras de todo mundo, qual seria a primeira pergunta que faria? Conte nos comentários. Se essa pergunta ficou na sua cabeça, inscreva-se no Então e ative o sino. Aqui, uma hipótese abre espaço para outra.",
+      "scene": "street: question; close; atuação motivada, olhar e objetos em continuidade",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.25
+      },
+      "params": {
+        "beat": 31,
+        "mode": "close",
+        "part": 3
+      },
+      "sfx": [],
+      "notes": "Timing preliminar; alinhar com segmentos de voz real."
+    }
+  ],
+  "music": []
+}

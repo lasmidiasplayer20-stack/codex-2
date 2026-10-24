@@ -1,0 +1,7 @@
+build/
+referencias/
+audio/*.wav
+audio/raw-local/
+*.log
+__pycache__/
+scripts/__pycache__/
