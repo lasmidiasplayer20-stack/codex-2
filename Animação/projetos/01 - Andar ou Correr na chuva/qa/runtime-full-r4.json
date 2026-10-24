@@ -1,0 +1,5243 @@
+{
+  "samples": 187,
+  "maximumSegmentError": 5.551115123125783e-16,
+  "pageErrors": [],
+  "results": [
+    {
+      "chapter": 2,
+      "action": "box_outline",
+      "time": 61.838873540682656,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.7121490937363326,
+        2.7,
+        5.033177896693661
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6761386022708693,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 31,
+      "triangles": 10424,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "tap_head",
+      "time": 63.56625969164959,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.350642961955486,
+        4.2,
+        7.322361038725654
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9991554463564434,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 33,
+      "triangles": 10468,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "tap_head",
+      "time": 65.7871847428928,
+      "camera": "action",
+      "cameraPosition": [
+        0.5113560352636601,
+        2.35,
+        4.059818687269258
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9991554463564434,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 25,
+      "triangles": 10372,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "tap_head",
+      "time": 68.008109794136,
+      "camera": "reaction",
+      "cameraPosition": [
+        -0.844989886136227,
+        2.35,
+        3.314213070173601
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9991554463564434,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 24,
+      "triangles": 10360,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "front_rain",
+      "time": 69.73549594510294,
+      "camera": "establish",
+      "cameraPosition": [
+        2.4091884369260077,
+        4.2,
+        7.698389952692131
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.679351657766893,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 33,
+      "triangles": 10468,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 2,
+      "action": "front_rain",
+      "time": 71.95642099634614,
+      "camera": "action",
+      "cameraPosition": [
+        -2.1840756743952507,
+        2.629672655699939,
+        5.455180518378263
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.679351657766893,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 31,
+      "triangles": 10444,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 2,
+      "action": "front_rain",
+      "time": 74.17734604758935,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.5023753479145516,
+        2.7,
+        4.8235685839202525
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.679351657766893,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 29,
+      "triangles": 10420,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 2,
+      "action": "turn_pair",
+      "time": 75.90473219855629,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.835404308833623,
+        3.4,
+        7.320660495122982
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6476960955203082,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10472,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "turn_pair",
+      "time": 78.1256572497995,
+      "camera": "action",
+      "cameraPosition": [
+        -0.3998333541654119,
+        3.4,
+        8.290002083159731
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8046164621572727,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10472,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "turn_pair",
+      "time": 80.3465823010427,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.115346738469209,
+        3.4,
+        7.668487952023078
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9214873862233428,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10472,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "measure_height",
+      "time": 82.07396845200964,
+      "camera": "establish",
+      "cameraPosition": [
+        3.557114774822202,
+        4.2,
+        7.220064833182956
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5264138412786037,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 50,
+      "triangles": 10652,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "measure_height",
+      "time": 84.29489350325284,
+      "camera": "action",
+      "cameraPosition": [
+        -2.75534665885609,
+        2.629672655699939,
+        5.254574393238635
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5264138412786037,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 46,
+      "triangles": 10604,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "measure_height",
+      "time": 86.51581855449604,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.7121490937363397,
+        2.7,
+        5.033177896693662
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5264138412786037,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10472,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "same_route",
+      "time": 88.24320470546299,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.3506429619554745,
+        4.2,
+        7.322361038725654
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9361987533585867,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 37,
+      "triangles": 10496,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "same_route",
+      "time": 90.4641297567062,
+      "camera": "action",
+      "cameraPosition": [
+        0.9893304455437404,
+        2.629672655699936,
+        5.32088338080307
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9361987533585867,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 34,
+      "triangles": 10460,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "same_route",
+      "time": 92.6850548079494,
+      "camera": "reaction",
+      "cameraPosition": [
+        -1.4741599768274998,
+        2.7,
+        4.5818219202371395
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9361987533585867,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 32,
+      "triangles": 10436,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "ready_again",
+      "time": 94.41244095891633,
+      "camera": "establish",
+      "cameraPosition": [
+        2.4091884369260135,
+        4.2,
+        7.698389952692126
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7324235927853424,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 26,
+      "triangles": 8520,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "ready_again",
+      "time": 96.63336601015953,
+      "camera": "action",
+      "cameraPosition": [
+        -2.1840756743952427,
+        2.629672655699938,
+        5.455180518378262
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.754501837344771,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 24,
+      "triangles": 8496,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 2,
+      "action": "ready_again",
+      "time": 98.85429106140273,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.5023753479145574,
+        2.7,
+        4.8235685839202525
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.782319592401092,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 22,
+      "triangles": 8472,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "start_clock",
+      "time": 100.60461634435434,
+      "camera": "establish",
+      "cameraPosition": [
+        -2.460720889550062,
+        4.2,
+        7.669133765914066
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7598196083313826,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 56,
+      "triangles": 10800,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "start_clock",
+      "time": 102.89435879155157,
+      "camera": "action",
+      "cameraPosition": [
+        1.7340695498740448,
+        2.616176226117894,
+        4.892117854472093
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7598196083313826,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 52,
+      "triangles": 10752,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "start_clock",
+      "time": 105.18410123874878,
+      "camera": "reaction",
+      "cameraPosition": [
+        -2.03639858209033,
+        2.7,
+        4.1736631884557
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7598196083313826,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 51,
+      "triangles": 10740,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "walk_test",
+      "time": 106.96501203101329,
+      "camera": "establish",
+      "cameraPosition": [
+        4.222860373831972,
+        4.2,
+        4.0072844068491404
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8539012543746218,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.6575168531620617,
+        2.064777200504411
+      ],
+      "drawCalls": 35,
+      "triangles": 6894,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 3,
+      "action": "walk_test",
+      "time": 109.25475447821051,
+      "camera": "action",
+      "cameraPosition": [
+        8.953991772873994,
+        4.116176226117893,
+        4.388744994257463
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.4904299072808733,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.489315281861058,
+        0.43468993694827607
+      ],
+      "drawCalls": 36,
+      "triangles": 6906,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "walk_test",
+      "time": 111.54449692540773,
+      "camera": "reaction",
+      "cameraPosition": [
+        9.587413152640595,
+        4.2,
+        3.8626051213578396
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6329915544899045,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.6099855143792627,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 6894,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "run_test",
+      "time": 113.32540771767223,
+      "camera": "establish",
+      "cameraPosition": [
+        4.222860373831979,
+        4.2,
+        4.007284406849137
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8589384486138965,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.6575168531620659,
+        2.0647772005044214
+      ],
+      "drawCalls": 35,
+      "triangles": 6894,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 3,
+      "action": "run_test",
+      "time": 115.61515016486945,
+      "camera": "action",
+      "cameraPosition": [
+        8.953991772874001,
+        4.1161762261178945,
+        4.388744994257477
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.530959923497309,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.489315281861058,
+        0.434689936948305
+      ],
+      "drawCalls": 36,
+      "triangles": 6906,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "run_test",
+      "time": 117.90489261206667,
+      "camera": "reaction",
+      "cameraPosition": [
+        -0.7166882565890242,
+        4.2,
+        6.840664384033273
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6329915544899032,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.6099855143792581,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 6894,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "arrive_first",
+      "time": 119.68580340433118,
+      "camera": "establish",
+      "cameraPosition": [
+        0.17262899839642998,
+        6,
+        16.42243260982695
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 6.002144079393415,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.6055178619967305,
+        0
+      ],
+      "drawCalls": 48,
+      "triangles": 10704,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 3,
+      "action": "arrive_first",
+      "time": 121.9755458515284,
+      "camera": "action",
+      "cameraPosition": [
+        10.000114364493228,
+        2.616176226117894,
+        3.5443400043885127
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.6935782609722643,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.2276252544591146,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10558,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "arrive_first",
+      "time": 124.26528829872561,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.871934753084068,
+        2.7,
+        4.324912674589023
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.446538489009287,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.058063356629827124,
+        0
+      ],
+      "drawCalls": 42,
+      "triangles": 10632,
+      "fixedSegmentError": 2.7755575615628914e-16
+    },
+    {
+      "chapter": 3,
+      "action": "wait_drenched",
+      "time": 126.04619909099011,
+      "camera": "establish",
+      "cameraPosition": [
+        -2.4607208895500534,
+        4.2,
+        7.669133765914065
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.1588800495606817,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 49,
+      "triangles": 15184,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "wait_drenched",
+      "time": 128.33594153818734,
+      "camera": "action",
+      "cameraPosition": [
+        1.7340695498740497,
+        2.6161762261178927,
+        4.892117854472087
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.1588800495606817,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 45,
+      "triangles": 15136,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "wait_drenched",
+      "time": 130.62568398538454,
+      "camera": "reaction",
+      "cameraPosition": [
+        -2.0363985820903263,
+        2.7,
+        4.173663188455704
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.1588800495606817,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 44,
+      "triangles": 15124,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "wipe_face",
+      "time": 132.40659477764905,
+      "camera": "establish",
+      "cameraPosition": [
+        3.57189223805154,
+        4.2,
+        7.199338054911502
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 48,
+      "triangles": 10704,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "wipe_face",
+      "time": 134.69633722484627,
+      "camera": "action",
+      "cameraPosition": [
+        -2.215787101741288,
+        2.35,
+        4.038695332930374
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 41,
+      "triangles": 10620,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 3,
+      "action": "wipe_face",
+      "time": 136.9860796720435,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.4210280353879212,
+        2.35,
+        3.6556705243773013
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 41,
+      "triangles": 10620,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 3,
+      "action": "compare_buckets",
+      "time": 138.766990464308,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.325200218496173,
+        4.2,
+        7.321561312351816
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5807047588700178,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 46,
+      "triangles": 7910,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "compare_buckets",
+      "time": 141.0567329115052,
+      "camera": "action",
+      "cameraPosition": [
+        1.6026440324194424,
+        2.7,
+        4.290179457787626
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5807047588700178,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 46,
+      "triangles": 7910,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "compare_buckets",
+      "time": 143.34647535870243,
+      "camera": "reaction",
+      "cameraPosition": [
+        -3.605337913973475,
+        4.2,
+        7.140664384033283
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5807047588700178,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 46,
+      "triangles": 7910,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 3,
+      "action": "explain_top",
+      "time": 145.12738615096694,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.8354043088336236,
+        3.4,
+        7.320660495122982
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5403851514870943,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 48,
+      "triangles": 10704,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "explain_top",
+      "time": 147.41712859816417,
+      "camera": "action",
+      "cameraPosition": [
+        -0.39983335416541366,
+        3.4,
+        8.290002083159731
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5403851514870943,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 48,
+      "triangles": 10704,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 3,
+      "action": "explain_top",
+      "time": 149.70687104536137,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.1153467384691877,
+        3.4,
+        7.668487952023088
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5403851514870943,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 48,
+      "triangles": 10704,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "rain_profile",
+      "time": 151.54857855806077,
+      "camera": "establish",
+      "cameraPosition": [
+        -2.392657816747426,
+        4.2,
+        7.658292226381019
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8027756377319948,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "rain_profile",
+      "time": 154.0207111665627,
+      "camera": "action",
+      "cameraPosition": [
+        1.902122562924594,
+        2.579091151507577,
+        4.658656623405253
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8027756377319948,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 31,
+      "triangles": 10444,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "rain_profile",
+      "time": 156.4928437750646,
+      "camera": "reaction",
+      "cameraPosition": [
+        -2.2271762585383423,
+        2.7,
+        3.902686372576
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8027756377319948,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 10432,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "walk_through",
+      "time": 158.4156135816772,
+      "camera": "establish",
+      "cameraPosition": [
+        12.07761220878819,
+        4.2,
+        7.211359128677026
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 6.15957263662884,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.7477915741692023,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 3.3306690738754696e-16
+    },
+    {
+      "chapter": 4,
+      "action": "walk_through",
+      "time": 160.88774619017914,
+      "camera": "action",
+      "cameraPosition": [
+        4.8447845911349425,
+        2.5790911515075767,
+        3.218847659725787
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.0486819234294353,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        1.5160705887266133,
+        0
+      ],
+      "drawCalls": 28,
+      "triangles": 10408,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "walk_through",
+      "time": 163.35987879868105,
+      "camera": "reaction",
+      "cameraPosition": [
+        4.458196172022755,
+        2.7,
+        4.948740336362995
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 0.9109077466633118,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.07170604135868631,
+        0
+      ],
+      "drawCalls": 28,
+      "triangles": 10408,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 4,
+      "action": "run_through",
+      "time": 165.28264860529364,
+      "camera": "establish",
+      "cameraPosition": [
+        11.969800704197851,
+        4.2,
+        6.872161503200078
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 5.66903980748227,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        1.7896349181272382
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "run_through",
+      "time": 167.75478121379558,
+      "camera": "action",
+      "cameraPosition": [
+        7.164635734669208,
+        2.5790911515075763,
+        2.418847659725786
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.1489324113560575,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0.7158539672508618
+      ],
+      "drawCalls": 30,
+      "triangles": 10432,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "run_through",
+      "time": 170.2269138222975,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.5121520364960994,
+        2.7,
+        4.842996295849331
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3134810550349334,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 10432,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "slow_drops",
+      "time": 172.14968362891008,
+      "camera": "establish",
+      "cameraPosition": [
+        2.475197888925276,
+        4.2,
+        7.63093932095483
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8147424866077617,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "slow_drops",
+      "time": 174.621816237412,
+      "camera": "action",
+      "cameraPosition": [
+        -1.7216866701871987,
+        2.7,
+        4.810719932388991
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8147424866077617,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 32,
+      "triangles": 10456,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "slow_drops",
+      "time": 177.09394884591393,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.0907681975480634,
+        2.7,
+        4.812532485994848
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8147424866077617,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 31,
+      "triangles": 10444,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "count_front",
+      "time": 179.01671865252652,
+      "camera": "establish",
+      "cameraPosition": [
+        -2.39265781674741,
+        4.2,
+        7.6582922263810165
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 5.551115123125783e-16
+    },
+    {
+      "chapter": 4,
+      "action": "count_front",
+      "time": 181.48885126102843,
+      "camera": "action",
+      "cameraPosition": [
+        1.2265395033284738,
+        2.35,
+        3.66234937443727
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 27,
+      "triangles": 10396,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 4,
+      "action": "count_front",
+      "time": 183.96098386953037,
+      "camera": "reaction",
+      "cameraPosition": [
+        -1.440898476209898,
+        2.35,
+        2.9054748616532837
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 26,
+      "triangles": 10384,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 4,
+      "action": "equal_distance",
+      "time": 185.88375367614296,
+      "camera": "establish",
+      "cameraPosition": [
+        2.89754109293534,
+        9.5,
+        5.699079063529749
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.178285261458121,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 6646,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "equal_distance",
+      "time": 188.35588628464487,
+      "camera": "action",
+      "cameraPosition": [
+        0.6201410094025479,
+        4.079091151507579,
+        7.083290150026427
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.178285261458121,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 6646,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "equal_distance",
+      "time": 190.82801889314678,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.6982036907013587,
+        4.2,
+        7.540937655410283
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.178285261458121,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 6646,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "hands_compare",
+      "time": 192.7507886997594,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.2563287474070455,
+        4.2,
+        7.318945718957526
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.866414887526193,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 23,
+      "triangles": 6694,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "hands_compare",
+      "time": 195.2229213082613,
+      "camera": "action",
+      "cameraPosition": [
+        3.1548229894230135,
+        4.079091151507578,
+        7.073759670227228
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.866414887526193,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 23,
+      "triangles": 6694,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "hands_compare",
+      "time": 197.69505391676321,
+      "camera": "reaction",
+      "cameraPosition": [
+        -3.943387372958314,
+        4.2,
+        6.765518165103756
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.866414887526193,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 23,
+      "triangles": 6694,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "front_wrapup",
+      "time": 199.6178237233758,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.8354043088336396,
+        3.4,
+        7.320660495122973
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.102068865223471,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "front_wrapup",
+      "time": 202.08995633187774,
+      "camera": "action",
+      "cameraPosition": [
+        -0.39983335416541455,
+        3.4,
+        8.290002083159731
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.102068865223471,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 4,
+      "action": "front_wrapup",
+      "time": 204.56208894037965,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.115346738469204,
+        3.4,
+        7.668487952023081
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.102068865223471,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 10492,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "meet_under_roof",
+      "time": 206.42518492113004,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832062,
+        4.2,
+        7.703818289461849
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7426505188668004,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "meet_under_roof",
+      "time": 208.71829605204528,
+      "camera": "action",
+      "cameraPosition": [
+        9.241548012787602,
+        2.6155040150215045,
+        5.51872891474286
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7426505188668004,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "meet_under_roof",
+      "time": 211.01140718296054,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875135,
+        2.7,
+        4.464285756054572
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7426505188668004,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "inspect_coat",
+      "time": 212.79493806256127,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832047,
+        4.2,
+        7.703818289461861
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0793700643984203,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "inspect_coat",
+      "time": 215.08804919347654,
+      "camera": "action",
+      "cameraPosition": [
+        9.108432265680188,
+        2.7,
+        4.8233206451567465
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0793700643984203,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "inspect_coat",
+      "time": 217.38116032439177,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875126,
+        2.7,
+        4.464285756054578
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0793700643984203,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "wring_coat",
+      "time": 219.16469120399253,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832056,
+        4.2,
+        7.703818289461854
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.879096631937186,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 5,
+      "action": "wring_coat",
+      "time": 221.4578023349078,
+      "camera": "action",
+      "cameraPosition": [
+        9.108432265680193,
+        2.7,
+        4.823320645156745
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8788309637450868,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 5,
+      "action": "wring_coat",
+      "time": 223.75091346582303,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875131,
+        2.7,
+        4.464285756054575
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.878526870240727,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "drip_compare",
+      "time": 225.5344443454238,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832065,
+        4.2,
+        7.7038182894618465
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.523674950755884,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "drip_compare",
+      "time": 227.82755547633903,
+      "camera": "action",
+      "cameraPosition": [
+        9.241548012787604,
+        2.6155040150215036,
+        5.518728914742858
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5247232457725155,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "drip_compare",
+      "time": 230.1206666072543,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875138,
+        2.7,
+        4.464285756054571
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5259928144189092,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 5,
+      "action": "top_vs_front",
+      "time": 231.90419748685503,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832051,
+        4.2,
+        7.703818289461858
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3220523686332157,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 19148,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "top_vs_front",
+      "time": 234.1973086177703,
+      "camera": "action",
+      "cameraPosition": [
+        9.241548012787609,
+        2.6155040150215023,
+        5.518728914742853
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3220523686332157,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 19148,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "top_vs_front",
+      "time": 236.49041974868553,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875128,
+        2.7,
+        4.464285756054578
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3220523686332157,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 19,
+      "triangles": 19148,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "nod_agree",
+      "time": 238.2739506282863,
+      "camera": "establish",
+      "cameraPosition": [
+        10.23019676083206,
+        4.2,
+        7.703818289461851
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7426505188668004,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "nod_agree",
+      "time": 240.56706175920152,
+      "camera": "action",
+      "cameraPosition": [
+        9.2415480127876,
+        2.615504015021505,
+        5.518728914742862
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7426505188668004,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "nod_agree",
+      "time": 242.8601728901168,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875133,
+        2.7,
+        4.464285756054574
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7426505188668004,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "dry_friend",
+      "time": 244.64370376971755,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832067,
+        4.2,
+        7.703818289461845
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.233917760747675,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17208,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "dry_friend",
+      "time": 246.93681490063278,
+      "camera": "action",
+      "cameraPosition": [
+        10.224770609520712,
+        2.8,
+        6.970717174219103
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": true,
+      "handDistance": 1.807312143953211e-15,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17208,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "dry_friend",
+      "time": 249.22992603154802,
+      "camera": "reaction",
+      "cameraPosition": [
+        9.342205719875125,
+        2.7,
+        5.564285756054581
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3214813361915105,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17208,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "thumbs_up",
+      "time": 251.01345691114878,
+      "camera": "establish",
+      "cameraPosition": [
+        10.230196760832051,
+        4.2,
+        7.703818289461858
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6951271836020676,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "thumbs_up",
+      "time": 253.30656804206404,
+      "camera": "action",
+      "cameraPosition": [
+        9.241548012787609,
+        2.6155040150215023,
+        5.518728914742853
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7076993203953919,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 5,
+      "action": "thumbs_up",
+      "time": 255.59967917297928,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.542205719875128,
+        2.7,
+        4.464285756054578
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7232131785848888,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "gust_alert",
+      "time": 257.4743249264772,
+      "camera": "establish",
+      "cameraPosition": [
+        -2.35680352409499,
+        4.2,
+        7.652311968371499
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.101956420290294,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "gust_alert",
+      "time": 260.0407806790839,
+      "camera": "action",
+      "cameraPosition": [
+        1.9813787947457109,
+        2.5601100242777424,
+        4.53700806019965
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0709656324659362,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "gust_alert",
+      "time": 262.60723643169064,
+      "camera": "reaction",
+      "cameraPosition": [
+        -2.3005234943467587,
+        2.7,
+        3.7868371351607975
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9774054098644511,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "lean_headwind",
+      "time": 264.6033686837181,
+      "camera": "establish",
+      "cameraPosition": [
+        5.300931903101275,
+        4.2,
+        4.29235518260992
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6551770098217045,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.36015425806368506,
+        0.36015425806368506
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 6,
+      "action": "lean_headwind",
+      "time": 267.1698244363248,
+      "camera": "action",
+      "cameraPosition": [
+        4.028431961642424,
+        2.5601100242777433,
+        3.355552255783509
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6553174780978417,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.7301757560743127,
+        0.7301757560743127
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "lean_headwind",
+      "time": 269.7362801889315,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.3239845254229596,
+        2.7,
+        4.615299120955585
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6552694978993514,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.03453533981432518,
+        0.03453533981432518
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_open",
+      "time": 271.73241244095897,
+      "camera": "establish",
+      "cameraPosition": [
+        2.592885619615572,
+        3.8,
+        8.184601712425986
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_open",
+      "time": 274.2988681935657,
+      "camera": "action",
+      "cameraPosition": [
+        2.5970135553070857,
+        3.8,
+        6.476206003166608
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_open",
+      "time": 276.8653239461724,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.73541805194748,
+        3.8,
+        7.711926333766742
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.863645114247845,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_flip",
+      "time": 278.86145619819985,
+      "camera": "establish",
+      "cameraPosition": [
+        2.5928856196155614,
+        3.8,
+        8.184601712425989
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0723956032420725,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_flip",
+      "time": 281.42791195080656,
+      "camera": "action",
+      "cameraPosition": [
+        2.5970135553070777,
+        3.8,
+        6.476206003166611
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0723956032420725,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "umbrella_flip",
+      "time": 283.9943677034133,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.7354180519474736,
+        3.8,
+        7.711926333766746
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0723956032420725,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "chase_umbrella",
+      "time": 285.9904999554407,
+      "camera": "establish",
+      "cameraPosition": [
+        5.835308251564532,
+        4.2,
+        4.242355182609936
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.0702133956663276,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0.5402313870955163
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "chase_umbrella",
+      "time": 288.55695570804744,
+      "camera": "action",
+      "cameraPosition": [
+        5.923207455230846,
+        2.560110024277747,
+        2.3555522557835196
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.8674261999731327,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        1.0952636341114712
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 2.7755575615628914e-16
+    },
+    {
+      "chapter": 6,
+      "action": "chase_umbrella",
+      "time": 291.12341146065415,
+      "camera": "reaction",
+      "cameraPosition": [
+        -4.000523494346751,
+        2.7,
+        4.38683713516081
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 4.6669491712906135,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0.05180300972150322
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "tailwind_walk",
+      "time": 293.1195437126816,
+      "camera": "establish",
+      "cameraPosition": [
+        9.151749564711997,
+        4.2,
+        5.764690360857779
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.82881088212086,
+      "overlays": [
+        true,
+        false
+      ],
+      "speeds": [
+        0.3841645419345868,
+        0
+      ],
+      "drawCalls": 15,
+      "triangles": 19132,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "tailwind_walk",
+      "time": 295.6859994652883,
+      "camera": "action",
+      "cameraPosition": [
+        4.147735360787534,
+        2.5601100242777477,
+        3.355552255783523
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.3776567485018525,
+      "overlays": [
+        true,
+        false
+      ],
+      "speeds": [
+        0.7788541398126023,
+        0
+      ],
+      "drawCalls": 15,
+      "triangles": 19132,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 6,
+      "action": "tailwind_walk",
+      "time": 298.2524552178951,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.725220430165464,
+        2.7,
+        4.915299120955581
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4809238265832985,
+      "overlays": [
+        true,
+        false
+      ],
+      "speeds": [
+        0.036837695801932434,
+        0
+      ],
+      "drawCalls": 15,
+      "triangles": 19132,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 6,
+      "action": "side_by_side",
+      "time": 300.24858746992254,
+      "camera": "establish",
+      "cameraPosition": [
+        -1.8560437177079085,
+        9.5,
+        5.999536318490308
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.48020567741825676,
+        0.48020567741825676
+      ],
+      "drawCalls": 17,
+      "triangles": 19144,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 6,
+      "action": "side_by_side",
+      "time": 302.81504322252925,
+      "camera": "action",
+      "cameraPosition": [
+        4.624948957368067,
+        2.56011002427774,
+        3.355552255783499
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.9735676747657486,
+        0.9735676747657486
+      ],
+      "drawCalls": 17,
+      "triangles": 19144,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "side_by_side",
+      "time": 305.38149897513597,
+      "camera": "reaction",
+      "cameraPosition": [
+        -0.6761841735442458,
+        2.7,
+        3.736760731983598
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4000000000000001,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.04604711975242026,
+        0.04604711975242026
+      ],
+      "drawCalls": 17,
+      "triangles": 19144,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 6,
+      "action": "catch_umbrella",
+      "time": 307.3776312271634,
+      "camera": "establish",
+      "cameraPosition": [
+        2.5928856196156036,
+        3.8,
+        8.184601712425975
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.1361775683266204,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "catch_umbrella",
+      "time": 309.94408697977013,
+      "camera": "action",
+      "cameraPosition": [
+        2.5970135553071105,
+        3.8,
+        6.476206003166597
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.165517703656414,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 6,
+      "action": "catch_umbrella",
+      "time": 312.51054273237685,
+      "camera": "reaction",
+      "cameraPosition": [
+        3.735418051947501,
+        3.8,
+        7.711926333766732
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.2016727650353567,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 30,
+      "triangles": 18308,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "see_puddle",
+      "time": 314.49560645218793,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.739085448934995,
+        1.25,
+        6.322793489507325
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.1760693534909503,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "see_puddle",
+      "time": 317.0288566081455,
+      "camera": "action",
+      "cameraPosition": [
+        -3.5977616625988955,
+        1.25,
+        6.374802384457486
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.1760693534909503,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "see_puddle",
+      "time": 319.5621067641031,
+      "camera": "reaction",
+      "cameraPosition": [
+        -1.8772410025711155,
+        2.7,
+        4.124421826201079
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.1760693534909503,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "jump_puddle",
+      "time": 321.532412440959,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.739085448934995,
+        1.25,
+        6.322793489507325
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.895950450531865,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "jump_puddle",
+      "time": 324.0656625969165,
+      "camera": "action",
+      "cameraPosition": [
+        4.5959654308074125,
+        1.25,
+        3.783688522930175
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.1469840698983744,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.8089607712765966,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "jump_puddle",
+      "time": 326.5989127528741,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.6179893182897453,
+        2.7,
+        5.2265020505943
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.449748545624573,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "splash_friend",
+      "time": 328.56921842973003,
+      "camera": "establish",
+      "cameraPosition": [
+        3.436665336772611,
+        2.6,
+        7.566932661066959
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3363370748366123,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "splash_friend",
+      "time": 331.1024685856876,
+      "camera": "action",
+      "cameraPosition": [
+        2.745655909895526,
+        2.6,
+        4.941307471653195
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3325277380733114,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 7,
+      "action": "splash_friend",
+      "time": 333.6357187416452,
+      "camera": "reaction",
+      "cameraPosition": [
+        4.388291283087402,
+        2.6,
+        7.311837330889341
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3325261494820877,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 7,
+      "action": "shocked_friend",
+      "time": 335.6060244185011,
+      "camera": "establish",
+      "cameraPosition": [
+        3.216499854880334,
+        4.2,
+        7.964006488682764
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.0649440204494105,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "shocked_friend",
+      "time": 338.1392745744586,
+      "camera": "action",
+      "cameraPosition": [
+        -0.4847672878074693,
+        2.35,
+        4.636082199503857
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.0649440204494105,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "shocked_friend",
+      "time": 340.6725247304162,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.1099263684723653,
+        2.35,
+        3.8986840151374684
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.0649440204494105,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "apologize",
+      "time": 342.64283040727213,
+      "camera": "establish",
+      "cameraPosition": [
+        -1.8444698687674568,
+        4.2,
+        8.004445933200232
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9926174454718704,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "apologize",
+      "time": 345.1760805632297,
+      "camera": "action",
+      "cameraPosition": [
+        2.6042790459658494,
+        2.5667249430152377,
+        4.979552500163379
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9926174454718704,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "apologize",
+      "time": 347.7093307191873,
+      "camera": "reaction",
+      "cameraPosition": [
+        -1.8772410025711155,
+        2.7,
+        4.124421826201079
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9926174454718704,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "wring_hem",
+      "time": 349.6796363960432,
+      "camera": "establish",
+      "cameraPosition": [
+        4.299931030206177,
+        4.2,
+        7.473645467754805
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.303522898848978,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "wring_hem",
+      "time": 352.2128865520007,
+      "camera": "action",
+      "cameraPosition": [
+        -0.045957595229669135,
+        2.7,
+        4.400060232651043
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3031398950202002,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "wring_hem",
+      "time": 354.7461367079583,
+      "camera": "reaction",
+      "cameraPosition": [
+        0.4679893182897453,
+        2.7,
+        5.9265020505943005
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3027014231520537,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "careful_steps",
+      "time": 356.7164423848142,
+      "camera": "establish",
+      "cameraPosition": [
+        3.1154273539969766,
+        1.25,
+        3.31411620673597
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 4.349582596201776,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.4865001667308911,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17204,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 7,
+      "action": "careful_steps",
+      "time": 359.2496925407718,
+      "camera": "action",
+      "cameraPosition": [
+        5.3601084137099155,
+        1.25,
+        3.183688522930175
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0585659350762766,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.9863291051530686,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 7,
+      "action": "careful_steps",
+      "time": 361.7829426967294,
+      "camera": "reaction",
+      "cameraPosition": [
+        0.35307810466954503,
+        2.7,
+        4.471287939342647
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 0.7322100877462787,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.04665070091938866,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "wipe_and_laugh",
+      "time": 363.7532483735853,
+      "camera": "establish",
+      "cameraPosition": [
+        2.591499854880334,
+        4.2,
+        7.964006488682764
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4784805225870368,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 17240,
+      "fixedSegmentError": 2.7755575615628914e-16
+    },
+    {
+      "chapter": 7,
+      "action": "wipe_and_laugh",
+      "time": 366.2864985295428,
+      "camera": "action",
+      "cameraPosition": [
+        -1.1847672878074693,
+        2.35,
+        4.636082199503857
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4784805225870368,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 17240,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 7,
+      "action": "wipe_and_laugh",
+      "time": 368.81974868550043,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.559926368472365,
+        2.35,
+        3.8986840151374684
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4784805225870368,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 17240,
+      "fixedSegmentError": 3.885780586188048e-16
+    },
+    {
+      "chapter": 8,
+      "action": "set_start",
+      "time": 370.7767400409946,
+      "camera": "establish",
+      "cameraPosition": [
+        -5.384643452077907,
+        4.2,
+        7.456971655445309
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 43,
+      "triangles": 8780,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "set_start",
+      "time": 373.27004723286694,
+      "camera": "action",
+      "cameraPosition": [
+        -0.22949581612317838,
+        2.5747852772661917,
+        5.031178432683509
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 40,
+      "triangles": 8744,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "set_start",
+      "time": 375.76335442473936,
+      "camera": "reaction",
+      "cameraPosition": [
+        -6.0955177173842845,
+        2.7,
+        3.074403907559489
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 39,
+      "triangles": 8732,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "check_distance",
+      "time": 377.7025933517512,
+      "camera": "establish",
+      "cameraPosition": [
+        -0.09581451783191984,
+        9.5,
+        5.999194642944969
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6302981508636356,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 58,
+      "triangles": 8960,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "check_distance",
+      "time": 380.19590054362357,
+      "camera": "action",
+      "cameraPosition": [
+        -2.378784813041033,
+        2.5747852772661917,
+        5.246386766556001
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6302981508636356,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 52,
+      "triangles": 8888,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "check_distance",
+      "time": 382.689207735496,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.275417225491233,
+        2.7,
+        4.940876011580091
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6302981508636356,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 39,
+      "triangles": 8732,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "weigh_coats",
+      "time": 384.6284466625078,
+      "camera": "establish",
+      "cameraPosition": [
+        -3.2482139284906943,
+        4.2,
+        7.318594062012903
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6272280122249811,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 61,
+      "triangles": 10764,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "weigh_coats",
+      "time": 387.1217538543802,
+      "camera": "action",
+      "cameraPosition": [
+        0.9898241250284406,
+        2.7,
+        4.486521219415035
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.62840146645816,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 56,
+      "triangles": 10704,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 8,
+      "action": "weigh_coats",
+      "time": 389.6150610462526,
+      "camera": "reaction",
+      "cameraPosition": [
+        -1.7594432785550045,
+        2.7,
+        4.217112916861056
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6298223397672043,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 56,
+      "triangles": 10704,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 8,
+      "action": "simultaneous_start",
+      "time": 391.55429997326445,
+      "camera": "establish",
+      "cameraPosition": [
+        4.210144661042486,
+        4.2,
+        3.9597616251403527
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8539012543746158,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.6038342380515593,
+        1.8961995599305315
+      ],
+      "drawCalls": 33,
+      "triangles": 4984,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 8,
+      "action": "simultaneous_start",
+      "time": 394.0476071651368,
+      "camera": "action",
+      "cameraPosition": [
+        8.857195043840147,
+        4.074785277266192,
+        4.147418706105048
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.4795243627218944,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.3677209247432747,
+        0.39919990735382355
+      ],
+      "drawCalls": 34,
+      "triangles": 4996,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "simultaneous_start",
+      "time": 396.5409143570092,
+      "camera": "reaction",
+      "cameraPosition": [
+        9.550375560950208,
+        4.2,
+        3.5674626084780914
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6329915544899007,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.5601835702405817,
+        0
+      ],
+      "drawCalls": 33,
+      "triangles": 4984,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 8,
+      "action": "compare_clocks",
+      "time": 398.48015328402107,
+      "camera": "establish",
+      "cameraPosition": [
+        -2.384643452077907,
+        4.2,
+        7.656971655445309
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5807047588700178,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 5008,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "compare_clocks",
+      "time": 400.97346047589343,
+      "camera": "action",
+      "cameraPosition": [
+        2.435518163486183,
+        2.7,
+        3.8437623051396788
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5807047588700178,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 5008,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "compare_clocks",
+      "time": 403.46676766776585,
+      "camera": "reaction",
+      "cameraPosition": [
+        -4.71697937887129,
+        4.2,
+        6.2038535734239835
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5807047588700178,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 35,
+      "triangles": 5008,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "write_result",
+      "time": 405.4060065947777,
+      "camera": "establish",
+      "cameraPosition": [
+        3.616171335145374,
+        4.2,
+        7.13629001779742
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.75882358303571,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 51,
+      "triangles": 8876,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "write_result",
+      "time": 407.89931378665005,
+      "camera": "action",
+      "cameraPosition": [
+        -0.49393703568173664,
+        2.7,
+        4.084584831304521
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.75882358303571,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 44,
+      "triangles": 8792,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "write_result",
+      "time": 410.3926209785225,
+      "camera": "reaction",
+      "cameraPosition": [
+        -0.42458277450876686,
+        2.7,
+        5.540876011580091
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.75882358303571,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 50,
+      "triangles": 8864,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "repeat_trial",
+      "time": 412.3318599055343,
+      "camera": "establish",
+      "cameraPosition": [
+        4.210144661042486,
+        4.2,
+        3.9597616251403527
+      ],
+      "shot": 0,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.8539012543746158,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.6038342380515593,
+        1.8961995599305315
+      ],
+      "drawCalls": 33,
+      "triangles": 4984,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 8,
+      "action": "repeat_trial",
+      "time": 414.8251670974067,
+      "camera": "action",
+      "cameraPosition": [
+        8.857195043840147,
+        4.074785277266192,
+        4.147418706105048
+      ],
+      "shot": 1,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.4795243627218944,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.3677209247432747,
+        0.39919990735382355
+      ],
+      "drawCalls": 34,
+      "triangles": 4996,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "repeat_trial",
+      "time": 417.3184742892791,
+      "camera": "reaction",
+      "cameraPosition": [
+        9.550375560950208,
+        4.2,
+        3.5674626084780914
+      ],
+      "shot": 2,
+      "split": true,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6329915544899007,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.5601835702405817,
+        0
+      ],
+      "drawCalls": 33,
+      "triangles": 4984,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 8,
+      "action": "agree_result",
+      "time": 419.25771321629094,
+      "camera": "establish",
+      "cameraPosition": [
+        2.4808375378860252,
+        4.2,
+        7.625093954563268
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9753458578187866,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 51,
+      "triangles": 8876,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "agree_result",
+      "time": 421.7510204081633,
+      "camera": "action",
+      "cameraPosition": [
+        -1.8115615490069323,
+        2.5747852772661917,
+        5.395987111792841
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0056977577773165,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 49,
+      "triangles": 8852,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 8,
+      "action": "agree_result",
+      "time": 424.2443276000357,
+      "camera": "reaction",
+      "cameraPosition": [
+        2.057154997091195,
+        2.7,
+        4.809990892979945
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": true,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.0430667693495743,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 47,
+      "triangles": 8828,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "choose_route",
+      "time": 426.1721771678104,
+      "camera": "establish",
+      "cameraPosition": [
+        0.24268847622585188,
+        6,
+        16.441307932209952
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9822928908646276,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "choose_route",
+      "time": 428.63131628197135,
+      "camera": "action",
+      "cameraPosition": [
+        1.8906922239512625,
+        2.581741235095362,
+        4.6755323552534716
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9822928908646276,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "choose_route",
+      "time": 431.0904553961323,
+      "camera": "reaction",
+      "cameraPosition": [
+        -2.215433388615782,
+        2.7,
+        3.9205662271901134
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.9822928908646276,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "spot_slip",
+      "time": 433.0031191515908,
+      "camera": "establish",
+      "cameraPosition": [
+        4.068177933798076,
+        1.25,
+        3.9221238363841535
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.1992229275527717,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.3845091945205439,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "spot_slip",
+      "time": 435.46225826575176,
+      "camera": "action",
+      "cameraPosition": [
+        -1.7400097537863488,
+        1.25,
+        6.361723945230688
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7064480235323705,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.08094930410958788,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "spot_slip",
+      "time": 437.9213973799127,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.6790256422911964,
+        2.7,
+        4.953610383937322
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.7050336043782792,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "steady_friend",
+      "time": 439.8340611353712,
+      "camera": "establish",
+      "cameraPosition": [
+        1.274834305481665,
+        2.8,
+        6.954015730736858
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": true,
+      "handDistance": 2.239489711559042e-16,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "steady_friend",
+      "time": 442.29320024953216,
+      "camera": "action",
+      "cameraPosition": [
+        1.6222262716487938,
+        2.8,
+        6.793996194821469
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": true,
+      "handDistance": 0,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 9,
+      "action": "steady_friend",
+      "time": 444.7523393636931,
+      "camera": "reaction",
+      "cameraPosition": [
+        1.9467051565582703,
+        2.8,
+        6.622351347708265
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": true,
+      "handDistance": 0,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 9,
+      "action": "go_together",
+      "time": 446.6650031191516,
+      "camera": "establish",
+      "cameraPosition": [
+        8.443272063877437,
+        4.2,
+        4.2597130352614485
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6927220497850957,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.6901218388100391,
+        0.6890974964380125
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 9,
+      "action": "go_together",
+      "time": 449.12414223331257,
+      "camera": "action",
+      "cameraPosition": [
+        8.550206191030881,
+        2.581741235095362,
+        3.248780442242455
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5580571193630168,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        1.3991511252587285,
+        1.3970743763400997
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 2.7755575615628914e-16
+    },
+    {
+      "chapter": 9,
+      "action": "go_together",
+      "time": 451.58328134747353,
+      "camera": "reaction",
+      "cameraPosition": [
+        8.759841680779717,
+        2.7,
+        4.414021815983668
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4775000617809588,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.06617606673519263,
+        0.06607784212417643
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 9,
+      "action": "enter_shelter",
+      "time": 453.495945102932,
+      "camera": "establish",
+      "cameraPosition": [
+        8.472057784787001,
+        4.2,
+        7.766770858883979
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.487623944416061,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.2255228170160769,
+        0.2255228170160769
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 9,
+      "action": "enter_shelter",
+      "time": 455.955084217093,
+      "camera": "action",
+      "cameraPosition": [
+        8.629984228456934,
+        2.581741235095362,
+        5.49642430371449
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4866068747318506,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.4572243413476691,
+        0.4572243413476691
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "enter_shelter",
+      "time": 458.41422333125394,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.549085476683414,
+        2.7,
+        4.417224701327477
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4866068747318506,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.021625475604275926,
+        0.021625475604275926
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.6653345369377348e-16
+    },
+    {
+      "chapter": 9,
+      "action": "high_five",
+      "time": 460.3268870867124,
+      "camera": "establish",
+      "cameraPosition": [
+        10.27456102109883,
+        4.2,
+        7.616770858883979
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 0.7950435343572558,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "high_five",
+      "time": 462.7860262008734,
+      "camera": "action",
+      "cameraPosition": [
+        10.402217305898493,
+        2.8,
+        6.821535423754334
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": true,
+      "handDistance": 1.7763568394002505e-15,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "high_five",
+      "time": 465.24516531503434,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.599827019528925,
+        2.7,
+        4.817224701327477
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 0.6942703470111617,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 9,
+      "action": "shake_drops",
+      "time": 467.1578290704928,
+      "camera": "establish",
+      "cameraPosition": [
+        10.224561021098832,
+        4.2,
+        7.666770858883979
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5349614632305442,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "shake_drops",
+      "time": 469.6169681846538,
+      "camera": "action",
+      "cameraPosition": [
+        9.356253636150807,
+        2.581741235095362,
+        5.39642430371449
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.533860881426121,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "shake_drops",
+      "time": 472.07610729881475,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.649827019528926,
+        2.7,
+        4.317224701327477
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5325339507024553,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 21676,
+      "fixedSegmentError": 2.220446049250313e-16
+    },
+    {
+      "chapter": 9,
+      "action": "final_wave",
+      "time": 473.98877105427323,
+      "camera": "establish",
+      "cameraPosition": [
+        10.224561021098832,
+        4.2,
+        7.666770858883979
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.5813925453798947,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "final_wave",
+      "time": 476.4479101684342,
+      "camera": "action",
+      "cameraPosition": [
+        9.356253636150807,
+        2.581741235095362,
+        5.39642430371449
+      ],
+      "shot": 1,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6194297506177877,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    },
+    {
+      "chapter": 9,
+      "action": "final_wave",
+      "time": 478.90704928259515,
+      "camera": "reaction",
+      "cameraPosition": [
+        10.649827019528926,
+        2.7,
+        4.317224701327477
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.6684036734966017,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "triangles": 17196,
+      "fixedSegmentError": 1.1102230246251565e-16
+    }
+  ]
+}

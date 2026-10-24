@@ -1,18 +1,16 @@
 # 01 - Andar ou Correr na chuva
 
-[Prévia atual de 1 minuto em 1080p](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4)
+**Exportação completa em andamento:** o código e o áudio já cobrem os oito minutos revisados. O MP4 completo no Git será substituído após terminar a renderização e a validação; enquanto isso, ele ainda é a versão anterior.
 
-![Quadros da prévia R4](qa/direcao-r4.jpg)
+[Prévia aprovada de 1 minuto em 1080p](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4)
 
-A revisão R4 retoma o renderizador procedural **Three.js/Canvas dos primeiros vídeos**, com o mesmo cenário e personagens próprios de casaco amarelo e verde. A nova abertura de 60 segundos tem personagens um pouco mais alongados, braços e pernas de comprimentos fixos, pés apoiados no chão, gestos com preparação e retorno, deslocamento contínuo e cortes escritos para cada ação.
+A produção usa o renderizador procedural **Three.js/Canvas dos primeiros vídeos**, com o cenário e os personagens próprios de casaco amarelo e verde. Os personagens um pouco mais alongados têm braços e pernas de comprimentos fixos, apoio dos pés ligado à distância percorrida e gestos com preparação e retorno. O experimento Blender está arquivado.
 
-A sequência mostra a primeira gota, a decisão diante da chuva, a caminhada e a corrida até o abrigo, um respingo com reação e o encontro dos personagens. Os movimentos de câmera alternam contexto, ação, reação, acompanhamento, rotação e vista do trajeto. Os contornos continuam sendo geometria 3D; sobrancelhas e pequenas marcas dos casacos também recebem traços curvos calculados por código.
+A abertura aprovada foi preservada. O restante inclui as comparações em duas pistas, as regiões do corpo expostas à chuva, recipientes com água subindo, vento, guarda-chuva, poça, passagem da toalha entre os personagens e a chegada ao abrigo. Os gestos de explicação têm início e fim; as gotas que escorrem da roupa caem para o chão. As câmeras alternam contexto, ação, detalhe e reação.
 
-O player contém a abertura R4 e o restante do projeto anterior. O MP4 completo de oito minutos ainda é a versão anterior; esta entrega revisa a prévia de um minuto. O experimento Blender está arquivado em `Animação/Blender`.
+Os contornos, os personagens, os cenários e os pequenos traços dos casacos são geometria calculada por código. A narração Puck tratada foi mantida; não foi necessário gerar outra voz. Chuva, vento, passos e respingos são sintetizados em Python. O primeiro minuto da mixagem preserva o áudio aprovado.
 
-A narração Puck tratada foi preservada. O primeiro minuto tem nova chuva, passos, respingo e cumprimento sintetizados em Python. A mixagem do player foi atualizada nesse trecho. O texto sobre programação continua removido da narração.
-
-## Executar
+## Executar e conferir
 
 Requisitos: Node 22+, Python 3 com NumPy, Chromium e FFmpeg/FFprobe com libx264.
 
@@ -20,33 +18,49 @@ Requisitos: Node 22+, Python 3 com NumPy, Chromium e FFmpeg/FFprobe com libx264.
 npm ci
 npm run serve
 npm test
+npm run test:full
 ```
 
 Abra o servidor local na porta 4175. `CHROMIUM_PATH` permite escolher outro executável Chromium; o padrão é `/usr/bin/chromium`.
 
-## Renderizar a prévia
+Os testes conferem os personagens efetivamente posados: comprimentos dos membros, apoio dos pés, deslocamento, contato das mãos, enquadramentos finitos e erros do player. `qa/runtime-full-r4.json` registra a amostragem dos capítulos. `qa/approved-pilot-r4.json` compara quadros da abertura com a prévia aprovada. Isso complementa a conferência visual; não constitui uma avaliação humana de áudio.
+
+## Recriar o som
 
 ```sh
-python scripts/sound-preview.py --output /tmp/efeitos-preview.wav
-python scripts/render-preview.py --output /tmp/chuva-preview-60s.mp4
+node scripts/motion.mjs
+python scripts/sound.py
+python scripts/mix-approved-prefix.py --approved "../../videos/01 - Andar ou Correr na chuva - Preview 1min.mp4"
 ```
 
-O renderer calcula os quadros a **1920 × 1080, 24 fps**, monta o MP4 com a mixagem e valida duração, dimensões, número de quadros, tamanho e decodificação completa. O parâmetro `--work` escolhe uma pasta para intermediários e logs; `--audio` permite fornecer uma mixagem WAV. A mixagem padrão é `audio/mix.mp3`.
+A narração já está em `audio/narracao.mp3`. A última etapa preserva os primeiros 60 segundos aprovados, atualiza `audio/mix.mp3` e verifica duração e amostras saturadas. `--wav-output /tmp/chuva-audio.wav` permite guardar a mixagem PCM para a exportação.
 
-Para renderizar apenas um trecho sem áudio:
+## Exportar o filme completo
 
 ```sh
-node scripts/render.mjs --start 19 --duration 5 --output /tmp/corrida.mp4
+python scripts/render-full.py --work /tmp/chuva-render --output /tmp/chuva-8min.mp4
 ```
 
-## Organização e conferência
+A exportação calcula os quadros a **1920 × 1080, 24 fps**, em partes retomáveis. Depois monta os 480 segundos com a mixagem, verifica os 11.520 quadros e decodifica o arquivo inteiro. Se necessário para o limite de arquivo do GitHub, o encoder ajusta a compressão em duas passagens, mantendo a resolução nativa.
 
-- `film.js`: geometria, materiais, personagens, articulações, chuva, gráficos e saída Canvas.
-- `opening.js`: trajetos contínuos, gestos e câmeras da abertura de um minuto.
+Os intermediários ficam na pasta `--work`. Para usar a mixagem PCM, passe `--audio /tmp/chuva-audio.wav`. `render-all.py` e `assemble_validate.py` são entradas de compatibilidade para esse mesmo fluxo.
+
+Para renderizar somente a prévia ou um trecho sem áudio:
+
+```sh
+python scripts/render-preview.py --output /tmp/chuva-preview.mp4
+node scripts/render.mjs --start 280 --duration 5 --output /tmp/vento.mp4
+```
+
+## Organização
+
+- `film.js`: geometria, materiais, personagens, chuva, gráficos e saída Canvas.
+- `opening.js`: trajetos e câmeras da abertura aprovada.
+- `performance.js`: gestos, escolha entre caminhada e corrida e interações do restante do filme.
 - `kinematics.js`: IK de dois segmentos e interpolação dos gestos em arco.
-- `story.js`, `direction.js`, `timing.json`: estrutura do episódio e direção dos demais capítulos.
-- `scripts/inspect-locomotion.mjs`: verifica os comprimentos dos segmentos, o apoio dos pés, o deslocamento real e o contato entre as mãos a partir dos personagens efetivamente posados.
-- `qa/`: conferência atual R4 e arquivos identificados das revisões anteriores.
+- `story.js`, `direction.js`, `timing.json`: capítulos, ações e direção.
+- `scripts/`: síntese de som, servidor, renderização e validação.
+- `qa/`: relatórios e quadros identificados por revisão.
 - `vendor/three.min.js`: Three.js r128, licença MIT.
 
-Toda a imagem nasce de código: não há imagens prontas, modelos importados, vídeos de fundo ou efeitos sonoros de biblioteca. A voz é sintetizada pelo Gemini. A conferência de áudio é automatizada; não há alegação de escuta humana.
+Toda a imagem nasce de código. Não há imagens prontas, modelos importados, vídeos de fundo ou efeitos sonoros de biblioteca. A voz é sintetizada pelo Gemini. As conferências de áudio são automatizadas, sem alegação de escuta humana.

@@ -1,3 +1,4 @@
+import {perform} from './performance.js';
 import {opening,openingCamera} from './opening.js';
 // R3: motion phrases with preparation, accent and recovery; all coordinates are procedural.
 const clamp=x=>Math.max(0,Math.min(1,x)),ease=x=>{x=clamp(x);return x*x*(3-2*x);},lerp=(a,b,t)=>a+(b-a)*t;
@@ -22,7 +23,7 @@ export function direct(st,t){const {A,B,q,local,length,action}=st;st.lab=[1,2,3,
   for(const [i,a]of[A,B].entries()){const duration=i?.5:.95,p=clamp(q/duration),f=ease(p);a.x=-3+6*f;a.z=i?-.8:.8;a.yaw=Math.PI/2;a.distance=6*f;a.speed=p>0&&p<1?36*p*(1-p)/(length*duration):0;a.hands={};a.look=-.25;a.wet=i?Math.min(.45,q*.9):q*.9;}
  }
  st.performer=['run_test','run_through','umbrella_open','umbrella_flip','chase_umbrella','wring_hem','write_result'].includes(action)?'B':'A';
- return opening(st,t);
+ return opening(perform(st,t),t);
 }
 export function cameraPlan(st,t,aspect=16/9,solo=null){
  if(st.pilot)return openingCamera(st,t,aspect);
@@ -31,7 +32,7 @@ export function cameraPlan(st,t,aspect=16/9,solo=null){
  let radius=focus?5.25:Math.max(8.0,Math.abs(A.x-B.x)*1.25+5.4),cy=focus?2.7:4.2,angle=[-.38,.42,-.50,.26][(st.index+sub)%4],fov=42,roll=0;
  if(sub===0){angle+=.20*p;radius*=1-.10*p;}else if(sub===1){angle+=.32*p;radius*=1-.12*p;cy-=.22*p;}else{angle-=.22*p;radius*=1-.07*p;}
  if(st.camera==='orbit'){focus=null;fx=(A.x+B.x)/2;fz=(A.z+B.z)/2;radius=8.0;angle=-.65+st.q*1.25;cy=3.4;}
- if(st.camera==='feet'&&sub!==2){focus=st.action==='jump_puddle'?A:hero;fx=focus.x;fz=focus.z;ly=.55;cy=1.25;radius=5.3;angle=.35+.2*p;}
+ if(st.camera==='feet'&&sub!==2){focus=st.action==='jump_puddle'?A:hero;fx=focus.x;fz=focus.z;ly=.55;cy=1.25;radius=5.7;angle=-.40+.1*p;}
  if(hero.speed>.2&&!solo){angle=Math.max(-1,Math.min(1,hero.yaw*.65))+.10*p;}
  if(st.camera==='faces'&&sub!==0){radius=3.7;cy=2.35;ly=1.78;}
  if(st.camera.includes('hands')&&sub===1){radius=4.3;cy=2.7;ly=1.3;}

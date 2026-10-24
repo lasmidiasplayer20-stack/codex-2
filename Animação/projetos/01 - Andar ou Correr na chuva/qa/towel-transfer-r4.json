@@ -1,0 +1,83 @@
+[
+  {
+    "chapter": 5,
+    "action": "dry_friend",
+    "time": 244.64370376971755,
+    "camera": "establish",
+    "cameraPosition": [
+      10.230196760832067,
+      4.2,
+      7.703818289461845
+    ],
+    "shot": 0,
+    "split": false,
+    "studio": false,
+    "contour": true,
+    "contact": false,
+    "handDistance": 1.1438404317456818,
+    "overlays": [
+      false,
+      false
+    ],
+    "speeds": [
+      0,
+      0
+    ],
+    "drawCalls": 11,
+    "triangles": 17208
+  },
+  {
+    "chapter": 5,
+    "action": "dry_friend",
+    "time": 246.93681490063278,
+    "camera": "action",
+    "cameraPosition": [
+      10.224770609520712,
+      2.8,
+      6.970717174219103
+    ],
+    "shot": 1,
+    "split": false,
+    "studio": false,
+    "contour": true,
+    "contact": true,
+    "handDistance": 3.554447978966673e-15,
+    "overlays": [
+      false,
+      false
+    ],
+    "speeds": [
+      0,
+      0
+    ],
+    "drawCalls": 11,
+    "triangles": 17208
+  },
+  {
+    "chapter": 5,
+    "action": "dry_friend",
+    "time": 249.22992603154802,
+    "camera": "reaction",
+    "cameraPosition": [
+      9.342205719875125,
+      2.7,
+      5.564285756054581
+    ],
+    "shot": 2,
+    "split": false,
+    "studio": false,
+    "contour": true,
+    "contact": false,
+    "handDistance": 1.3056387543803885,
+    "overlays": [
+      false,
+      false
+    ],
+    "speeds": [
+      0,
+      0
+    ],
+    "drawCalls": 11,
+    "triangles": 17208
+  }
+]

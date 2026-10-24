@@ -24,11 +24,11 @@ def transient(t,kind,amp=.07,pan=0):
 previous=''
 for m in motion:
  for who,pan in [('A',-.35),('B',.35)]:
-  actor=m[who];speed=actor.get('speed',0);stride=1.22 if speed>1.15 else .82;step=int(actor.get('distance',0)/stride*2)
+  actor=m[who];speed=actor.get('speed',0);run=actor.get('gaitRun',speed>1.15);stride=(1.24 if run else .90)*1.05;step=int(actor.get('distance',0)/stride*2)
   if speed>.08 and step!=last_step[who] and not actor.get('air'):transient(m['t'],'wet_step',.032,pan)
   last_step[who]=step
  if m['action']!=previous:
-  if m['action'] in ['splash_friend','wring_hem','wring_coat']:transient(m['t']+.8,'splash',.075,.2)
+  if m['action'] in ['splash_friend','wring_hem','wring_coat']:transient(m['t']+(.35 if m['action']=='splash_friend' else .8),'splash',.065,.2)
   if m['action']=='umbrella_flip':transient(m['t']+1.8,'snap',.055,.3)
   if m['action']=='high_five':
    c=chap[8];beat=(c['end']-c['start'])/8;transient(m['t']+beat*.38,'clap',.04,0)
@@ -43,7 +43,7 @@ raw=ROOT/'audio/effects.wav'
 with wave.open(str(raw),'wb') as f:f.setparams((2,2,SR,0,'NONE','not compressed'));f.writeframes((np.clip(mix,-.95,.95)*32767).astype('<i2').tobytes())
 subprocess.run(['ffmpeg','-v','error','-y','-i',str(raw),'-c:a','libmp3lame','-b:a','128k',str(ROOT/'audio/efeitos.mp3')],check=True)
 # Voice stays in the foreground; sidechain ducking gently lowers the rain during speech.
-filters='[0:a]aresample=24000,asplit=2[v][sc];[1:a][sc]sidechaincompress=threshold=0.035:ratio=2.5:attack=40:release=250[fx];[v][fx]amix=inputs=2:duration=longest:normalize=0,loudnorm=I=-16:TP=-1.5:LRA=6,apad=pad_dur=1,atrim=duration=480[out]'
+filters='[0:a]aresample=24000,asplit=2[v][sc];[1:a][sc]sidechaincompress=threshold=0.035:ratio=2.5:attack=40:release=250[fx];[v][fx]amix=inputs=2:duration=longest:normalize=0,alimiter=limit=0.84:level=0:attack=5:release=100,apad=pad_dur=1,atrim=duration=480[out]'
 subprocess.run(['ffmpeg','-v','error','-y','-i',str(ROOT/'audio/narracao.mp3'),'-i',str(raw),'-filter_complex',filters,'-map','[out]','-ar','48000','-c:a','libmp3lame','-b:a','192k',str(ROOT/'audio/mix.mp3')],check=True)
 (ROOT/'qa/sound.json').write_text(json.dumps({'duration':D,'sample_rate':SR,'seed':20261023,'source':'NumPy noise shaping, synthesized sine/noise transients, no samples','wet_steps':len(events),'events':events},indent=2))
 raw.unlink();print('Synthesized rain, wind and',len(events),'footsteps; mixed 480-second audio.',flush=True)

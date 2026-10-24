@@ -7,7 +7,9 @@
     "serve": "node scripts/serve.mjs",
     "render": "node scripts/render.mjs",
     "test": "node scripts/inspect-locomotion.mjs",
-    "render:preview": "python scripts/render-preview.py"
+    "render:preview": "python scripts/render-preview.py",
+    "test:full": "node scripts/inspect-full.mjs",
+    "render:full": "python scripts/render-full.py"
   },
   "devDependencies": {
     "@playwright/test": "1.64.0"

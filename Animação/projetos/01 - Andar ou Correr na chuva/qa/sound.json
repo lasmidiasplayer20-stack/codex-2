@@ -3,122 +3,202 @@
   "sample_rate": 24000,
   "seed": 20261023,
   "source": "NumPy noise shaping, synthesized sine/noise transients, no samples",
-  "wet_steps": 264,
+  "wet_steps": 296,
   "events": [
     {
-      "t": 26.083,
+      "t": 5.042,
       "type": "wet_step"
     },
     {
-      "t": 26.333,
+      "t": 5.042,
       "type": "wet_step"
     },
     {
-      "t": 26.417,
+      "t": 5.708,
       "type": "wet_step"
     },
     {
-      "t": 26.667,
+      "t": 5.708,
       "type": "wet_step"
     },
     {
-      "t": 26.833,
+      "t": 6.375,
       "type": "wet_step"
     },
     {
-      "t": 26.917,
+      "t": 6.375,
       "type": "wet_step"
     },
     {
-      "t": 27.167,
+      "t": 7.042,
       "type": "wet_step"
     },
     {
-      "t": 27.25,
+      "t": 7.042,
       "type": "wet_step"
     },
     {
-      "t": 27.417,
+      "t": 7.708,
       "type": "wet_step"
     },
     {
-      "t": 27.583,
+      "t": 7.708,
       "type": "wet_step"
     },
     {
-      "t": 27.667,
+      "t": 8.417,
       "type": "wet_step"
     },
     {
-      "t": 27.833,
+      "t": 8.417,
       "type": "wet_step"
     },
     {
-      "t": 28,
+      "t": 19.708,
       "type": "wet_step"
     },
     {
-      "t": 28,
+      "t": 19.708,
       "type": "wet_step"
     },
     {
-      "t": 28.167,
+      "t": 20.083,
       "type": "wet_step"
     },
     {
-      "t": 28.417,
+      "t": 20.417,
       "type": "wet_step"
     },
     {
-      "t": 28.417,
+      "t": 20.75,
       "type": "wet_step"
     },
     {
-      "t": 28.583,
+      "t": 20.792,
       "type": "wet_step"
     },
     {
-      "t": 28.75,
+      "t": 21.167,
       "type": "wet_step"
     },
     {
-      "t": 28.833,
+      "t": 21.542,
       "type": "wet_step"
     },
     {
-      "t": 29.083,
+      "t": 21.625,
       "type": "wet_step"
     },
     {
-      "t": 29.167,
+      "t": 21.917,
       "type": "wet_step"
     },
     {
-      "t": 29.333,
+      "t": 22.292,
       "type": "wet_step"
     },
     {
-      "t": 29.583,
+      "t": 22.5,
       "type": "wet_step"
     },
     {
-      "t": 29.75,
+      "t": 22.667,
       "type": "wet_step"
     },
     {
-      "t": 30,
+      "t": 23.042,
       "type": "wet_step"
     },
     {
-      "t": 30.083,
+      "t": 23.375,
       "type": "wet_step"
     },
     {
-      "t": 30.25,
+      "t": 23.417,
       "type": "wet_step"
     },
     {
-      "t": 32.583,
+      "t": 23.792,
+      "type": "wet_step"
+    },
+    {
+      "t": 24.167,
+      "type": "wet_step"
+    },
+    {
+      "t": 24.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 24.542,
+      "type": "wet_step"
+    },
+    {
+      "t": 24.917,
+      "type": "wet_step"
+    },
+    {
+      "t": 25.125,
+      "type": "wet_step"
+    },
+    {
+      "t": 25.292,
+      "type": "wet_step"
+    },
+    {
+      "t": 25.625,
+      "type": "wet_step"
+    },
+    {
+      "t": 26,
+      "type": "wet_step"
+    },
+    {
+      "t": 26,
+      "type": "wet_step"
+    },
+    {
+      "t": 26.375,
+      "type": "wet_step"
+    },
+    {
+      "t": 26.75,
+      "type": "wet_step"
+    },
+    {
+      "t": 26.875,
+      "type": "wet_step"
+    },
+    {
+      "t": 27.125,
+      "type": "wet_step"
+    },
+    {
+      "t": 27.5,
+      "type": "wet_step"
+    },
+    {
+      "t": 27.75,
+      "type": "wet_step"
+    },
+    {
+      "t": 28.625,
+      "type": "wet_step"
+    },
+    {
+      "t": 29.5,
+      "type": "wet_step"
+    },
+    {
+      "t": 30.375,
+      "type": "wet_step"
+    },
+    {
+      "t": 31.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 32.125,
       "type": "wet_step"
     },
     {
@@ -126,19 +206,7 @@
       "type": "wet_step"
     },
     {
-      "t": 33.25,
-      "type": "wet_step"
-    },
-    {
-      "t": 33.333,
-      "type": "wet_step"
-    },
-    {
-      "t": 33.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 34.333,
+      "t": 33.875,
       "type": "wet_step"
     },
     {
@@ -146,35 +214,199 @@
       "type": "wet_step"
     },
     {
-      "t": 35.25,
+      "t": 35.625,
       "type": "wet_step"
     },
     {
-      "t": 35.333,
+      "t": 36.5,
       "type": "wet_step"
     },
     {
-      "t": 35.667,
+      "t": 37.375,
       "type": "wet_step"
     },
     {
-      "t": 36.167,
+      "t": 38.25,
       "type": "wet_step"
     },
     {
-      "t": 39.75,
+      "t": 39.125,
       "type": "wet_step"
     },
     {
-      "t": 40.667,
+      "t": 40,
       "type": "wet_step"
     },
     {
-      "t": 41.667,
+      "t": 40.875,
       "type": "wet_step"
     },
     {
-      "t": 106.833,
+      "t": 41.75,
+      "type": "wet_step"
+    },
+    {
+      "t": 42.625,
+      "type": "wet_step"
+    },
+    {
+      "t": 43.5,
+      "type": "wet_step"
+    },
+    {
+      "t": 44.375,
+      "type": "wet_step"
+    },
+    {
+      "t": 45.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 46.125,
+      "type": "wet_step"
+    },
+    {
+      "t": 51,
+      "type": "wet_step"
+    },
+    {
+      "t": 51.292,
+      "type": "wet_step"
+    },
+    {
+      "t": 51.375,
+      "type": "wet_step"
+    },
+    {
+      "t": 51.75,
+      "type": "wet_step"
+    },
+    {
+      "t": 51.958,
+      "type": "wet_step"
+    },
+    {
+      "t": 52.083,
+      "type": "wet_step"
+    },
+    {
+      "t": 52.458,
+      "type": "wet_step"
+    },
+    {
+      "t": 52.625,
+      "type": "wet_step"
+    },
+    {
+      "t": 52.833,
+      "type": "wet_step"
+    },
+    {
+      "t": 53.167,
+      "type": "wet_step"
+    },
+    {
+      "t": 53.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 53.542,
+      "type": "wet_step"
+    },
+    {
+      "t": 53.917,
+      "type": "wet_step"
+    },
+    {
+      "t": 53.917,
+      "type": "wet_step"
+    },
+    {
+      "t": 54.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 54.583,
+      "type": "wet_step"
+    },
+    {
+      "t": 54.625,
+      "type": "wet_step"
+    },
+    {
+      "t": 55,
+      "type": "wet_step"
+    },
+    {
+      "t": 55.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 55.333,
+      "type": "wet_step"
+    },
+    {
+      "t": 55.708,
+      "type": "wet_step"
+    },
+    {
+      "t": 55.875,
+      "type": "wet_step"
+    },
+    {
+      "t": 56.083,
+      "type": "wet_step"
+    },
+    {
+      "t": 56.417,
+      "type": "wet_step"
+    },
+    {
+      "t": 56.542,
+      "type": "wet_step"
+    },
+    {
+      "t": 56.792,
+      "type": "wet_step"
+    },
+    {
+      "t": 57.167,
+      "type": "wet_step"
+    },
+    {
+      "t": 57.208,
+      "type": "wet_step"
+    },
+    {
+      "t": 57.5,
+      "type": "wet_step"
+    },
+    {
+      "t": 57.875,
+      "type": "wet_step"
+    },
+    {
+      "t": 57.875,
+      "type": "wet_step"
+    },
+    {
+      "t": 58.25,
+      "type": "wet_step"
+    },
+    {
+      "t": 58.5,
+      "type": "wet_step"
+    },
+    {
+      "t": 59.167,
+      "type": "wet_step"
+    },
+    {
+      "t": 59.833,
+      "type": "wet_step"
+    },
+    {
+      "t": 106.875,
       "type": "wet_step"
     },
     {
@@ -182,7 +414,7 @@
       "type": "wet_step"
     },
     {
-      "t": 107.167,
+      "t": 107.25,
       "type": "wet_step"
     },
     {
@@ -194,27 +426,23 @@
       "type": "wet_step"
     },
     {
-      "t": 107.667,
+      "t": 107.75,
       "type": "wet_step"
     },
     {
-      "t": 107.833,
+      "t": 107.917,
       "type": "wet_step"
     },
     {
-      "t": 107.833,
+      "t": 108.125,
       "type": "wet_step"
     },
     {
-      "t": 108,
+      "t": 108.125,
       "type": "wet_step"
     },
     {
-      "t": 108.083,
-      "type": "wet_step"
-    },
-    {
-      "t": 108.333,
+      "t": 108.375,
       "type": "wet_step"
     },
     {
@@ -222,7 +450,7 @@
       "type": "wet_step"
     },
     {
-      "t": 108.583,
+      "t": 108.667,
       "type": "wet_step"
     },
     {
@@ -230,39 +458,35 @@
       "type": "wet_step"
     },
     {
-      "t": 108.917,
+      "t": 109.125,
       "type": "wet_step"
     },
     {
-      "t": 109.083,
+      "t": 109.125,
       "type": "wet_step"
     },
     {
-      "t": 109.333,
+      "t": 109.458,
       "type": "wet_step"
     },
     {
-      "t": 109.75,
+      "t": 109.792,
       "type": "wet_step"
     },
     {
-      "t": 110.167,
+      "t": 110.125,
       "type": "wet_step"
     },
     {
-      "t": 110.583,
+      "t": 110.458,
       "type": "wet_step"
     },
     {
-      "t": 110.667,
+      "t": 110.875,
       "type": "wet_step"
     },
     {
-      "t": 111,
-      "type": "wet_step"
-    },
-    {
-      "t": 111.5,
+      "t": 111.417,
       "type": "wet_step"
     },
     {
@@ -270,27 +494,23 @@
       "type": "wet_step"
     },
     {
-      "t": 113.5,
+      "t": 113.542,
       "type": "wet_step"
     },
     {
-      "t": 113.583,
+      "t": 113.625,
       "type": "wet_step"
     },
     {
-      "t": 113.75,
+      "t": 113.792,
       "type": "wet_step"
     },
     {
-      "t": 114,
+      "t": 114.042,
       "type": "wet_step"
     },
     {
-      "t": 114,
-      "type": "wet_step"
-    },
-    {
-      "t": 114.167,
+      "t": 114.083,
       "type": "wet_step"
     },
     {
@@ -298,15 +518,15 @@
       "type": "wet_step"
     },
     {
-      "t": 114.333,
+      "t": 114.5,
       "type": "wet_step"
     },
     {
-      "t": 114.417,
+      "t": 114.5,
       "type": "wet_step"
     },
     {
-      "t": 114.667,
+      "t": 114.75,
       "type": "wet_step"
     },
     {
@@ -314,75 +534,59 @@
       "type": "wet_step"
     },
     {
-      "t": 114.917,
+      "t": 115.042,
       "type": "wet_step"
     },
     {
-      "t": 115.25,
+      "t": 115.167,
       "type": "wet_step"
     },
     {
-      "t": 115.25,
+      "t": 115.458,
       "type": "wet_step"
     },
     {
-      "t": 115.417,
+      "t": 115.5,
       "type": "wet_step"
     },
     {
-      "t": 115.667,
+      "t": 115.792,
       "type": "wet_step"
     },
     {
-      "t": 116.083,
+      "t": 116.125,
       "type": "wet_step"
     },
     {
-      "t": 116.5,
+      "t": 116.458,
       "type": "wet_step"
     },
     {
-      "t": 117,
+      "t": 116.833,
       "type": "wet_step"
     },
     {
-      "t": 117.083,
+      "t": 117.25,
       "type": "wet_step"
     },
     {
-      "t": 117.417,
+      "t": 117.75,
       "type": "wet_step"
     },
     {
-      "t": 117.917,
+      "t": 120.042,
       "type": "wet_step"
     },
     {
-      "t": 120,
+      "t": 120.542,
       "type": "wet_step"
     },
     {
-      "t": 120.417,
+      "t": 121.417,
       "type": "wet_step"
     },
     {
-      "t": 120.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 120.917,
-      "type": "wet_step"
-    },
-    {
-      "t": 121.333,
-      "type": "wet_step"
-    },
-    {
-      "t": 121.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 122.333,
+      "t": 121.917,
       "type": "wet_step"
     },
     {
@@ -390,23 +594,19 @@
       "type": "wet_step"
     },
     {
-      "t": 122.5,
+      "t": 122.542,
       "type": "wet_step"
     },
     {
-      "t": 122.917,
+      "t": 123,
       "type": "wet_step"
     },
     {
-      "t": 123.417,
+      "t": 123.583,
       "type": "wet_step"
     },
     {
-      "t": 158.583,
-      "type": "wet_step"
-    },
-    {
-      "t": 159,
+      "t": 158.625,
       "type": "wet_step"
     },
     {
@@ -414,51 +614,51 @@
       "type": "wet_step"
     },
     {
-      "t": 159.333,
+      "t": 159.458,
       "type": "wet_step"
     },
     {
-      "t": 159.75,
+      "t": 159.792,
       "type": "wet_step"
     },
     {
-      "t": 160.167,
+      "t": 160.125,
       "type": "wet_step"
     },
     {
-      "t": 160.583,
+      "t": 160.417,
       "type": "wet_step"
     },
     {
-      "t": 161,
+      "t": 160.75,
       "type": "wet_step"
     },
     {
-      "t": 161.417,
+      "t": 161.042,
       "type": "wet_step"
     },
     {
-      "t": 161.833,
+      "t": 161.375,
       "type": "wet_step"
     },
     {
-      "t": 162,
+      "t": 161.708,
       "type": "wet_step"
     },
     {
-      "t": 162.25,
+      "t": 162.125,
       "type": "wet_step"
     },
     {
-      "t": 162.75,
+      "t": 162.625,
       "type": "wet_step"
     },
     {
-      "t": 165.167,
+      "t": 165.208,
       "type": "wet_step"
     },
     {
-      "t": 165.5,
+      "t": 165.542,
       "type": "wet_step"
     },
     {
@@ -466,31 +666,27 @@
       "type": "wet_step"
     },
     {
-      "t": 166.083,
+      "t": 166.125,
       "type": "wet_step"
     },
     {
-      "t": 166.333,
+      "t": 166.375,
       "type": "wet_step"
     },
     {
-      "t": 166.583,
+      "t": 166.625,
       "type": "wet_step"
     },
     {
-      "t": 166.833,
+      "t": 166.917,
       "type": "wet_step"
     },
     {
-      "t": 167.083,
+      "t": 167.25,
       "type": "wet_step"
     },
     {
-      "t": 167.417,
-      "type": "wet_step"
-    },
-    {
-      "t": 167.583,
+      "t": 167.708,
       "type": "wet_step"
     },
     {
@@ -498,267 +694,223 @@
       "type": "splash"
     },
     {
-      "t": 265.167,
+      "t": 265.292,
       "type": "wet_step"
     },
     {
-      "t": 265.167,
+      "t": 265.292,
       "type": "wet_step"
     },
     {
-      "t": 265.833,
+      "t": 266.042,
       "type": "wet_step"
     },
     {
-      "t": 265.833,
+      "t": 266.042,
       "type": "wet_step"
     },
     {
-      "t": 266.417,
+      "t": 266.667,
       "type": "wet_step"
     },
     {
-      "t": 266.417,
+      "t": 266.667,
       "type": "wet_step"
     },
     {
-      "t": 267,
+      "t": 267.333,
       "type": "wet_step"
     },
     {
-      "t": 267,
+      "t": 267.333,
       "type": "wet_step"
     },
     {
-      "t": 267.583,
+      "t": 268.042,
       "type": "wet_step"
     },
     {
-      "t": 267.583,
+      "t": 268.042,
       "type": "wet_step"
     },
     {
-      "t": 268.25,
+      "t": 268.958,
       "type": "wet_step"
     },
     {
-      "t": 268.25,
+      "t": 268.958,
       "type": "wet_step"
     },
     {
-      "t": 269.083,
-      "type": "wet_step"
-    },
-    {
-      "t": 269.083,
-      "type": "wet_step"
-    },
-    {
-      "t": 279.883,
+      "t": 279.842,
       "type": "snap"
     },
     {
-      "t": 286.333,
+      "t": 286.625,
       "type": "wet_step"
     },
     {
-      "t": 286.833,
+      "t": 287.292,
       "type": "wet_step"
     },
     {
-      "t": 287.25,
+      "t": 287.917,
       "type": "wet_step"
     },
     {
-      "t": 287.667,
+      "t": 288.5,
       "type": "wet_step"
     },
     {
-      "t": 288,
+      "t": 289.125,
       "type": "wet_step"
     },
     {
-      "t": 288.417,
+      "t": 289.833,
       "type": "wet_step"
     },
     {
-      "t": 288.75,
+      "t": 293.75,
       "type": "wet_step"
     },
     {
-      "t": 289.167,
+      "t": 294.458,
       "type": "wet_step"
     },
     {
-      "t": 289.583,
+      "t": 295.083,
       "type": "wet_step"
     },
     {
-      "t": 290.083,
+      "t": 295.667,
       "type": "wet_step"
     },
     {
-      "t": 293.667,
+      "t": 296.333,
       "type": "wet_step"
     },
     {
-      "t": 294.333,
+      "t": 297.083,
       "type": "wet_step"
     },
     {
-      "t": 294.833,
+      "t": 300.708,
       "type": "wet_step"
     },
     {
-      "t": 295.417,
+      "t": 300.708,
       "type": "wet_step"
     },
     {
-      "t": 295.917,
+      "t": 301.333,
       "type": "wet_step"
     },
     {
-      "t": 296.5,
+      "t": 301.333,
       "type": "wet_step"
     },
     {
-      "t": 297.167,
+      "t": 301.833,
       "type": "wet_step"
     },
     {
-      "t": 300.667,
+      "t": 301.833,
       "type": "wet_step"
     },
     {
-      "t": 300.667,
+      "t": 302.333,
       "type": "wet_step"
     },
     {
-      "t": 301.167,
+      "t": 302.333,
       "type": "wet_step"
     },
     {
-      "t": 301.167,
+      "t": 302.792,
       "type": "wet_step"
     },
     {
-      "t": 301.667,
+      "t": 302.792,
       "type": "wet_step"
     },
     {
-      "t": 301.667,
+      "t": 303.292,
       "type": "wet_step"
     },
     {
-      "t": 302.083,
+      "t": 303.292,
       "type": "wet_step"
     },
     {
-      "t": 302.083,
+      "t": 303.875,
       "type": "wet_step"
     },
     {
-      "t": 302.5,
+      "t": 303.875,
       "type": "wet_step"
     },
     {
-      "t": 302.5,
+      "t": 304.625,
       "type": "wet_step"
     },
     {
-      "t": 302.917,
+      "t": 304.625,
       "type": "wet_step"
     },
     {
-      "t": 302.917,
-      "type": "wet_step"
-    },
-    {
-      "t": 303.333,
-      "type": "wet_step"
-    },
-    {
-      "t": 303.333,
-      "type": "wet_step"
-    },
-    {
-      "t": 303.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 303.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 304.5,
-      "type": "wet_step"
-    },
-    {
-      "t": 304.5,
-      "type": "wet_step"
-    },
-    {
-      "t": 328.55,
+      "t": 328.1,
       "type": "splash"
     },
     {
-      "t": 349.717,
+      "t": 349.675,
       "type": "splash"
     },
     {
-      "t": 357.083,
+      "t": 357.167,
       "type": "wet_step"
     },
     {
-      "t": 357.667,
+      "t": 357.792,
       "type": "wet_step"
     },
     {
-      "t": 358.083,
+      "t": 358.292,
       "type": "wet_step"
     },
     {
-      "t": 358.583,
+      "t": 358.792,
       "type": "wet_step"
     },
     {
-      "t": 358.917,
+      "t": 359.25,
       "type": "wet_step"
     },
     {
-      "t": 359.333,
+      "t": 359.75,
       "type": "wet_step"
     },
     {
-      "t": 359.833,
+      "t": 360.292,
       "type": "wet_step"
     },
     {
-      "t": 360.25,
+      "t": 361.042,
       "type": "wet_step"
     },
     {
-      "t": 360.833,
+      "t": 391.458,
       "type": "wet_step"
     },
     {
-      "t": 391.417,
+      "t": 391.792,
       "type": "wet_step"
     },
     {
-      "t": 391.75,
+      "t": 391.875,
       "type": "wet_step"
     },
     {
-      "t": 391.833,
-      "type": "wet_step"
-    },
-    {
-      "t": 392,
-      "type": "wet_step"
-    },
-    {
-      "t": 392.25,
+      "t": 392.083,
       "type": "wet_step"
     },
     {
@@ -766,31 +918,31 @@
       "type": "wet_step"
     },
     {
-      "t": 392.5,
+      "t": 392.417,
       "type": "wet_step"
     },
     {
-      "t": 392.667,
+      "t": 392.583,
       "type": "wet_step"
     },
     {
-      "t": 392.75,
+      "t": 392.833,
       "type": "wet_step"
     },
     {
-      "t": 392.75,
+      "t": 392.833,
       "type": "wet_step"
     },
     {
-      "t": 393,
+      "t": 393.083,
       "type": "wet_step"
     },
     {
-      "t": 393.167,
+      "t": 393.208,
       "type": "wet_step"
     },
     {
-      "t": 393.25,
+      "t": 393.417,
       "type": "wet_step"
     },
     {
@@ -798,43 +950,35 @@
       "type": "wet_step"
     },
     {
-      "t": 393.667,
+      "t": 393.875,
       "type": "wet_step"
     },
     {
-      "t": 393.75,
+      "t": 393.917,
       "type": "wet_step"
     },
     {
-      "t": 393.833,
+      "t": 394.25,
       "type": "wet_step"
     },
     {
-      "t": 394.083,
+      "t": 394.625,
       "type": "wet_step"
     },
     {
-      "t": 394.5,
+      "t": 394.958,
       "type": "wet_step"
     },
     {
-      "t": 395,
+      "t": 395.375,
       "type": "wet_step"
     },
     {
-      "t": 395.333,
+      "t": 395.833,
       "type": "wet_step"
     },
     {
-      "t": 395.583,
-      "type": "wet_step"
-    },
-    {
-      "t": 396,
-      "type": "wet_step"
-    },
-    {
-      "t": 396.5,
+      "t": 396.375,
       "type": "wet_step"
     },
     {
@@ -846,7 +990,7 @@
       "type": "wet_step"
     },
     {
-      "t": 412.583,
+      "t": 412.667,
       "type": "wet_step"
     },
     {
@@ -858,7 +1002,7 @@
       "type": "wet_step"
     },
     {
-      "t": 413.083,
+      "t": 413.167,
       "type": "wet_step"
     },
     {
@@ -866,39 +1010,43 @@
       "type": "wet_step"
     },
     {
-      "t": 413.5,
+      "t": 413.583,
       "type": "wet_step"
     },
     {
-      "t": 413.75,
+      "t": 413.625,
       "type": "wet_step"
     },
     {
-      "t": 413.917,
+      "t": 413.875,
       "type": "wet_step"
     },
     {
-      "t": 414.083,
+      "t": 414,
       "type": "wet_step"
     },
     {
-      "t": 414.417,
+      "t": 414.208,
       "type": "wet_step"
     },
     {
-      "t": 414.417,
+      "t": 414.333,
       "type": "wet_step"
     },
     {
-      "t": 414.583,
+      "t": 414.667,
       "type": "wet_step"
     },
     {
-      "t": 414.833,
+      "t": 414.708,
       "type": "wet_step"
     },
     {
-      "t": 415.333,
+      "t": 415.042,
+      "type": "wet_step"
+    },
+    {
+      "t": 415.375,
       "type": "wet_step"
     },
     {
@@ -906,59 +1054,47 @@
       "type": "wet_step"
     },
     {
-      "t": 416.167,
+      "t": 416.125,
       "type": "wet_step"
     },
     {
-      "t": 416.333,
+      "t": 416.583,
       "type": "wet_step"
     },
     {
-      "t": 416.75,
+      "t": 417.167,
       "type": "wet_step"
     },
     {
-      "t": 417.333,
+      "t": 433.667,
       "type": "wet_step"
     },
     {
-      "t": 433.583,
+      "t": 434.625,
       "type": "wet_step"
     },
     {
-      "t": 434.333,
+      "t": 446.917,
       "type": "wet_step"
     },
     {
-      "t": 446.833,
+      "t": 446.917,
       "type": "wet_step"
     },
     {
-      "t": 446.833,
+      "t": 447.375,
       "type": "wet_step"
     },
     {
-      "t": 447.333,
+      "t": 447.417,
       "type": "wet_step"
     },
     {
-      "t": 447.333,
+      "t": 447.792,
       "type": "wet_step"
     },
     {
-      "t": 447.5,
-      "type": "wet_step"
-    },
-    {
-      "t": 447.5,
-      "type": "wet_step"
-    },
-    {
-      "t": 447.667,
-      "type": "wet_step"
-    },
-    {
-      "t": 447.667,
+      "t": 447.792,
       "type": "wet_step"
     },
     {
@@ -970,95 +1106,87 @@
       "type": "wet_step"
     },
     {
-      "t": 448.583,
+      "t": 448.5,
       "type": "wet_step"
     },
     {
-      "t": 448.583,
+      "t": 448.5,
       "type": "wet_step"
     },
     {
-      "t": 449,
+      "t": 448.833,
       "type": "wet_step"
     },
     {
-      "t": 449,
+      "t": 448.833,
       "type": "wet_step"
     },
     {
-      "t": 449.417,
+      "t": 449.167,
       "type": "wet_step"
     },
     {
-      "t": 449.417,
+      "t": 449.167,
       "type": "wet_step"
     },
     {
-      "t": 449.917,
+      "t": 449.5,
       "type": "wet_step"
     },
     {
-      "t": 449.917,
+      "t": 449.5,
       "type": "wet_step"
     },
     {
-      "t": 450.083,
+      "t": 449.875,
       "type": "wet_step"
     },
     {
-      "t": 450.083,
+      "t": 449.875,
       "type": "wet_step"
     },
     {
-      "t": 450.5,
+      "t": 450.292,
       "type": "wet_step"
     },
     {
-      "t": 450.5,
+      "t": 450.292,
       "type": "wet_step"
     },
     {
-      "t": 451.083,
+      "t": 450.833,
       "type": "wet_step"
     },
     {
-      "t": 451.083,
+      "t": 450.833,
       "type": "wet_step"
     },
     {
-      "t": 454.5,
+      "t": 454.667,
       "type": "wet_step"
     },
     {
-      "t": 454.5,
+      "t": 454.667,
       "type": "wet_step"
     },
     {
-      "t": 455.417,
+      "t": 455.708,
       "type": "wet_step"
     },
     {
-      "t": 455.417,
+      "t": 455.708,
       "type": "wet_step"
     },
     {
-      "t": 456.333,
+      "t": 456.792,
       "type": "wet_step"
     },
     {
-      "t": 456.333,
+      "t": 456.792,
       "type": "wet_step"
     },
     {
-      "t": 457.417,
-      "type": "wet_step"
-    },
-    {
-      "t": 457.417,
-      "type": "wet_step"
-    },
-    {
-      "t": 462.179,
+      "t": 462.137,
       "type": "clap"
     }
   ]
