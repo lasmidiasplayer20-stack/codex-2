@@ -1,0 +1,26 @@
+[
+  {
+    "pasta": "01 - Andar ou Correr na chuva",
+    "dimensoes": [
+      1280,
+      720
+    ],
+    "bytes": 413183,
+    "sha256": "29a5fea38e243b2c655f78a6b4ea9ae1baad8562a3cb39a0541112de775d086d",
+    "titulo_caracteres": 44,
+    "tags_caracteres": 274,
+    "validacao": "JPEG decodificado; dimensões, tamanho e metadados conferidos; imagem original inspecionada visualmente."
+  },
+  {
+    "pasta": "02 - Quantas mentiras",
+    "dimensoes": [
+      1280,
+      720
+    ],
+    "bytes": 248009,
+    "sha256": "32aa12aa68bf56ad27d1c0f8dc5da18e796851f0d6e2ef3039bdb40877024252",
+    "titulo_caracteres": 61,
+    "tags_caracteres": 264,
+    "validacao": "JPEG decodificado; dimensões, tamanho e metadados conferidos; imagem original inspecionada visualmente."
+  }
+]
