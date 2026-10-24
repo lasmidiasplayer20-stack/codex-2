@@ -1,0 +1,22 @@
+{
+  "title": "03 - 10x Mais Rápido",
+  "aspect": "16:9",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 510.0,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0.25,
+  "fadeOut": 0.9,
+  "music": {
+    "enabled": true
+  },
+  "sfx": {
+    "enabled": true
+  },
+  "loudness": -16,
+  "fast3D": true
+}

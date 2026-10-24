@@ -1,0 +1,54 @@
+{
+  "title": "E se você fosse 10× mais rápido? O problema é parar",
+  "language": "pt-BR",
+  "channel": "Então",
+  "duration_seconds": 510,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": {
+    "path": "capa.jpg",
+    "width": 1280,
+    "height": 720,
+    "origin": "Original generated illustration; character identity guided by our own code-rendered frame",
+    "text": "SEM FREIO? / 10×"
+  },
+  "tags": [
+    "então",
+    "e se",
+    "10x mais rápido",
+    "supervelocidade",
+    "velocidade",
+    "superpoderes",
+    "curiosidades",
+    "ciência",
+    "física",
+    "animação",
+    "animação 3d",
+    "histórias animadas",
+    "energia cinética",
+    "frenagem",
+    "tempo de reação",
+    "resistência do ar",
+    "ficção científica",
+    "português brasileiro"
+  ],
+  "chapters": [
+    "00:00 E se você fosse 10× mais rápido?",
+    "01:01 Dez vezes quanto?",
+    "01:31 O corpo teria que acompanhar",
+    "02:55 A conta da energia",
+    "03:29 Reação e frenagem",
+    "04:03 Curvas e limites",
+    "04:32 Resistência do ar",
+    "05:24 O lado de quem ficou para trás",
+    "05:54 Aprendendo a controlar",
+    "06:24 Uma bola e uma escolha",
+    "07:11 O poder nas pequenas coisas",
+    "07:58 Velocidade não é tudo"
+  ],
+  "project": "../../projetos/03-10x-mais-rapido",
+  "youtube_upload_performed": false
+}

@@ -1,0 +1,131 @@
+# 03 - 10x Mais Rápido / Então
+
+Narração própria; Puck em português. Timestamps de sequência aproximados a partir dos trechos de voz tratados.
+
+## 00:00 — catch
+
+O copo escapa da mesa. Você vê a bebida subir em pequenas gotas, estende a mão e pega tudo antes de ouvir o barulho. Seu amigo ainda está começando a se assustar. Para você, pareceu que o mundo tinha apertado o botão de câmera lenta.
+
+## 00:16 — sprint
+
+Agora imagine que isso vale para o corpo inteiro. Correr, pensar, reagir: tudo dez vezes mais rápido. Nico descobre essa habilidade numa manhã comum e decide testar só um pouquinho. Só esqueceu de incluir uma coisa nesses planos: como parar.
+
+## 00:30 — morning
+
+Primeiro vêm as vantagens pequenas. O despertador toca, ele se veste e encontra as chaves antes de a segunda vibração terminar. O pão salta da torradeira, mas não chega ao prato sozinho. Nico já está lá para receber. Sair atrasado parece um problema resolvido.
+
+## 00:45 — test
+
+Lia, sua amiga, leva um cronômetro para a pista. Eles marcam a mesma distância, combinam o sinal e começam. Ela dá alguns passos. Nico já está do outro lado, olhando para trás. Ele comemora, volta correndo e quase passa outra vez pela chegada.
+
+## 01:01 — ratio
+
+Dez vezes significa uma proporção, não um número mágico igual para todo mundo. Se escolhêssemos cinco metros por segundo como ponto de partida, o exemplo passaria para cinquenta. Isso dá cento e oitenta quilômetros por hora. É uma conta ilustrativa, não uma previsão para o corpo humano.
+
+## 01:18 — ball
+
+Lia joga uma bolinha. Nico percebe o giro, muda o peso de uma perna para outra e a segura com facilidade. Só que enxergar o caminho não é a mesma coisa que conseguir colocar o corpo inteiro onde ele quer.
+
+## 01:31 — body
+
+Para a brincadeira funcionar, vamos imaginar um pacote completo: sentidos, pensamento e coordenação acompanham a velocidade. Acelerar só as pernas criaria outra história, bem menos divertida. O corpo real não ganha esse conjunto de melhorias. A distância entre a fantasia e os limites torna a hipótese interessante.
+
+## 01:49 — serve
+
+No café, ele decide impressionar Dona Sol. Recolhe três copos, desvia de uma cadeira e leva tudo ao balcão. O serviço acaba. A conversa, não. Ela ainda está perguntando se ele quer açúcar. Nico descobre o primeiro efeito colateral: ser rápido não faz a resposta dos outros chegar mais cedo.
+
+## 02:06 — birds
+
+Na praça, uma revoada parece uma coreografia suspensa. As asas abrem, uma pena gira, uma folha demora uma eternidade para cair. Nico passa por entre as sombras e consegue observar detalhes que nunca tinha notado. A graça agora é ter tempo para olhar.
+
+## 02:24 — commute
+
+Ele atravessa o bairro pela calçada e chega ao ponto antes do ônibus. Ainda precisa esperar o sinal, respeitar as pessoas e escolher por onde passar. Esquinas continuam escondendo coisas. E uma faixa de pedestres não vira uma pista particular.
+
+## 02:39 — steps
+
+Quanto mais rápido ele corre, mais exigente fica cada apoio. O pé precisa encontrar o chão, empurrar e sair do caminho do próximo passo. Um pequeno buraco que antes dava tempo de contornar aparece depressa demais. Velocidade transforma detalhes em decisões urgentes.
+
+## 02:55 — energy
+
+A energia do movimento depende do quadrado da velocidade. Com a mesma massa, multiplicar a velocidade por dez multiplica essa energia por cem. Não é uma promessa de força útil. É energia que terá de ser administrada, inclusive quando chegar a hora de frear.
+
+## 03:13 — brake
+
+Nico tenta parar ao lado de Lia. Passa da marca, abre os braços e termina muitos passos depois. Ele olha para o espaço que deixou para trás. Antes, a pergunta era quanto tempo levaria para chegar. Agora existe outra: de quanto espaço ele precisa para não atravessar a chegada?
+
+## 03:29 — stop
+
+Uma parada tem pelo menos duas partes: perceber a necessidade de parar e reduzir a velocidade. Se a reação não melhorasse, dez vezes mais velocidade significaria dez vezes mais distância só durante essa reação. E, mantendo a mesma desaceleração, a parte da frenagem cresceria com o quadrado da velocidade. Nesse exemplo, cem vezes.
+
+## 03:47 — turn
+
+Na curva seguinte, ele entende outra dificuldade. O destino está ao lado. O corpo quer seguir em frente. Nico abre uma volta enorme em torno da praça. Lia chega andando ao banco que ele tentou alcançar. A pessoa mais rápida é a menos eficiente.
+
+## 04:03 — radius
+
+Virar exige mudar a direção do movimento. Se a capacidade de produzir aceleração lateral continuasse igual, aumentar a velocidade aumentaria muito o raio da curva possível. Não basta mandar os pés girarem mais depressa. O chão, o atrito e o resto do corpo também entram nessa negociação.
+
+## 04:18 — wind
+
+O vento vira um personagem. A jaqueta infla, um papel escapa e os olhos pedem proteção. Nico não está atravessando um espaço vazio. Está empurrando ar para fora do caminho. E essa resistência muda depressa quando a velocidade aumenta.
+
+## 04:32 — drag
+
+Em um modelo simplificado, com a mesma forma e as mesmas condições do ar, a força de arrasto cresce aproximadamente com o quadrado da velocidade. A potência necessária para vencê-la pode crescer ainda mais. O modelo ilustra por que dez vezes mais rápido não significa apenas dez vezes mais esforço.
+
+## 04:49 — heat
+
+Depois de outra arrancada, Nico para para respirar. O tênis levanta poeira, a jaqueta está quente e a garrafa parece pequena demais. O recado visual é simples: fazer mais trabalho em menos tempo não elimina a energia que o corpo precisa fornecer e dissipar.
+
+## 05:06 — hungry
+
+Dona Sol coloca um lanche na mesa. Nico termina e olha para o prato como se alguém tivesse apertado avançar. Pede outro. A fome da história é exagerada de propósito. O ponto é simples: um poder desses precisaria de uma explicação para de onde vem tanta energia.
+
+## 05:24 — friend
+
+Lia conta uma história. Nico entende a primeira frase e já imagina três respostas, dois finais e uma pergunta nova. Interrompe sem querer. Ela para de falar. Está cansada da pressa. Ele percebe que acompanhar alguém também envolve esperar o tempo dessa pessoa.
+
+## 05:39 — train
+
+Eles mudam o treino. Em vez de descobrir só a maior velocidade, marcam zonas de aceleração, curvas largas e uma área livre para reduzir o ritmo. Nico aprende a escolher antes de disparar. Só fica mais útil quando deixa de ser uma demonstração a cada esquina.
+
+## 05:54 — challenge
+
+Lia monta um percurso de precisão. Uma bolinha, três cones e um copo que precisa chegar sem derramar. Agora precisa mudar de ritmo, posicionar a mão e respeitar a curva. A parte difícil é controlar o que acontece durante o caminho.
+
+## 06:07 — finish
+
+Ele quase derruba o último cone. Corrige o passo, estabiliza o copo e chega com a água dentro. Lia olha para o cronômetro, depois para o copo. Ela sorri e deixa o tempo de lado. A melhor tentativa não foi a mais rápida. Foi a que terminou do jeito combinado.
+
+## 06:24 — ballroad
+
+Na volta, uma bola rola na direção da rua. Gui dá um passo para buscá-la. Um veículo se aproxima da esquina. Para Nico, o intervalo parece maior. Pensa no movimento pequeno que pode evitar o susto.
+
+## 06:37 — intercept
+
+Ele intercepta a bola ainda na calçada e reduz o ritmo antes de chegar perto de Gui. Nada de arrancar alguém pelo braço ou tentar vencer um veículo numa disputa. Lia segura a mochila do menino e os três ficam fora da rua. A escolha aconteceu antes da arrancada.
+
+## 06:53 — replay
+
+Podemos rever o instante de cima. A bola, o meio-fio, a faixa e o veículo têm caminhos diferentes. O poder não tornou a esquina segura. Apenas deu ao personagem uma oportunidade imaginária de perceber e agir. No mundo real, a solução continua sendo prevenir o risco e respeitar o espaço de quem passa.
+
+## 07:11 — help
+
+Depois, ele usa a habilidade para coisas menos cinematográficas. Recupera folhas que o vento espalhou, alcança uma sacola antes de cair e ajuda Dona Sol a recolher as mesas. O bairro continua no mesmo ritmo. Nico começa a encontrar um lugar dentro dele.
+
+## 07:25 — race
+
+Lia propõe uma última volta. Nico dispara alguns metros, olha para trás e volta. Desta vez, acompanha o passo dela. Ele percebeu que chegar primeiro e chegar junto são experiências diferentes. O cronômetro fica no bolso. A conversa finalmente consegue terminar.
+
+## 07:41 — sunset
+
+No fim do dia, o céu muda de cor devagar. Nico poderia correr até a outra ponta da cidade antes da próxima nuvem se mover muito. Em vez disso, fica. O poder não precisa preencher todos os segundos. Algumas coisas ficam melhores quando a gente não tenta economizar tempo nelas.
+
+## 07:58 — recap
+
+Então, como seria viver dez vezes mais rápido? Divertido, estranho e cheio de condições escondidas. Nesta fantasia, percepção e coordenação vieram no pacote. Energia, frenagem, curvas e convivência trouxeram as perguntas. A velocidade resolve uma parte do caminho. O resto ainda depende das escolhas de quem está correndo.
+
+## 08:16 — question
+
+E você: usaria esse poder para chegar antes, observar mais ou ter tempo para alguém? Conta nos comentários. Se curtiu essa hipótese, inscreva-se no Então e ative o sino. Por aqui, cada pergunta abre um mundo novo para explorar.

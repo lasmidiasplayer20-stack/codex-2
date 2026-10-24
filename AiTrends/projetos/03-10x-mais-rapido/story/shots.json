@@ -1,0 +1,3207 @@
+{
+  "title": "E se você fosse 10x mais rápido?",
+  "duration": 510.0,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 3.7617,
+      "line": "O copo escapa da mesa. Você vê a bebida subir em pequenas gotas, estende a mão e pega tudo antes de ouvir o barulho. Seu amigo ainda está começando a se assustar. Para você, pareceu que o mundo tinha apertado o botão de câmera lenta.",
+      "scene": "cafe/catch: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 0,
+        "part": 0,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s002",
+      "start": 3.7617,
+      "end": 7.03268,
+      "line": "O copo escapa da mesa. Você vê a bebida subir em pequenas gotas, estende a mão e pega tudo antes de ouvir o barulho. Seu amigo ainda está começando a se assustar. Para você, pareceu que o mundo tinha apertado o botão de câmera lenta.",
+      "scene": "cafe/catch: close; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 0,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s003",
+      "start": 7.03268,
+      "end": 9.81306,
+      "line": "O copo escapa da mesa. Você vê a bebida subir em pequenas gotas, estende a mão e pega tudo antes de ouvir o barulho. Seu amigo ainda está começando a se assustar. Para você, pareceu que o mundo tinha apertado o botão de câmera lenta.",
+      "scene": "cafe/catch: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 0,
+        "part": 2,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s004",
+      "start": 9.81306,
+      "end": 12.75691,
+      "line": "O copo escapa da mesa. Você vê a bebida subir em pequenas gotas, estende a mão e pega tudo antes de ouvir o barulho. Seu amigo ainda está começando a se assustar. Para você, pareceu que o mundo tinha apertado o botão de câmera lenta.",
+      "scene": "cafe/catch: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 0,
+        "part": 3,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s005",
+      "start": 12.75691,
+      "end": 16.35504,
+      "line": "O copo escapa da mesa. Você vê a bebida subir em pequenas gotas, estende a mão e pega tudo antes de ouvir o barulho. Seu amigo ainda está começando a se assustar. Para você, pareceu que o mundo tinha apertado o botão de câmera lenta.",
+      "scene": "cafe/catch: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 0,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s006",
+      "start": 16.35504,
+      "end": 19.49781,
+      "line": "Agora imagine que isso vale para o corpo inteiro. Correr, pensar, reagir: tudo dez vezes mais rápido. Nico descobre essa habilidade numa manhã comum e decide testar só um pouquinho. Só esqueceu de incluir uma coisa nesses planos: como parar.",
+      "scene": "street/sprint: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 1,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s007",
+      "start": 19.49781,
+      "end": 22.23062,
+      "line": "Agora imagine que isso vale para o corpo inteiro. Correr, pensar, reagir: tudo dez vezes mais rápido. Nico descobre essa habilidade numa manhã comum e decide testar só um pouquinho. Só esqueceu de incluir uma coisa nesses planos: como parar.",
+      "scene": "street/sprint: track; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 1,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s008",
+      "start": 22.23062,
+      "end": 24.55356,
+      "line": "Agora imagine que isso vale para o corpo inteiro. Correr, pensar, reagir: tudo dez vezes mais rápido. Nico descobre essa habilidade numa manhã comum e decide testar só um pouquinho. Só esqueceu de incluir uma coisa nesses planos: como parar.",
+      "scene": "street/sprint: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 1,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s009",
+      "start": 24.55356,
+      "end": 27.01315,
+      "line": "Agora imagine que isso vale para o corpo inteiro. Correr, pensar, reagir: tudo dez vezes mais rápido. Nico descobre essa habilidade numa manhã comum e decide testar só um pouquinho. Só esqueceu de incluir uma coisa nesses planos: como parar.",
+      "scene": "street/sprint: front; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 1,
+        "part": 3,
+        "cam": "front"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s010",
+      "start": 27.01315,
+      "end": 30.01927,
+      "line": "Agora imagine que isso vale para o corpo inteiro. Correr, pensar, reagir: tudo dez vezes mais rápido. Nico descobre essa habilidade numa manhã comum e decide testar só um pouquinho. Só esqueceu de incluir uma coisa nesses planos: como parar.",
+      "scene": "street/sprint: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 1,
+        "part": 4,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s011",
+      "start": 30.01927,
+      "end": 33.59644,
+      "line": "Primeiro vêm as vantagens pequenas. O despertador toca, ele se veste e encontra as chaves antes de a segunda vibração terminar. O pão salta da torradeira, mas não chega ao prato sozinho. Nico já está lá para receber. Sair atrasado parece um problema resolvido.",
+      "scene": "home/morning: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 2,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s012",
+      "start": 33.59644,
+      "end": 36.70699,
+      "line": "Primeiro vêm as vantagens pequenas. O despertador toca, ele se veste e encontra as chaves antes de a segunda vibração terminar. O pão salta da torradeira, mas não chega ao prato sozinho. Nico já está lá para receber. Sair atrasado parece um problema resolvido.",
+      "scene": "home/morning: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 2,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s013",
+      "start": 36.70699,
+      "end": 39.35102,
+      "line": "Primeiro vêm as vantagens pequenas. O despertador toca, ele se veste e encontra as chaves antes de a segunda vibração terminar. O pão salta da torradeira, mas não chega ao prato sozinho. Nico já está lá para receber. Sair atrasado parece um problema resolvido.",
+      "scene": "home/morning: track; ação contínua, cenário e contato físico coerentes",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 2,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s014",
+      "start": 39.35102,
+      "end": 42.15056,
+      "line": "Primeiro vêm as vantagens pequenas. O despertador toca, ele se veste e encontra as chaves antes de a segunda vibração terminar. O pão salta da torradeira, mas não chega ao prato sozinho. Nico já está lá para receber. Sair atrasado parece um problema resolvido.",
+      "scene": "home/morning: close; ação contínua, cenário e contato físico coerentes",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 2,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s015",
+      "start": 42.15056,
+      "end": 45.57222,
+      "line": "Primeiro vêm as vantagens pequenas. O despertador toca, ele se veste e encontra as chaves antes de a segunda vibração terminar. O pão salta da torradeira, mas não chega ao prato sozinho. Nico já está lá para receber. Sair atrasado parece um problema resolvido.",
+      "scene": "home/morning: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 2,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s016",
+      "start": 45.57222,
+      "end": 49.21709,
+      "line": "Lia, sua amiga, leva um cronômetro para a pista. Eles marcam a mesma distância, combinam o sinal e começam. Ela dá alguns passos. Nico já está do outro lado, olhando para trás. Ele comemora, volta correndo e quase passa outra vez pela chegada.",
+      "scene": "track/test: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 3,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s017",
+      "start": 49.21709,
+      "end": 52.38662,
+      "line": "Lia, sua amiga, leva um cronômetro para a pista. Eles marcam a mesma distância, combinam o sinal e começam. Ela dá alguns passos. Nico já está do outro lado, olhando para trás. Ele comemora, volta correndo e quase passa outra vez pela chegada.",
+      "scene": "track/test: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 3,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s018",
+      "start": 52.38662,
+      "end": 55.08072,
+      "line": "Lia, sua amiga, leva um cronômetro para a pista. Eles marcam a mesma distância, combinam o sinal e começam. Ela dá alguns passos. Nico já está do outro lado, olhando para trás. Ele comemora, volta correndo e quase passa outra vez pela chegada.",
+      "scene": "track/test: track; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 3,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s019",
+      "start": 55.08072,
+      "end": 57.93323,
+      "line": "Lia, sua amiga, leva um cronômetro para a pista. Eles marcam a mesma distância, combinam o sinal e começam. Ela dá alguns passos. Nico já está do outro lado, olhando para trás. Ele comemora, volta correndo e quase passa outra vez pela chegada.",
+      "scene": "track/test: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 3,
+        "part": 3,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s020",
+      "start": 57.93323,
+      "end": 61.41969,
+      "line": "Lia, sua amiga, leva um cronômetro para a pista. Eles marcam a mesma distância, combinam o sinal e começam. Ela dá alguns passos. Nico já está do outro lado, olhando para trás. Ele comemora, volta correndo e quase passa outra vez pela chegada.",
+      "scene": "track/test: close; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 3,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s021",
+      "start": 61.41969,
+      "end": 65.31165,
+      "line": "Dez vezes significa uma proporção, não um número mágico igual para todo mundo. Se escolhêssemos cinco metros por segundo como ponto de partida, o exemplo passaria para cinquenta. Isso dá cento e oitenta quilômetros por hora. É uma conta ilustrativa, não uma previsão para o corpo humano.",
+      "scene": "diagram/ratio: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 4,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s022",
+      "start": 65.31165,
+      "end": 68.69586,
+      "line": "Dez vezes significa uma proporção, não um número mágico igual para todo mundo. Se escolhêssemos cinco metros por segundo como ponto de partida, o exemplo passaria para cinquenta. Isso dá cento e oitenta quilômetros por hora. É uma conta ilustrativa, não uma previsão para o corpo humano.",
+      "scene": "diagram/ratio: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 4,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s023",
+      "start": 68.69586,
+      "end": 71.57253,
+      "line": "Dez vezes significa uma proporção, não um número mágico igual para todo mundo. Se escolhêssemos cinco metros por segundo como ponto de partida, o exemplo passaria para cinquenta. Isso dá cento e oitenta quilômetros por hora. É uma conta ilustrativa, não uma previsão para o corpo humano.",
+      "scene": "diagram/ratio: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 4,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s024",
+      "start": 71.57253,
+      "end": 74.61831,
+      "line": "Dez vezes significa uma proporção, não um número mágico igual para todo mundo. Se escolhêssemos cinco metros por segundo como ponto de partida, o exemplo passaria para cinquenta. Isso dá cento e oitenta quilômetros por hora. É uma conta ilustrativa, não uma previsão para o corpo humano.",
+      "scene": "diagram/ratio: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 4,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s025",
+      "start": 74.61831,
+      "end": 78.34105,
+      "line": "Dez vezes significa uma proporção, não um número mágico igual para todo mundo. Se escolhêssemos cinco metros por segundo como ponto de partida, o exemplo passaria para cinquenta. Isso dá cento e oitenta quilômetros por hora. É uma conta ilustrativa, não uma previsão para o corpo humano.",
+      "scene": "diagram/ratio: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 4,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s026",
+      "start": 78.34105,
+      "end": 81.3467,
+      "line": "Lia joga uma bolinha. Nico percebe o giro, muda o peso de uma perna para outra e a segura com facilidade. Só que enxergar o caminho não é a mesma coisa que conseguir colocar o corpo inteiro onde ele quer.",
+      "scene": "park/ball: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 5,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s027",
+      "start": 81.3467,
+      "end": 83.96028,
+      "line": "Lia joga uma bolinha. Nico percebe o giro, muda o peso de uma perna para outra e a segura com facilidade. Só que enxergar o caminho não é a mesma coisa que conseguir colocar o corpo inteiro onde ele quer.",
+      "scene": "park/ball: track; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 5,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s028",
+      "start": 83.96028,
+      "end": 86.18187,
+      "line": "Lia joga uma bolinha. Nico percebe o giro, muda o peso de uma perna para outra e a segura com facilidade. Só que enxergar o caminho não é a mesma coisa que conseguir colocar o corpo inteiro onde ele quer.",
+      "scene": "park/ball: slow; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 5,
+        "part": 2,
+        "cam": "slow"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s029",
+      "start": 86.18187,
+      "end": 88.53415,
+      "line": "Lia joga uma bolinha. Nico percebe o giro, muda o peso de uma perna para outra e a segura com facilidade. Só que enxergar o caminho não é a mesma coisa que conseguir colocar o corpo inteiro onde ele quer.",
+      "scene": "park/ball: close; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 5,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s030",
+      "start": 88.53415,
+      "end": 91.40911,
+      "line": "Lia joga uma bolinha. Nico percebe o giro, muda o peso de uma perna para outra e a segura com facilidade. Só que enxergar o caminho não é a mesma coisa que conseguir colocar o corpo inteiro onde ele quer.",
+      "scene": "park/ball: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 5,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s031",
+      "start": 91.40911,
+      "end": 95.49772,
+      "line": "Para a brincadeira funcionar, vamos imaginar um pacote completo: sentidos, pensamento e coordenação acompanham a velocidade. Acelerar só as pernas criaria outra história, bem menos divertida. O corpo real não ganha esse conjunto de melhorias. A distância entre a fantasia e os limites torna a hipótese interessante.",
+      "scene": "diagram/body: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 6,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s032",
+      "start": 95.49772,
+      "end": 99.05293,
+      "line": "Para a brincadeira funcionar, vamos imaginar um pacote completo: sentidos, pensamento e coordenação acompanham a velocidade. Acelerar só as pernas criaria outra história, bem menos divertida. O corpo real não ganha esse conjunto de melhorias. A distância entre a fantasia e os limites torna a hipótese interessante.",
+      "scene": "diagram/body: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 6,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s033",
+      "start": 99.05293,
+      "end": 102.07494,
+      "line": "Para a brincadeira funcionar, vamos imaginar um pacote completo: sentidos, pensamento e coordenação acompanham a velocidade. Acelerar só as pernas criaria outra história, bem menos divertida. O corpo real não ganha esse conjunto de melhorias. A distância entre a fantasia e os limites torna a hipótese interessante.",
+      "scene": "diagram/body: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 6,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s034",
+      "start": 102.07494,
+      "end": 105.27462,
+      "line": "Para a brincadeira funcionar, vamos imaginar um pacote completo: sentidos, pensamento e coordenação acompanham a velocidade. Acelerar só as pernas criaria outra história, bem menos divertida. O corpo real não ganha esse conjunto de melhorias. A distância entre a fantasia e os limites torna a hipótese interessante.",
+      "scene": "diagram/body: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 6,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s035",
+      "start": 105.27462,
+      "end": 109.18546,
+      "line": "Para a brincadeira funcionar, vamos imaginar um pacote completo: sentidos, pensamento e coordenação acompanham a velocidade. Acelerar só as pernas criaria outra história, bem menos divertida. O corpo real não ganha esse conjunto de melhorias. A distância entre a fantasia e os limites torna a hipótese interessante.",
+      "scene": "diagram/body: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 6,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s036",
+      "start": 109.18546,
+      "end": 113.11031,
+      "line": "No café, ele decide impressionar Dona Sol. Recolhe três copos, desvia de uma cadeira e leva tudo ao balcão. O serviço acaba. A conversa, não. Ela ainda está perguntando se ele quer açúcar. Nico descobre o primeiro efeito colateral: ser rápido não faz a resposta dos outros chegar mais cedo.",
+      "scene": "cafe/serve: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 7,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s037",
+      "start": 113.11031,
+      "end": 116.52325,
+      "line": "No café, ele decide impressionar Dona Sol. Recolhe três copos, desvia de uma cadeira e leva tudo ao balcão. O serviço acaba. A conversa, não. Ela ainda está perguntando se ele quer açúcar. Nico descobre o primeiro efeito colateral: ser rápido não faz a resposta dos outros chegar mais cedo.",
+      "scene": "cafe/serve: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 7,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s038",
+      "start": 116.52325,
+      "end": 119.42418,
+      "line": "No café, ele decide impressionar Dona Sol. Recolhe três copos, desvia de uma cadeira e leva tudo ao balcão. O serviço acaba. A conversa, não. Ela ainda está perguntando se ele quer açúcar. Nico descobre o primeiro efeito colateral: ser rápido não faz a resposta dos outros chegar mais cedo.",
+      "scene": "cafe/serve: track; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 7,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s039",
+      "start": 119.42418,
+      "end": 122.49587,
+      "line": "No café, ele decide impressionar Dona Sol. Recolhe três copos, desvia de uma cadeira e leva tudo ao balcão. O serviço acaba. A conversa, não. Ela ainda está perguntando se ele quer açúcar. Nico descobre o primeiro efeito colateral: ser rápido não faz a resposta dos outros chegar mais cedo.",
+      "scene": "cafe/serve: close; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 7,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s040",
+      "start": 122.49587,
+      "end": 126.25005,
+      "line": "No café, ele decide impressionar Dona Sol. Recolhe três copos, desvia de uma cadeira e leva tudo ao balcão. O serviço acaba. A conversa, não. Ela ainda está perguntando se ele quer açúcar. Nico descobre o primeiro efeito colateral: ser rápido não faz a resposta dos outros chegar mais cedo.",
+      "scene": "cafe/serve: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 7,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s041",
+      "start": 126.25005,
+      "end": 130.33487,
+      "line": "Na praça, uma revoada parece uma coreografia suspensa. As asas abrem, uma pena gira, uma folha demora uma eternidade para cair. Nico passa por entre as sombras e consegue observar detalhes que nunca tinha notado. A graça agora é ter tempo para olhar.",
+      "scene": "plaza/birds: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 8,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s042",
+      "start": 130.33487,
+      "end": 133.88699,
+      "line": "Na praça, uma revoada parece uma coreografia suspensa. As asas abrem, uma pena gira, uma folha demora uma eternidade para cair. Nico passa por entre as sombras e consegue observar detalhes que nunca tinha notado. A graça agora é ter tempo para olhar.",
+      "scene": "plaza/birds: slow; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 8,
+        "part": 1,
+        "cam": "slow"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s043",
+      "start": 133.88699,
+      "end": 136.90628,
+      "line": "Na praça, uma revoada parece uma coreografia suspensa. As asas abrem, uma pena gira, uma folha demora uma eternidade para cair. Nico passa por entre as sombras e consegue observar detalhes que nunca tinha notado. A graça agora é ter tempo para olhar.",
+      "scene": "plaza/birds: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 8,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s044",
+      "start": 136.90628,
+      "end": 140.10311,
+      "line": "Na praça, uma revoada parece uma coreografia suspensa. As asas abrem, uma pena gira, uma folha demora uma eternidade para cair. Nico passa por entre as sombras e consegue observar detalhes que nunca tinha notado. A graça agora é ter tempo para olhar.",
+      "scene": "plaza/birds: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 8,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s045",
+      "start": 140.10311,
+      "end": 144.0104,
+      "line": "Na praça, uma revoada parece uma coreografia suspensa. As asas abrem, uma pena gira, uma folha demora uma eternidade para cair. Nico passa por entre as sombras e consegue observar detalhes que nunca tinha notado. A graça agora é ter tempo para olhar.",
+      "scene": "plaza/birds: close; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 8,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s046",
+      "start": 144.0104,
+      "end": 147.63073,
+      "line": "Ele atravessa o bairro pela calçada e chega ao ponto antes do ônibus. Ainda precisa esperar o sinal, respeitar as pessoas e escolher por onde passar. Esquinas continuam escondendo coisas. E uma faixa de pedestres não vira uma pista particular.",
+      "scene": "street/commute: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 9,
+        "part": 0,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s047",
+      "start": 147.63073,
+      "end": 150.77881,
+      "line": "Ele atravessa o bairro pela calçada e chega ao ponto antes do ônibus. Ainda precisa esperar o sinal, respeitar as pessoas e escolher por onde passar. Esquinas continuam escondendo coisas. E uma faixa de pedestres não vira uma pista particular.",
+      "scene": "street/commute: track; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 9,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s048",
+      "start": 150.77881,
+      "end": 153.45473,
+      "line": "Ele atravessa o bairro pela calçada e chega ao ponto antes do ônibus. Ainda precisa esperar o sinal, respeitar as pessoas e escolher por onde passar. Esquinas continuam escondendo coisas. E uma faixa de pedestres não vira uma pista particular.",
+      "scene": "street/commute: front; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 9,
+        "part": 2,
+        "cam": "front"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s049",
+      "start": 153.45473,
+      "end": 156.28808,
+      "line": "Ele atravessa o bairro pela calçada e chega ao ponto antes do ônibus. Ainda precisa esperar o sinal, respeitar as pessoas e escolher por onde passar. Esquinas continuam escondendo coisas. E uma faixa de pedestres não vira uma pista particular.",
+      "scene": "street/commute: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 9,
+        "part": 3,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s050",
+      "start": 156.28808,
+      "end": 159.75099,
+      "line": "Ele atravessa o bairro pela calçada e chega ao ponto antes do ônibus. Ainda precisa esperar o sinal, respeitar as pessoas e escolher por onde passar. Esquinas continuam escondendo coisas. E uma faixa de pedestres não vira uma pista particular.",
+      "scene": "street/commute: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 9,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s051",
+      "start": 159.75099,
+      "end": 163.34332,
+      "line": "Quanto mais rápido ele corre, mais exigente fica cada apoio. O pé precisa encontrar o chão, empurrar e sair do caminho do próximo passo. Um pequeno buraco que antes dava tempo de contornar aparece depressa demais. Velocidade transforma detalhes em decisões urgentes.",
+      "scene": "park/steps: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 10,
+        "part": 0,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s052",
+      "start": 163.34332,
+      "end": 166.46709,
+      "line": "Quanto mais rápido ele corre, mais exigente fica cada apoio. O pé precisa encontrar o chão, empurrar e sair do caminho do próximo passo. Um pequeno buraco que antes dava tempo de contornar aparece depressa demais. Velocidade transforma detalhes em decisões urgentes.",
+      "scene": "park/steps: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 10,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s053",
+      "start": 166.46709,
+      "end": 169.12222,
+      "line": "Quanto mais rápido ele corre, mais exigente fica cada apoio. O pé precisa encontrar o chão, empurrar e sair do caminho do próximo passo. Um pequeno buraco que antes dava tempo de contornar aparece depressa demais. Velocidade transforma detalhes em decisões urgentes.",
+      "scene": "park/steps: track; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 10,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s054",
+      "start": 169.12222,
+      "end": 171.93363,
+      "line": "Quanto mais rápido ele corre, mais exigente fica cada apoio. O pé precisa encontrar o chão, empurrar e sair do caminho do próximo passo. Um pequeno buraco que antes dava tempo de contornar aparece depressa demais. Velocidade transforma detalhes em decisões urgentes.",
+      "scene": "park/steps: close; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 10,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s055",
+      "start": 171.93363,
+      "end": 175.36977,
+      "line": "Quanto mais rápido ele corre, mais exigente fica cada apoio. O pé precisa encontrar o chão, empurrar e sair do caminho do próximo passo. Um pequeno buraco que antes dava tempo de contornar aparece depressa demais. Velocidade transforma detalhes em decisões urgentes.",
+      "scene": "park/steps: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 10,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s056",
+      "start": 175.36977,
+      "end": 179.44704,
+      "line": "A energia do movimento depende do quadrado da velocidade. Com a mesma massa, multiplicar a velocidade por dez multiplica essa energia por cem. Não é uma promessa de força útil. É energia que terá de ser administrada, inclusive quando chegar a hora de frear.",
+      "scene": "diagram/energy: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 11,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s057",
+      "start": 179.44704,
+      "end": 182.99245,
+      "line": "A energia do movimento depende do quadrado da velocidade. Com a mesma massa, multiplicar a velocidade por dez multiplica essa energia por cem. Não é uma promessa de força útil. É energia que terá de ser administrada, inclusive quando chegar a hora de frear.",
+      "scene": "diagram/energy: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 11,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s058",
+      "start": 182.99245,
+      "end": 186.00612,
+      "line": "A energia do movimento depende do quadrado da velocidade. Com a mesma massa, multiplicar a velocidade por dez multiplica essa energia por cem. Não é uma promessa de força útil. É energia que terá de ser administrada, inclusive quando chegar a hora de frear.",
+      "scene": "diagram/energy: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 11,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s059",
+      "start": 186.00612,
+      "end": 189.19703,
+      "line": "A energia do movimento depende do quadrado da velocidade. Com a mesma massa, multiplicar a velocidade por dez multiplica essa energia por cem. Não é uma promessa de força útil. É energia que terá de ser administrada, inclusive quando chegar a hora de frear.",
+      "scene": "diagram/energy: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 11,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s060",
+      "start": 189.19703,
+      "end": 193.09705,
+      "line": "A energia do movimento depende do quadrado da velocidade. Com a mesma massa, multiplicar a velocidade por dez multiplica essa energia por cem. Não é uma promessa de força útil. É energia que terá de ser administrada, inclusive quando chegar a hora de frear.",
+      "scene": "diagram/energy: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 11,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s061",
+      "start": 193.09705,
+      "end": 196.87746,
+      "line": "Nico tenta parar ao lado de Lia. Passa da marca, abre os braços e termina muitos passos depois. Ele olha para o espaço que deixou para trás. Antes, a pergunta era quanto tempo levaria para chegar. Agora existe outra: de quanto espaço ele precisa para não atravessar a chegada?",
+      "scene": "track/brake: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 12,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s062",
+      "start": 196.87746,
+      "end": 200.16473,
+      "line": "Nico tenta parar ao lado de Lia. Passa da marca, abre os braços e termina muitos passos depois. Ele olha para o espaço que deixou para trás. Antes, a pergunta era quanto tempo levaria para chegar. Agora existe outra: de quanto espaço ele precisa para não atravessar a chegada?",
+      "scene": "track/brake: track; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 12,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s063",
+      "start": 200.16473,
+      "end": 202.95895,
+      "line": "Nico tenta parar ao lado de Lia. Passa da marca, abre os braços e termina muitos passos depois. Ele olha para o espaço que deixou para trás. Antes, a pergunta era quanto tempo levaria para chegar. Agora existe outra: de quanto espaço ele precisa para não atravessar a chegada?",
+      "scene": "track/brake: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 12,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s064",
+      "start": 202.95895,
+      "end": 205.91743,
+      "line": "Nico tenta parar ao lado de Lia. Passa da marca, abre os braços e termina muitos passos depois. Ele olha para o espaço que deixou para trás. Antes, a pergunta era quanto tempo levaria para chegar. Agora existe outra: de quanto espaço ele precisa para não atravessar a chegada?",
+      "scene": "track/brake: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 12,
+        "part": 3,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s065",
+      "start": 205.91743,
+      "end": 209.53349,
+      "line": "Nico tenta parar ao lado de Lia. Passa da marca, abre os braços e termina muitos passos depois. Ele olha para o espaço que deixou para trás. Antes, a pergunta era quanto tempo levaria para chegar. Agora existe outra: de quanto espaço ele precisa para não atravessar a chegada?",
+      "scene": "track/brake: close; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 12,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s066",
+      "start": 209.53349,
+      "end": 213.69012,
+      "line": "Uma parada tem pelo menos duas partes: perceber a necessidade de parar e reduzir a velocidade. Se a reação não melhorasse, dez vezes mais velocidade significaria dez vezes mais distância só durante essa reação. E, mantendo a mesma desaceleração, a parte da frenagem cresceria com o quadrado da velocidade. Nesse exemplo, cem vezes.",
+      "scene": "diagram/stop: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 13,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s067",
+      "start": 213.69012,
+      "end": 217.30453,
+      "line": "Uma parada tem pelo menos duas partes: perceber a necessidade de parar e reduzir a velocidade. Se a reação não melhorasse, dez vezes mais velocidade significaria dez vezes mais distância só durante essa reação. E, mantendo a mesma desaceleração, a parte da frenagem cresceria com o quadrado da velocidade. Nesse exemplo, cem vezes.",
+      "scene": "diagram/stop: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 13,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s068",
+      "start": 217.30453,
+      "end": 220.37684,
+      "line": "Uma parada tem pelo menos duas partes: perceber a necessidade de parar e reduzir a velocidade. Se a reação não melhorasse, dez vezes mais velocidade significaria dez vezes mais distância só durante essa reação. E, mantendo a mesma desaceleração, a parte da frenagem cresceria com o quadrado da velocidade. Nesse exemplo, cem vezes.",
+      "scene": "diagram/stop: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 13,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s069",
+      "start": 220.37684,
+      "end": 223.62981,
+      "line": "Uma parada tem pelo menos duas partes: perceber a necessidade de parar e reduzir a velocidade. Se a reação não melhorasse, dez vezes mais velocidade significaria dez vezes mais distância só durante essa reação. E, mantendo a mesma desaceleração, a parte da frenagem cresceria com o quadrado da velocidade. Nesse exemplo, cem vezes.",
+      "scene": "diagram/stop: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 13,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s070",
+      "start": 223.62981,
+      "end": 227.60567,
+      "line": "Uma parada tem pelo menos duas partes: perceber a necessidade de parar e reduzir a velocidade. Se a reação não melhorasse, dez vezes mais velocidade significaria dez vezes mais distância só durante essa reação. E, mantendo a mesma desaceleração, a parte da frenagem cresceria com o quadrado da velocidade. Nesse exemplo, cem vezes.",
+      "scene": "diagram/stop: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 13,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s071",
+      "start": 227.60567,
+      "end": 231.20541,
+      "line": "Na curva seguinte, ele entende outra dificuldade. O destino está ao lado. O corpo quer seguir em frente. Nico abre uma volta enorme em torno da praça. Lia chega andando ao banco que ele tentou alcançar. A pessoa mais rápida é a menos eficiente.",
+      "scene": "plaza/turn: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 14,
+        "part": 0,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s072",
+      "start": 231.20541,
+      "end": 234.33558,
+      "line": "Na curva seguinte, ele entende outra dificuldade. O destino está ao lado. O corpo quer seguir em frente. Nico abre uma volta enorme em torno da praça. Lia chega andando ao banco que ele tentou alcançar. A pessoa mais rápida é a menos eficiente.",
+      "scene": "plaza/turn: track; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 14,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s073",
+      "start": 234.33558,
+      "end": 236.99629,
+      "line": "Na curva seguinte, ele entende outra dificuldade. O destino está ao lado. O corpo quer seguir em frente. Nico abre uma volta enorme em torno da praça. Lia chega andando ao banco que ele tentou alcançar. A pessoa mais rápida é a menos eficiente.",
+      "scene": "plaza/turn: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 14,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s074",
+      "start": 236.99629,
+      "end": 239.81349,
+      "line": "Na curva seguinte, ele entende outra dificuldade. O destino está ao lado. O corpo quer seguir em frente. Nico abre uma volta enorme em torno da praça. Lia chega andando ao banco que ele tentou alcançar. A pessoa mais rápida é a menos eficiente.",
+      "scene": "plaza/turn: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 14,
+        "part": 3,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s075",
+      "start": 239.81349,
+      "end": 243.25674,
+      "line": "Na curva seguinte, ele entende outra dificuldade. O destino está ao lado. O corpo quer seguir em frente. Nico abre uma volta enorme em torno da praça. Lia chega andando ao banco que ele tentou alcançar. A pessoa mais rápida é a menos eficiente.",
+      "scene": "plaza/turn: close; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 14,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s076",
+      "start": 243.25674,
+      "end": 246.82127,
+      "line": "Virar exige mudar a direção do movimento. Se a capacidade de produzir aceleração lateral continuasse igual, aumentar a velocidade aumentaria muito o raio da curva possível. Não basta mandar os pés girarem mais depressa. O chão, o atrito e o resto do corpo também entram nessa negociação.",
+      "scene": "diagram/radius: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 15,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s077",
+      "start": 246.82127,
+      "end": 249.92077,
+      "line": "Virar exige mudar a direção do movimento. Se a capacidade de produzir aceleração lateral continuasse igual, aumentar a velocidade aumentaria muito o raio da curva possível. Não basta mandar os pés girarem mais depressa. O chão, o atrito e o resto do corpo também entram nessa negociação.",
+      "scene": "diagram/radius: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 15,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s078",
+      "start": 249.92077,
+      "end": 252.55542,
+      "line": "Virar exige mudar a direção do movimento. Se a capacidade de produzir aceleração lateral continuasse igual, aumentar a velocidade aumentaria muito o raio da curva possível. Não basta mandar os pés girarem mais depressa. O chão, o atrito e o resto do corpo também entram nessa negociação.",
+      "scene": "diagram/radius: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 15,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s079",
+      "start": 252.55542,
+      "end": 255.34496,
+      "line": "Virar exige mudar a direção do movimento. Se a capacidade de produzir aceleração lateral continuasse igual, aumentar a velocidade aumentaria muito o raio da curva possível. Não basta mandar os pés girarem mais depressa. O chão, o atrito e o resto do corpo também entram nessa negociação.",
+      "scene": "diagram/radius: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 15,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s080",
+      "start": 255.34496,
+      "end": 258.75451,
+      "line": "Virar exige mudar a direção do movimento. Se a capacidade de produzir aceleração lateral continuasse igual, aumentar a velocidade aumentaria muito o raio da curva possível. Não basta mandar os pés girarem mais depressa. O chão, o atrito e o resto do corpo também entram nessa negociação.",
+      "scene": "diagram/radius: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 15,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s081",
+      "start": 258.75451,
+      "end": 261.87036,
+      "line": "O vento vira um personagem. A jaqueta infla, um papel escapa e os olhos pedem proteção. Nico não está atravessando um espaço vazio. Está empurrando ar para fora do caminho. E essa resistência muda depressa quando a velocidade aumenta.",
+      "scene": "workshop/wind: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 16,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s082",
+      "start": 261.87036,
+      "end": 264.57988,
+      "line": "O vento vira um personagem. A jaqueta infla, um papel escapa e os olhos pedem proteção. Nico não está atravessando um espaço vazio. Está empurrando ar para fora do caminho. E essa resistência muda depressa quando a velocidade aumenta.",
+      "scene": "workshop/wind: front; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 16,
+        "part": 1,
+        "cam": "front"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s083",
+      "start": 264.57988,
+      "end": 266.88295,
+      "line": "O vento vira um personagem. A jaqueta infla, um papel escapa e os olhos pedem proteção. Nico não está atravessando um espaço vazio. Está empurrando ar para fora do caminho. E essa resistência muda depressa quando a velocidade aumenta.",
+      "scene": "workshop/wind: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 16,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s084",
+      "start": 266.88295,
+      "end": 269.32147,
+      "line": "O vento vira um personagem. A jaqueta infla, um papel escapa e os olhos pedem proteção. Nico não está atravessando um espaço vazio. Está empurrando ar para fora do caminho. E essa resistência muda depressa quando a velocidade aumenta.",
+      "scene": "workshop/wind: track; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 16,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s085",
+      "start": 269.32147,
+      "end": 272.30188,
+      "line": "O vento vira um personagem. A jaqueta infla, um papel escapa e os olhos pedem proteção. Nico não está atravessando um espaço vazio. Está empurrando ar para fora do caminho. E essa resistência muda depressa quando a velocidade aumenta.",
+      "scene": "workshop/wind: close; ação contínua, cenário e contato físico coerentes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 16,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s086",
+      "start": 272.30188,
+      "end": 276.35416,
+      "line": "Em um modelo simplificado, com a mesma forma e as mesmas condições do ar, a força de arrasto cresce aproximadamente com o quadrado da velocidade. A potência necessária para vencê-la pode crescer ainda mais. O modelo ilustra por que dez vezes mais rápido não significa apenas dez vezes mais esforço.",
+      "scene": "diagram/drag: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 17,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s087",
+      "start": 276.35416,
+      "end": 279.87791,
+      "line": "Em um modelo simplificado, com a mesma forma e as mesmas condições do ar, a força de arrasto cresce aproximadamente com o quadrado da velocidade. A potência necessária para vencê-la pode crescer ainda mais. O modelo ilustra por que dez vezes mais rápido não significa apenas dez vezes mais esforço.",
+      "scene": "diagram/drag: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 17,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s088",
+      "start": 279.87791,
+      "end": 282.87302,
+      "line": "Em um modelo simplificado, com a mesma forma e as mesmas condições do ar, a força de arrasto cresce aproximadamente com o quadrado da velocidade. A potência necessária para vencê-la pode crescer ainda mais. O modelo ilustra por que dez vezes mais rápido não significa apenas dez vezes mais esforço.",
+      "scene": "diagram/drag: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 17,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s089",
+      "start": 282.87302,
+      "end": 286.04444,
+      "line": "Em um modelo simplificado, com a mesma forma e as mesmas condições do ar, a força de arrasto cresce aproximadamente com o quadrado da velocidade. A potência necessária para vencê-la pode crescer ainda mais. O modelo ilustra por que dez vezes mais rápido não significa apenas dez vezes mais esforço.",
+      "scene": "diagram/drag: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 17,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s090",
+      "start": 286.04444,
+      "end": 289.92051,
+      "line": "Em um modelo simplificado, com a mesma forma e as mesmas condições do ar, a força de arrasto cresce aproximadamente com o quadrado da velocidade. A potência necessária para vencê-la pode crescer ainda mais. O modelo ilustra por que dez vezes mais rápido não significa apenas dez vezes mais esforço.",
+      "scene": "diagram/drag: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 17,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s091",
+      "start": 289.92051,
+      "end": 293.82851,
+      "line": "Depois de outra arrancada, Nico para para respirar. O tênis levanta poeira, a jaqueta está quente e a garrafa parece pequena demais. O recado visual é simples: fazer mais trabalho em menos tempo não elimina a energia que o corpo precisa fornecer e dissipar.",
+      "scene": "workshop/heat: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 18,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s092",
+      "start": 293.82851,
+      "end": 297.22673,
+      "line": "Depois de outra arrancada, Nico para para respirar. O tênis levanta poeira, a jaqueta está quente e a garrafa parece pequena demais. O recado visual é simples: fazer mais trabalho em menos tempo não elimina a energia que o corpo precisa fornecer e dissipar.",
+      "scene": "workshop/heat: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 18,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s093",
+      "start": 297.22673,
+      "end": 300.11528,
+      "line": "Depois de outra arrancada, Nico para para respirar. O tênis levanta poeira, a jaqueta está quente e a garrafa parece pequena demais. O recado visual é simples: fazer mais trabalho em menos tempo não elimina a energia que o corpo precisa fornecer e dissipar.",
+      "scene": "workshop/heat: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 18,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s094",
+      "start": 300.11528,
+      "end": 303.17372,
+      "line": "Depois de outra arrancada, Nico para para respirar. O tênis levanta poeira, a jaqueta está quente e a garrafa parece pequena demais. O recado visual é simples: fazer mais trabalho em menos tempo não elimina a energia que o corpo precisa fornecer e dissipar.",
+      "scene": "workshop/heat: close; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 18,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s095",
+      "start": 303.17372,
+      "end": 306.91183,
+      "line": "Depois de outra arrancada, Nico para para respirar. O tênis levanta poeira, a jaqueta está quente e a garrafa parece pequena demais. O recado visual é simples: fazer mais trabalho em menos tempo não elimina a energia que o corpo precisa fornecer e dissipar.",
+      "scene": "workshop/heat: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 18,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s096",
+      "start": 306.91183,
+      "end": 310.85141,
+      "line": "Dona Sol coloca um lanche na mesa. Nico termina e olha para o prato como se alguém tivesse apertado avançar. Pede outro. A fome da história é exagerada de propósito. O ponto é simples: um poder desses precisaria de uma explicação para de onde vem tanta energia.",
+      "scene": "cafe/hungry: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 19,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s097",
+      "start": 310.85141,
+      "end": 314.27703,
+      "line": "Dona Sol coloca um lanche na mesa. Nico termina e olha para o prato como se alguém tivesse apertado avançar. Pede outro. A fome da história é exagerada de propósito. O ponto é simples: um poder desses precisaria de uma explicação para de onde vem tanta energia.",
+      "scene": "cafe/hungry: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 19,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s098",
+      "start": 314.27703,
+      "end": 317.18889,
+      "line": "Dona Sol coloca um lanche na mesa. Nico termina e olha para o prato como se alguém tivesse apertado avançar. Pede outro. A fome da história é exagerada de propósito. O ponto é simples: um poder desses precisaria de uma explicação para de onde vem tanta energia.",
+      "scene": "cafe/hungry: close; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 19,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s099",
+      "start": 317.18889,
+      "end": 320.27194,
+      "line": "Dona Sol coloca um lanche na mesa. Nico termina e olha para o prato como se alguém tivesse apertado avançar. Pede outro. A fome da história é exagerada de propósito. O ponto é simples: um poder desses precisaria de uma explicação para de onde vem tanta energia.",
+      "scene": "cafe/hungry: track; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 19,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s100",
+      "start": 320.27194,
+      "end": 324.04023,
+      "line": "Dona Sol coloca um lanche na mesa. Nico termina e olha para o prato como se alguém tivesse apertado avançar. Pede outro. A fome da história é exagerada de propósito. O ponto é simples: um poder desses precisaria de uma explicação para de onde vem tanta energia.",
+      "scene": "cafe/hungry: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 19,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s101",
+      "start": 324.04023,
+      "end": 327.48483,
+      "line": "Lia conta uma história. Nico entende a primeira frase e já imagina três respostas, dois finais e uma pergunta nova. Interrompe sem querer. Ela para de falar. Está cansada da pressa. Ele percebe que acompanhar alguém também envolve esperar o tempo dessa pessoa.",
+      "scene": "park/friend: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 20,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s102",
+      "start": 327.48483,
+      "end": 330.48022,
+      "line": "Lia conta uma história. Nico entende a primeira frase e já imagina três respostas, dois finais e uma pergunta nova. Interrompe sem querer. Ela para de falar. Está cansada da pressa. Ele percebe que acompanhar alguém também envolve esperar o tempo dessa pessoa.",
+      "scene": "park/friend: close; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 20,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s103",
+      "start": 330.48022,
+      "end": 333.02629,
+      "line": "Lia conta uma história. Nico entende a primeira frase e já imagina três respostas, dois finais e uma pergunta nova. Interrompe sem querer. Ela para de falar. Está cansada da pressa. Ele percebe que acompanhar alguém também envolve esperar o tempo dessa pessoa.",
+      "scene": "park/friend: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 20,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s104",
+      "start": 333.02629,
+      "end": 335.72207,
+      "line": "Lia conta uma história. Nico entende a primeira frase e já imagina três respostas, dois finais e uma pergunta nova. Interrompe sem querer. Ela para de falar. Está cansada da pressa. Ele percebe que acompanhar alguém também envolve esperar o tempo dessa pessoa.",
+      "scene": "park/friend: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 20,
+        "part": 3,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s105",
+      "start": 335.72207,
+      "end": 339.01696,
+      "line": "Lia conta uma história. Nico entende a primeira frase e já imagina três respostas, dois finais e uma pergunta nova. Interrompe sem querer. Ela para de falar. Está cansada da pressa. Ele percebe que acompanhar alguém também envolve esperar o tempo dessa pessoa.",
+      "scene": "park/friend: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 20,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s106",
+      "start": 339.01696,
+      "end": 342.59557,
+      "line": "Eles mudam o treino. Em vez de descobrir só a maior velocidade, marcam zonas de aceleração, curvas largas e uma área livre para reduzir o ritmo. Nico aprende a escolher antes de disparar. Só fica mais útil quando deixa de ser uma demonstração a cada esquina.",
+      "scene": "workshop/train: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 21,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s107",
+      "start": 342.59557,
+      "end": 345.70741,
+      "line": "Eles mudam o treino. Em vez de descobrir só a maior velocidade, marcam zonas de aceleração, curvas largas e uma área livre para reduzir o ritmo. Nico aprende a escolher antes de disparar. Só fica mais útil quando deixa de ser uma demonstração a cada esquina.",
+      "scene": "workshop/train: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 21,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s108",
+      "start": 345.70741,
+      "end": 348.35241,
+      "line": "Eles mudam o treino. Em vez de descobrir só a maior velocidade, marcam zonas de aceleração, curvas largas e uma área livre para reduzir o ritmo. Nico aprende a escolher antes de disparar. Só fica mais útil quando deixa de ser uma demonstração a cada esquina.",
+      "scene": "workshop/train: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 21,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s109",
+      "start": 348.35241,
+      "end": 351.15305,
+      "line": "Eles mudam o treino. Em vez de descobrir só a maior velocidade, marcam zonas de aceleração, curvas largas e uma área livre para reduzir o ritmo. Nico aprende a escolher antes de disparar. Só fica mais útil quando deixa de ser uma demonstração a cada esquina.",
+      "scene": "workshop/train: track; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 21,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s110",
+      "start": 351.15305,
+      "end": 354.5761,
+      "line": "Eles mudam o treino. Em vez de descobrir só a maior velocidade, marcam zonas de aceleração, curvas largas e uma área livre para reduzir o ritmo. Nico aprende a escolher antes de disparar. Só fica mais útil quando deixa de ser uma demonstração a cada esquina.",
+      "scene": "workshop/train: close; ação contínua, cenário e contato físico coerentes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 21,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s111",
+      "start": 354.5761,
+      "end": 357.45975,
+      "line": "Lia monta um percurso de precisão. Uma bolinha, três cones e um copo que precisa chegar sem derramar. Agora precisa mudar de ritmo, posicionar a mão e respeitar a curva. A parte difícil é controlar o que acontece durante o caminho.",
+      "scene": "track/challenge: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 22,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s112",
+      "start": 357.45975,
+      "end": 359.96729,
+      "line": "Lia monta um percurso de precisão. Uma bolinha, três cones e um copo que precisa chegar sem derramar. Agora precisa mudar de ritmo, posicionar a mão e respeitar a curva. A parte difícil é controlar o que acontece durante o caminho.",
+      "scene": "track/challenge: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 22,
+        "part": 1,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s113",
+      "start": 359.96729,
+      "end": 362.09874,
+      "line": "Lia monta um percurso de precisão. Uma bolinha, três cones e um copo que precisa chegar sem derramar. Agora precisa mudar de ritmo, posicionar a mão e respeitar a curva. A parte difícil é controlar o que acontece durante o caminho.",
+      "scene": "track/challenge: track; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 22,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s114",
+      "start": 362.09874,
+      "end": 364.35552,
+      "line": "Lia monta um percurso de precisão. Uma bolinha, três cones e um copo que precisa chegar sem derramar. Agora precisa mudar de ritmo, posicionar a mão e respeitar a curva. A parte difícil é controlar o que acontece durante o caminho.",
+      "scene": "track/challenge: front; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 22,
+        "part": 3,
+        "cam": "front"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s115",
+      "start": 364.35552,
+      "end": 367.11383,
+      "line": "Lia monta um percurso de precisão. Uma bolinha, três cones e um copo que precisa chegar sem derramar. Agora precisa mudar de ritmo, posicionar a mão e respeitar a curva. A parte difícil é controlar o que acontece durante o caminho.",
+      "scene": "track/challenge: close; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 22,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s116",
+      "start": 367.11383,
+      "end": 371.18595,
+      "line": "Ele quase derruba o último cone. Corrige o passo, estabiliza o copo e chega com a água dentro. Lia olha para o cronômetro, depois para o copo. Ela sorri e deixa o tempo de lado. A melhor tentativa não foi a mais rápida. Foi a que terminou do jeito combinado.",
+      "scene": "track/finish: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 23,
+        "part": 0,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s117",
+      "start": 371.18595,
+      "end": 374.72694,
+      "line": "Ele quase derruba o último cone. Corrige o passo, estabiliza o copo e chega com a água dentro. Lia olha para o cronômetro, depois para o copo. Ela sorri e deixa o tempo de lado. A melhor tentativa não foi a mais rápida. Foi a que terminou do jeito combinado.",
+      "scene": "track/finish: track; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 23,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s118",
+      "start": 374.72694,
+      "end": 377.73671,
+      "line": "Ele quase derruba o último cone. Corrige o passo, estabiliza o copo e chega com a água dentro. Lia olha para o cronômetro, depois para o copo. Ela sorri e deixa o tempo de lado. A melhor tentativa não foi a mais rápida. Foi a que terminou do jeito combinado.",
+      "scene": "track/finish: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 23,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s119",
+      "start": 377.73671,
+      "end": 380.92365,
+      "line": "Ele quase derruba o último cone. Corrige o passo, estabiliza o copo e chega com a água dentro. Lia olha para o cronômetro, depois para o copo. Ela sorri e deixa o tempo de lado. A melhor tentativa não foi a mais rápida. Foi a que terminou do jeito combinado.",
+      "scene": "track/finish: close; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 23,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s120",
+      "start": 380.92365,
+      "end": 384.81869,
+      "line": "Ele quase derruba o último cone. Corrige o passo, estabiliza o copo e chega com a água dentro. Lia olha para o cronômetro, depois para o copo. Ela sorri e deixa o tempo de lado. A melhor tentativa não foi a mais rápida. Foi a que terminou do jeito combinado.",
+      "scene": "track/finish: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 23,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s121",
+      "start": 384.81869,
+      "end": 387.71661,
+      "line": "Na volta, uma bola rola na direção da rua. Gui dá um passo para buscá-la. Um veículo se aproxima da esquina. Para Nico, o intervalo parece maior. Pensa no movimento pequeno que pode evitar o susto.",
+      "scene": "intersection/ballroad: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 24,
+        "part": 0,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s122",
+      "start": 387.71661,
+      "end": 390.23649,
+      "line": "Na volta, uma bola rola na direção da rua. Gui dá um passo para buscá-la. Um veículo se aproxima da esquina. Para Nico, o intervalo parece maior. Pensa no movimento pequeno que pode evitar o susto.",
+      "scene": "intersection/ballroad: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 24,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s123",
+      "start": 390.23649,
+      "end": 392.37844,
+      "line": "Na volta, uma bola rola na direção da rua. Gui dá um passo para buscá-la. Um veículo se aproxima da esquina. Para Nico, o intervalo parece maior. Pensa no movimento pequeno que pode evitar o susto.",
+      "scene": "intersection/ballroad: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 24,
+        "part": 2,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s124",
+      "start": 392.37844,
+      "end": 394.64634,
+      "line": "Na volta, uma bola rola na direção da rua. Gui dá um passo para buscá-la. Um veículo se aproxima da esquina. Para Nico, o intervalo parece maior. Pensa no movimento pequeno que pode evitar o susto.",
+      "scene": "intersection/ballroad: front; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 24,
+        "part": 3,
+        "cam": "front"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s125",
+      "start": 394.64634,
+      "end": 397.41821,
+      "line": "Na volta, uma bola rola na direção da rua. Gui dá um passo para buscá-la. Um veículo se aproxima da esquina. Para Nico, o intervalo parece maior. Pensa no movimento pequeno que pode evitar o susto.",
+      "scene": "intersection/ballroad: slow; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 24,
+        "part": 4,
+        "cam": "slow"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s126",
+      "start": 397.41821,
+      "end": 401.00611,
+      "line": "Ele intercepta a bola ainda na calçada e reduz o ritmo antes de chegar perto de Gui. Nada de arrancar alguém pelo braço ou tentar vencer um veículo numa disputa. Lia segura a mochila do menino e os três ficam fora da rua. A escolha aconteceu antes da arrancada.",
+      "scene": "intersection/intercept: slow; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 25,
+        "part": 0,
+        "cam": "slow"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s127",
+      "start": 401.00611,
+      "end": 404.12597,
+      "line": "Ele intercepta a bola ainda na calçada e reduz o ritmo antes de chegar perto de Gui. Nada de arrancar alguém pelo braço ou tentar vencer um veículo numa disputa. Lia segura a mochila do menino e os três ficam fora da rua. A escolha aconteceu antes da arrancada.",
+      "scene": "intersection/intercept: feet; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 25,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s128",
+      "start": 404.12597,
+      "end": 406.7779,
+      "line": "Ele intercepta a bola ainda na calçada e reduz o ritmo antes de chegar perto de Gui. Nada de arrancar alguém pelo braço ou tentar vencer um veículo numa disputa. Lia segura a mochila do menino e os três ficam fora da rua. A escolha aconteceu antes da arrancada.",
+      "scene": "intersection/intercept: track; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 25,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s129",
+      "start": 406.7779,
+      "end": 409.58571,
+      "line": "Ele intercepta a bola ainda na calçada e reduz o ritmo antes de chegar perto de Gui. Nada de arrancar alguém pelo braço ou tentar vencer um veículo numa disputa. Lia segura a mochila do menino e os três ficam fora da rua. A escolha aconteceu antes da arrancada.",
+      "scene": "intersection/intercept: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 25,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s130",
+      "start": 409.58571,
+      "end": 413.01763,
+      "line": "Ele intercepta a bola ainda na calçada e reduz o ritmo antes de chegar perto de Gui. Nada de arrancar alguém pelo braço ou tentar vencer um veículo numa disputa. Lia segura a mochila do menino e os três ficam fora da rua. A escolha aconteceu antes da arrancada.",
+      "scene": "intersection/intercept: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 25,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s131",
+      "start": 413.01763,
+      "end": 417.25287,
+      "line": "Podemos rever o instante de cima. A bola, o meio-fio, a faixa e o veículo têm caminhos diferentes. O poder não tornou a esquina segura. Apenas deu ao personagem uma oportunidade imaginária de perceber e agir. No mundo real, a solução continua sendo prevenir o risco e respeitar o espaço de quem passa.",
+      "scene": "intersection/replay: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 26,
+        "part": 0,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s132",
+      "start": 417.25287,
+      "end": 420.93565,
+      "line": "Podemos rever o instante de cima. A bola, o meio-fio, a faixa e o veículo têm caminhos diferentes. O poder não tornou a esquina segura. Apenas deu ao personagem uma oportunidade imaginária de perceber e agir. No mundo real, a solução continua sendo prevenir o risco e respeitar o espaço de quem passa.",
+      "scene": "intersection/replay: slow; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 26,
+        "part": 1,
+        "cam": "slow"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s133",
+      "start": 420.93565,
+      "end": 424.06606,
+      "line": "Podemos rever o instante de cima. A bola, o meio-fio, a faixa e o veículo têm caminhos diferentes. O poder não tornou a esquina segura. Apenas deu ao personagem uma oportunidade imaginária de perceber e agir. No mundo real, a solução continua sendo prevenir o risco e respeitar o espaço de quem passa.",
+      "scene": "intersection/replay: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 26,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s134",
+      "start": 424.06606,
+      "end": 427.38056,
+      "line": "Podemos rever o instante de cima. A bola, o meio-fio, a faixa e o veículo têm caminhos diferentes. O poder não tornou a esquina segura. Apenas deu ao personagem uma oportunidade imaginária de perceber e agir. No mundo real, a solução continua sendo prevenir o risco e respeitar o espaço de quem passa.",
+      "scene": "intersection/replay: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 26,
+        "part": 3,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s135",
+      "start": 427.38056,
+      "end": 431.43161,
+      "line": "Podemos rever o instante de cima. A bola, o meio-fio, a faixa e o veículo têm caminhos diferentes. O poder não tornou a esquina segura. Apenas deu ao personagem uma oportunidade imaginária de perceber e agir. No mundo real, a solução continua sendo prevenir o risco e respeitar o espaço de quem passa.",
+      "scene": "intersection/replay: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "intersection",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 26,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s136",
+      "start": 431.43161,
+      "end": 434.76445,
+      "line": "Depois, ele usa a habilidade para coisas menos cinematográficas. Recupera folhas que o vento espalhou, alcança uma sacola antes de cair e ajuda Dona Sol a recolher as mesas. O bairro continua no mesmo ritmo. Nico começa a encontrar um lugar dentro dele.",
+      "scene": "plaza/help: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 27,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s137",
+      "start": 434.76445,
+      "end": 437.66265,
+      "line": "Depois, ele usa a habilidade para coisas menos cinematográficas. Recupera folhas que o vento espalhou, alcança uma sacola antes de cair e ajuda Dona Sol a recolher as mesas. O bairro continua no mesmo ritmo. Nico começa a encontrar um lugar dentro dele.",
+      "scene": "plaza/help: track; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 27,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s138",
+      "start": 437.66265,
+      "end": 440.12611,
+      "line": "Depois, ele usa a habilidade para coisas menos cinematográficas. Recupera folhas que o vento espalhou, alcança uma sacola antes de cair e ajuda Dona Sol a recolher as mesas. O bairro continua no mesmo ritmo. Nico começa a encontrar um lugar dentro dele.",
+      "scene": "plaza/help: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 27,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s139",
+      "start": 440.12611,
+      "end": 442.73442,
+      "line": "Depois, ele usa a habilidade para coisas menos cinematográficas. Recupera folhas que o vento espalhou, alcança uma sacola antes de cair e ajuda Dona Sol a recolher as mesas. O bairro continua no mesmo ritmo. Nico começa a encontrar um lugar dentro dele.",
+      "scene": "plaza/help: close; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 27,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s140",
+      "start": 442.73442,
+      "end": 445.92241,
+      "line": "Depois, ele usa a habilidade para coisas menos cinematográficas. Recupera folhas que o vento espalhou, alcança uma sacola antes de cair e ajuda Dona Sol a recolher as mesas. O bairro continua no mesmo ritmo. Nico começa a encontrar um lugar dentro dele.",
+      "scene": "plaza/help: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 27,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s141",
+      "start": 445.92241,
+      "end": 449.49232,
+      "line": "Lia propõe uma última volta. Nico dispara alguns metros, olha para trás e volta. Desta vez, acompanha o passo dela. Ele percebeu que chegar primeiro e chegar junto são experiências diferentes. O cronômetro fica no bolso. A conversa finalmente consegue terminar.",
+      "scene": "track/race: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 28,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s142",
+      "start": 449.49232,
+      "end": 452.59662,
+      "line": "Lia propõe uma última volta. Nico dispara alguns metros, olha para trás e volta. Desta vez, acompanha o passo dela. Ele percebeu que chegar primeiro e chegar junto são experiências diferentes. O cronômetro fica no bolso. A conversa finalmente consegue terminar.",
+      "scene": "track/race: track; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 28,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s143",
+      "start": 452.59662,
+      "end": 455.23532,
+      "line": "Lia propõe uma última volta. Nico dispara alguns metros, olha para trás e volta. Desta vez, acompanha o passo dela. Ele percebeu que chegar primeiro e chegar junto são experiências diferentes. O cronômetro fica no bolso. A conversa finalmente consegue terminar.",
+      "scene": "track/race: aerial; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 28,
+        "part": 2,
+        "cam": "aerial"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s144",
+      "start": 455.23532,
+      "end": 458.02918,
+      "line": "Lia propõe uma última volta. Nico dispara alguns metros, olha para trás e volta. Desta vez, acompanha o passo dela. Ele percebeu que chegar primeiro e chegar junto são experiências diferentes. O cronômetro fica no bolso. A conversa finalmente consegue terminar.",
+      "scene": "track/race: front; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 28,
+        "part": 3,
+        "cam": "front"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s145",
+      "start": 458.02918,
+      "end": 461.44392,
+      "line": "Lia propõe uma última volta. Nico dispara alguns metros, olha para trás e volta. Desta vez, acompanha o passo dela. Ele percebeu que chegar primeiro e chegar junto são experiências diferentes. O cronômetro fica no bolso. A conversa finalmente consegue terminar.",
+      "scene": "track/race: close; ação contínua, cenário e contato físico coerentes",
+      "set": "track",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 28,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s146",
+      "start": 461.44392,
+      "end": 465.25886,
+      "line": "No fim do dia, o céu muda de cor devagar. Nico poderia correr até a outra ponta da cidade antes da próxima nuvem se mover muito. Em vez disso, fica. O poder não precisa preencher todos os segundos. Algumas coisas ficam melhores quando a gente não tenta economizar tempo nelas.",
+      "scene": "rooftop/sunset: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "dip",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 29,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s147",
+      "start": 465.25886,
+      "end": 468.57622,
+      "line": "No fim do dia, o céu muda de cor devagar. Nico poderia correr até a outra ponta da cidade antes da próxima nuvem se mover muito. Em vez disso, fica. O poder não precisa preencher todos os segundos. Algumas coisas ficam melhores quando a gente não tenta economizar tempo nelas.",
+      "scene": "rooftop/sunset: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 29,
+        "part": 1,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s148",
+      "start": 468.57622,
+      "end": 471.39591,
+      "line": "No fim do dia, o céu muda de cor devagar. Nico poderia correr até a outra ponta da cidade antes da próxima nuvem se mover muito. Em vez disso, fica. O poder não precisa preencher todos os segundos. Algumas coisas ficam melhores quando a gente não tenta economizar tempo nelas.",
+      "scene": "rooftop/sunset: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 29,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s149",
+      "start": 471.39591,
+      "end": 474.38158,
+      "line": "No fim do dia, o céu muda de cor devagar. Nico poderia correr até a outra ponta da cidade antes da próxima nuvem se mover muito. Em vez disso, fica. O poder não precisa preencher todos os segundos. Algumas coisas ficam melhores quando a gente não tenta economizar tempo nelas.",
+      "scene": "rooftop/sunset: close; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 29,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s150",
+      "start": 474.38158,
+      "end": 478.03063,
+      "line": "No fim do dia, o céu muda de cor devagar. Nico poderia correr até a outra ponta da cidade antes da próxima nuvem se mover muito. Em vez disso, fica. O poder não precisa preencher todos os segundos. Algumas coisas ficam melhores quando a gente não tenta economizar tempo nelas.",
+      "scene": "rooftop/sunset: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 29,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s151",
+      "start": 478.03063,
+      "end": 482.38534,
+      "line": "Então, como seria viver dez vezes mais rápido? Divertido, estranho e cheio de condições escondidas. Nesta fantasia, percepção e coordenação vieram no pacote. Energia, frenagem, curvas e convivência trouxeram as perguntas. A velocidade resolve uma parte do caminho. O resto ainda depende das escolhas de quem está correndo.",
+      "scene": "diagram/recap: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 30,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s152",
+      "start": 482.38534,
+      "end": 486.17212,
+      "line": "Então, como seria viver dez vezes mais rápido? Divertido, estranho e cheio de condições escondidas. Nesta fantasia, percepção e coordenação vieram no pacote. Energia, frenagem, curvas e convivência trouxeram as perguntas. A velocidade resolve uma parte do caminho. O resto ainda depende das escolhas de quem está correndo.",
+      "scene": "diagram/recap: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 30,
+        "part": 1,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s153",
+      "start": 486.17212,
+      "end": 489.39074,
+      "line": "Então, como seria viver dez vezes mais rápido? Divertido, estranho e cheio de condições escondidas. Nesta fantasia, percepção e coordenação vieram no pacote. Energia, frenagem, curvas e convivência trouxeram as perguntas. A velocidade resolve uma parte do caminho. O resto ainda depende das escolhas de quem está correndo.",
+      "scene": "diagram/recap: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 30,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s154",
+      "start": 489.39074,
+      "end": 492.79876,
+      "line": "Então, como seria viver dez vezes mais rápido? Divertido, estranho e cheio de condições escondidas. Nesta fantasia, percepção e coordenação vieram no pacote. Energia, frenagem, curvas e convivência trouxeram as perguntas. A velocidade resolve uma parte do caminho. O resto ainda depende das escolhas de quem está correndo.",
+      "scene": "diagram/recap: card; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 30,
+        "part": 3,
+        "cam": "card"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s155",
+      "start": 492.79876,
+      "end": 496.96419,
+      "line": "Então, como seria viver dez vezes mais rápido? Divertido, estranho e cheio de condições escondidas. Nesta fantasia, percepção e coordenação vieram no pacote. Energia, frenagem, curvas e convivência trouxeram as perguntas. A velocidade resolve uma parte do caminho. O resto ainda depende das escolhas de quem está correndo.",
+      "scene": "diagram/recap: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 30,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s156",
+      "start": 496.96419,
+      "end": 499.96241,
+      "line": "E você: usaria esse poder para chegar antes, observar mais ou ter tempo para alguém? Conta nos comentários. Se curtiu essa hipótese, inscreva-se no Então e ative o sino. Por aqui, cada pergunta abre um mundo novo para explorar.",
+      "scene": "rooftop/question: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 31,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s157",
+      "start": 499.96241,
+      "end": 502.56962,
+      "line": "E você: usaria esse poder para chegar antes, observar mais ou ter tempo para alguém? Conta nos comentários. Se curtiu essa hipótese, inscreva-se no Então e ative o sino. Por aqui, cada pergunta abre um mundo novo para explorar.",
+      "scene": "rooftop/question: close; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 31,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s158",
+      "start": 502.56962,
+      "end": 504.78566,
+      "line": "E você: usaria esse poder para chegar antes, observar mais ou ter tempo para alguém? Conta nos comentários. Se curtiu essa hipótese, inscreva-se no Então e ative o sino. Por aqui, cada pergunta abre um mundo novo para explorar.",
+      "scene": "rooftop/question: orbit; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 31,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s159",
+      "start": 504.78566,
+      "end": 507.13212,
+      "line": "E você: usaria esse poder para chegar antes, observar mais ou ter tempo para alguém? Conta nos comentários. Se curtiu essa hipótese, inscreva-se no Então e ative o sino. Por aqui, cada pergunta abre um mundo novo para explorar.",
+      "scene": "rooftop/question: detail; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 31,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    },
+    {
+      "id": "s160",
+      "start": 507.13212,
+      "end": 510.0,
+      "line": "E você: usaria esse poder para chegar antes, observar mais ou ter tempo para alguém? Conta nos comentários. Se curtiu essa hipótese, inscreva-se no Então e ative o sino. Por aqui, cada pergunta abre um mundo novo para explorar.",
+      "scene": "rooftop/question: wide; ação contínua, cenário e contato físico coerentes",
+      "set": "rooftop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.22
+      },
+      "params": {
+        "beat": 31,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": [],
+      "notes": "Ação usa tempo global dentro da sequência; cada corte mantém os objetos no mesmo estado."
+    }
+  ],
+  "music": []
+}

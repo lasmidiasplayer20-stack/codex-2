@@ -1,0 +1,98 @@
+[
+  {
+    "part": 1,
+    "beats": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "00847d63ae4f6d6bc3b037448512fb2266e36c1be1ceaa113142e49936472479",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 2,
+    "beats": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "458e71f628f21e8532d0ccf79552bd466687ede38ce4aeeae7d3f00d26c0f461",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 3,
+    "beats": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "text_sha256": "7f6837f932924a12b641601611f8e2437494179df292907ed91fca6260198b13",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 4,
+    "beats": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "text_sha256": "1d3a6f29ea8b6e69ff125d29b0adf01126f7cf01e20b7a28cf8b75e495fdab24",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 5,
+    "beats": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "text_sha256": "66ed91345a6d937d856bc6c0bdc670e30d0db563cd5ab78b0786d299232251c0",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 6,
+    "beats": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "text_sha256": "1ef75b9c55d60302e5d6ebc7121ddeb73e85d82fca41af234ca98f21cd30b1e0",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 7,
+    "beats": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "text_sha256": "91634876d0a979645f44552a290aecfbd336ae76ae86eac2c092397409f82e56",
+    "model": "gemini-3.1-flash-tts-preview",
+    "voice": "Puck"
+  },
+  {
+    "part": 8,
+    "beats": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "text_sha256": "497a89254cd7678eef68b8ba120d52d520ad004309423c58756e6c0bca45dfdc",
+    "model": "gemini-2.5-flash-preview-tts",
+    "voice": "Puck"
+  }
+]

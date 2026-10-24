@@ -1,0 +1,50 @@
+[
+  {
+    "part": 1,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 503",
+    "word_similarity": null
+  },
+  {
+    "part": 2,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 503",
+    "word_similarity": null
+  },
+  {
+    "part": 3,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 503",
+    "word_similarity": null
+  },
+  {
+    "part": 4,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 503",
+    "word_similarity": null
+  },
+  {
+    "part": 5,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "TimeoutError",
+    "word_similarity": null
+  },
+  {
+    "part": 6,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 503",
+    "word_similarity": null
+  },
+  {
+    "part": 7,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 429",
+    "word_similarity": null
+  },
+  {
+    "part": 8,
+    "method": "Independent automated Gemini audio transcription, no source text supplied; not human listening",
+    "unavailable": "HTTP 429",
+    "word_similarity": null
+  }
+]

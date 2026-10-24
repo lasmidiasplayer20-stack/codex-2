@@ -1,0 +1,7 @@
+{
+  "method": "FFmpeg loudnorm input measurement on final MP3",
+  "integrated_lufs": -16.22,
+  "true_peak_dbtp": -4.68,
+  "loudness_range_lu": 1.6,
+  "human_listening": false
+}

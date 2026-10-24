@@ -103,3 +103,9 @@ Veja `VALIDATION.json` para evidências dos testes desta instância. O ZIP port�
 ## Produção nova — canal Então
 
 [02 — Quantas mentiras](projetos/02-quantas-mentiras/README.md): roteiro próprio em português, direção com 128 planos, voz Puck e CTAs vetoriais do Então. Exportado em 8min20s, 1920×1080/24 fps, com prévia de um minuto na mesma resolução. O estado e os arquivos entregues ficam no README e na pasta `exports/` do projeto; esta produção não é uma das demos originais descritas acima.
+
+## Produção do canal Então e próximos projetos
+
+Leia a [skill local reutilizável](skill/SKILL.md) para voz Puck, animação por código, tratamento de áudio, CTAs e exportação 1080p. Ela complementa a skill adaptada original; não instala uma extensão na interface.
+
+O [episódio 03 — 10x Mais Rápido](projetos/03-10x-mais-rapido/) inclui cenas 3D próprias, rig com IK, câmera e diagramas. [Pacotes YouTube novos](youtube/) ficam dentro de AiTrends. Projetos e capas anteriores permanecem nos seus caminhos originais.

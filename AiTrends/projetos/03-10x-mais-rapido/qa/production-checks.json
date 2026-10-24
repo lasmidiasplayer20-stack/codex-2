@@ -1,0 +1,34 @@
+{
+  "beats": 32,
+  "shots": 160,
+  "continuous_timeline": true,
+  "seconds": 510,
+  "narration_words": 1437,
+  "tts_cache_matches_script": true,
+  "voice": "Puck",
+  "models": [
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-2.5-flash-preview-tts"
+  ],
+  "camera_counts": {
+    "detail": 26,
+    "close": 20,
+    "wide": 41,
+    "orbit": 12,
+    "track": 17,
+    "feet": 10,
+    "front": 6,
+    "aerial": 9,
+    "card": 14,
+    "slow": 5
+  },
+  "visuals": "Procedural Three.js and Canvas, own geometry and cast; no imported character/frame assets",
+  "audio_input": "Only spoken narration; no style directions inside text",
+  "speech_independent_asr": "Unavailable: Gemini HTTP 503/429 and Whisper model download HTTP 403 even after network retry. See content-audit.json. No claim of complete listening/transcription."
+}
