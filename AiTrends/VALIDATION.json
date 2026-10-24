@@ -45,5 +45,12 @@
     "Paid API providers",
     "Automatic plugin discovery in chat UI"
   ],
-  "original_archives_preserved": true
+  "original_archives_preserved": true,
+  "demo_provenance": {
+    "original_plugin_archives_contained_mp4": false,
+    "rendered_by": "Codex in this workspace",
+    "aitrends_content": "Bundled examples/reaction-time; original story and scene code, not newly authored by Codex",
+    "stick_content": "Bundled kit/py/selftest.py; original test story, cast and shots, not newly authored by Codex",
+    "adaptation_work": "Dependency setup, Chromium support, subprocess status propagation, CLI adapter, local render and validation"
+  }
 }
