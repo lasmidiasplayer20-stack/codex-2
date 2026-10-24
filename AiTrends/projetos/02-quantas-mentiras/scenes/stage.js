@@ -13,7 +13,7 @@ export function cup(g,x,y,s=1){panel(g,x-17*s,y-48*s,34*s,48*s,'#e8dcca',4*s);g.
 export function phone(g,x,y,s=1,angle=0){g.save();g.translate(x,y);g.rotate(angle);panel(g,-27*s,-48*s,54*s,96*s,'#0a1021',8*s);panel(g,-21*s,-38*s,42*s,68*s,'#4f7186',3*s);circle(g,0,39*s,3*s,'#91adb5');g.restore();}
 export function paper(g,x,y,s=1,label=''){g.save();g.translate(x,y);g.rotate(-.08);panel(g,-65*s,-80*s,130*s,160*s,'#dbd4c2',3);for(let i=0;i<5;i++)seg(g,[[-44*s,(-45+i*22)*s],[40*s,(-45+i*22)*s]],3*s,'#a5a295');if(label)text(g,label,0,-55*s,{size:18*s,color:'#3b4452'});g.restore();}
 export function sandwich(g,x,y,s=1){poly(g,[[x-42*s,y],[x+40*s,y],[x-26*s,y-42*s]],'#eac17e');seg(g,[[x-39*s,y+4*s],[x+38*s,y+4*s]],8*s,'#4b8b61');seg(g,[[x-37*s,y+13*s],[x+35*s,y+13*s]],7*s,'#bc685a');}
-export function bench(g,x,y,w=500){for(let i=0;i<3;i++)panel(g,x-w/2,y-175+i*25,w,18,'#5e4141');panel(g,x-w/2-10,y-78,w+20,22,'#84614b');for(const d of [-1,1])seg(g,[[x+d*w*.4,y-175],[x+d*w*.4,y]],15,'#131c31');}
+export function bench(g,x,y,w=500,s=1){if(s===1){for(let i=0;i<3;i++)panel(g,x-w/2,y-175+i*25,w,18,'#5e4141');panel(g,x-w/2-10,y-78,w+20,22,'#84614b');for(const d of [-1,1])seg(g,[[x+d*w*.4,y-175],[x+d*w*.4,y]],15,'#131c31');return;}g.save();g.translate(x,y);g.scale(s,s);w/=s;for(let i=0;i<3;i++)panel(g,-w/2,-155+i*25,w,18,'#5e4141');panel(g,-w/2-10,-72,w+20,17,'#84614b');for(const d of [-1,1])seg(g,[[d*w*.4,-155],[d*w*.4,0]],12,'#131c31');g.restore();}
 
 export function set(g,t,cam,loc){
  const outside=['street','bench'].includes(loc),M=mood(outside?'night':loc==='hospital'?'interiorCool':'interiorWarm'); const GY=890;

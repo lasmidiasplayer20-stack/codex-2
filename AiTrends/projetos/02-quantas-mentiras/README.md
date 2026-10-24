@@ -2,6 +2,18 @@
 
 Animação própria em português, feita com o **aiTrends adaptado deste repositório**. Duração-alvo 8min20s, horizontal, 1920×1080 a 24 fps. Roteiro novo inspirado na premissa enviada pelo usuário; o conflito principal e a narração foram reescritos. Nenhum frame da referência é usado no filme.
 
+## Entrega
+
+- [Vídeo completo — 8min20s, 1080p](exports/02%20-%20Quantas%20mentiras.mp4).
+- [Preview de um minuto — 1080p](exports/02%20-%20Quantas%20mentiras%20-%20Preview%201min.mp4).
+- [Roteiro](ROTEIRO.md).
+- [Quadros do MP4 final](qa/filme-completo.jpg).
+- [Evidências de exportação](qa/export-validation.json).
+
+CTAs vetoriais do **Então** em 43–51 s, 246–254 s e 485–499,4 s, com clique/sino sintetizados e CTA falado no encerramento. Corrigidos apoio de quadris e pés nas cenas sentadas; apenas os planos afetados foram renderizados novamente, mantendo resolução, duração e cadência.
+
+A conferência automática de conteúdo transcreveu quatro dos oito trechos da Puck; os demais ficaram indisponíveis por HTTP 503/timeout do provedor. Essa cobertura parcial está registrada em `audio/content-audit.json`. Todos os oito textos enviados ao TTS foram comparados com o roteiro; áudio completo teve métricas de volume/pausas e integridade verificadas. Isso não equivale a escuta humana nem a transcrição integral conferida.
+
 ## Arquivos
 
 - `ROTEIRO.md`: narração e capítulos; `input/narracao.txt`: somente o texto falado.
@@ -23,6 +35,12 @@ node AiTrends/projetos/02-quantas-mentiras/scripts/render-fast.mjs --project "$P
 ```
 
 O adaptador deriva do renderizador incluído no aiTrends: mesmo player, registro de cenas, rig, fontes, estilos e biblioteca Three.js. Captura o canvas final diretamente e usa Canvas 2D em software para evitar rasterização 2D em SwiftShader. A opção `--ff-grade` desloca o LUT da paleta midnight para FFmpeg e omite o grão para acelerar e reduzir compressão; não aumenta a resolução de uma imagem menor. Como a correção passa após a vinheta, há uma pequena diferença de ordem de composição em relação ao renderizador original. As cenas 3D continuam renderizadas em 1920×1080, com bloom desativado e sombras de 1024 para CPU.
+
+Para montar a animação renderizada com a mixagem já salva, sem gerar voz de novo:
+
+```bash
+ffmpeg -n -i /tmp/mentiras-silencioso.mp4 -i AiTrends/projetos/02-quantas-mentiras/audio/mix.mp3 -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -b:a 192k -t 500 -movflags +faststart /tmp/mentiras-final.mp4
+```
 
 Não execute `scripts/build_story.py` depois de alinhar a voz sem intenção de refazer a temporização: ele restaura a montagem textual inicial. O script `treat_voice.py` usa limites reais dos oito trechos e aproxima os limites dos parágrafos com energia de áudio e proporção do texto. Não é alinhamento por reconhecimento de cada palavra.
 

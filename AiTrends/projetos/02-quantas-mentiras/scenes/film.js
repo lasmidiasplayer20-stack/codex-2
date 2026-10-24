@@ -70,8 +70,8 @@ function props(g,b,t){
   cup(g,850,755,.7);cup(g,1110,755,.7);
  }
  if(b.set==='court'){table(g,520,785,520);paper(g,550,700,.45);table(g,1370,815,350);}
- if(b.set==='hospital'){bench(g,1150,870,470);paper(g,1100,740,.5);}
- if(b.set==='bench'||['zero','ask','share'].includes(b.action)){bench(g,1060,900,650);if(b.action==='share')sandwich(g,960,770,.8);}
+ if(b.set==='hospital'&&b.action!=='mother'){bench(g,1150,870,470);paper(g,1100,740,.5);}
+ if(b.set!=='bench'&&['zero','ask'].includes(b.action))bench(g,1060,900,650);
 }
 function polyLaptop(g){panel(g,550,740,820,35,'#66717d',5);for(let i=0;i<6;i++)seg(g,[[690,410+i*38],[1180,410+i*38]],8,'#8c9aa7');}
 function insert(g,b,t,info,cam){
@@ -127,20 +127,23 @@ function scene(g,t,info){
   veil(g,'#060d1c',.55);layer(g,{z:1+.03*q,x:0,y:0},1,g=>insert(g,b,t,info,cam));
  }else{
   layer(g,cam,1,g=>{
-   const s=mode==='wide'?1.65:2.3,dist=mode==='wide'?470:620,center=960;
+   const seated=b.set==='bench'||b.action==='share'||b.action==='ending';
+   const s=seated?2.1:mode==='wide'?1.65:2.3,dist=mode==='wide'?470:620,center=960;
    const sitting=b.set==='bench'||b.action==='share'||b.action==='ending';
-   if(sitting)bench(g,1030,940,700);
+   if(sitting)bench(g,960,GY,1000,s);
+   if(b.action==='mother')bench(g,center+dist/2,GY,520,s);
+   if(b.action==='talk')bench(g,1530,GY,350,1.3);
    const walking=['arrival','follow','reveal','reject'].includes(b.action)&&mode==='wide';
    const rootX=walking?410:Math.max(400,center-dist/2);
    character(g,b,walking?bt:t,rootX,GY,s,0,{walk:walking?35:0,sit:sitting,count:b.action==='crowd'?14003:undefined});
    if(!['self','belief','admit','arrival','question'].includes(b.action)){
-    const os=sitting?1.85:s;const otherX=sitting?1215:center+dist/2;
+    const os=s;const otherX=sitting?1215:center+dist/2;
     character(g,b,t,otherX,GY,os,1,{sit:sitting||b.action==='mother',count:b.action==='crowd'?22310:b.action==='door'?(bt<3?9313:9314):b.action==='test'?(bt<3?9311:9312):b.action==='blackout'?(bt<3?null:9311):undefined});
    }
    if(b.action==='talk'){person(g,{x:1530,y:890,s:1.3,facing:-1,outfit:MOTHER,pose:fixed(POSES.sit),expr:'worried',rim:{color:M.rim,dir:[-1,-1]}},t,6811);}
    props(g,b,bt);
    if(b.action==='blackout'){const darkness=bt<2?0:bt<3?1:0;veil(g,'#000',darkness);}
-   if(b.action==='share')sandwich(g,960+Math.sin(q*Math.PI)*60,750,1.1);
+   if(b.action==='share')sandwich(g,960+Math.sin(q*Math.PI)*60,740,1.1);
   });
   if(mode==='ots')foreground(g,bt,cam,-1);
  }

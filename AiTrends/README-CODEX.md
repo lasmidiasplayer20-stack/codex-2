@@ -102,4 +102,4 @@ Veja `VALIDATION.json` para evidências dos testes desta instância. O ZIP port�
 
 ## Produção nova — canal Então
 
-[02 — Quantas mentiras](projetos/02-quantas-mentiras/README.md): roteiro próprio em português, direção com 128 planos, voz Puck e CTAs vetoriais do Então. Exportação-alvo de 8min20s, 1920×1080/24 fps. O estado e os arquivos entregues ficam no README e na pasta `exports/` do projeto; esta produção não é uma das demos originais descritas acima.
+[02 — Quantas mentiras](projetos/02-quantas-mentiras/README.md): roteiro próprio em português, direção com 128 planos, voz Puck e CTAs vetoriais do Então. Exportado em 8min20s, 1920×1080/24 fps, com prévia de um minuto na mesma resolução. O estado e os arquivos entregues ficam no README e na pasta `exports/` do projeto; esta produção não é uma das demos originais descritas acima.

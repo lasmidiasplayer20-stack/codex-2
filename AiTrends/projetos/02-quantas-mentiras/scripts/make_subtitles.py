@@ -15,5 +15,5 @@ for b in json.loads((ROOT/'story/beats.json').read_text()):
    else:line=(line+' '+word).strip()
   if line:lines.append(line)
   out.append(f'{len(out)+1}\n{tc(start)} --> {tc(end)}\n'+ '\n'.join(lines)+'\n');start=end
-(ROOT/'timeline/legendas-provisorias.srt').write_text('\n'.join(out)+'\n')
+(ROOT/'timeline/legendas-provisorias.srt').write_text('\n'.join(out).rstrip()+'\n')
 print(len(out),'legendas de leitura; revisar após a voz real.')

@@ -1,0 +1,67 @@
+{
+  "reason": "Align seated hips with scaled bench seats and feet with floor; keep other shots intact.",
+  "corrected_frames": 950,
+  "ranges": [
+    {
+      "start_frame": 7150,
+      "end_frame": 7333,
+      "start": 297.9166666666667,
+      "end": 305.5416666666667,
+      "beat": 19,
+      "shot_ids": [
+        "s077",
+        "s078"
+      ],
+      "path": "/workspace/mentiras-private/seat-patch-1.mp4"
+    },
+    {
+      "start_frame": 7514,
+      "end_frame": 7922,
+      "start": 313.0833333333333,
+      "end": 330.0833333333333,
+      "beat": 20,
+      "shot_ids": [
+        "s081",
+        "s082",
+        "s083",
+        "s084"
+      ],
+      "path": "/workspace/mentiras-private/seat-patch-2.mp4"
+    },
+    {
+      "start_frame": 9315,
+      "end_frame": 9480,
+      "start": 388.125,
+      "end": 395.0,
+      "beat": 25,
+      "shot_ids": [
+        "s101",
+        "s102"
+      ],
+      "path": "/workspace/mentiras-private/seat-patch-3.mp4"
+    },
+    {
+      "start_frame": 11177,
+      "end_frame": 11371,
+      "start": 465.7083333333333,
+      "end": 473.7916666666667,
+      "beat": 30,
+      "shot_ids": [
+        "s122",
+        "s123"
+      ],
+      "path": "/workspace/mentiras-private/seat-patch-4.mp4"
+    }
+  ],
+  "before_sha256": "ff0391aa0bc33d943238d41ab26515fb54835882ef5512c595302ecb3a65825c",
+  "after_sha256": "596a2af7370fa4854d8fe0fdaf09004f3930b2f90743171a6c0bbdbf31af3cab",
+  "native_dimensions": [
+    1920,
+    1080
+  ],
+  "frames": 12000,
+  "seconds": 500,
+  "full_decode_passed": true,
+  "geometry": "Seated pose hip and bench seat both -72*s from root/floor; feet at rootY=890. Same 2.1 scale for two seated characters; mother bench uses her figure scale.",
+  "assembly": "Frame-accurate original spans re-encoded in native 1080p and concatenated with fixed native aiTrends patches."
+}

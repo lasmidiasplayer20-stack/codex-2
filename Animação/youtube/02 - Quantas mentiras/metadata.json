@@ -1,6 +1,6 @@
 {
   "titulo": "E se você pudesse ver quantas mentiras cada pessoa já contou?",
-  "descricao": "E se você pudesse enxergar quantas mentiras cada pessoa já contou? Um juiz ganha essa habilidade e acredita ter encontrado a ferramenta perfeita para descobrir a verdade. Até olhar para as pessoas em quem mais confia — e para o próprio reflexo.\n\nEntre um tribunal, um jantar e um homem que ele julgou sem conhecer, os números começam a revelar mais do que mentiras: revelam os limites da sua certeza.\n\nUm contador mostra quando alguém mente. Mas será que ele conta quem essa pessoa realmente é?\n\nHistória de ficção especulativa sobre confiança, julgamentos precipitados e o contexto que um número sozinho não revela. A habilidade retratada é imaginária.\n\nAnimação e narração produzidas com auxílio de inteligência artificial.\n\nVocê faria perguntas ou preferiria não saber? Conte nos comentários.\n\n#ESe #Mentiras #HistóriaAnimada",
+  "descricao": "E se você pudesse enxergar quantas mentiras cada pessoa já contou? Um juiz ganha essa habilidade e acredita ter encontrado a ferramenta perfeita para descobrir a verdade. Até olhar para as pessoas em quem mais confia — e para o próprio reflexo.\n\nEntre o tribunal, sua casa e um homem que ele julgou sem conhecer, os números começam a revelar os limites da sua certeza. Um contador mostra uma mentira. Mas será que ele conta quem essa pessoa realmente é?\n\nUma história de ficção sobre confiança, julgamentos precipitados e o contexto que um número sozinho não revela. A habilidade retratada é imaginária.\n\nCAPÍTULOS\n00:00 O que um número não conta\n00:31 Sete dias antes\n01:16 O primeiro número\n01:44 O próprio reflexo\n02:48 Aparência não é prova\n04:42 A história que faltava\n05:58 O homem do zero\n06:41 A própria responsabilidade\n07:27 E na vida real?\n07:57 Sua pergunta / Então\n\nVocê gostaria de enxergar esses números? Qual seria sua primeira pergunta? Conte nos comentários.\n\nInscreva-se no Então para novas histórias animadas e hipóteses que fazem pensar.\n\nAnimação criada por código, com narração e efeitos produzidos com auxílio de inteligência artificial.\n\n#Então #ESe #HistóriaAnimada",
   "tags": [
     "e se",
     "contador de mentiras",
@@ -16,11 +16,16 @@
     "comportamento humano",
     "animação em português",
     "história de ficção",
-    "what if em português"
+    "what if em português",
+    "canal Então",
+    "Então histórias"
   ],
   "idioma": "pt-BR",
-  "status": "PACOTE PRELIMINAR: descrição baseada no texto de referência enviado pelo usuário. Episódio próprio de aproximadamente 8min20s ainda em produção; conferir promessa editorial e personagens após roteiro e exportação.",
+  "status": "Episódio completo exportado em 1920x1080/24fps, 8min20s. Publicação no GitHub; upload no YouTube não executado.",
   "capa": "capa.jpg",
   "referencia_capa": "Duas miniaturas enviadas pelo usuário: figuras simples com contorno, rostos escuros expressivos, roupas coloridas, fundo noturno e painéis luminosos. Composição nova, sem logotipos.",
-  "texto_capa": "QUEM ESTÁ MENTINDO?"
+  "texto_capa": "QUEM ESTÁ MENTINDO?",
+  "canal": "Então",
+  "duracao_segundos": 500,
+  "projeto": "AiTrends/projetos/02-quantas-mentiras"
 }

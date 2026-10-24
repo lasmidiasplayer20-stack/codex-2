@@ -1,0 +1,58 @@
+[
+  {
+    "part": 1,
+    "request_text_matches_script": true,
+    "text_sha256": "534dd66b502a91993baebf8bdb8ff10ba9bc594d6c6511f5dcd7ad43ef6fabe6",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 2,
+    "request_text_matches_script": true,
+    "text_sha256": "c41c519fa5ed50aca57334183ce439e05cf3bfa8803e68c0ce3dec72eae3a83c",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 3,
+    "request_text_matches_script": true,
+    "text_sha256": "df9009581ce92d7f183fa7d7515fcf982b3d295f8a9f0fba13158b5283d15ae7",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 4,
+    "request_text_matches_script": true,
+    "text_sha256": "0a603b1260e2ec1f2fadfd93bb3d979f7766ee9d84bef4bf1023fccb0cc069e8",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 5,
+    "request_text_matches_script": true,
+    "text_sha256": "f541369fbe286bab1a455694804a19a2d716f5870543c5f6b3912fdd83b39d62",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 6,
+    "request_text_matches_script": true,
+    "text_sha256": "80f244d60969501d42c637700ad69b085c7f97b5ea022179f52b10cc6936037b",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 7,
+    "request_text_matches_script": true,
+    "text_sha256": "b817c071828a8066715e22a61169a4936a62d0a844400bb97c100b7c476ab167",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  },
+  {
+    "part": 8,
+    "request_text_matches_script": true,
+    "text_sha256": "6e832e2cf7b5885b6092731bebc73b00a500a608be5c89f0b8cbd8f81bfde963",
+    "voice": "Puck",
+    "model": "gemini-3.8-flash-tts"
+  }
+]

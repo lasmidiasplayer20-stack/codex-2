@@ -1,0 +1,22 @@
+{
+  "duration": 500.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "peak_dbfs": -4.5100884437561035,
+  "clipped_samples": 0,
+  "human_listening": false,
+  "cta_sfx_seconds": [
+    [
+      45.8,
+      47.1
+    ],
+    [
+      248.8,
+      250.1
+    ],
+    [
+      487.8,
+      489.1
+    ]
+  ]
+}

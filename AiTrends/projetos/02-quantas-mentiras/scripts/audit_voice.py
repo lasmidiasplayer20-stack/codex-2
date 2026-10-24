@@ -17,12 +17,15 @@ def main():
    req=urllib.request.Request('https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent',data=json.dumps(body).encode(),headers={'Content-Type':'application/json','x-goog-api-key':key})
    for attempt in range(4):
     try:
-     with urllib.request.urlopen(req,timeout=180)as r:d=json.load(r)
+     with urllib.request.urlopen(req,timeout=240)as r:d=json.load(r)
      break
     except urllib.error.HTTPError as e:
      if e.code in [429,500,502,503,504] and attempt<3:
       print('ASR transient HTTP',e.code,'retry',attempt+1,flush=True);time.sleep(25)
      else:raise SystemExit(f'ASR check HTTP {e.code}; credential/provider body not logged.')from None
+    except (TimeoutError,urllib.error.URLError):
+     if attempt<3:print('ASR timeout; retry',attempt+1,flush=True);time.sleep(20)
+     else:raise SystemExit('ASR unavailable after bounded timeout retries.')from None
    text='\n'.join(p.get('text','')for c in d.get('candidates',[])for p in c.get('content',{}).get('parts',[]));out.write_text(text)
    if not text:raise SystemExit('Empty ASR response')
   text=out.read_text();expected=norm(meta['text']);actual=norm(text);ratio=difflib.SequenceMatcher(None,expected,actual,autojunk=False).ratio()

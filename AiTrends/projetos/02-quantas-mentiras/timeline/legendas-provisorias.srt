@@ -839,4 +839,3 @@ no Então e ative o sino.
 194
 00:08:17,677 --> 00:08:20,000
 Aqui, uma hipótese abre espaço para outra.
-

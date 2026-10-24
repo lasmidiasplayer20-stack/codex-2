@@ -1,0 +1,381 @@
+{
+  "parte-01.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 5.986532211303711,
+      "duration_seconds": 61.16,
+      "peak_dbfs": -0.8849252462387085,
+      "active_frame_p90_minus_p10_db": 16.8680362701416,
+      "max_low_energy_gap_seconds": 0.88,
+      "gaps_over_0_8_seconds": 2,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 3.1533288955688477,
+      "duration_seconds": 58.72,
+      "peak_dbfs": -1.4465564489364624,
+      "active_frame_p90_minus_p10_db": 16.479082107543945,
+      "max_low_energy_gap_seconds": 0.62,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": [
+      {
+        "start": 17.01,
+        "original_seconds": 0.69,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 25.52,
+        "original_seconds": 0.75,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 40.35,
+        "original_seconds": 0.76,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 43.28,
+        "original_seconds": 0.78,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 52.15,
+        "original_seconds": 0.89,
+        "remaining_seconds": 0.36
+      }
+    ]
+  },
+  "parte-02.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 7.2351531982421875,
+      "duration_seconds": 60.4,
+      "peak_dbfs": -1.4112472534179688,
+      "active_frame_p90_minus_p10_db": 16.849533081054688,
+      "max_low_energy_gap_seconds": 1.0,
+      "gaps_over_0_8_seconds": 3,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 4.009382247924805,
+      "duration_seconds": 56.88,
+      "peak_dbfs": -1.480437994003296,
+      "active_frame_p90_minus_p10_db": 16.692445755004883,
+      "max_low_energy_gap_seconds": 0.58,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": [
+      {
+        "start": 15.14,
+        "original_seconds": 1.0,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 27.26,
+        "original_seconds": 1.0,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 29.29,
+        "original_seconds": 0.8,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 33.67,
+        "original_seconds": 0.66,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 35.24,
+        "original_seconds": 0.66,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 40.23,
+        "original_seconds": 0.83,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 42.61,
+        "original_seconds": 0.69,
+        "remaining_seconds": 0.36
+      }
+    ]
+  },
+  "parte-03.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 6.685741424560547,
+      "duration_seconds": 63.68,
+      "peak_dbfs": -0.8925597667694092,
+      "active_frame_p90_minus_p10_db": 16.64455795288086,
+      "max_low_energy_gap_seconds": 0.76,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 3.056393623352051,
+      "duration_seconds": 61.55,
+      "peak_dbfs": -1.3460073471069336,
+      "active_frame_p90_minus_p10_db": 14.649282455444336,
+      "max_low_energy_gap_seconds": 0.58,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": [
+      {
+        "start": 15.91,
+        "original_seconds": 0.77,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 29.98,
+        "original_seconds": 0.73,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 40.09,
+        "original_seconds": 0.67,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 45.61,
+        "original_seconds": 0.73,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 61.32,
+        "original_seconds": 0.66,
+        "remaining_seconds": 0.36
+      }
+    ]
+  },
+  "parte-04.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 8.027088165283203,
+      "duration_seconds": 66.44,
+      "peak_dbfs": -1.506881833076477,
+      "active_frame_p90_minus_p10_db": 17.290054321289062,
+      "max_low_energy_gap_seconds": 0.84,
+      "gaps_over_0_8_seconds": 3,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 4.107071876525879,
+      "duration_seconds": 63.29,
+      "peak_dbfs": -1.4181102514266968,
+      "active_frame_p90_minus_p10_db": 15.385721206665039,
+      "max_low_energy_gap_seconds": 0.62,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": [
+      {
+        "start": 33.78,
+        "original_seconds": 0.83,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 42.01,
+        "original_seconds": 0.7,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 48.05,
+        "original_seconds": 0.68,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 50.19,
+        "original_seconds": 0.84,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 55.31,
+        "original_seconds": 0.71,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 57.47,
+        "original_seconds": 0.77,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 59.32,
+        "original_seconds": 0.85,
+        "remaining_seconds": 0.36
+      }
+    ]
+  },
+  "parte-05.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 8.496278762817383,
+      "duration_seconds": 68.12,
+      "peak_dbfs": -1.5100353956222534,
+      "active_frame_p90_minus_p10_db": 16.65462875366211,
+      "max_low_energy_gap_seconds": 0.8,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 2.8554296493530273,
+      "duration_seconds": 63.65,
+      "peak_dbfs": -1.476666808128357,
+      "active_frame_p90_minus_p10_db": 14.321027755737305,
+      "max_low_energy_gap_seconds": 0.58,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": [
+      {
+        "start": 9.6,
+        "original_seconds": 0.66,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 12.06,
+        "original_seconds": 0.67,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 17.29,
+        "original_seconds": 0.78,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 24.56,
+        "original_seconds": 0.7,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 29.58,
+        "original_seconds": 0.66,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 33.8,
+        "original_seconds": 0.81,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 38.32,
+        "original_seconds": 0.72,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 47.17,
+        "original_seconds": 0.66,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 51.79,
+        "original_seconds": 0.78,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 60.7,
+        "original_seconds": 0.72,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 62.69,
+        "original_seconds": 0.67,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 65.16,
+        "original_seconds": 0.7,
+        "remaining_seconds": 0.36
+      }
+    ]
+  },
+  "parte-06.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 4.822263717651367,
+      "duration_seconds": 59.92,
+      "peak_dbfs": -1.7065296173095703,
+      "active_frame_p90_minus_p10_db": 17.05744171142578,
+      "max_low_energy_gap_seconds": 0.64,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 3.046502113342285,
+      "duration_seconds": 59.53,
+      "peak_dbfs": -1.4794950485229492,
+      "active_frame_p90_minus_p10_db": 15.633344650268555,
+      "max_low_energy_gap_seconds": 0.54,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": []
+  },
+  "parte-07.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 4.404809951782227,
+      "duration_seconds": 56.56,
+      "peak_dbfs": -1.653139352798462,
+      "active_frame_p90_minus_p10_db": 16.820693969726562,
+      "max_low_energy_gap_seconds": 0.54,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 3.2332515716552734,
+      "duration_seconds": 56.27,
+      "peak_dbfs": -1.463794469833374,
+      "active_frame_p90_minus_p10_db": 14.30937671661377,
+      "max_low_energy_gap_seconds": 0.48,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": []
+  },
+  "parte-08.wav": {
+    "before": {
+      "one_second_level_p90_minus_p10_db": 6.277885437011719,
+      "duration_seconds": 66.92,
+      "peak_dbfs": -1.6711138486862183,
+      "active_frame_p90_minus_p10_db": 15.598416328430176,
+      "max_low_energy_gap_seconds": 0.74,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "after": {
+      "one_second_level_p90_minus_p10_db": 2.917552947998047,
+      "duration_seconds": 65.88,
+      "peak_dbfs": -1.422168493270874,
+      "active_frame_p90_minus_p10_db": 13.621335983276367,
+      "max_low_energy_gap_seconds": 0.58,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    },
+    "shortened_pauses": [
+      {
+        "start": 43.54,
+        "original_seconds": 0.75,
+        "remaining_seconds": 0.36
+      },
+      {
+        "start": 47.56,
+        "original_seconds": 0.74,
+        "remaining_seconds": 0.36
+      }
+    ]
+  },
+  "final": {
+    "natural_duration": 487.17,
+    "atempo": 0.97434,
+    "target_duration": 500.0,
+    "timing_method": "Generated-part boundaries plus text proportions adjusted to nearby audio energy valleys; not ASR word alignment.",
+    "metrics": {
+      "one_second_level_p90_minus_p10_db": 4.022647857666016,
+      "duration_seconds": 499.993,
+      "peak_dbfs": -1.793099045753479,
+      "active_frame_p90_minus_p10_db": 15.175050735473633,
+      "max_low_energy_gap_seconds": 0.62,
+      "gaps_over_0_8_seconds": 0,
+      "clipped_samples": 0
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "part": 1,
+    "status": "verified",
+    "word_similarity": 0.96,
+    "unexpected_instruction_terms": [],
+    "source_words": 164,
+    "transcribed_words": 161,
+    "method": "Independent Gemini automated transcription; not human listening."
+  },
+  {
+    "part": 2,
+    "status": "verified",
+    "word_similarity": 0.9345794392523364,
+    "unexpected_instruction_terms": [],
+    "source_words": 163,
+    "transcribed_words": 158,
+    "method": "Independent Gemini automated transcription; not human listening."
+  },
+  {
+    "part": 3,
+    "status": "verified",
+    "word_similarity": 1.0,
+    "unexpected_instruction_terms": [],
+    "source_words": 183,
+    "transcribed_words": 183,
+    "method": "Independent Gemini automated transcription; not human listening."
+  },
+  {
+    "part": 4,
+    "status": "verified",
+    "word_similarity": 0.9887640449438202,
+    "unexpected_instruction_terms": [],
+    "source_words": 178,
+    "transcribed_words": 178,
+    "method": "Independent Gemini automated transcription; not human listening."
+  },
+  {
+    "part": 5,
+    "status": "asr_unavailable",
+    "word_similarity": null,
+    "unexpected_instruction_terms": [],
+    "source_words": 185,
+    "transcribed_words": null,
+    "method": "Audio generated and signal checked; content ASR unavailable after provider HTTP503/high-demand and timeout retries. No claim of full transcription or human listening."
+  },
+  {
+    "part": 6,
+    "status": "asr_unavailable",
+    "word_similarity": null,
+    "unexpected_instruction_terms": [],
+    "source_words": 171,
+    "transcribed_words": null,
+    "method": "Audio generated and signal checked; content ASR unavailable after provider HTTP503/high-demand and timeout retries. No claim of full transcription or human listening."
+  },
+  {
+    "part": 7,
+    "status": "asr_unavailable",
+    "word_similarity": null,
+    "unexpected_instruction_terms": [],
+    "source_words": 159,
+    "transcribed_words": null,
+    "method": "Audio generated and signal checked; content ASR unavailable after provider HTTP503/high-demand and timeout retries. No claim of full transcription or human listening."
+  },
+  {
+    "part": 8,
+    "status": "asr_unavailable",
+    "word_similarity": null,
+    "unexpected_instruction_terms": [],
+    "source_words": 197,
+    "transcribed_words": null,
+    "method": "Audio generated and signal checked; content ASR unavailable after provider HTTP503/high-demand and timeout retries. No claim of full transcription or human listening."
+  }
+]

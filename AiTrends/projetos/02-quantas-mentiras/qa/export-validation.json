@@ -1,0 +1,63 @@
+{
+  "duration": 500.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "frames": 12000,
+  "audio": "AAC 192 kb/s stereo 48 kHz, Puck pt-BR + procedural music/SFX",
+  "bytes": 75660895,
+  "sha256": "ba49109ae0dbbe4553e9f90394018c6a3a11377dc45b977a631c930dab241c3c",
+  "source_sha256": "eec76cf861319a90a01ed40b488eb8aac9c46ea10923c0c3fe7e9995b39c237c",
+  "native_render": true,
+  "upscaled": false,
+  "preview": {
+    "seconds": 60,
+    "frames": 1440,
+    "bytes": 9989812
+  },
+  "full_decode_passed": true,
+  "renderer_errors": [],
+  "cta_seconds": [
+    [
+      43,
+      51
+    ],
+    [
+      246,
+      254
+    ],
+    [
+      485,
+      499.4
+    ]
+  ],
+  "subtitle_timing": "Phrase-reading estimates, optional track, not ASR word alignment",
+  "speech_audit": {
+    "verified_parts": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "asr_unavailable_parts": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "method": "Independent automated Gemini transcription on available parts; no claim of full ASR or human listening. See audio/content-audit.json."
+  },
+  "visual_review": {
+    "contact_sheet_frames": 16,
+    "native_cta_frames_checked": [
+      46,
+      250,
+      491
+    ],
+    "native_seating_frames_checked": [
+      302,
+      466
+    ],
+    "result": "Inspecionados os quadros efetivos do MP4 final; texto legível, personagens apoiados e sem placas de erro nas amostras. Não equivale a assistir manualmente todos os quadros."
+  }
+}
