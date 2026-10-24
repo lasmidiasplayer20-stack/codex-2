@@ -6,7 +6,9 @@
 
 A produção usa o renderizador procedural **Three.js/Canvas dos primeiros vídeos**, com o cenário e os personagens próprios de casaco amarelo e verde. Os personagens um pouco mais alongados têm braços e pernas de comprimentos fixos, apoio dos pés ligado à distância percorrida e gestos com preparação e retorno. O experimento Blender está arquivado.
 
-A abertura aprovada foi preservada. O restante inclui as comparações em duas pistas, as regiões do corpo expostas à chuva, recipientes com água subindo, vento, guarda-chuva, poça, passagem da toalha entre os personagens e a chegada ao abrigo. Os gestos de explicação têm início e fim; as gotas que escorrem da roupa caem para o chão. As câmeras alternam contexto, ação, detalhe e reação.
+A abertura aprovada foi preservada. A passagem da toalha também foi conferida quadro a quadro para evitar uma virada brusca do cotovelo.
+
+O restante inclui as comparações em duas pistas, as regiões do corpo expostas à chuva, recipientes com água subindo, vento, guarda-chuva, poça, passagem da toalha entre os personagens e a chegada ao abrigo. Os gestos de explicação têm início e fim; as gotas que escorrem da roupa caem para o chão. As câmeras alternam contexto, ação, detalhe e reação.
 
 Os contornos, os personagens, os cenários e os pequenos traços dos casacos são geometria calculada por código. A narração Puck tratada foi mantida; não foi necessário gerar outra voz. Chuva, vento, passos e respingos são sintetizados em Python. O primeiro minuto da mixagem preserva o áudio aprovado.
 

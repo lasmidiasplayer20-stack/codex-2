@@ -22,7 +22,7 @@ export function perform(st,t){if(t<60)return st;
   for(const side of Object.keys(B.hands||{}))B.gestureStrength[side]=ease(local/.35)*(1-ease((local-length+.8)/.8));
  }
  if(action==='dry_friend'){
-  A.yaw=.85;A.look=.65;B.look=-.40;
+  A.yaw=.85;A.look=.65;B.look=-.40;B.armPoles={left:[-1,-.35,-.15]};
   const meet=[8.9,1.64,-.025],reach=ease((q-.12)/.30),release=1-ease((q-.57)/.30);
   A.hands={};B.hands={};A.contact={right:meet.slice()};A.contactStrength=reach*release;
   const wipe=ease((q-.57)/.20),hand=[-.07+.045*Math.sin(q*8),1.91,.34];

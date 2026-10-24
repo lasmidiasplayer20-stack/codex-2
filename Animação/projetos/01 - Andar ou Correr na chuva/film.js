@@ -89,7 +89,7 @@ function person(color){const childStart=scene.children.length;const g=new T.Grou
    const rest=[shoulder[0]+l.side*.025,shoulder[1]-mix(.62,.40,runMix),shoulder[2]+mix(-.14*Math.cos(phase)*amount,.20-.19*Math.cos(phase),runMix)];
    let hand=[...rest];const custom=state.hands?.[side];if(custom){const strength=state.gestureStrength?.[side]??1;hand=arcGesture(rest,custom,shoulder,strength);}
    const target=state.contact?.[side];if(target){const local=g.worldToLocal(new T.Vector3(...target)).toArray();hand=arcGesture(rest,local,shoulder,state.contactStrength??1);}
-   const arm=solveJoint(shoulder,hand,.34,.32,[l.side*.35,-.3,-1]),elbow=arm.joint;hand=arm.end;
+   const arm=solveJoint(shoulder,hand,.34,.32,state.armPoles?.[side]||[l.side*.35,-.3,-1]),elbow=arm.joint;hand=arm.end;
    connect(l.upper,shoulder,elbow,.095);connect(l.lower,elbow,hand,.075);l.elbow.position.set(...elbow);l.hand.position.set(...hand);handWorld[side]=g.localToWorld(new T.Vector3(...hand)).toArray();
   }
   const blink=Math.pow(Math.max(0,Math.sin(t*1.8+(color===palette.teal?1:0))),42);for(const [j,e]of eyes.entries()){e.scale.y=.045*(1-blink*.92)*(state.expression==='laugh'?.65:1);e.position.x=(j?.105:-.105)+.015+(state.look||0)*.025;}
