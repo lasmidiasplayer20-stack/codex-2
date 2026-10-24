@@ -1,3 +1,35 @@
+# Chuva — direção, personagens alongados e traço por código
+
+A revisão atual é **02 - Chuva - Atuacao e traco.blend**. Ela contém uma cena original de 60 segundos, 17 planos e os dois áudios empacotados. Abra no Blender 4.3 ou posterior; reproduza a timeline pela câmera. Não precisa executar scripts para reproduzir os keyframes salvos.
+
+Os personagens foram redesenhados com pernas e tronco mais longos. Braços e pernas usam IK analítica de dois segmentos, com polos de dobra consistentes e comprimentos fixos. Os ciclos dependem da distância percorrida; há aceleração, frenagem, preparação da corrida, apoio dos pés, reação ao respingo e um cumprimento no abrigo. Os gestos seguem arcos de preparação, ação e recuperação.
+
+O Grease Pencil fornece tanto os contornos Line Art quanto traços desenhados ponto a ponto: sobrancelhas, sorriso, costuras, hachuras, ondulações e arcos de respingo. Os traços do rosto acompanham a superfície e são ocultados nas vistas de costas. Tudo é geometria ou traço procedural. Não há imagens prontas, modelos importados, mocap, plugins pagos ou chaves de API.
+
+As referências orientam a alternância entre ação, detalhe e reação, o acompanhamento lateral, a vista sobre o ombro e as comparações de trajeto. Os personagens são próprios. A base visual continua volumétrica em 3D.
+
+A renderização usa Workbench com iluminação de estúdio, sombras, cavidade, antialiasing e Grease Pencil, em **1920 × 1080 / 24 fps**. A cena salva usa a mesma configuração da prévia. A narração é o primeiro minuto da versão tratada de Gemini Puck já existente; chuva, passos e respingo são sintetizados em Python. A conferência de áudio é automatizada, sem alegação de escuta humana.
+
+## Recriar e renderizar a revisão 2
+
+Requisitos: Blender 4.3+, Python com NumPy para os sons e FFmpeg para montar o MP4.
+
+```bash
+python efeitos_v2.py
+blender -b --python-exit-code 1 --python criar_cena_v2.py
+blender -b "02 - Chuva - Atuacao e traco.blend" --python-exit-code 1 --python verificar_v2.py
+blender -b "02 - Chuva - Atuacao e traco.blend" --python-exit-code 1 --python renderizar_v2.py
+python montar_previa_v2.py
+```
+
+`cena_base.py` constrói a rua e os abrigos. `criar_cena_v2.py` cria personagens, articulações, traços, atuação e câmeras; os keyframes são gravados no `.blend`, sem handlers de animação. `renderizar_v2.py` aceita `-- --start 1 --end 360 --out /caminho/dos/quadros` para renderizar intervalos. Os quadros intermediários ficam fora do Git.
+
+`verificar_v2.py` confere o arquivo salvo: dimensões, áudio empacotado, comprimentos dos segmentos, apoio dos pés e contato das mãos. O relatório descreve o alcance amostrado dessas verificações; ele não substitui a avaliação visual da atuação.
+
+---
+
+## Primeiro experimento, preservado para comparação
+
 # Teste de direção — chuva, Blender e Grease Pencil
 
 Cena original de 60 segundos, criada por Python no Blender 4.3.2. Personagens, cenário, chuva e câmeras são geometria procedural. Não usa imagens, modelos importados, mocap ou plugins pagos.

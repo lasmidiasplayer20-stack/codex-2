@@ -1,0 +1,16 @@
+{
+  "timeline_seconds": 60,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "shots": 17,
+  "packed_audio": 2,
+  "imported_images": 0,
+  "fixed_segment_max_error_m": 2.3365020751509036e-07,
+  "planted_pairs_checked": 424,
+  "max_planted_foot_slide_m_per_frame": 0,
+  "greeting_wrist_distance_m": 0.0,
+  "validation_scope": "Keyframes salvos e amostras de apoio/contato; a avaliação visual de atuação é separada."
+}
