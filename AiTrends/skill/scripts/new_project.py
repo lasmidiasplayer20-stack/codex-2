@@ -15,7 +15,7 @@ def main():
  if a.copy_cast:
   example=BASE/'projetos/03-10x-mais-rapido/scenes'
   for f in ['rig.js','world.js']:shutil.copyfile(example/f,root/'scenes'/f)
- youtube=BASE/'youtube'/cfg['title'];youtube.mkdir(parents=True,exist_ok=False)
+ folder_title=re.sub(r'[\\/:*?"<>|]','-',cfg['title']);youtube=BASE/'youtube'/folder_title;youtube.mkdir(parents=True,exist_ok=False)
  for name in ['titulo.txt','descricao.txt','tags.txt']:(youtube/name).write_text('')
  print(root);print(youtube)
 if __name__=='__main__':main()

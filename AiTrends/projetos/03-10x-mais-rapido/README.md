@@ -1,6 +1,6 @@
 # 03 — E se você fosse 10× mais rápido?
 
-**Estado desta revisão:** fontes, áudio tratado e pacote YouTube prontos; MP4 completo em renderização. Links de export/QA serão preenchidos após a validação.
+**Entrega concluída:** MP4 completo e preview em 1080p nativo, ambos decodificados integralmente. Inclui revisão dos braços e do apoio no banco; veja [QA](qa/README.md).
 
 Episódio original do canal **Então**, feito por código com o aiTrends/Three.js: Nico (menta) e Lia (violeta) exploram velocidade, percepção, curvas, frenagem e convivência. Projeto horizontal, 8min30, 24 fps, render nativo 1920×1080.
 

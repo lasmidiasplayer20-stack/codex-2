@@ -1,0 +1,57 @@
+{
+  "seconds": 510.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "frames": 12240,
+  "native_render": true,
+  "upscaled": false,
+  "size_limited_two_pass": true,
+  "video_bitrate_target_kbps": 1282,
+  "full_decode_passed": true,
+  "bytes": 94432753,
+  "sha256": "2118f1b39ee439421612445add1735b831b9febf069ea1611dba5d717f75ac1a",
+  "source_sha256": "84ab29119811ef88bdae1da70270e86a4229a67eb6d225039897907fe5043c06",
+  "preview": {
+    "seconds": 60,
+    "frames": 1440,
+    "bytes": 15027558
+  },
+  "audio": "Puck pt-BR + original procedural music and SFX; AAC stereo 192 kb/s 48kHz",
+  "speech_review": "Exact TTS input/cache checks and signal metrics. No claim of full independent ASR or human listening.",
+  "cta_seconds": [
+    [
+      43,
+      51
+    ],
+    [
+      247,
+      255
+    ],
+    [
+      495,
+      509.3
+    ]
+  ],
+  "renderer_errors": [],
+  "native_replacements": [
+    {
+      "action": "friend",
+      "start_frame": 7777,
+      "end_frame": 8137,
+      "path": "/workspace/speed-private/patch-friend.mp4"
+    },
+    {
+      "action": "sunset",
+      "start_frame": 11075,
+      "end_frame": 11473,
+      "path": "/workspace/speed-private/patch-sunset.mp4"
+    },
+    {
+      "action": "question",
+      "start_frame": 11928,
+      "end_frame": 12240,
+      "path": "/workspace/speed-private/patch-question.mp4"
+    }
+  ]
+}

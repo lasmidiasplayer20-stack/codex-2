@@ -30,9 +30,9 @@ function setup(T,s,b,bt,dur){
  if(b.action==='wind'){n.x=-1+3*p;n.z=.8;n.distance=3*p;n.moving=true;n.gesture='surprise';n.expr='surprised';}
  if(b.action==='heat'){n.x=-1;n.z=.8;n.expr='tired';n.nod=.08*Math.sin(bt);n.gesture='think';}
  if(b.action==='hungry'){n.x=-2.2;n.z=.7;n.hand=[.42,1.25,.19];n.expr='joy';s.A.sol.root.visible=true;s.A.sol.update({x:1,z:-1.5,yaw:-1,moving:false,gesture:'point',time:bt});}
- if(b.action==='friend'){n.x=2.1;n.z=2.5;n.sit=true;n.yaw=-Math.PI/2;l.yaw=-Math.PI/2;l.headYaw=-.65;n.expr=u<.4?'joy':'sad';l.x=3.7;l.z=2.5;l.sit=true;l.expr=u<.3?'smile':'sad';}
+ if(b.action==='friend'){n.x=2.1;n.z=2.8;n.sit=true;n.yaw=-Math.PI/2;l.yaw=-Math.PI/2;l.headYaw=-.65;n.expr=u<.4?'joy':'sad';l.x=3.7;l.z=2.8;l.sit=true;l.expr=u<.3?'smile':'sad';}
  if(['challenge','finish'].includes(b.action)){n.hand=[.47,1.18,.19];for(const x of s.props.cones)x.visible=true;l.x=18;l.z=2;l.expr='joy';}
- if(['sunset','question'].includes(b.action)){n.x=-1;n.z=1;n.sit=true;n.yaw=-Math.PI/2;l.yaw=-Math.PI/2;l.headYaw=-.65;n.expr='smile';l.x=1;l.z=1;l.sit=true;l.expr='smile';}
+ if(['sunset','question'].includes(b.action)){n.x=-1;n.z=1.3;n.sit=true;n.yaw=-Math.PI/2;l.yaw=-Math.PI/2;l.headYaw=-.65;n.expr='smile';l.x=1;l.z=1.3;l.sit=true;l.expr='smile';}
  s.A.nico.update(n);if(s.A.lia.root.visible)s.A.lia.update(l);
  const hand=s.A.nico.point(),foot=s.A.nico.point('foot');
  if(['catch','morning','serve','challenge','finish','hungry','sunset','question'].includes(b.action)){
