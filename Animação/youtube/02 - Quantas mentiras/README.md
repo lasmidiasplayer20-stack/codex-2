@@ -1,12 +1,19 @@
-# 02 - Quantas mentiras
+# 02 — Quantas mentiras
 
-RASCUNHO EDITORIAL: episódio ainda em desenvolvimento. Descrição propõe a premissa; ajustar à narrativa final antes de publicar. Não é uma transcrição nem análise confirmada das falas do vídeo de referência.
+Pacote editorial preliminar baseado no texto de referência enviado pelo usuário. O episódio próprio de cerca de 8min20s ainda não foi exportado; conferir a descrição após fechar o roteiro.
 
 ![Capa](capa.jpg)
 
+Título: **E se você pudesse ver quantas mentiras cada pessoa já contou?**
+
+Texto da capa: **QUEM ESTÁ MENTINDO?**
+
+A capa usa contadores vermelho/verde e personagens simples conforme as duas miniaturas fornecidas como referência. Personagens e composição novos, sem marcas dos canais. O número alto cria suspeita e o zero introduz o contraste central da história; o título explica a habilidade imaginária.
+
 - `titulo.txt`: título sugerido.
-- `descricao.txt`: descrição pronta para copiar, sujeita ao status acima.
+- `descricao.txt`: descrição em português.
 - `tags.txt`: tags separadas por vírgulas.
 - `metadata.json`: versão estruturada.
+- `REFERENCIA-EDITORIAL.md`: leitura do texto e critérios para adaptação.
 
-A capa é uma ilustração promocional gerada com IA, não um quadro extraído do filme.
+Ilustração promocional gerada com IA; não é um quadro do vídeo.
