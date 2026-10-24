@@ -1,6 +1,6 @@
 # 04 — Quanto Tempo Resta / Então
 
-**Entrega concluída:** vídeo de 8min30 e prévia de 1 minuto em 1080p nativo. Ambos passaram pela decodificação integral. [Evidências de QA](qa/README.md).
+**Arquivo entregue; qualidade reprovada pelo usuário:** o áudio ficou ruim e houve cintilação em parte da animação. A decodificação integral passou, mas não comprova qualidade editorial. [Feedback e ações para os próximos vídeos](qa/FEEDBACK-USUARIO.md). Os arquivos desta entrega foram preservados.
 
 Nico enxerga contadores sobre as pessoas. Uma contagem de oito minutos sobre Dona Sol transforma uma noite de leitura na biblioteca em um mistério. História original de ficção, 8min30, horizontal, 1920×1080 nativo, 24 fps.
 

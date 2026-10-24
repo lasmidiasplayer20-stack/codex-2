@@ -1,5 +1,7 @@
 # Evidências de produção
 
+**Atualização após a avaliação do usuário:** áudio reprovado e cintilação relatada em parte da animação. As checagens abaixo são técnicas e não representam aprovação de qualidade. Leia [o feedback registrado](FEEDBACK-USUARIO.md).
+
 `production-checks.json` registra roteiro de 1.426 palavras, 32 sequências, 160 planos contíguos e a conferência dos oito textos TTS contra o cache. O arquivo de leitura normaliza espaços no final das linhas; não houve alteração de palavras. `audio/voice-manifest.json` registra Puck e o mesmo modelo Gemini nos oito trechos.
 
 Revisão visual: todas as sete folhas do player foram abertas, incluindo planos gerais, inserts, contraplanos, vista superior, personagens sentados e contato com carrinho/estante. Amostras de movimento em resolução nativa: 0–8 s e 320–324 s. Ajustes anteriores ao render completo: paredes para contraplanos, rosto focal visível, recuo entre banco e mesa, mãos em três dimensões, transferência gradual de props e visores que evitam cabeças.

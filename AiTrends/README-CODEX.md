@@ -111,3 +111,7 @@ Leia a [skill local reutilizável](skill/SKILL.md) para voz Puck, animação por
 O [episódio 03 — 10x Mais Rápido](projetos/03-10x-mais-rapido/) inclui cenas 3D próprias, rig com IK, câmera e diagramas. [Pacotes YouTube novos](youtube/) ficam dentro de AiTrends. Projetos e capas anteriores permanecem nos seus caminhos originais.
 
 [04 — Quanto Tempo Resta](projetos/04-quanto-tempo-resta/) traz história própria sobre contadores de vida, cenários 3D mais detalhados, ações com objetos e voz Puck consistente nos oito trechos. Consulte o estado de render/entrega no README do projeto.
+
+### Feedback de qualidade a aplicar ao próximo episódio
+
+O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da animação. Antes de reutilizar esse pipeline, leia [o procedimento obrigatório de áudio e estabilidade temporal](skill/references/audio-and-temporal-quality.md). Fazer uma amostra curta e aguardar a avaliação do áudio antes de gerar o lote completo, reaproveitando cache para evitar gasto repetido. O episódio 04 permanece como referência técnica, com a reprovação registrada.

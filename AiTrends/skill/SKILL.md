@@ -7,6 +7,12 @@ description: Produzir episódios próprios do canal Então com o aiTrends local,
 
 Repositório: `lasmidiasplayer20-stack/codex-2`. Raiz deste pacote: `AiTrends/`. Esta é uma skill local versionada, não um plugin automaticamente instalado na interface. Um novo chat deve acessar o GitHub/clonar o repositório e ler este arquivo explicitamente. O código do projeto anterior é referência de implementação, não roteiro para copiar.
 
+## Prioridade de qualidade — feedback do usuário
+
+O episódio **04 — Quanto Tempo Resta foi reprovado pelo usuário no áudio e apresentou cintilação em parte da animação**. Seus resultados técnicos não representam aprovação editorial. Antes da próxima produção, leia obrigatoriamente [áudio, estabilidade temporal e controle de créditos](references/audio-and-temporal-quality.md).
+
+Para o próximo vídeo: uma amostra de voz de 20–30 s, comparação local de voz original/tratada/mix e avaliação do usuário **antes de gerar a narração completa**. Renderizar também uma amostra em movimento para avaliar cintilação antes do render longo. Reaproveitar cache; corrigir trechos isolados; não repetir gerações completas nem presumir que a cadeia do episódio 04 foi aprovada. O usuário enviará outra referência; este feedback não autoriza regenerar o vídeo atual.
+
 ## Organização canônica
 
 - `AiTrends/projetos/NN-slug/`: roteiro, configuração, `story/`, `scenes/`, `input/`, `audio/`, `exports/` e `qa/` daquele episódio.
@@ -37,7 +43,7 @@ Ritmo: 15–25 planos por minuto; ação e detalhes podem ser mais curtos. Diagr
 
 Crie `ROTEIRO.md`, `input/narracao.txt`, `story/bible.md`, `story/beats.json` e `story/shots.json`. `input/narracao.txt` contém somente o que deve ser falado — sem instruções, nomes de arquivos, notas de programação ou direção. Explicite hipóteses e limites em assuntos científicos; não copie estatísticas sem verificar. Não transcreva/reutilize integralmente a narração de outro canal.
 
-Voz preferida: **Gemini Puck**, português brasileiro, curiosa/alegre e com volume estável. Só gere se houver autorização para usar a API e a chave estiver disponível no ambiente; reutilizar o áudio pronto não chama a API. Nunca habilite cobrança para superar uma cota. Cota diária: pare, registre e tente apenas modelo gratuito compatível quando autorizado pelo contexto; não fique repetindo a chamada com cota diária esgotada. Para preservar timbre, use o mesmo modelo em todos os trechos do episódio.
+Voz de preferência histórica: **Gemini Puck**, português brasileiro, curiosa/alegre e com volume estável. O áudio do episódio 04 foi reprovado; validar a nova amostra e o tratamento conforme a seção de prioridade antes de usar o mesmo pipeline em outro episódio. Só gere se houver autorização para usar a API e a chave estiver disponível no ambiente; reutilizar o áudio pronto não chama a API. Nunca habilite cobrança para superar uma cota. Cota diária: pare, registre e tente apenas modelo gratuito compatível quando autorizado pelo contexto; não fique repetindo a chamada com cota diária esgotada. Para preservar timbre, use o mesmo modelo em todos os trechos do episódio.
 
 Exemplos (caminhos absolutos em `--project` e diretório privado em `--work`):
 
@@ -50,7 +56,7 @@ O gerador usa blocos de até quatro sequências, cache por texto/modelo e não r
 
 ## Render e qualidade
 
-`scripts/render.mjs` é uma adaptação do renderizador aiTrends: usa o mesmo player, registro de cenas, fontes, rig e Three.js. Resolve o kit em `aitrends-2d-studio/skills/make-2d-video/kit/`. O estilo opcional `runtime-style.json` pertence ao projeto; `fast3D` evita MSAA em software, mantendo a resolução real. Um estágio 3D pode usar render direto e sombras de contato por geometria para reduzir custo de CPU. Não simule 1080p ampliando um render menor.
+`scripts/render.mjs` é uma adaptação do renderizador aiTrends: usa o mesmo player, registro de cenas, fontes, rig e Three.js. Resolve o kit em `aitrends-2d-studio/skills/make-2d-video/kit/`. O estilo opcional `runtime-style.json` pertence ao projeto; `fast3D` desativa MSAA em software, mantendo a resolução real. Após a queixa de cintilação, essa opção exige comparação em movimento com antialiasing habilitado; velocidade de render não substitui qualidade temporal. Um estágio 3D pode usar render direto e sombras de contato por geometria para reduzir custo de CPU. Não simule 1080p ampliando um render menor.
 
 ```bash
 node AiTrends/skill/scripts/render.mjs --project /CAMINHO/DO/PROJETO --sheet --scale 0.3 --format jpeg
