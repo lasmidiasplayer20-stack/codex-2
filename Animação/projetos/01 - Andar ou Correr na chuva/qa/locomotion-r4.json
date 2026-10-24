@@ -1,0 +1,24 @@
+{
+  "pipeline": "original-threejs-canvas",
+  "fixedError": 2.7755575615628914e-16,
+  "maximumPlantedSlide": 2.6749593496690556e-15,
+  "plantedPairs": 112,
+  "travelSpans": [
+    14.223381789795663,
+    13.768749999999997
+  ],
+  "greetingDistance": 1.7798229048217483e-15,
+  "metrics": {
+    "revision": 4,
+    "pipeline": "original-threejs-canvas",
+    "spatial3D": true,
+    "contours": true,
+    "editorialCutSeconds": 2.15,
+    "procedural": true,
+    "externalImages": 0,
+    "importedModels": 0,
+    "fps": 24,
+    "width": 1920,
+    "height": 1080
+  }
+}

@@ -1,3 +1,5 @@
+> **Experimento arquivado.** A produção principal continua no [renderizador procedural original](../../projetos/01%20-%20Andar%20ou%20Correr%20na%20chuva/).
+
 # Chuva — direção, personagens alongados e traço por código
 
 A revisão atual é **02 - Chuva - Atuacao e traco.blend**. Ela contém uma cena original de 60 segundos, 17 planos e os dois áudios empacotados. Abra no Blender 4.3 ou posterior; reproduza a timeline pela câmera. Não precisa executar scripts para reproduzir os keyframes salvos.

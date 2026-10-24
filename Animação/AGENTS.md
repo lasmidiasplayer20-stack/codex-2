@@ -9,3 +9,5 @@ O visual de referência é o jogo 3D Cozy Snow Plow: geometria procedural arredo
 Nunca copie credenciais, uploads de chaves, arquivos .env ou dados de autenticação para o repositório. Valide duração, integridade de vídeo/áudio e legibilidade antes de publicar. Não afirme escuta humana quando a conferência foi automatizada.
 
 Mantenha o visual volumétrico em 3D, com contornos escuros visíveis nos personagens, objetos e cenário. Use personagens próprios; o jogo serve como referência de estilo, e os vídeos como referência de movimentos, câmera e explicações. Evite poses mantidas sem ação por longos trechos e não converta o resultado para flat 2D.
+
+A produção principal deve continuar no pipeline procedural Three.js/Canvas dos primeiros vídeos. Blender foi somente um experimento de referência e está arquivado; não migrar o episódio para Blender. Aplicar melhorias de atuação, articulações, proporções e traço no renderizador original em código.

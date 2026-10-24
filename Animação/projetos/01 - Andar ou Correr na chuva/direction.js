@@ -1,17 +1,10 @@
+import {opening,openingCamera} from './opening.js';
 // R3: motion phrases with preparation, accent and recovery; all coordinates are procedural.
 const clamp=x=>Math.max(0,Math.min(1,x)),ease=x=>{x=clamp(x);return x*x*(3-2*x);},lerp=(a,b,t)=>a+(b-a)*t;
 const running=new Set(['launch','arrive','walk_test','run_test','walk_through','run_through','lean_headwind','chase_umbrella','tailwind_walk','side_by_side','jump_puddle','careful_steps','simultaneous_start','repeat_trial','go_together','enter_shelter']);
 export function direct(st,t){const {A,B,q,local,length,action}=st;st.lab=[1,2,3,7].includes(st.chapter);st.split=['walk_test','run_test','equal_distance','simultaneous_start','repeat_trial','compare_buckets','compare_clocks','hands_compare'].includes(action);
- for(const [i,a]of[A,B].entries()){
-  const phase=local*(a.speed>.2?3.6:2.3)+i*1.7,accent=Math.sin(phase),gesture=ease(local/.35)*(1-.22*ease((q-.8)/.2));
-  a.headRoll=(a.headRoll||0)+.045*Math.sin(phase*.7);a.headPitch=(a.headPitch||0)+.055*Math.sin(phase*.85);a.look=(a.look||0)+.10*Math.sin(phase*.65);
-  if(a.speed<.08&&!a.air&&!st.contact){a.bend=(a.bend||0)+.04*Math.sin(phase);a.tilt=(a.tilt||0)+.035*Math.sin(phase*.8);}
-  for(const [side,h]of Object.entries(a.hands||{})){
-   if(['umbrella','clipboard','wring','wipe'].some(k=>action.includes(k)))continue;
-   const rest=[side==='left'?-.34:.34,.97,.04],pulse=.84+.16*Math.sin(phase*1.4);for(let k=0;k<3;k++)h[k]=lerp(rest[k],h[k],gesture*pulse);h[2]+=.07*Math.sin(phase);h[1]+=.04*accent;
-  }
-  if(a.speed>.2&&!a.air){a.bend=(a.bend||0)+(a.speed>1.15?.13:.035);a.headPitch-=.035;a.look=-.25;}
- }
+ // Keep gestures stable; authored actions supply their preparation and recovery.
+ for(const a of [A,B]){a.headRoll=a.headRoll||0;a.headPitch=a.headPitch||0;if(a.speed>.2)a.bend=(a.bend||0)+(a.speed>1.15?.10:.02);}
  // A high five is an approach, a brief contact and a release, not six seconds of joined hands.
  if(action==='high_five'){
   const meet=[8.9,1.7,0],envelope=ease((q-.10)/.26)*(1-ease((q-.64)/.26));st.contact=q>=.36&&q<=.64;
@@ -29,9 +22,10 @@ export function direct(st,t){const {A,B,q,local,length,action}=st;st.lab=[1,2,3,
   for(const [i,a]of[A,B].entries()){const duration=i?.5:.95,p=clamp(q/duration),f=ease(p);a.x=-3+6*f;a.z=i?-.8:.8;a.yaw=Math.PI/2;a.distance=6*f;a.speed=p>0&&p<1?36*p*(1-p)/(length*duration):0;a.hands={};a.look=-.25;a.wet=i?Math.min(.45,q*.9):q*.9;}
  }
  st.performer=['run_test','run_through','umbrella_open','umbrella_flip','chase_umbrella','wring_hem','write_result'].includes(action)?'B':'A';
- return st;
+ return opening(st,t);
 }
 export function cameraPlan(st,t,aspect=16/9,solo=null){
+ if(st.pilot)return openingCamera(st,t,aspect);
  const d=st.local,sub=Math.min(2,Math.floor(d/2.15)),u=clamp((d-sub*2.15)/2.15),p=ease(u),A=st.A,B=st.B,hero=st.performer==='B'?B:A,reaction=st.performer==='B'?A:B;
  let focus=solo||((sub===1&&!st.split)?hero:(sub===2&&!st.contact&&!st.split)?reaction:null),fx=focus?focus.x:(A.x+B.x)/2,fz=focus?focus.z:(A.z+B.z)/2,ly=focus?1.4:1.25;
  let radius=focus?5.25:Math.max(8.0,Math.abs(A.x-B.x)*1.25+5.4),cy=focus?2.7:4.2,angle=[-.38,.42,-.50,.26][(st.index+sub)%4],fov=42,roll=0;

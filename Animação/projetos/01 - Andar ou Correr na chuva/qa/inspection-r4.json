@@ -1,0 +1,453 @@
+{
+  "errors": [],
+  "reports": [
+    {
+      "chapter": 1,
+      "action": "drops",
+      "time": 0.8,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -5.2308,
+        2.9911333333333334,
+        4.659866666666667
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.312237473041754,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 17356,
+      "greetingDistance": 1.3
+    },
+    {
+      "chapter": 1,
+      "action": "drops",
+      "time": 2,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -5.277,
+        2.9778333333333333,
+        4.599666666666667
+      ],
+      "shot": 0,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.4472816113320865,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 12,
+      "triangles": 17356,
+      "greetingDistance": 1.3
+    },
+    {
+      "chapter": 1,
+      "action": "opening_decision",
+      "time": 6,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -2,
+        4.6,
+        10
+      ],
+      "shot": 2,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.7,
+        0.7
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 1.3
+    },
+    {
+      "chapter": 1,
+      "action": "opening_decision",
+      "time": 11,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -2.6303333333333336,
+        2.8895,
+        5.636416666666666
+      ],
+      "shot": 3,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 1.3
+    },
+    {
+      "chapter": 1,
+      "action": "opening_decision",
+      "time": 15,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -6.48125,
+        3.2685,
+        3.9335
+      ],
+      "shot": 4,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.518783415270262,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 9,
+      "triangles": 17180,
+      "greetingDistance": 1.3
+    },
+    {
+      "chapter": 1,
+      "action": "opening_decision",
+      "time": 18,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -1.56475,
+        3.560625,
+        8.547749999999999
+      ],
+      "shot": 5,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 1.3014635052900747,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 1.3014635052900747
+    },
+    {
+      "chapter": 1,
+      "action": "opening_run",
+      "time": 20.2,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -1.117050000000001,
+        2.86745,
+        7.6267499999999995
+      ],
+      "shot": 6,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.07217269548472,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        1.75
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 2.058089874672973
+    },
+    {
+      "chapter": 1,
+      "action": "opening_run",
+      "time": 21.6,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        -0.9692199999999996,
+        2.98866,
+        6.64792
+      ],
+      "shot": 7,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 3.4362142808333034,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        1.75
+      ],
+      "drawCalls": 12,
+      "triangles": 21708,
+      "greetingDistance": 3.524990073025121
+    },
+    {
+      "chapter": 1,
+      "action": "opening_run",
+      "time": 25,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        3.4793451554447055,
+        4.068499999999999,
+        7.656501030561034
+      ],
+      "shot": 8,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 7.279809275589552,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        1.75
+      ],
+      "drawCalls": 9,
+      "triangles": 17172,
+      "greetingDistance": 7.749222644148972
+    },
+    {
+      "chapter": 1,
+      "action": "opening_walk",
+      "time": 29,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        13.449833333333334,
+        3.6725833333333333,
+        8.203166666666668
+      ],
+      "shot": 9,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 9.488361817445783,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 9.98027602844845
+    },
+    {
+      "chapter": 1,
+      "action": "opening_walk",
+      "time": 35,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        2,
+        13.194333333333333,
+        9.278333333333332
+      ],
+      "shot": 10,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 6.763378736003642,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 6.371026535358785
+    },
+    {
+      "chapter": 1,
+      "action": "opening_walk",
+      "time": 40,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        9.04025,
+        3.069375,
+        7.57225
+      ],
+      "shot": 11,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 4.321147621804866,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 3.618343494171135
+    },
+    {
+      "chapter": 1,
+      "action": "opening_walk",
+      "time": 45,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        12.92465375,
+        4.051875,
+        9.82675
+      ],
+      "shot": 12,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.2580021415190714,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.54,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 1.0973469221391912
+    },
+    {
+      "chapter": 1,
+      "action": "opening_greeting",
+      "time": 47.7,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        12.671824999999998,
+        3.683666666666667,
+        7.339566666666666
+      ],
+      "shot": 13,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": true,
+      "handDistance": 1.9924814302773308,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0,
+        0
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 1.7798229048217483e-15
+    },
+    {
+      "chapter": 2,
+      "action": "opening_comparison",
+      "time": 52,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        0.9402550000000001,
+        5.9342,
+        13.508199999999999
+      ],
+      "shot": 14,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 2.163359635705863,
+      "overlays": [
+        false,
+        false
+      ],
+      "speeds": [
+        0.72,
+        1.8
+      ],
+      "drawCalls": 11,
+      "triangles": 17228,
+      "greetingDistance": 2.2125556810770406
+    },
+    {
+      "chapter": 2,
+      "action": "opening_comparison",
+      "time": 58,
+      "camera": "original-procedural-r4",
+      "cameraPosition": [
+        2.958,
+        6.8782,
+        17.622
+      ],
+      "shot": 15,
+      "split": false,
+      "studio": false,
+      "contour": true,
+      "contact": false,
+      "handDistance": 8.177672289485113,
+      "overlays": [
+        true,
+        true
+      ],
+      "speeds": [
+        0.72,
+        1.8
+      ],
+      "drawCalls": 20,
+      "triangles": 19180,
+      "greetingDistance": 8.487874865995805
+    }
+  ]
+}

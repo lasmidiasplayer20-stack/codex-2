@@ -1,0 +1,13 @@
+{
+  "pipeline": "original-threejs-canvas",
+  "duration": 60.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "frames": 1440,
+  "bytes": 24446739,
+  "full_decode_passed": true,
+  "peak_dbfs": -1.4,
+  "sha256": "470ff29bf47eade27eafdfcaca364d3d29efaabb9ed01b54c1647a3bdb47b772",
+  "elapsed": 355.66777205467224
+}

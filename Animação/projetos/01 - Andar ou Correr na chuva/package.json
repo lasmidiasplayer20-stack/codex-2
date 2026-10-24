@@ -6,7 +6,8 @@
   "scripts": {
     "serve": "node scripts/serve.mjs",
     "render": "node scripts/render.mjs",
-    "test": "node scripts/inspect-r3.mjs"
+    "test": "node scripts/inspect-locomotion.mjs",
+    "render:preview": "python scripts/render-preview.py"
   },
   "devDependencies": {
     "@playwright/test": "1.64.0"
