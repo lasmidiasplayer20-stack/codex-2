@@ -1,8 +1,10 @@
 # 01 - Andar ou Correr na chuva
 
-**Exportação completa em andamento:** o código e o áudio já cobrem os oito minutos revisados. O MP4 completo no Git será substituído após terminar a renderização e a validação; enquanto isso, ele ainda é a versão anterior.
+**Filme completo R4 exportado:** oito minutos, 1920 × 1080 e 24 fps, com os 11.520 quadros e a decodificação integral validados.
 
-[Prévia aprovada de 1 minuto em 1080p](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4)
+[Filme completo de oito minutos](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva.mp4) · [Prévia aprovada de 1 minuto em 1080p](../../videos/01%20-%20Andar%20ou%20Correr%20na%20chuva%20-%20Preview%201min.mp4)
+
+![Quadros do filme completo](qa/filme-completo-r4.jpg)
 
 A produção usa o renderizador procedural **Three.js/Canvas dos primeiros vídeos**, com o cenário e os personagens próprios de casaco amarelo e verde. Os personagens um pouco mais alongados têm braços e pernas de comprimentos fixos, apoio dos pés ligado à distância percorrida e gestos com preparação e retorno. O experimento Blender está arquivado.
 

@@ -1,0 +1,23 @@
+{
+  "file": "01 - Andar ou Correr na chuva.mp4",
+  "pipeline": "original-threejs-canvas",
+  "sourceHash": "610fa6fa189d04addb1a8de42be8075560b88df3c4bae81ee7a20ef297c8ac5e",
+  "duration": 480.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 11520,
+  "encoding": "native1080 H.264 two-pass1350k slow; AAC160k copied",
+  "audio": {
+    "codec": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "bytes": 91285957,
+  "fullDecodePassed": true,
+  "approvedPilotReused": true,
+  "sha256": "21f9772e141383180ebe12b50aaab5d95abaad84661ea22e216c3ce7c4f6e237",
+  "elapsed": 783.7397081851959
+}
