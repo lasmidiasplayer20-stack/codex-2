@@ -1,0 +1,699 @@
+{
+ "version": 1,
+ "meta": {
+  "title": "SELF TEST",
+  "slug": "_selftest",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 7.6
+ },
+ "audio": {
+  "voice": "",
+  "music": "audio/music.wav",
+  "music_db": -17,
+  "sfx": [
+   {
+    "t": 2.48,
+    "file": "audio/sfx/pop.wav",
+    "gain_db": -13,
+    "auto": true
+   },
+   {
+    "t": 2.675,
+    "file": "audio/sfx/whoosh.wav",
+    "gain_db": -10,
+    "auto": true
+   },
+   {
+    "t": 3.115,
+    "file": "audio/sfx/cash.wav",
+    "gain_db": -12,
+    "auto": true
+   },
+   {
+    "t": 3.685,
+    "file": "audio/sfx/whoosh.wav",
+    "gain_db": -10,
+    "auto": true
+   },
+   {
+    "t": 4.22,
+    "file": "audio/sfx/impact.wav",
+    "gain_db": -7,
+    "auto": true
+   },
+   {
+    "t": 5.29,
+    "file": "audio/sfx/pop.wav",
+    "gain_db": -13,
+    "auto": true
+   },
+   {
+    "t": 5.82,
+    "file": "audio/sfx/glitch.wav",
+    "gain_db": -10,
+    "auto": true
+   },
+   {
+    "t": 6.02,
+    "file": "audio/sfx/pop.wav",
+    "gain_db": -13,
+    "auto": true
+   },
+   {
+    "t": 6.29,
+    "file": "audio/sfx/pop.wav",
+    "gain_db": -13,
+    "auto": true
+   }
+  ]
+ },
+ "captions": [
+  {
+   "text": "When",
+   "t": 0.0,
+   "end": 0.31,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "this",
+   "t": 0.31,
+   "end": 0.62,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "guy",
+   "t": 0.62,
+   "end": 0.885,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "found",
+   "t": 0.885,
+   "end": 1.24,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "a briefcase",
+   "t": 1.24,
+   "end": 1.95,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "full",
+   "t": 1.95,
+   "end": 2.26,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "of",
+   "t": 2.26,
+   "end": 2.48,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "money,",
+   "t": 2.48,
+   "end": 2.895,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 2.895,
+   "end": 3.115,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "threw",
+   "t": 3.115,
+   "end": 3.47,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "it",
+   "t": 3.47,
+   "end": 3.69,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "off",
+   "t": 3.69,
+   "end": 3.955,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "the",
+   "t": 3.955,
+   "end": 4.22,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "roof.",
+   "t": 4.22,
+   "end": 4.59,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "The",
+   "t": 4.59,
+   "end": 4.855,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "problem",
+   "t": 4.855,
+   "end": 5.3,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "was,",
+   "t": 5.3,
+   "end": 5.625,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "the",
+   "t": 5.625,
+   "end": 5.89,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "police",
+   "t": 5.89,
+   "end": 6.29,
+   "color": "red",
+   "scale": 1.0
+  },
+  {
+   "text": "saw",
+   "t": 6.29,
+   "end": 6.555,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "everything.",
+   "t": 6.555,
+   "end": 7.115,
+   "color": "yellow",
+   "scale": 1.0
+  }
+ ],
+ "cast": {
+  "guy": {
+   "color": "#35DD6D",
+   "glow": 0.45,
+   "parts": [
+    "hair_short",
+    "tie"
+   ],
+   "c1": "#2E2E32",
+   "c2": "#1E1E22",
+   "idle": 1,
+   "shoulder": 54.72,
+   "shoulder_dn": -17.74
+  },
+  "cop": {
+   "color": "#F4F4F4",
+   "parts": [
+    "police_cap",
+    "uniform"
+   ],
+   "c1": "#2F4A8A",
+   "c2": "#E8B53A",
+   "idle": 1,
+   "shoulder": 54.72,
+   "shoulder_dn": -17.74
+  },
+  "lady": {
+   "color": "#F091E6",
+   "parts": [
+    "hair_long",
+    "dress"
+   ],
+   "c1": "#5A3420",
+   "accessories": [
+    {
+     "file": "assets/icons/crown.png",
+     "slot": "head",
+     "w": 0.7,
+     "dx": 0.0,
+     "dy": -0.62,
+     "from": 0,
+     "to": 99
+    }
+   ],
+   "idle": 1,
+   "shoulder": 54.72,
+   "shoulder_dn": -17.74
+  }
+ },
+ "look": {
+  "vignette": 0.42,
+  "grain": 0.025,
+  "end": "fade_black"
+ },
+ "shots": [
+  {
+   "id": "S01",
+   "t": 0.0,
+   "end": 2.895,
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/room.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "camera": [
+    {
+     "t": 0.0,
+     "zoom": 1.32,
+     "focus": [
+      540,
+      1100
+     ]
+    },
+    {
+     "t": 0.55,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 2.895,
+     "zoom": 1.05,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "actors": [
+    {
+     "cast": "guy",
+     "x": 560,
+     "y": 1760,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 0.0,
+       "pose": "reach_down",
+       "eyes": "wide",
+       "mouth": "o"
+      },
+      {
+       "t": 1.415,
+       "pose": "hold_up",
+       "eyes": "happy",
+       "mouth": "grin"
+      }
+     ],
+     "hold": [
+      {
+       "t": 1.415,
+       "file": "assets/icons/briefcase.png",
+       "hand": "N",
+       "w": 300,
+       "offset": [
+        0,
+        -40
+       ],
+       "grip": [
+        0.498,
+        0.6382
+       ],
+       "tip": [
+        0.498,
+        0.1562
+       ],
+       "style": "upright"
+      }
+     ]
+    }
+   ],
+   "icons": [
+    {
+     "kind": "thought",
+     "file": "assets/icons/banknote_with_dollar_sign.png",
+     "x": 330,
+     "y": 560,
+     "size": 220,
+     "t": 2.48,
+     "tail": [
+      0.5,
+      0.9
+     ]
+    }
+   ],
+   "creatures": []
+  },
+  {
+   "id": "S02",
+   "t": 2.895,
+   "end": 3.935,
+   "transition": "flash",
+   "bg": {
+    "file": "assets/bg/street.jpg",
+    "grade": "moody",
+    "blur": 2
+   },
+   "camera": [
+    {
+     "t": 2.895,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 3.935,
+     "zoom": 1.14,
+     "focus": [
+      560,
+      900
+     ],
+     "ease": "inout"
+    }
+   ],
+   "shake": [
+    {
+     "t": 4.22,
+     "dur": 0.4,
+     "amp": 18
+    }
+   ],
+   "actors": [
+    {
+     "cast": "guy",
+     "x": 300,
+     "y": 1700,
+     "h": 820,
+     "keys": [
+      {
+       "t": 2.895,
+       "pose": "throw_back",
+       "eyes": "determined"
+      },
+      {
+       "t": 3.115,
+       "pose": "throw_back",
+       "dur": 0.18,
+       "auto": true
+      },
+      {
+       "t": 3.335,
+       "pose": "throw",
+       "dur": 0.1,
+       "auto": true
+      }
+     ]
+    },
+    {
+     "cast": "lady",
+     "x": 760,
+     "y": 1740,
+     "h": 860,
+     "face": -1,
+     "keys": [
+      {
+       "t": 2.895,
+       "pose": "stand",
+       "eyes": "normal"
+      },
+      {
+       "t": 3.9250000000000003,
+       "pose": "cheer",
+       "eyes": "wide",
+       "mouth": "scream"
+      }
+     ]
+    }
+   ],
+   "fx": [
+    {
+     "kind": "money_rain",
+     "file": "assets/icons/banknote_with_dollar_sign.png",
+     "t": 3.115,
+     "count": 24
+    }
+   ],
+   "creatures": []
+  },
+  {
+   "id": "S03",
+   "t": 3.935,
+   "end": 5.87,
+   "transition": "light_leak",
+   "bg": {
+    "file": "assets/bg/office.jpg",
+    "grade": "cold",
+    "blur": 3
+   },
+   "camera": [
+    {
+     "t": 3.935,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 4.9025,
+     "zoom": 1.03,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    },
+    {
+     "t": 4.9365,
+     "zoom": 1.3,
+     "focus": [
+      697.0,
+      900.0
+     ],
+     "ease": "cut"
+    },
+    {
+     "t": 5.87,
+     "zoom": 1.35,
+     "focus": [
+      700,
+      900
+     ],
+     "ease": "linear"
+    }
+   ],
+   "actors": [
+    {
+     "cast": "cop",
+     "x": 740,
+     "y": 1760,
+     "h": 980,
+     "face": -1,
+     "keys": [
+      {
+       "t": 3.935,
+       "pose": "arms_crossed",
+       "eyes": "determined"
+      },
+      {
+       "t": 5.86,
+       "pose": "point_fwd",
+       "eyes": "angry",
+       "mouth": "open"
+      }
+     ],
+     "talk": [
+      [
+       6.29,
+       5.87
+      ]
+     ]
+    },
+    {
+     "cast": "guy",
+     "x": 260,
+     "y": 1800,
+     "h": 900,
+     "walk": [
+      {
+       "t": 3.935,
+       "mode": "run",
+       "speed": 2.4
+      }
+     ],
+     "keys": [
+      {
+       "t": 3.935,
+       "pose": "run",
+       "eyes": "wide",
+       "mouth": "scream"
+      }
+     ],
+     "move": [
+      {
+       "t": 3.935,
+       "x": 420,
+       "y": 1800
+      },
+      {
+       "t": 5.87,
+       "x": 120,
+       "y": 1800
+      }
+     ],
+     "face": -1
+    }
+   ],
+   "icons": [
+    {
+     "kind": "badge",
+     "file": "assets/icons/alarm_clock.png",
+     "x": 600,
+     "y": 600,
+     "size": 210,
+     "t": 5.29,
+     "text": "3D",
+     "text_pos": [
+      0,
+      40
+     ],
+     "text_size": 120
+    },
+    {
+     "kind": "emoji",
+     "file": "assets/icons/warning_sign.png",
+     "x": 820,
+     "y": 520,
+     "size": 200,
+     "t": 6.29
+    }
+   ],
+   "creatures": []
+  },
+  {
+   "id": "S04",
+   "t": 5.87,
+   "end": 7.6,
+   "transition": "glitch",
+   "bg": {
+    "file": "assets/bg/street.jpg",
+    "grade": "dark",
+    "blur": 3
+   },
+   "camera": [
+    {
+     "t": 5.87,
+     "zoom": 1.28,
+     "focus": [
+      540,
+      1000
+     ]
+    },
+    {
+     "t": 6.37,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 7.6,
+     "zoom": 1.03,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "actors": [
+    {
+     "cast": "guy",
+     "x": 540,
+     "y": 1780,
+     "h": 1050,
+     "keys": [
+      {
+       "t": 5.87,
+       "pose": "hands_head",
+       "eyes": "dead",
+       "mouth": "scream"
+      }
+     ],
+     "state": "silhouette",
+     "states": [
+      {
+       "t": 6.47,
+       "end": 7.6,
+       "state": "gray"
+      }
+     ]
+    }
+   ],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/skull_and_crossbones.png",
+     "x": 540,
+     "y": 560,
+     "size": 260,
+     "t": 6.0200000000000005,
+     "no": false
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tint",
+     "color": "#C8202A",
+     "opacity": 30
+    },
+    {
+     "kind": "embers",
+     "count": 24
+    }
+   ],
+   "state": [
+    {
+     "kind": "bw",
+     "t": 6.47,
+     "fade": 0.3
+    }
+   ],
+   "creatures": []
+  }
+ ],
+ "_compiled": {
+  "auto_sfx": 9,
+  "camera_keys_clamped": 1
+ }
+}

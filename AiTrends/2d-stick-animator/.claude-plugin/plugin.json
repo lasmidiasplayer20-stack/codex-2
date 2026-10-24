@@ -1,0 +1,23 @@
+{
+  "name": "2d-stick-animator",
+  "version": "2.3.0",
+  "description": "Make faceless glow stick-figure story Shorts (9:16, any length up to 3 min) in the style of the reference videos: story concepts or your own story, scripts from the channel's story prompt, ElevenLabs voice with your key and voice ID, Whisper timing, rigged characters with fitted costumes, backgrounds, props and icons from Kie.ai or free sources, captions and the measured editing rhythm, built in Adobe After Effects through computer use, then rendered, mixed and QC'd.",
+  "author": {
+    "name": "aiTrends"
+  },
+  "keywords": [
+    "after-effects",
+    "captions",
+    "character-animation",
+    "computer-use",
+    "costumes",
+    "elevenlabs",
+    "extendscript",
+    "faceless-youtube",
+    "image-generation",
+    "kie-ai",
+    "shorts",
+    "stick-figure",
+    "video-editing"
+  ]
+}

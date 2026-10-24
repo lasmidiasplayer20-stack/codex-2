@@ -1,0 +1,41 @@
+{
+ "style": "photo",
+ "jobs": [
+  {
+   "id": "bg_alley",
+   "kind": "background",
+   "prompt": "a narrow dark alley behind old brick buildings at night, wet ground, a flattened cardboard box against the wall, dim street lamp, gloomy",
+   "out": "assets/bg/alley.jpg"
+  },
+  {
+   "id": "bg_bathroom",
+   "kind": "background",
+   "prompt": "an old tiled military bathroom with a metal bucket and a wooden stool, 1940s, warm dim light",
+   "out": "assets/bg/bathroom.jpg"
+  },
+  {
+   "id": "acc_hobo",
+   "kind": "accessory",
+   "prompt": "messy dark brown hair and a thick full beard with moustache, a worn knitted beanie on top",
+   "out": "assets/cast/hobo_hair.png"
+  },
+  {
+   "id": "acc_helmet",
+   "kind": "accessory",
+   "prompt": "a green WWII British army helmet",
+   "out": "assets/cast/helmet.png"
+  },
+  {
+   "id": "prop_bread",
+   "kind": "prop",
+   "prompt": "a slice of mouldy bread with green spots",
+   "out": "assets/props/bread.png"
+  },
+  {
+   "id": "fx_fire",
+   "kind": "fx",
+   "prompt": "a large orange fireball with black smoke",
+   "out": "assets/fx/fireball.png"
+  }
+ ]
+}

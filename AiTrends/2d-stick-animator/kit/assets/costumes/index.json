@@ -1,0 +1,804 @@
+{
+ "_doc": "Costume library bundled with 2D Stick Animator (free mode). Pieces were drawn with GPT Image 2.5 on the rig template and registered to the rig: w/dx/dy are the accessory placement (head slot: head diameters from the head centre; torso slot: torso lengths from the hip). install_kit.py converts the WebP files to PNG in assets/costumes. Use: python costume.py library / python costume.py use PROJECT --cast ID --piece ID [--tint #hex] Torso pieces and the army helmet regenerated for the measured body (body v2).",
+ "pieces": [
+  {
+   "id": "hair_messy_brown",
+   "slot": "head",
+   "w": 1.3674,
+   "dx": -0.0169,
+   "dy": -0.4525,
+   "file": "hair_messy_brown.png",
+   "tags": [
+    "hair",
+    "brown",
+    "short",
+    "man"
+   ],
+   "prompt": "short messy dark-brown hair with loose strands over the forehead"
+  },
+  {
+   "id": "hair_quiff_brown",
+   "slot": "head",
+   "w": 1.3175,
+   "dx": -0.0102,
+   "dy": -0.5114,
+   "file": "hair_quiff_brown.png",
+   "tags": [
+    "hair",
+    "brown",
+    "quiff",
+    "man"
+   ],
+   "prompt": "thick swept-back brown hair with a big voluminous quiff and short sides"
+  },
+  {
+   "id": "hair_slick_black",
+   "slot": "head",
+   "w": 1.215,
+   "dx": -0.003,
+   "dy": -0.4798,
+   "file": "hair_slick_black.png",
+   "tags": [
+    "hair",
+    "black",
+    "short",
+    "man",
+    "business"
+   ],
+   "prompt": "neat slicked-back black hair with a side part"
+  },
+  {
+   "id": "hair_long_wavy_brown",
+   "slot": "head",
+   "w": 2.044,
+   "dx": -0.0082,
+   "dy": 0.3846,
+   "file": "hair_long_wavy_brown.png",
+   "tags": [
+    "hair",
+    "brown",
+    "long",
+    "woman"
+   ],
+   "prompt": "long wavy chestnut-brown hair falling past the shoulders, parted in the middle"
+  },
+  {
+   "id": "hair_long_blonde",
+   "slot": "head",
+   "w": 1.7291,
+   "dx": 0.0012,
+   "dy": 0.4642,
+   "file": "hair_long_blonde.png",
+   "tags": [
+    "hair",
+    "blonde",
+    "long",
+    "woman"
+   ],
+   "prompt": "long straight golden-blonde hair with a middle part falling past the shoulders"
+  },
+  {
+   "id": "hair_wavy_gray",
+   "slot": "head",
+   "w": 1.7304,
+   "dx": -0.0032,
+   "dy": -0.0758,
+   "file": "hair_wavy_gray.png",
+   "tags": [
+    "hair",
+    "gray",
+    "long",
+    "woman",
+    "old"
+   ],
+   "prompt": "shoulder-length wavy grey hair with soft volume"
+  },
+  {
+   "id": "hair_afro_black",
+   "slot": "head",
+   "w": 2.0287,
+   "dx": 0.0077,
+   "dy": -0.3591,
+   "file": "hair_afro_black.png",
+   "tags": [
+    "hair",
+    "black",
+    "curly"
+   ],
+   "prompt": "big round curly black afro hair"
+  },
+  {
+   "id": "hair_ginger_short",
+   "slot": "head",
+   "w": 1.3675,
+   "dx": -0.0099,
+   "dy": -0.4627,
+   "file": "hair_ginger_short.png",
+   "tags": [
+    "hair",
+    "ginger",
+    "short"
+   ],
+   "prompt": "short tousled ginger-orange hair"
+  },
+  {
+   "id": "hair_bald_sides_gray",
+   "slot": "head",
+   "w": 1.2838,
+   "dx": -0.0013,
+   "dy": 0.388,
+   "file": "hair_bald_sides_gray.png",
+   "tags": [
+    "hair",
+    "gray",
+    "bald",
+    "old",
+    "man"
+   ],
+   "prompt": "a horseshoe of short grey hair around the sides and back of the head only; the top of the head stays bare (bald)"
+  },
+  {
+   "id": "hair_ponytail_brown",
+   "slot": "head",
+   "w": 1.4752,
+   "dx": 0.1743,
+   "dy": -0.0171,
+   "file": "hair_ponytail_brown.png",
+   "tags": [
+    "hair",
+    "brown",
+    "ponytail",
+    "woman"
+   ],
+   "prompt": "brown hair pulled back tight into a high ponytail"
+  },
+  {
+   "id": "hair_bun_black",
+   "slot": "head",
+   "w": 1.2245,
+   "dx": -0.006,
+   "dy": -0.4369,
+   "file": "hair_bun_black.png",
+   "tags": [
+    "hair",
+    "black",
+    "bun",
+    "woman"
+   ],
+   "prompt": "black hair in a neat top bun"
+  },
+  {
+   "id": "hair_bob_black",
+   "slot": "head",
+   "w": 1.7747,
+   "dx": 0.0108,
+   "dy": -0.2189,
+   "file": "hair_bob_black.png",
+   "tags": [
+    "hair",
+    "black",
+    "bob",
+    "woman"
+   ],
+   "prompt": "chin-length black bob haircut with straight bangs"
+  },
+  {
+   "id": "hair_buzz_dark",
+   "slot": "head",
+   "w": 1.1112,
+   "dx": 0.0034,
+   "dy": -0.409,
+   "file": "hair_buzz_dark.png",
+   "tags": [
+    "hair",
+    "dark",
+    "buzz",
+    "man",
+    "soldier"
+   ],
+   "prompt": "a very short dark buzz-cut hair"
+  },
+  {
+   "id": "beard_full_brown",
+   "slot": "head",
+   "w": 1.1253,
+   "dx": 0.0038,
+   "dy": 0.4388,
+   "file": "beard_full_brown.png",
+   "tags": [
+    "beard",
+    "brown",
+    "man"
+   ],
+   "prompt": "a full bushy brown beard with a thick mustache, and NO hair on top of the head"
+  },
+  {
+   "id": "beard_long_gray",
+   "slot": "head",
+   "w": 1.1079,
+   "dx": 0.0005,
+   "dy": 0.7023,
+   "file": "beard_long_gray.png",
+   "tags": [
+    "beard",
+    "gray",
+    "old",
+    "man"
+   ],
+   "prompt": "a long full grey beard with a mustache, and NO hair on top of the head"
+  },
+  {
+   "id": "mustache_brown",
+   "slot": "head",
+   "w": 0.8925,
+   "dx": 0.001,
+   "dy": 0.1111,
+   "file": "mustache_brown.png",
+   "tags": [
+    "mustache",
+    "brown",
+    "man"
+   ],
+   "prompt": "only a thick curled brown handlebar mustache under where the nose would be"
+  },
+  {
+   "id": "beard_stubble_dark",
+   "slot": "head",
+   "w": 1.0464,
+   "dx": -0.0021,
+   "dy": 0.3336,
+   "file": "beard_stubble_dark.png",
+   "tags": [
+    "beard",
+    "stubble",
+    "man"
+   ],
+   "prompt": "only short dark stubble covering the jaw, chin and upper lip; the top of the head stays bare (no hair on top)"
+  },
+  {
+   "id": "hat_army_helmet",
+   "slot": "head",
+   "w": 1.3423,
+   "dx": -0.0005,
+   "dy": -0.3857,
+   "file": "hat_army_helmet.png",
+   "tags": [
+    "hat",
+    "army",
+    "soldier",
+    "helmet",
+    "war"
+   ],
+   "prompt": "olive-green WWII army helmet: a rounded steel dome with a short rim, scuffed paint, no chin strap"
+  },
+  {
+   "id": "hat_police_cap",
+   "slot": "head",
+   "w": 1.3858,
+   "dx": 0.002,
+   "dy": -0.5571,
+   "file": "hat_police_cap.png",
+   "tags": [
+    "hat",
+    "police",
+    "cop"
+   ],
+   "prompt": "a navy-blue police peaked cap with a gold badge"
+  },
+  {
+   "id": "hat_beanie_pompom",
+   "slot": "head",
+   "w": 1.2385,
+   "dx": 0.0003,
+   "dy": -0.6646,
+   "file": "hat_beanie_pompom.png",
+   "tags": [
+    "hat",
+    "beanie",
+    "winter"
+   ],
+   "prompt": "a teal knitted beanie with an orange pom-pom and an orange folded brim"
+  },
+  {
+   "id": "hat_beanie_worn",
+   "slot": "head",
+   "w": 1.2006,
+   "dx": 0.0092,
+   "dy": -0.4653,
+   "file": "hat_beanie_worn.png",
+   "tags": [
+    "hat",
+    "beanie",
+    "homeless",
+    "poor"
+   ],
+   "prompt": "a worn, slightly dirty beige knitted beanie with visible knit texture"
+  },
+  {
+   "id": "hat_top_hat",
+   "slot": "head",
+   "w": 1.5188,
+   "dx": 0.0036,
+   "dy": -0.6616,
+   "file": "hat_top_hat.png",
+   "tags": [
+    "hat",
+    "rich",
+    "gentleman",
+    "magician"
+   ],
+   "prompt": "a black silk top hat with a dark red band"
+  },
+  {
+   "id": "hat_fedora",
+   "slot": "head",
+   "w": 1.533,
+   "dx": 0.0017,
+   "dy": -0.5041,
+   "file": "hat_fedora.png",
+   "tags": [
+    "hat",
+    "detective",
+    "gangster",
+    "1920s"
+   ],
+   "prompt": "a brown felt fedora hat with a black band"
+  },
+  {
+   "id": "hat_cowboy",
+   "slot": "head",
+   "w": 1.7447,
+   "dx": 0.0099,
+   "dy": -0.5472,
+   "file": "hat_cowboy.png",
+   "tags": [
+    "hat",
+    "cowboy",
+    "western"
+   ],
+   "prompt": "a tan leather cowboy hat"
+  },
+  {
+   "id": "hat_chef",
+   "slot": "head",
+   "w": 1.2247,
+   "dx": 0.0084,
+   "dy": -0.8079,
+   "file": "hat_chef.png",
+   "tags": [
+    "hat",
+    "chef",
+    "cook"
+   ],
+   "prompt": "a tall white pleated chef's toque"
+  },
+  {
+   "id": "hat_surgical",
+   "slot": "head",
+   "w": 1.2799,
+   "dx": 0.0969,
+   "dy": -0.3004,
+   "file": "hat_surgical.png",
+   "tags": [
+    "hat",
+    "doctor",
+    "surgeon",
+    "hospital",
+    "nurse"
+   ],
+   "prompt": "a light-blue surgical scrub cap"
+  },
+  {
+   "id": "hat_kufi",
+   "slot": "head",
+   "w": 1.0248,
+   "dx": 0.003,
+   "dy": -0.498,
+   "file": "hat_kufi.png",
+   "tags": [
+    "hat",
+    "kufi",
+    "cap"
+   ],
+   "prompt": "a white embroidered kufi skullcap"
+  },
+  {
+   "id": "hat_crown",
+   "slot": "head",
+   "w": 1.2636,
+   "dx": 0.0034,
+   "dy": -0.7558,
+   "file": "hat_crown.png",
+   "tags": [
+    "hat",
+    "king",
+    "queen",
+    "royal"
+   ],
+   "prompt": "a golden royal crown with red and blue jewels"
+  },
+  {
+   "id": "hat_hardhat",
+   "slot": "head",
+   "w": 1.3194,
+   "dx": -0.0008,
+   "dy": -0.6471,
+   "file": "hat_hardhat.png",
+   "tags": [
+    "hat",
+    "worker",
+    "construction",
+    "engineer"
+   ],
+   "prompt": "a yellow construction hard hat"
+  },
+  {
+   "id": "hat_baseball_red",
+   "slot": "head",
+   "w": 1.1023,
+   "dx": -0.0,
+   "dy": -0.4159,
+   "file": "hat_baseball_red.png",
+   "tags": [
+    "hat",
+    "cap",
+    "sport",
+    "casual"
+   ],
+   "prompt": "a red baseball cap facing forward"
+  },
+  {
+   "id": "hat_pilot",
+   "slot": "head",
+   "w": 1.3085,
+   "dx": 0.0013,
+   "dy": -0.5882,
+   "file": "hat_pilot.png",
+   "tags": [
+    "hat",
+    "pilot",
+    "airline"
+   ],
+   "prompt": "a navy airline pilot cap with a gold wings badge and black visor"
+  },
+  {
+   "id": "hat_flight_attendant",
+   "slot": "head",
+   "w": 0.8242,
+   "dx": 0.1769,
+   "dy": -0.492,
+   "file": "hat_flight_attendant.png",
+   "tags": [
+    "hat",
+    "flight attendant",
+    "airline",
+    "woman"
+   ],
+   "prompt": "a small navy flight-attendant hat tilted on the head"
+  },
+  {
+   "id": "hat_pirate",
+   "slot": "head",
+   "w": 1.7283,
+   "dx": 0.0074,
+   "dy": -0.6283,
+   "file": "hat_pirate.png",
+   "tags": [
+    "hat",
+    "pirate"
+   ],
+   "prompt": "only a black pirate tricorn hat with a white skull emblem (no hair, no beard, no bandana)"
+  },
+  {
+   "id": "hat_viking",
+   "slot": "head",
+   "w": 1.7542,
+   "dx": 0.0006,
+   "dy": -0.6696,
+   "file": "hat_viking.png",
+   "tags": [
+    "hat",
+    "viking",
+    "warrior"
+   ],
+   "prompt": "only a steel viking helmet with two curved horns (no hair, no beard)"
+  },
+  {
+   "id": "hat_witch_cream",
+   "slot": "head",
+   "w": 1.7133,
+   "dx": 0.0407,
+   "dy": -0.6321,
+   "file": "hat_witch_cream.png",
+   "tags": [
+    "hat",
+    "witch",
+    "wizard",
+    "asylum",
+    "cone"
+   ],
+   "prompt": "only a tall pointed cream-coloured hat with a brown band and a brass buckle (no hair, no beard)"
+  },
+  {
+   "id": "hat_graduation",
+   "slot": "head",
+   "w": 1.6205,
+   "dx": 0.0079,
+   "dy": -0.4148,
+   "file": "hat_graduation.png",
+   "tags": [
+    "hat",
+    "student",
+    "graduate"
+   ],
+   "prompt": "a black graduation mortarboard cap with a gold tassel"
+  },
+  {
+   "id": "hat_nurse",
+   "slot": "head",
+   "w": 1.2562,
+   "dx": 0.0017,
+   "dy": -0.5102,
+   "file": "hat_nurse.png",
+   "tags": [
+    "hat",
+    "nurse",
+    "hospital"
+   ],
+   "prompt": "a white nurse cap with a small red cross"
+  },
+  {
+   "id": "hat_prisoner",
+   "slot": "head",
+   "w": 1.1396,
+   "dx": -0.0014,
+   "dy": -0.4675,
+   "file": "hat_prisoner.png",
+   "tags": [
+    "hat",
+    "prisoner",
+    "jail"
+   ],
+   "prompt": "a black-and-white striped prisoner cap"
+  },
+  {
+   "id": "hat_flower_crown",
+   "slot": "head",
+   "w": 1.4521,
+   "dx": -0.0052,
+   "dy": -0.3809,
+   "file": "hat_flower_crown.png",
+   "tags": [
+    "hat",
+    "flowers",
+    "woman",
+    "spring"
+   ],
+   "prompt": "a crown of small white and green flowers and leaves"
+  },
+  {
+   "id": "hat_bandana_red",
+   "slot": "head",
+   "w": 1.4764,
+   "dx": 0.0158,
+   "dy": -0.5566,
+   "file": "hat_bandana_red.png",
+   "tags": [
+    "hat",
+    "bandana",
+    "biker",
+    "pirate"
+   ],
+   "prompt": "a red paisley bandana tied over the head"
+  },
+  {
+   "id": "glasses_round",
+   "slot": "head",
+   "w": 0.849,
+   "dx": 0.0,
+   "dy": -0.085,
+   "file": "glasses_round.png",
+   "tags": [
+    "glasses",
+    "nerd",
+    "old"
+   ],
+   "prompt": "round black-rimmed glasses",
+   "over_face": true,
+   "follow_gaze": true
+  },
+  {
+   "id": "sunglasses_black",
+   "slot": "head",
+   "w": 0.8493,
+   "dx": 0.0,
+   "dy": -0.085,
+   "file": "sunglasses_black.png",
+   "tags": [
+    "glasses",
+    "cool",
+    "sun"
+   ],
+   "prompt": "black sunglasses",
+   "over_face": true,
+   "follow_gaze": true
+  },
+  {
+   "id": "eyepatch",
+   "slot": "head",
+   "w": 0.8055,
+   "dx": 0.0,
+   "dy": -0.085,
+   "file": "eyepatch.png",
+   "tags": [
+    "eyepatch",
+    "pirate"
+   ],
+   "prompt": "a black pirate eye patch with a thin strap over one eye",
+   "over_face": true,
+   "follow_gaze": true
+  },
+  {
+   "id": "apron_blue",
+   "slot": "torso",
+   "w": 1.4574,
+   "dx": 0.0049,
+   "dy": -0.1641,
+   "file": "apron_blue.png",
+   "tags": [
+    "apron",
+    "cook",
+    "worker",
+    "chef"
+   ],
+   "prompt": "a blue cotton work apron with white straps over the shoulders"
+  },
+  {
+   "id": "lifevest_orange",
+   "slot": "torso",
+   "w": 1.3225,
+   "dx": 0.0064,
+   "dy": -0.7197,
+   "file": "lifevest_orange.png",
+   "tags": [
+    "vest",
+    "life jacket",
+    "sea",
+    "rescue"
+   ],
+   "prompt": "an orange life vest with black buckles and reflective strips"
+  },
+  {
+   "id": "suit_jacket",
+   "slot": "torso",
+   "w": 1.1818,
+   "dx": 0.0068,
+   "dy": -0.5419,
+   "file": "suit_jacket.png",
+   "tags": [
+    "suit",
+    "business",
+    "boss",
+    "rich"
+   ],
+   "prompt": "a dark charcoal suit jacket body over a white shirt with a red tie"
+  },
+  {
+   "id": "police_uniform",
+   "slot": "torso",
+   "w": 1.2523,
+   "dx": 0.011,
+   "dy": -0.6973,
+   "file": "police_uniform.png",
+   "tags": [
+    "police",
+    "cop",
+    "uniform"
+   ],
+   "prompt": "a dark-blue police uniform shirt with a gold badge, pockets and a black belt"
+  },
+  {
+   "id": "labcoat",
+   "slot": "torso",
+   "w": 1.3193,
+   "dx": 0.0029,
+   "dy": -0.3722,
+   "file": "labcoat.png",
+   "tags": [
+    "doctor",
+    "scientist",
+    "hospital"
+   ],
+   "prompt": "a white doctor's lab coat front with a stethoscope and a pen in the pocket"
+  },
+  {
+   "id": "prison_stripes",
+   "slot": "torso",
+   "w": 1.0736,
+   "dx": 0.0136,
+   "dy": -0.5592,
+   "file": "prison_stripes.png",
+   "tags": [
+    "prisoner",
+    "jail"
+   ],
+   "prompt": "a black-and-white horizontally striped prison shirt with a number patch"
+  },
+  {
+   "id": "dress_navy",
+   "slot": "torso",
+   "w": 1.4743,
+   "dx": 0.0182,
+   "dy": -0.3801,
+   "file": "dress_navy.png",
+   "tags": [
+    "dress",
+    "woman",
+    "flight attendant"
+   ],
+   "prompt": "a navy-blue pinafore dress"
+  },
+  {
+   "id": "army_uniform",
+   "slot": "torso",
+   "w": 1.3195,
+   "dx": 0.0121,
+   "dy": -0.4925,
+   "file": "army_uniform.png",
+   "tags": [
+    "soldier",
+    "army",
+    "war",
+    "uniform"
+   ],
+   "prompt": "an olive-green WWII army uniform jacket with pockets and a brown belt"
+  },
+  {
+   "id": "hoodie_gray",
+   "slot": "torso",
+   "w": 1.2615,
+   "dx": -0.0,
+   "dy": -0.5351,
+   "file": "hoodie_gray.png",
+   "tags": [
+    "hoodie",
+    "casual",
+    "teen"
+   ],
+   "prompt": "a grey hoodie body with a front pocket and drawstrings"
+  },
+  {
+   "id": "army_jacket_medals",
+   "slot": "torso",
+   "w": 1.3093,
+   "dx": -0.0051,
+   "dy": -0.5801,
+   "file": "army_jacket_medals.png",
+   "tags": [
+    "army",
+    "hero",
+    "jacket",
+    "medals",
+    "officer",
+    "soldier",
+    "uniform",
+    "war"
+   ],
+   "prompt": "an olive-green WWII officer uniform jacket with brass buttons, a brown leather belt, three colourful medals pinned on the left chest and a gold rank badge"
+  },
+  {
+   "id": "nurse_uniform",
+   "slot": "torso",
+   "w": 1.1517,
+   "dx": -0.0015,
+   "dy": -0.6536,
+   "file": "nurse_uniform.png",
+   "tags": [
+    "nurse",
+    "hospital",
+    "uniform"
+   ],
+   "prompt": "a light-blue nurse uniform top with a small badge"
+  }
+ ]
+}

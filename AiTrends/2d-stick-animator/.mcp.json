@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ae-desktop": {
+      "command": "python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/ae_desktop_server.py"]
+    }
+  }
+}

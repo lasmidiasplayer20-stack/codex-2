@@ -1,0 +1,149 @@
+[
+{
+"text": "When",
+"t": 0.0,
+"end": 0.31,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "this",
+"t": 0.31,
+"end": 0.62,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "guy",
+"t": 0.62,
+"end": 0.885,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "found",
+"t": 0.885,
+"end": 1.24,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "a briefcase",
+"t": 1.24,
+"end": 1.95,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "full",
+"t": 1.95,
+"end": 2.26,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "of",
+"t": 2.26,
+"end": 2.48,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "money,",
+"t": 2.48,
+"end": 2.895,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "he",
+"t": 2.895,
+"end": 3.115,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "threw",
+"t": 3.115,
+"end": 3.47,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "it",
+"t": 3.47,
+"end": 3.69,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "off",
+"t": 3.69,
+"end": 3.955,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "the",
+"t": 3.955,
+"end": 4.22,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "roof.",
+"t": 4.22,
+"end": 4.59,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "The",
+"t": 4.59,
+"end": 4.855,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "problem",
+"t": 4.855,
+"end": 5.3,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "was,",
+"t": 5.3,
+"end": 5.625,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "the",
+"t": 5.625,
+"end": 5.89,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "police",
+"t": 5.89,
+"end": 6.29,
+"color": "red",
+"scale": 1.0
+},
+{
+"text": "saw",
+"t": 6.29,
+"end": 6.555,
+"color": "yellow",
+"scale": 1.0
+},
+{
+"text": "everything.",
+"t": 6.555,
+"end": 7.115,
+"color": "yellow",
+"scale": 1.0
+}
+]

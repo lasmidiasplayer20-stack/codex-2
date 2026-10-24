@@ -1,0 +1,935 @@
+{
+"_doc": "Keyword -> kit icon names (assets/icons). auto_plan.py attaches these as 'ideas' to the shot where the word is spoken.",
+"map": {
+"$": [
+"heavy_dollar_sign"
+],
+"100": [
+"hundred_points_symbol"
+],
+"alarm": [
+"police_car_light"
+],
+"alien": [
+"alien"
+],
+"ambulance": [
+"ambulance"
+],
+"angry": [
+"pouting_face",
+"angry_face"
+],
+"army": [
+"crossed_swords"
+],
+"arrest": [
+"police_car_light"
+],
+"arrested": [
+"police_car_light"
+],
+"asleep": [
+"zzz"
+],
+"ate": [
+"bread"
+],
+"attack": [
+"crossed_swords"
+],
+"baby": [
+"baby"
+],
+"bacteria": [
+"microbe"
+],
+"bag": [
+"handbag"
+],
+"bank": [
+"bank"
+],
+"battle": [
+"crossed_swords"
+],
+"bear": [
+"bear_face"
+],
+"bed": [
+"bed"
+],
+"bee": [
+"honeybee"
+],
+"beer": [
+"beer_mug"
+],
+"bills": [
+"banknote_with_dollar_sign"
+],
+"bird": [
+"bird"
+],
+"blood": [
+"drop_of_blood"
+],
+"boat": [
+"sailboat"
+],
+"body": [
+"coffin"
+],
+"bomb": [
+"bomb"
+],
+"book": [
+"open_book"
+],
+"boss": [
+"crown"
+],
+"box": [
+"package"
+],
+"brain": [
+"brain"
+],
+"bread": [
+"bread"
+],
+"bribe": [
+"money_bag"
+],
+"briefcase": [
+"briefcase"
+],
+"broke": [
+"broken_heart"
+],
+"bubbles": [
+"bubbles"
+],
+"bucket": [
+"bucket"
+],
+"building": [
+"office_building"
+],
+"burning": [
+"fire"
+],
+"bus": [
+"bus"
+],
+"call": [
+"telephone_receiver"
+],
+"called": [
+"telephone_receiver"
+],
+"camera": [
+"camera"
+],
+"candle": [
+"candle"
+],
+"car": [
+"automobile"
+],
+"cards": [
+"playing_card_black_joker"
+],
+"cars": [
+"automobile"
+],
+"cash": [
+"banknote_with_dollar_sign",
+"money_with_wings"
+],
+"casino": [
+"slot_machine"
+],
+"castle": [
+"european_castle"
+],
+"cat": [
+"cat_face"
+],
+"celebrate": [
+"party_popper",
+"confetti_ball"
+],
+"cell": [
+"lock"
+],
+"chain": [
+"chains"
+],
+"chair": [
+"chair"
+],
+"chicken": [
+"chicken"
+],
+"chief": [
+"crown"
+],
+"child": [
+"child"
+],
+"chimpanzee": [
+"monkey_face"
+],
+"church": [
+"church"
+],
+"city": [
+"cityscape"
+],
+"coffee": [
+"hot_beverage"
+],
+"coins": [
+"coin"
+],
+"cold": [
+"cold_face",
+"snowflake"
+],
+"computer": [
+"desktop_computer"
+],
+"confused": [
+"question_mark"
+],
+"continents": [
+"globe_with_meridians"
+],
+"contract": [
+"memo"
+],
+"corpse": [
+"coffin"
+],
+"country": [
+"world_map"
+],
+"court": [
+"balance_scale"
+],
+"cow": [
+"cow_face"
+],
+"crash": [
+"collision_symbol"
+],
+"crashed": [
+"collision_symbol"
+],
+"crazy": [
+"dizzy_face",
+"exploding_head"
+],
+"cried": [
+"loudly_crying_face"
+],
+"crime": [
+"warning_sign"
+],
+"crocodile": [
+"crocodile"
+],
+"crowd": [
+"busts_in_silhouette"
+],
+"crown": [
+"crown"
+],
+"crying": [
+"loudly_crying_face"
+],
+"danger": [
+"warning_sign"
+],
+"days": [
+"calendar",
+"spiral_calendar_pad"
+],
+"dead": [
+"skull_and_crossbones"
+],
+"death": [
+"skull_and_crossbones"
+],
+"dice": [
+"game_die"
+],
+"die": [
+"skull_and_crossbones"
+],
+"died": [
+"skull_and_crossbones",
+"coffin"
+],
+"disease": [
+"microbe"
+],
+"dizzy": [
+"face_with_spiral_eyes"
+],
+"dna": [
+"dna_double_helix"
+],
+"doctor": [
+"stethoscope"
+],
+"doctors": [
+"stethoscope"
+],
+"document": [
+"page_facing_up",
+"scroll"
+],
+"dog": [
+"dog_face"
+],
+"dollars": [
+"heavy_dollar_sign"
+],
+"door": [
+"door"
+],
+"down": [
+"chart_with_downwards_trend"
+],
+"drank": [
+"droplet"
+],
+"drink": [
+"droplet"
+],
+"drops": [
+"droplet"
+],
+"drowned": [
+"bubbles",
+"skull_and_crossbones"
+],
+"eat": [
+"bread"
+],
+"electricity": [
+"high_voltage_sign"
+],
+"emergency": [
+"ambulance"
+],
+"everyone": [
+"busts_in_silhouette"
+],
+"experiment": [
+"test_tube"
+],
+"exploded": [
+"collision_symbol"
+],
+"explosion": [
+"collision_symbol"
+],
+"factory": [
+"factory"
+],
+"fainted": [
+"face_with_spiral_eyes"
+],
+"fight": [
+"collision_symbol"
+],
+"fighting": [
+"collision_symbol"
+],
+"fire": [
+"fire"
+],
+"flames": [
+"fire"
+],
+"flight": [
+"airplane"
+],
+"food": [
+"bread",
+"hamburger"
+],
+"forbidden": [
+"prohibited"
+],
+"funeral": [
+"coffin",
+"funeral_urn"
+],
+"furious": [
+"pouting_face"
+],
+"game": [
+"video_game"
+],
+"ghost": [
+"ghost"
+],
+"gift": [
+"wrapped_present"
+],
+"glasses": [
+"eyeglasses"
+],
+"gold": [
+"coin"
+],
+"grave": [
+"headstone"
+],
+"gun": [
+"pistol"
+],
+"hammer": [
+"hammer"
+],
+"happy": [
+"face_with_tears_of_joy"
+],
+"hat": [
+"top_hat"
+],
+"heart": [
+"anatomical_heart"
+],
+"helicopter": [
+"helicopter"
+],
+"help": [
+"sos"
+],
+"hero": [
+"military_medal"
+],
+"home": [
+"house_building"
+],
+"horse": [
+"horse_face"
+],
+"hospital": [
+"hospital"
+],
+"hot": [
+"hot_face"
+],
+"hotel": [
+"hotel"
+],
+"hours": [
+"alarm_clock"
+],
+"house": [
+"house_building"
+],
+"hungry": [
+"bread"
+],
+"husband": [
+"man"
+],
+"ice": [
+"ice_cube"
+],
+"id": [
+"identification_card"
+],
+"idea": [
+"electric_light_bulb"
+],
+"identity": [
+"identification_card"
+],
+"increase": [
+"chart_with_upwards_trend"
+],
+"infection": [
+"microbe"
+],
+"injection": [
+"syringe"
+],
+"insane": [
+"dizzy_face"
+],
+"island": [
+"desert_island"
+],
+"jail": [
+"chains",
+"lock"
+],
+"judge": [
+"balance_scale"
+],
+"key": [
+"old_key",
+"key"
+],
+"killed": [
+"skull_and_crossbones"
+],
+"king": [
+"crown"
+],
+"knife": [
+"dagger_knife"
+],
+"ladder": [
+"ladder"
+],
+"later": [
+"hourglass_with_flowing_sand"
+],
+"laughed": [
+"face_with_tears_of_joy"
+],
+"law": [
+"balance_scale"
+],
+"leader": [
+"crown"
+],
+"letter": [
+"envelope"
+],
+"letters": [
+"envelope"
+],
+"liar": [
+"lying_face"
+],
+"lied": [
+"lying_face"
+],
+"light": [
+"electric_light_bulb"
+],
+"lightning": [
+"high_voltage_sign"
+],
+"locked": [
+"lock"
+],
+"lost": [
+"chart_with_downwards_trend"
+],
+"lottery": [
+"slot_machine"
+],
+"love": [
+"heavy_black_heart"
+],
+"lying": [
+"lying_face"
+],
+"magic": [
+"magic_wand",
+"crystal_ball"
+],
+"map": [
+"world_map"
+],
+"meat": [
+"cut_of_meat"
+],
+"medal": [
+"sports_medal",
+"military_medal"
+],
+"medals": [
+"military_medal"
+],
+"medication": [
+"pill"
+],
+"medicine": [
+"pill"
+],
+"million": [
+"busts_in_silhouette"
+],
+"minutes": [
+"stopwatch"
+],
+"money": [
+"banknote_with_dollar_sign",
+"money_bag"
+],
+"monkey": [
+"monkey_face"
+],
+"months": [
+"calendar"
+],
+"mother": [
+"woman"
+],
+"mountain": [
+"mountain"
+],
+"mouse": [
+"mouse_face"
+],
+"music": [
+"musical_note"
+],
+"never": [
+"prohibited"
+],
+"newspaper": [
+"newspaper"
+],
+"no": [
+"prohibited"
+],
+"noticed": [
+"eyes"
+],
+"ocean": [
+"water_wave"
+],
+"package": [
+"package"
+],
+"paid": [
+"money_with_wings"
+],
+"paper": [
+"page_facing_up"
+],
+"papers": [
+"page_facing_up"
+],
+"party": [
+"party_popper"
+],
+"passed": [
+"face_with_spiral_eyes"
+],
+"passport": [
+"identification_card"
+],
+"pay": [
+"money_with_wings"
+],
+"people": [
+"busts_in_silhouette"
+],
+"phone": [
+"mobile_phone"
+],
+"photo": [
+"camera_with_flash"
+],
+"picture": [
+"camera_with_flash"
+],
+"pig": [
+"pig_face"
+],
+"pills": [
+"pill"
+],
+"plan": [
+"memo"
+],
+"plane": [
+"airplane"
+],
+"poison": [
+"skull_and_crossbones"
+],
+"poisoned": [
+"skull_and_crossbones"
+],
+"police": [
+"police_car_light",
+"police_officer"
+],
+"president": [
+"crown"
+],
+"prison": [
+"chains",
+"lock"
+],
+"problem": [
+"warning_sign"
+],
+"queen": [
+"crown"
+],
+"question": [
+"question_mark"
+],
+"radio": [
+"radio"
+],
+"rain": [
+"cloud_with_rain"
+],
+"rat": [
+"rat"
+],
+"rats": [
+"rat"
+],
+"realized": [
+"exclamation_mark",
+"electric_light_bulb"
+],
+"report": [
+"clipboard"
+],
+"results": [
+"clipboard"
+],
+"rich": [
+"money_bag",
+"gem_stone"
+],
+"ring": [
+"ring"
+],
+"river": [
+"water_wave"
+],
+"robot": [
+"robot_face"
+],
+"rock": [
+"rock"
+],
+"rocket": [
+"rocket"
+],
+"rope": [
+"link_symbol"
+],
+"sad": [
+"crying_face"
+],
+"sang": [
+"microphone"
+],
+"saw": [
+"eyes"
+],
+"scared": [
+"fearful_face"
+],
+"school": [
+"school"
+],
+"scientist": [
+"test_tube",
+"alembic"
+],
+"screamed": [
+"face_screaming_in_fear"
+],
+"sea": [
+"water_wave"
+],
+"seconds": [
+"stopwatch"
+],
+"secret": [
+"shushing_face",
+"lock"
+],
+"shark": [
+"shark"
+],
+"shield": [
+"shield"
+],
+"ship": [
+"ship"
+],
+"shocked": [
+"exploding_head"
+],
+"shoes": [
+"athletic_shoe"
+],
+"shoot": [
+"pistol"
+],
+"shot": [
+"pistol"
+],
+"sick": [
+"face_with_medical_mask",
+"thermometer"
+],
+"sickness": [
+"face_with_medical_mask"
+],
+"sleep": [
+"sleeping_face",
+"zzz"
+],
+"smell": [
+"nauseated_face"
+],
+"smoke": [
+"dash_symbol"
+],
+"snake": [
+"snake"
+],
+"snow": [
+"snowflake"
+],
+"soldiers": [
+"military_helmet"
+],
+"spider": [
+"spider"
+],
+"starving": [
+"bread"
+],
+"stole": [
+"money_with_wings"
+],
+"stones": [
+"rock"
+],
+"storm": [
+"cloud_with_lightning"
+],
+"surprise": [
+"exclamation_mark"
+],
+"sword": [
+"crossed_swords"
+],
+"terrified": [
+"face_screaming_in_fear"
+],
+"thief": [
+"money_with_wings"
+],
+"think": [
+"thinking_face"
+],
+"thought": [
+"thought_balloon"
+],
+"ticket": [
+"ticket"
+],
+"time": [
+"hourglass_with_flowing_sand"
+],
+"tired": [
+"zzz"
+],
+"tools": [
+"toolbox"
+],
+"traffic": [
+"automobile"
+],
+"train": [
+"steam_locomotive"
+],
+"tv": [
+"television"
+],
+"underwater": [
+"bubbles"
+],
+"up": [
+"chart_with_upwards_trend"
+],
+"vaccine": [
+"syringe"
+],
+"vampire": [
+"vampire"
+],
+"video": [
+"video_camera"
+],
+"virus": [
+"microbe"
+],
+"volcano": [
+"volcano"
+],
+"vomit": [
+"nauseated_face"
+],
+"war": [
+"crossed_swords",
+"bomb"
+],
+"warning": [
+"warning_sign"
+],
+"watch": [
+"eyes"
+],
+"water": [
+"droplet"
+],
+"weeks": [
+"calendar"
+],
+"why": [
+"question_mark"
+],
+"wife": [
+"woman"
+],
+"wine": [
+"wine_glass"
+],
+"winner": [
+"trophy"
+],
+"witch": [
+"mage"
+],
+"witches": [
+"mage"
+],
+"without": [
+"prohibited"
+],
+"won": [
+"trophy"
+],
+"world": [
+"earth_globe_europe_africa",
+"globe_with_meridians"
+],
+"wound": [
+"adhesive_bandage",
+"drop_of_blood"
+],
+"years": [
+"hourglass_with_flowing_sand"
+],
+"zombie": [
+"zombie"
+]
+}
+}

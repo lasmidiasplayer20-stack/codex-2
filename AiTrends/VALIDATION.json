@@ -1,0 +1,49 @@
+{
+  "workflow": "Local Codex command adapter; not UI plugin registration",
+  "demos": {
+    "aitrends-demo.mp4": {
+      "width": 640,
+      "height": 360,
+      "frames": 72,
+      "fps": "24/1",
+      "duration": 3.0,
+      "audio": false,
+      "full_decode": "passed",
+      "sha256": "6fb9188233e18b5810114add9833db8c340d2b9fa8b89c1719b8c790f7b38818"
+    },
+    "stick-demo.mp4": {
+      "width": 540,
+      "height": 960,
+      "frames": 114,
+      "fps": "15/1",
+      "duration": 7.6,
+      "audio": true,
+      "full_decode": "passed",
+      "sha256": "0fadd370b7cfd53a2dde4812918ba96c16b39bfa37fcec8099ae5c88d7a6c653"
+    }
+  },
+  "stills": {
+    "aitrends": 14,
+    "stick": 6,
+    "visual_inspection": "passed"
+  },
+  "rig_parity": {
+    "cases": 318,
+    "joints": 5724,
+    "problems": 0,
+    "live_after_effects": false
+  },
+  "setup_repeatability": "setup adapter completed successfully",
+  "modified_original_files": [
+    "aitrends-2d-studio/skills/make-2d-video/kit/tools/doctor.py",
+    "aitrends-2d-studio/skills/make-2d-video/kit/render.mjs",
+    "2d-stick-animator/kit/py/ra_preview.py"
+  ],
+  "not_validated": [
+    "Live Adobe After Effects",
+    "Whisper model inference/download",
+    "Paid API providers",
+    "Automatic plugin discovery in chat UI"
+  ],
+  "original_archives_preserved": true
+}

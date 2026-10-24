@@ -1,0 +1,2172 @@
+{
+ "version": 1,
+ "meta": {
+  "title": "HE SOLD THE EIFFEL TOWER",
+  "slug": "demo",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 27.245
+ },
+ "audio": {
+  "voice": "",
+  "music": "audio/music.wav",
+  "music_db": -17,
+  "sfx": [
+   {
+    "t": 11.13,
+    "file": "audio/sfx/whoosh.wav",
+    "gain_db": -10
+   },
+   {
+    "t": 14.19,
+    "file": "audio/sfx/impact.wav",
+    "gain_db": -6
+   },
+   {
+    "t": 15.900000000000002,
+    "file": "audio/sfx/whoosh.wav",
+    "gain_db": -10
+   }
+  ]
+ },
+ "captions": [
+  {
+   "text": "When",
+   "t": 0.0,
+   "end": 0.315,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "this",
+   "t": 0.315,
+   "end": 0.63,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "con",
+   "t": 0.63,
+   "end": 0.9,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "man",
+   "t": 0.9,
+   "end": 1.17,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "read",
+   "t": 1.17,
+   "end": 1.485,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "that",
+   "t": 1.485,
+   "end": 1.8,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "Paris",
+   "t": 1.8,
+   "end": 2.16,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "could",
+   "t": 2.16,
+   "end": 2.52,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "barely",
+   "t": 2.52,
+   "end": 2.925,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "afford",
+   "t": 2.925,
+   "end": 3.33,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "to",
+   "t": 3.33,
+   "end": 3.555,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "repair",
+   "t": 3.555,
+   "end": 3.96,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "the",
+   "t": 3.96,
+   "end": 4.23,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "Eiffel",
+   "t": 4.23,
+   "end": 4.635,
+   "color": "yellow",
+   "scale": 1.12
+  },
+  {
+   "text": "Tower,",
+   "t": 4.635,
+   "end": 5.06,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 5.06,
+   "end": 5.285,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "forged",
+   "t": 5.285,
+   "end": 5.69,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "government",
+   "t": 5.69,
+   "end": 6.275,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "letters",
+   "t": 6.275,
+   "end": 6.725,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "and",
+   "t": 6.725,
+   "end": 6.995,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "invited",
+   "t": 6.995,
+   "end": 7.445,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "six",
+   "t": 7.445,
+   "end": 7.715,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "scrap",
+   "t": 7.715,
+   "end": 8.075,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "metal",
+   "t": 8.075,
+   "end": 8.435,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "dealers",
+   "t": 8.435,
+   "end": 8.885,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "to",
+   "t": 8.885,
+   "end": 9.11,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "a secret",
+   "t": 9.11,
+   "end": 9.695,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "meeting",
+   "t": 9.695,
+   "end": 10.145,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "in",
+   "t": 10.145,
+   "end": 10.37,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "a luxury",
+   "t": 10.37,
+   "end": 10.955,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "hotel.",
+   "t": 10.955,
+   "end": 11.38,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "Right",
+   "t": 11.38,
+   "end": 11.74,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "away,",
+   "t": 11.74,
+   "end": 12.12,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 12.12,
+   "end": 12.345,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "told",
+   "t": 12.345,
+   "end": 12.66,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "them",
+   "t": 12.66,
+   "end": 12.975,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "the",
+   "t": 12.975,
+   "end": 13.245,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "tower",
+   "t": 13.245,
+   "end": 13.605,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "would",
+   "t": 13.605,
+   "end": 13.965,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "be",
+   "t": 13.965,
+   "end": 14.19,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "torn",
+   "t": 14.19,
+   "end": 14.505,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "down",
+   "t": 14.505,
+   "end": 14.82,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "and",
+   "t": 14.82,
+   "end": 15.09,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "sold",
+   "t": 15.09,
+   "end": 15.405,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "for",
+   "t": 15.405,
+   "end": 15.675,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "scrap.",
+   "t": 15.675,
+   "end": 16.1,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "The",
+   "t": 16.1,
+   "end": 16.37,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "problem",
+   "t": 16.37,
+   "end": 16.82,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "was,",
+   "t": 16.82,
+   "end": 17.155,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "one",
+   "t": 17.155,
+   "end": 17.425,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "dealer",
+   "t": 17.425,
+   "end": 17.83,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "wanted",
+   "t": 17.83,
+   "end": 18.235,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "it",
+   "t": 18.235,
+   "end": 18.46,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "so",
+   "t": 18.46,
+   "end": 18.685,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "badly",
+   "t": 18.685,
+   "end": 19.045,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "that",
+   "t": 19.045,
+   "end": 19.36,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 19.36,
+   "end": 19.585,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "paid",
+   "t": 19.585,
+   "end": 19.9,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "a huge",
+   "t": 19.9,
+   "end": 20.395,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "bribe",
+   "t": 20.395,
+   "end": 20.755,
+   "color": "yellow",
+   "scale": 1.12
+  },
+  {
+   "text": "on",
+   "t": 20.755,
+   "end": 20.98,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "the",
+   "t": 20.98,
+   "end": 21.25,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "spot.",
+   "t": 21.25,
+   "end": 21.63,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "And",
+   "t": 21.63,
+   "end": 21.9,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "when",
+   "t": 21.9,
+   "end": 22.215,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 22.215,
+   "end": 22.44,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "realized",
+   "t": 22.44,
+   "end": 22.935,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 22.935,
+   "end": 23.16,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "had",
+   "t": 23.16,
+   "end": 23.43,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "been",
+   "t": 23.43,
+   "end": 23.745,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "scammed,",
+   "t": 23.745,
+   "end": 24.26,
+   "color": "red",
+   "scale": 1.0
+  },
+  {
+   "text": "he",
+   "t": 24.26,
+   "end": 24.485,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "was",
+   "t": 24.485,
+   "end": 24.755,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "too",
+   "t": 24.755,
+   "end": 25.025,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "embarrassed",
+   "t": 25.025,
+   "end": 25.655,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "to",
+   "t": 25.655,
+   "end": 25.88,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "tell",
+   "t": 25.88,
+   "end": 26.195,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "the",
+   "t": 26.195,
+   "end": 26.465,
+   "color": "yellow",
+   "scale": 1.0
+  },
+  {
+   "text": "police.",
+   "t": 26.465,
+   "end": 26.845,
+   "color": "yellow",
+   "scale": 1.0
+  }
+ ],
+ "cast": {
+  "lustig": {
+   "color": "#35DD6D",
+   "glow": 0.35,
+   "parts": [
+    "fedora",
+    "mustache",
+    "tie"
+   ],
+   "c2": "#22252A"
+  },
+  "dealer": {
+   "color": "#F25857",
+   "parts": [
+    "cap",
+    "beard"
+   ],
+   "c1": "#3A3A3E",
+   "c2": "#4A2E1A"
+  },
+  "dealer2": {
+   "color": "#ECF053",
+   "parts": [
+    "beanie"
+   ],
+   "c1": "#2E6BD6",
+   "c2": "#F2F2F2"
+  },
+  "dealer3": {
+   "color": "#91B8F1",
+   "parts": [
+    "hair_short",
+    "glasses"
+   ],
+   "c1": "#3A2A20"
+  },
+  "dealer4": {
+   "color": "#F091E6",
+   "parts": [
+    "top_hat",
+    "mustache"
+   ],
+   "c2": "#3A2A20"
+  },
+  "police": {
+   "color": "#F4F4F4",
+   "parts": [
+    "police_cap",
+    "uniform"
+   ],
+   "c1": "#2F4A8A",
+   "c2": "#E8B53A"
+  }
+ },
+ "look": {
+  "vignette": 0.42,
+  "grain": 0.025,
+  "end": "fade_black"
+ },
+ "shots": [
+  {
+   "id": "S01",
+   "t": 0.0,
+   "end": 1.485,
+   "say": "When this con man read",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 0.0,
+     "zoom": 1.24,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 0.62,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 1.485,
+     "zoom": 1.05,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/office_desk_vintage_ov1.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 560,
+     "y": 1780,
+     "h": 1250,
+     "keys": [
+      {
+       "t": 0,
+       "pose": "hold_front",
+       "eyes": "determined"
+      },
+      {
+       "t": 1.17,
+       "pose": "hold_up",
+       "eyes": "wide",
+       "mouth": "o"
+      }
+     ],
+     "hold": [
+      {
+       "file": "assets/icons/page_facing_up.png",
+       "hand": "N",
+       "w": 260,
+       "offset": [
+        10,
+        -40
+       ]
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S02",
+   "t": 1.485,
+   "end": 3.33,
+   "say": "that Paris could barely afford",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 1.485,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 3.33,
+     "zoom": 1.281,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/paris_street_old_buildings_ov1.jpg",
+    "grade": "moody",
+    "blur": 2
+   },
+   "actors": [
+    {
+     "cast": "dealer2",
+     "x": 300,
+     "y": 1720,
+     "h": 900,
+     "keys": [
+      {
+       "t": 1.485,
+       "pose": "walk"
+      }
+     ],
+     "move": [
+      {
+       "t": 1.485,
+       "x": 260
+      },
+      {
+       "t": 3.33,
+       "x": 520
+      }
+     ],
+     "walk": [
+      {
+       "t": 1.485,
+       "mode": "walk"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/dollar_banknote.png",
+     "x": 700,
+     "y": 700,
+     "size": 260,
+     "t": 2.82,
+     "no": true
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S03",
+   "t": 3.33,
+   "end": 5.06,
+   "say": "to repair the Eiffel Tower,",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 3.33,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 5.06,
+     "zoom": 1.25,
+     "focus": [
+      540,
+      760
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/eiffel_tower_ov1.jpg",
+    "grade": "moody"
+   },
+   "actors": [],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/warning.png",
+     "x": 760,
+     "y": 560,
+     "size": 240,
+     "t": 3.56
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S04",
+   "t": 5.06,
+   "end": 6.725,
+   "say": "he forged government letters",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 5.06,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 6.725,
+     "zoom": 1.199,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/office_desk_vintage_ov1.jpg",
+    "grade": "dark",
+    "blur": 4
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 520,
+     "y": 1820,
+     "h": 1150,
+     "keys": [
+      {
+       "t": 5.06,
+       "pose": "hold_front",
+       "eyes": "angry"
+      },
+      {
+       "t": 6.28,
+       "pose": "show",
+       "eyes": "determined",
+       "mouth": "grin"
+      }
+     ],
+     "hold": [
+      {
+       "file": "assets/icons/page_facing_up.png",
+       "hand": "N",
+       "w": 300,
+       "offset": [
+        20,
+        -60
+       ]
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S05",
+   "t": 6.725,
+   "end": 8.885,
+   "say": "and invited six scrap metal dealers",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 6.725,
+     "zoom": 1.31,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 7.345,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 8.885,
+     "zoom": 1.063,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/scrapyard_ov1.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 240,
+     "y": 1700,
+     "h": 860,
+     "keys": [
+      {
+       "t": 6.725,
+       "pose": "stand",
+       "eyes": "normal"
+      },
+      {
+       "t": 8.44,
+       "pose": "arms_crossed",
+       "eyes": "determined"
+      }
+     ]
+    },
+    {
+     "cast": "dealer2",
+     "x": 470,
+     "y": 1640,
+     "h": 780,
+     "keys": [
+      {
+       "t": 6.725,
+       "pose": "hands_hips"
+      }
+     ],
+     "face": -1,
+     "act": [
+      {
+       "t": 7.0249999999999995,
+       "end": 8.885,
+       "kind": "nod"
+      }
+     ]
+    },
+    {
+     "cast": "dealer3",
+     "x": 680,
+     "y": 1690,
+     "h": 820,
+     "keys": [
+      {
+       "t": 6.725,
+       "pose": "stand",
+       "eyes": "wide"
+      },
+      {
+       "t": 7.71,
+       "pose": "shrug"
+      }
+     ]
+    },
+    {
+     "cast": "dealer4",
+     "x": 900,
+     "y": 1730,
+     "h": 880,
+     "keys": [
+      {
+       "t": 6.725,
+       "pose": "talk_gesture"
+      }
+     ],
+     "face": -1,
+     "talk": [
+      [
+       6.725,
+       8.885
+      ]
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/package.png",
+     "x": 540,
+     "y": 1020,
+     "size": 200,
+     "t": 7.71
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S06",
+   "t": 8.885,
+   "end": 10.145,
+   "say": "to a secret meeting",
+   "camera_kind": "punch",
+   "camera": [
+    {
+     "t": 8.885,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 9.515,
+     "zoom": 1.04,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    },
+    {
+     "t": 9.548,
+     "zoom": 1.3,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "cut"
+    },
+    {
+     "t": 10.145,
+     "zoom": 1.36,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/old_hotel_lobby_ov1.jpg",
+    "grade": "warm",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 330,
+     "y": 1760,
+     "h": 1050,
+     "keys": [
+      {
+       "t": 8.885,
+       "pose": "talk_gesture",
+       "eyes": "determined"
+      }
+     ],
+     "talk": [
+      [
+       8.885,
+       10.145
+      ]
+     ]
+    },
+    {
+     "cast": "dealer",
+     "x": 800,
+     "y": 1800,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 8.885,
+       "pose": "stand",
+       "eyes": "wide",
+       "mouth": "o"
+      }
+     ],
+     "face": -1
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "speech",
+     "file": "assets/icons/page_facing_up.png",
+     "x": 420,
+     "y": 520,
+     "size": 200,
+     "t": 9.29,
+     "tail": [
+      -0.2,
+      0.7
+     ]
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S07",
+   "t": 10.145,
+   "end": 11.38,
+   "say": "in a luxury hotel.",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 10.145,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 11.38,
+     "zoom": 1.172,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/luxury_hotel_interior_ov1.jpg",
+    "grade": "warm"
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 540,
+     "y": 1760,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 10.145,
+       "pose": "cheer",
+       "eyes": "happy",
+       "mouth": "grin"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/crown.png",
+     "x": 540,
+     "y": 600,
+     "size": 210,
+     "t": 10.55
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S08",
+   "t": 11.38,
+   "end": 12.12,
+   "say": "Right away,",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 11.38,
+     "zoom": 1.34,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 11.787,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 12.12,
+     "zoom": 1.035,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "flash",
+   "bg": {
+    "file": "assets/bg/luxury_hotel_interior_ov1.jpg",
+    "grade": "warm",
+    "blur": 6
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 520,
+     "y": 2350,
+     "h": 2200,
+     "keys": [
+      {
+       "t": 11.38,
+       "pose": "point_fwd",
+       "eyes": "determined",
+       "mouth": "o"
+      }
+     ],
+     "crop": true
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S09",
+   "t": 12.12,
+   "end": 13.605,
+   "say": "he told them the tower",
+   "camera_kind": "pan",
+   "camera": [
+    {
+     "t": 12.12,
+     "zoom": 1.12,
+     "focus": [
+      460,
+      960
+     ]
+    },
+    {
+     "t": 13.605,
+     "zoom": 1.14,
+     "focus": [
+      620,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/old_hotel_lobby_ov2.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 330,
+     "y": 1700,
+     "h": 950,
+     "keys": [
+      {
+       "t": 12.12,
+       "pose": "talk_gesture"
+      },
+      {
+       "t": 13.24,
+       "pose": "point_up",
+       "eyes": "wide"
+      }
+     ],
+     "talk": [
+      [
+       12.12,
+       13.605
+      ]
+     ]
+    },
+    {
+     "cast": "dealer",
+     "x": 760,
+     "y": 1820,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 12.12,
+       "pose": "hands_hips",
+       "eyes": "normal"
+      }
+     ],
+     "face": -1,
+     "z": 1,
+     "act": [
+      {
+       "t": 12.62,
+       "end": 13.605,
+       "kind": "nod"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "thought",
+     "file": "assets/icons/warning.png",
+     "x": 760,
+     "y": 560,
+     "size": 210,
+     "t": 13.24
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S10",
+   "t": 13.605,
+   "end": 14.82,
+   "say": "would be torn down",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 13.605,
+     "zoom": 1.36,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 14.225,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 14.82,
+     "zoom": 1.044,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/eiffel_tower_ov1.jpg",
+    "grade": "dark"
+   },
+   "actors": [],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/fire.png",
+     "x": 540,
+     "y": 1100,
+     "size": 300,
+     "t": 14.51
+    }
+   ],
+   "fx": [
+    {
+     "kind": "flash",
+     "t": 14.19,
+     "opacity": 70
+    },
+    {
+     "kind": "smoke",
+     "t": 14.19,
+     "opacity": 40
+    }
+   ],
+   "state": [],
+   "shake": [
+    {
+     "t": 14.19,
+     "dur": 0.5,
+     "amp": 22
+    }
+   ]
+  },
+  {
+   "id": "S11",
+   "t": 14.82,
+   "end": 16.1,
+   "say": "and sold for scrap.",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 14.82,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 16.1,
+     "zoom": 1.15,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/scrapyard_ov1.jpg",
+    "grade": "moody",
+    "blur": 2
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 540,
+     "y": 1760,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 14.82,
+       "pose": "stand",
+       "eyes": "wide"
+      },
+      {
+       "t": 15.68,
+       "pose": "cheer",
+       "eyes": "happy",
+       "mouth": "grin"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "badge",
+     "file": "assets/icons/dollar_banknote.png",
+     "x": 790,
+     "y": 640,
+     "size": 200,
+     "t": 15.09,
+     "text": "$$$",
+     "text_pos": [
+      0,
+      60
+     ],
+     "text_size": 90
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S12",
+   "t": 16.1,
+   "end": 17.155,
+   "say": "The problem was,",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 16.1,
+     "zoom": 1.23,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 16.68,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 17.155,
+     "zoom": 1.041,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "light_leak",
+   "bg": {
+    "file": "assets/bg/scrapyard_ov1.jpg",
+    "grade": "dark",
+    "blur": 6
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 540,
+     "y": 2250,
+     "h": 2000,
+     "keys": [
+      {
+       "t": 16.1,
+       "pose": "think",
+       "eyes": "determined"
+      }
+     ],
+     "crop": true
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S13",
+   "t": 17.155,
+   "end": 18.235,
+   "say": "one dealer wanted",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 17.155,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 18.235,
+     "zoom": 1.181,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/old_hotel_lobby_ov1.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 600,
+     "y": 1800,
+     "h": 1050,
+     "keys": [
+      {
+       "t": 17.155,
+       "pose": "reach",
+       "eyes": "wide",
+       "mouth": "o"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "thought",
+     "file": "assets/icons/crown.png",
+     "x": 330,
+     "y": 560,
+     "size": 200,
+     "t": 17.83,
+     "tail": [
+      0.5,
+      0.9
+     ]
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S14",
+   "t": 18.235,
+   "end": 19.045,
+   "say": "it so badly",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 18.235,
+     "zoom": 1.3,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 18.681,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 19.045,
+     "zoom": 1.036,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/old_hotel_lobby_ov1.jpg",
+    "grade": "moody",
+    "blur": 5
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 540,
+     "y": 2000,
+     "h": 1500,
+     "keys": [
+      {
+       "t": 18.235,
+       "pose": "fists_up",
+       "eyes": "angry",
+       "mouth": "scream"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S15",
+   "t": 19.045,
+   "end": 20.755,
+   "say": "that he paid a huge bribe",
+   "camera_kind": "punch",
+   "camera": [
+    {
+     "t": 19.045,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 19.9,
+     "zoom": 1.04,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    },
+    {
+     "t": 19.933,
+     "zoom": 1.3,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "cut"
+    },
+    {
+     "t": 20.755,
+     "zoom": 1.36,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/luxury_hotel_interior_ov1.jpg",
+    "grade": "warm",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 320,
+     "y": 1780,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 19.045,
+       "pose": "hold_front",
+       "eyes": "determined"
+      },
+      {
+       "t": 20.39,
+       "pose": "push",
+       "eyes": "wide"
+      }
+     ],
+     "hold": [
+      {
+       "file": "assets/icons/briefcase.png",
+       "hand": "N",
+       "w": 330,
+       "offset": [
+        40,
+        20
+       ]
+      }
+     ]
+    },
+    {
+     "cast": "lustig",
+     "x": 790,
+     "y": 1780,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 19.045,
+       "pose": "stand",
+       "eyes": "normal"
+      },
+      {
+       "t": 20.39,
+       "pose": "cheer",
+       "eyes": "happy",
+       "mouth": "grin"
+      }
+     ],
+     "face": -1
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [
+    {
+     "kind": "money_rain",
+     "file": "assets/icons/dollar_banknote.png",
+     "t": 20.39,
+     "count": 26
+    }
+   ],
+   "state": []
+  },
+  {
+   "id": "S16",
+   "t": 20.755,
+   "end": 21.63,
+   "say": "on the spot.",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 20.755,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 21.63,
+     "zoom": 1.15,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/luxury_hotel_interior_ov1.jpg",
+    "grade": "warm",
+    "blur": 4
+   },
+   "actors": [
+    {
+     "cast": "lustig",
+     "x": 540,
+     "y": 1820,
+     "h": 1150,
+     "keys": [
+      {
+       "t": 20.755,
+       "pose": "dance",
+       "eyes": "happy",
+       "mouth": "grin"
+      }
+     ],
+     "act": [
+      {
+       "t": 20.755,
+       "end": 21.63,
+       "kind": "dance"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [
+    {
+     "kind": "money_rain",
+     "file": "assets/icons/dollar_banknote.png",
+     "count": 30,
+     "pile": true
+    }
+   ],
+   "state": []
+  },
+  {
+   "id": "S17",
+   "t": 21.63,
+   "end": 22.935,
+   "say": "And when he realized",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 21.63,
+     "zoom": 1.22,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 22.25,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 22.935,
+     "zoom": 1.046,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/paris_street_old_buildings_ov1.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 540,
+     "y": 1800,
+     "h": 1100,
+     "keys": [
+      {
+       "t": 21.63,
+       "pose": "stand",
+       "eyes": "normal"
+      },
+      {
+       "t": 22.44,
+       "pose": "hands_head",
+       "eyes": "wide",
+       "mouth": "scream"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/warning.png",
+     "x": 800,
+     "y": 620,
+     "size": 220,
+     "t": 22.44
+    }
+   ],
+   "fx": [],
+   "state": []
+  },
+  {
+   "id": "S18",
+   "t": 22.935,
+   "end": 24.26,
+   "say": "he had been scammed,",
+   "camera_kind": "pan",
+   "camera": [
+    {
+     "t": 22.935,
+     "zoom": 1.12,
+     "focus": [
+      460,
+      960
+     ]
+    },
+    {
+     "t": 24.26,
+     "zoom": 1.14,
+     "focus": [
+      620,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "glitch",
+   "bg": {
+    "file": "assets/bg/paris_street_old_buildings_ov1.jpg",
+    "grade": "dark",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 540,
+     "y": 1800,
+     "h": 1100,
+     "keys": [
+      {
+       "t": 22.935,
+       "pose": "shocked",
+       "eyes": "dead",
+       "mouth": "open"
+      }
+     ],
+     "state": "silhouette"
+    }
+   ],
+   "props": [],
+   "icons": [
+    {
+     "kind": "emoji",
+     "file": "assets/icons/skull_and_crossbones.png",
+     "x": 540,
+     "y": 560,
+     "size": 260,
+     "t": 23.75
+    }
+   ],
+   "fx": [
+    {
+     "kind": "tint",
+     "color": "#C8202A",
+     "opacity": 35
+    }
+   ],
+   "state": []
+  },
+  {
+   "id": "S19",
+   "t": 24.26,
+   "end": 25.655,
+   "say": "he was too embarrassed",
+   "camera_kind": "pull",
+   "camera": [
+    {
+     "t": 24.26,
+     "zoom": 1.3,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 24.88,
+     "zoom": 1.02,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "out"
+    },
+    {
+     "t": 25.655,
+     "zoom": 1.048,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "linear"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/paris_street_old_buildings_ov1.jpg",
+    "grade": "moody",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "dealer",
+     "x": 540,
+     "y": 1820,
+     "h": 1050,
+     "keys": [
+      {
+       "t": 24.26,
+       "pose": "slump",
+       "eyes": "sad",
+       "mouth": "frown"
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": [
+    {
+     "kind": "bw",
+     "t": 24.46,
+     "fade": 0.35
+    }
+   ]
+  },
+  {
+   "id": "S20",
+   "t": 25.655,
+   "end": 27.245,
+   "say": "to tell the police.",
+   "camera_kind": "push",
+   "camera": [
+    {
+     "t": 25.655,
+     "zoom": 1.0,
+     "focus": [
+      540,
+      960
+     ]
+    },
+    {
+     "t": 27.245,
+     "zoom": 1.236,
+     "focus": [
+      540,
+      960
+     ],
+     "ease": "inout"
+    }
+   ],
+   "transition": "cut",
+   "bg": {
+    "file": "assets/bg/paris_street_old_buildings_ov1.jpg",
+    "grade": "cold",
+    "blur": 3
+   },
+   "actors": [
+    {
+     "cast": "police",
+     "x": 760,
+     "y": 1760,
+     "h": 1000,
+     "keys": [
+      {
+       "t": 25.655,
+       "pose": "arms_crossed",
+       "eyes": "determined"
+      }
+     ],
+     "face": -1,
+     "act": [
+      {
+       "t": 26.055,
+       "end": 27.245,
+       "kind": "shake_fist"
+      }
+     ]
+    },
+    {
+     "cast": "dealer",
+     "x": 300,
+     "y": 1800,
+     "h": 950,
+     "keys": [
+      {
+       "t": 25.655,
+       "pose": "walk",
+       "eyes": "sad"
+      }
+     ],
+     "face": -1,
+     "move": [
+      {
+       "t": 25.655,
+       "x": 420
+      },
+      {
+       "t": 27.245,
+       "x": 120
+      }
+     ],
+     "walk": [
+      {
+       "t": 25.655,
+       "mode": "walk",
+       "speed": 1.2
+      }
+     ]
+    }
+   ],
+   "props": [],
+   "icons": [],
+   "fx": [],
+   "state": []
+  }
+ ],
+ "_note": "Worked example (a 27 s test story). Asset paths point to files that are not shipped; use it to learn the structure."
+}

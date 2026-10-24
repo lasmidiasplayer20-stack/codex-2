@@ -1,0 +1,8 @@
+[11:00:09] 2D Stick Animator engine 2.3.0 on After Effects 25.0x(mock)
+[11:00:09] spec: plan/spec_compiled.json
+[11:00:09] caption font: Anton-Regular
+[11:00:09] character guy built (7 pose keys)
+[11:00:09] character cop built (2 pose keys)
+[11:00:09] character lady built (2 pose keys)
+[11:00:09] saved /workspace/animation-plugins/2d-stick-animator/projects/_selftest/ae/_selftest.aep
+[11:00:09] DONE errors=0 warnings=0 seconds=0

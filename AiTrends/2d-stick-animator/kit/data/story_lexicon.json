@@ -1,0 +1,3704 @@
+{
+ "_doc": "Story lexicon for coverage.py: every narration word found here must be shown on screen at its word. verbs -> the poses/actions that act it out and the props whose file names prove it; nouns -> the file-name words that prove the object is on screen; people are covered by characters on screen; generic verbs are ignored. Extend freely.",
+ "verbs": {
+  "eat": {
+   "poses": [
+    "eat"
+   ],
+   "acts": [
+    "eat_bites"
+   ],
+   "props": [
+    "bread",
+    "food",
+    "burger",
+    "apple",
+    "meat",
+    "plate",
+    "bowl",
+    "sandwich"
+   ],
+   "how": "pose eat, the food held to the mouth (hold), act eat_bites"
+  },
+  "feed": {
+   "poses": [
+    "eat"
+   ],
+   "acts": [
+    "eat_bites"
+   ],
+   "props": [
+    "bread",
+    "food",
+    "burger",
+    "apple",
+    "meat",
+    "plate",
+    "bowl",
+    "sandwich"
+   ],
+   "how": "pose eat, the food held to the mouth (hold), act eat_bites"
+  },
+  "drink": {
+   "poses": [
+    "drink"
+   ],
+   "acts": [],
+   "props": [
+    "cup",
+    "glass",
+    "bottle",
+    "mug",
+    "beer",
+    "wine",
+    "water"
+   ],
+   "how": "pose drink with the cup/bottle held (hold)"
+  },
+  "sip": {
+   "poses": [
+    "drink"
+   ],
+   "acts": [],
+   "props": [
+    "cup",
+    "glass",
+    "bottle",
+    "mug",
+    "beer",
+    "wine",
+    "water"
+   ],
+   "how": "pose drink with the cup/bottle held (hold)"
+  },
+  "cook": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "stir"
+   ],
+   "props": [
+    "pan",
+    "pot",
+    "stove",
+    "oven"
+   ],
+   "how": "hold_front + act stir over a pan/pot prop"
+  },
+  "fry": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "stir"
+   ],
+   "props": [
+    "pan",
+    "pot",
+    "stove",
+    "oven"
+   ],
+   "how": "hold_front + act stir over a pan/pot prop"
+  },
+  "bake": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "stir"
+   ],
+   "props": [
+    "pan",
+    "pot",
+    "stove",
+    "oven"
+   ],
+   "how": "hold_front + act stir over a pan/pot prop"
+  },
+  "stir": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "stir"
+   ],
+   "props": [
+    "pot",
+    "spoon",
+    "bowl"
+   ],
+   "how": "act stir with a spoon/bowl"
+  },
+  "mix": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "stir"
+   ],
+   "props": [
+    "pot",
+    "spoon",
+    "bowl"
+   ],
+   "how": "act stir with a spoon/bowl"
+  },
+  "sleep": {
+   "poses": [
+    "lie_back",
+    "sleep_lie",
+    "sit_floor_sad",
+    "slump_sit"
+   ],
+   "acts": [
+    "fall_asleep"
+   ],
+   "props": [
+    "bed",
+    "zzz",
+    "pillow"
+   ],
+   "how": "lie_back or slumped, eyes closed, zzz icon"
+  },
+  "nap": {
+   "poses": [
+    "lie_back",
+    "sleep_lie",
+    "sit_floor_sad",
+    "slump_sit"
+   ],
+   "acts": [
+    "fall_asleep"
+   ],
+   "props": [
+    "bed",
+    "zzz",
+    "pillow"
+   ],
+   "how": "lie_back or slumped, eyes closed, zzz icon"
+  },
+  "die": {
+   "poses": [
+    "dead",
+    "lie_back",
+    "lie_front",
+    "slump_sit"
+   ],
+   "acts": [
+    "topple",
+    "fall_down",
+    "faint"
+   ],
+   "props": [
+    "skull",
+    "coffin"
+   ],
+   "how": "topple/fall_down, eyes dead, skull or coffin icon"
+  },
+  "kill": {
+   "poses": [
+    "punch",
+    "aim",
+    "push"
+   ],
+   "acts": [
+    "punch_once",
+    "shoot_once",
+    "topple"
+   ],
+   "props": [
+    "knife",
+    "gun",
+    "pistol",
+    "rifle",
+    "skull"
+   ],
+   "how": "the attack on the word, the victim falls, skull icon"
+  },
+  "murder": {
+   "poses": [
+    "punch",
+    "aim",
+    "push"
+   ],
+   "acts": [
+    "punch_once",
+    "shoot_once",
+    "topple"
+   ],
+   "props": [
+    "knife",
+    "gun",
+    "pistol",
+    "rifle",
+    "skull"
+   ],
+   "how": "the attack on the word, the victim falls, skull icon"
+  },
+  "shoot": {
+   "poses": [
+    "aim"
+   ],
+   "acts": [
+    "shoot_once"
+   ],
+   "props": [
+    "gun",
+    "pistol",
+    "rifle",
+    "muzzle",
+    "flash"
+   ],
+   "how": "pose aim holding the gun (hold follow) + flash/shake on the shot"
+  },
+  "fire": {
+   "poses": [
+    "aim"
+   ],
+   "acts": [
+    "shoot_once"
+   ],
+   "props": [
+    "gun",
+    "pistol",
+    "rifle",
+    "muzzle",
+    "flash"
+   ],
+   "how": "pose aim holding the gun (hold follow) + flash/shake on the shot"
+  },
+  "stab": {
+   "poses": [
+    "punch",
+    "push"
+   ],
+   "acts": [
+    "punch_once"
+   ],
+   "props": [
+    "knife",
+    "dagger",
+    "sword",
+    "scissors"
+   ],
+   "how": "a knife held (hold) + punch_once"
+  },
+  "cut": {
+   "poses": [
+    "punch",
+    "push"
+   ],
+   "acts": [
+    "punch_once"
+   ],
+   "props": [
+    "knife",
+    "dagger",
+    "sword",
+    "scissors"
+   ],
+   "how": "a knife held (hold) + punch_once"
+  },
+  "slash": {
+   "poses": [
+    "punch",
+    "push"
+   ],
+   "acts": [
+    "punch_once"
+   ],
+   "props": [
+    "knife",
+    "dagger",
+    "sword",
+    "scissors"
+   ],
+   "how": "a knife held (hold) + punch_once"
+  },
+  "punch": {
+   "poses": [
+    "punch",
+    "guard"
+   ],
+   "acts": [
+    "punch_once",
+    "pound"
+   ],
+   "props": [],
+   "how": "punch_once on the word + shake + impact"
+  },
+  "hit": {
+   "poses": [
+    "punch",
+    "guard"
+   ],
+   "acts": [
+    "punch_once",
+    "pound"
+   ],
+   "props": [],
+   "how": "punch_once on the word + shake + impact"
+  },
+  "beat": {
+   "poses": [
+    "punch",
+    "guard"
+   ],
+   "acts": [
+    "punch_once",
+    "pound"
+   ],
+   "props": [],
+   "how": "punch_once on the word + shake + impact"
+  },
+  "strike": {
+   "poses": [
+    "punch",
+    "guard"
+   ],
+   "acts": [
+    "punch_once",
+    "pound"
+   ],
+   "props": [],
+   "how": "punch_once on the word + shake + impact"
+  },
+  "smack": {
+   "poses": [
+    "punch",
+    "guard"
+   ],
+   "acts": [
+    "punch_once",
+    "pound"
+   ],
+   "props": [],
+   "how": "punch_once on the word + shake + impact"
+  },
+  "slap": {
+   "poses": [
+    "punch",
+    "guard"
+   ],
+   "acts": [
+    "punch_once",
+    "pound"
+   ],
+   "props": [],
+   "how": "punch_once on the word + shake + impact"
+  },
+  "fight": {
+   "poses": [
+    "guard",
+    "punch",
+    "fists_up"
+   ],
+   "acts": [
+    "punch_once",
+    "shake_fist"
+   ],
+   "props": [],
+   "how": "two characters facing, guard/punch, shake"
+  },
+  "kick": {
+   "poses": [
+    "punch"
+   ],
+   "acts": [
+    "punch_once"
+   ],
+   "props": [],
+   "how": "a kick (legs via set) or punch_once + impact"
+  },
+  "push": {
+   "poses": [
+    "push"
+   ],
+   "acts": [
+    "pound"
+   ],
+   "props": [],
+   "how": "pose push towards the other character"
+  },
+  "shove": {
+   "poses": [
+    "push"
+   ],
+   "acts": [
+    "pound"
+   ],
+   "props": [],
+   "how": "pose push towards the other character"
+  },
+  "pull": {
+   "poses": [
+    "drag",
+    "drag_low",
+    "pull"
+   ],
+   "acts": [
+    "pull_rope"
+   ],
+   "props": [
+    "rope"
+   ],
+   "how": "drag/drag_low with attach on the pulled character, real distance"
+  },
+  "drag": {
+   "poses": [
+    "drag",
+    "drag_low",
+    "pull"
+   ],
+   "acts": [
+    "pull_rope"
+   ],
+   "props": [
+    "rope"
+   ],
+   "how": "drag/drag_low with attach on the pulled character, real distance"
+  },
+  "carry": {
+   "poses": [
+    "lift_body",
+    "carry_heavy",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "box",
+    "crate",
+    "bag"
+   ],
+   "how": "carry_heavy/hold_front with the thing held (hold) or attach a carried person"
+  },
+  "lift": {
+   "poses": [
+    "lift_body",
+    "hold_up",
+    "arms_up"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "hold_up / lift_body"
+  },
+  "raise": {
+   "poses": [
+    "lift_body",
+    "hold_up",
+    "arms_up"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "hold_up / lift_body"
+  },
+  "throw": {
+   "poses": [
+    "throw",
+    "throw_back"
+   ],
+   "acts": [
+    "throw_once"
+   ],
+   "props": [],
+   "how": "throw_once with the object leaving the hand (prop anim)"
+  },
+  "toss": {
+   "poses": [
+    "throw",
+    "throw_back"
+   ],
+   "acts": [
+    "throw_once"
+   ],
+   "props": [],
+   "how": "throw_once with the object leaving the hand (prop anim)"
+  },
+  "catch": {
+   "poses": [
+    "grab",
+    "reach"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "grab/reach on the word"
+  },
+  "grab": {
+   "poses": [
+    "grab",
+    "reach"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "grab/reach on the word"
+  },
+  "grabbed": {
+   "poses": [
+    "grab",
+    "reach"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "grab/reach on the word"
+  },
+  "seize": {
+   "poses": [
+    "grab",
+    "reach"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "grab/reach on the word"
+  },
+  "give": {
+   "poses": [
+    "show",
+    "reach",
+    "hold_front",
+    "present"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "show/reach with the given thing held, the other reaches"
+  },
+  "hand": {
+   "poses": [
+    "show",
+    "reach",
+    "hold_front",
+    "present"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "show/reach with the given thing held, the other reaches"
+  },
+  "offer": {
+   "poses": [
+    "show",
+    "reach",
+    "hold_front",
+    "present"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "show/reach with the given thing held, the other reaches"
+  },
+  "take": {
+   "poses": [
+    "grab",
+    "reach"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "grab/reach"
+  },
+  "steal": {
+   "poses": [
+    "sneak",
+    "grab"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "bag",
+    "wallet"
+   ],
+   "how": "sneak + grab, the stolen thing in hand"
+  },
+  "rob": {
+   "poses": [
+    "sneak",
+    "grab"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "bag",
+    "wallet"
+   ],
+   "how": "sneak + grab, the stolen thing in hand"
+  },
+  "hide": {
+   "poses": [
+    "crouch",
+    "cower",
+    "sneak"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "crouch/cower behind something, darker grade"
+  },
+  "sneak": {
+   "poses": [
+    "sneak"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "sneak + slow move"
+  },
+  "creep": {
+   "poses": [
+    "sneak"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "sneak + slow move"
+  },
+  "escape": {
+   "poses": [
+    "run"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "run + move a long way (wide world)"
+  },
+  "flee": {
+   "poses": [
+    "run"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "run + move a long way (wide world)"
+  },
+  "run": {
+   "poses": [
+    "run"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "run + move a long way (wide world)"
+  },
+  "chase": {
+   "poses": [
+    "run"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "two runners, move in a wide world"
+  },
+  "walk": {
+   "poses": [
+    "walk"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "walk + move a real distance"
+  },
+  "march": {
+   "poses": [
+    "walk"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "walk + move a real distance"
+  },
+  "jump": {
+   "poses": [
+    "jump"
+   ],
+   "acts": [
+    "jump_once"
+   ],
+   "props": [],
+   "how": "jump_once"
+  },
+  "leap": {
+   "poses": [
+    "jump"
+   ],
+   "acts": [
+    "jump_once"
+   ],
+   "props": [],
+   "how": "jump_once"
+  },
+  "fall": {
+   "poses": [
+    "fall",
+    "lie_back"
+   ],
+   "acts": [
+    "fall_down",
+    "faint",
+    "topple"
+   ],
+   "props": [],
+   "how": "fall_down / topple"
+  },
+  "trip": {
+   "poses": [
+    "fall",
+    "lie_back"
+   ],
+   "acts": [
+    "fall_down",
+    "faint",
+    "topple"
+   ],
+   "props": [],
+   "how": "fall_down / topple"
+  },
+  "collapse": {
+   "poses": [
+    "fall",
+    "lie_back"
+   ],
+   "acts": [
+    "fall_down",
+    "faint",
+    "topple"
+   ],
+   "props": [],
+   "how": "fall_down / topple"
+  },
+  "faint": {
+   "poses": [
+    "lie_back",
+    "slump"
+   ],
+   "acts": [
+    "faint"
+   ],
+   "props": [],
+   "how": "faint, eyes closed"
+  },
+  "pass": {
+   "poses": [
+    "lie_back",
+    "slump"
+   ],
+   "acts": [
+    "faint"
+   ],
+   "props": [],
+   "how": "faint, eyes closed"
+  },
+  "climb": {
+   "poses": [
+    "reach",
+    "hold_up"
+   ],
+   "acts": [],
+   "props": [
+    "ladder",
+    "rope",
+    "wall"
+   ],
+   "how": "tall world, move up, arms up"
+  },
+  "swim": {
+   "poses": [
+    "swim"
+   ],
+   "acts": [
+    "swim_stroke"
+   ],
+   "props": [
+    "water",
+    "bubbles"
+   ],
+   "how": "swim + swim_stroke underwater"
+  },
+  "drown": {
+   "poses": [
+    "sink",
+    "float"
+   ],
+   "acts": [
+    "flail"
+   ],
+   "props": [
+    "bubbles",
+    "water"
+   ],
+   "how": "sink/flail, bubbles rising"
+  },
+  "sink": {
+   "poses": [
+    "sink",
+    "float"
+   ],
+   "acts": [
+    "flail"
+   ],
+   "props": [
+    "bubbles",
+    "water"
+   ],
+   "how": "sink/flail, bubbles rising"
+  },
+  "dance": {
+   "poses": [
+    "dance"
+   ],
+   "acts": [
+    "dance",
+    "cheer_bounce"
+   ],
+   "props": [],
+   "how": "dance"
+  },
+  "party": {
+   "poses": [
+    "dance"
+   ],
+   "acts": [
+    "dance",
+    "cheer_bounce"
+   ],
+   "props": [],
+   "how": "dance"
+  },
+  "celebrate": {
+   "poses": [
+    "cheer",
+    "arms_up"
+   ],
+   "acts": [
+    "cheer_bounce"
+   ],
+   "props": [
+    "confetti",
+    "party"
+   ],
+   "how": "cheer_bounce, confetti"
+  },
+  "cheer": {
+   "poses": [
+    "cheer",
+    "arms_up"
+   ],
+   "acts": [
+    "cheer_bounce"
+   ],
+   "props": [
+    "confetti",
+    "party"
+   ],
+   "how": "cheer_bounce, confetti"
+  },
+  "cry": {
+   "poses": [
+    "sad_stand",
+    "hand_head",
+    "slump"
+   ],
+   "acts": [],
+   "props": [
+    "tear",
+    "crying"
+   ],
+   "how": "eyes sad, tears icon"
+  },
+  "weep": {
+   "poses": [
+    "sad_stand",
+    "hand_head",
+    "slump"
+   ],
+   "acts": [],
+   "props": [
+    "tear",
+    "crying"
+   ],
+   "how": "eyes sad, tears icon"
+  },
+  "laugh": {
+   "poses": [
+    "shrug"
+   ],
+   "acts": [
+    "laugh"
+   ],
+   "props": [],
+   "how": "act laugh, eyes happy/joy, mouth grin"
+  },
+  "scream": {
+   "poses": [
+    "shocked",
+    "fists_up"
+   ],
+   "acts": [
+    "shake_fist"
+   ],
+   "props": [],
+   "how": "mouth scream, red caption on the peak"
+  },
+  "shout": {
+   "poses": [
+    "shocked",
+    "fists_up"
+   ],
+   "acts": [
+    "shake_fist"
+   ],
+   "props": [],
+   "how": "mouth scream, red caption on the peak"
+  },
+  "yell": {
+   "poses": [
+    "shocked",
+    "fists_up"
+   ],
+   "acts": [
+    "shake_fist"
+   ],
+   "props": [],
+   "how": "mouth scream, red caption on the peak"
+  },
+  "talk": {
+   "poses": [
+    "talk_gesture",
+    "explain"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "speech"
+   ],
+   "how": "talk range + talk_hands; a speech bubble for what is said"
+  },
+  "say": {
+   "poses": [
+    "talk_gesture",
+    "explain"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "speech"
+   ],
+   "how": "talk range + talk_hands; a speech bubble for what is said"
+  },
+  "tell": {
+   "poses": [
+    "talk_gesture",
+    "explain"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "speech"
+   ],
+   "how": "talk range + talk_hands; a speech bubble for what is said"
+  },
+  "speak": {
+   "poses": [
+    "talk_gesture",
+    "explain"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "speech"
+   ],
+   "how": "talk range + talk_hands; a speech bubble for what is said"
+  },
+  "explain": {
+   "poses": [
+    "talk_gesture",
+    "explain"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "speech"
+   ],
+   "how": "talk range + talk_hands; a speech bubble for what is said"
+  },
+  "argue": {
+   "poses": [
+    "talk_gesture",
+    "explain"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "speech"
+   ],
+   "how": "talk range + talk_hands; a speech bubble for what is said"
+  },
+  "ask": {
+   "poses": [
+    "talk_gesture",
+    "shrug"
+   ],
+   "acts": [],
+   "props": [
+    "question"
+   ],
+   "how": "talk + question icon"
+  },
+  "call": {
+   "poses": [
+    "phone_call"
+   ],
+   "acts": [
+    "phone_talk"
+   ],
+   "props": [
+    "phone",
+    "telephone"
+   ],
+   "how": "pose phone_call holding a phone (hold)"
+  },
+  "phone": {
+   "poses": [
+    "phone_call"
+   ],
+   "acts": [
+    "phone_talk"
+   ],
+   "props": [
+    "phone",
+    "telephone"
+   ],
+   "how": "pose phone_call holding a phone (hold)"
+  },
+  "write": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "write"
+   ],
+   "props": [
+    "paper",
+    "pen",
+    "document",
+    "contract",
+    "letter",
+    "memo"
+   ],
+   "how": "write with paper/pen held"
+  },
+  "sign": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "write"
+   ],
+   "props": [
+    "paper",
+    "pen",
+    "document",
+    "contract",
+    "letter",
+    "memo"
+   ],
+   "how": "write with paper/pen held"
+  },
+  "read": {
+   "poses": [
+    "read",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "book",
+    "paper",
+    "newspaper",
+    "letter"
+   ],
+   "how": "pose read holding the book/paper"
+  },
+  "type": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "type"
+   ],
+   "props": [
+    "computer",
+    "laptop",
+    "keyboard"
+   ],
+   "how": "act type at a computer prop"
+  },
+  "hack": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "type"
+   ],
+   "props": [
+    "computer",
+    "laptop",
+    "keyboard"
+   ],
+   "how": "act type at a computer prop"
+  },
+  "pay": {
+   "poses": [
+    "show",
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "cash",
+    "coin",
+    "dollar",
+    "banknote",
+    "bag"
+   ],
+   "how": "money held out / money icons"
+  },
+  "buy": {
+   "poses": [
+    "show",
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "cash",
+    "coin",
+    "dollar",
+    "banknote",
+    "bag"
+   ],
+   "how": "money held out / money icons"
+  },
+  "sell": {
+   "poses": [
+    "show",
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "cash",
+    "coin",
+    "dollar",
+    "banknote",
+    "bag"
+   ],
+   "how": "money held out / money icons"
+  },
+  "bribe": {
+   "poses": [
+    "show",
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "cash",
+    "coin",
+    "dollar",
+    "banknote",
+    "bag"
+   ],
+   "how": "money held out / money icons"
+  },
+  "count": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "money",
+    "cash"
+   ],
+   "how": "hold_front with cash"
+  },
+  "wash": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [
+    "scrub"
+   ],
+   "props": [
+    "bucket",
+    "sponge",
+    "foam",
+    "soap",
+    "bubbles",
+    "towel"
+   ],
+   "how": "scrub with sponge/foam, bucket"
+  },
+  "clean": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [
+    "scrub"
+   ],
+   "props": [
+    "bucket",
+    "sponge",
+    "foam",
+    "soap",
+    "bubbles",
+    "towel"
+   ],
+   "how": "scrub with sponge/foam, bucket"
+  },
+  "scrub": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [
+    "scrub"
+   ],
+   "props": [
+    "bucket",
+    "sponge",
+    "foam",
+    "soap",
+    "bubbles",
+    "towel"
+   ],
+   "how": "scrub with sponge/foam, bucket"
+  },
+  "bath": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [
+    "scrub"
+   ],
+   "props": [
+    "bucket",
+    "sponge",
+    "foam",
+    "soap",
+    "bubbles",
+    "towel"
+   ],
+   "how": "scrub with sponge/foam, bucket"
+  },
+  "bathe": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [
+    "scrub"
+   ],
+   "props": [
+    "bucket",
+    "sponge",
+    "foam",
+    "soap",
+    "bubbles",
+    "towel"
+   ],
+   "how": "scrub with sponge/foam, bucket"
+  },
+  "wipe": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [
+    "scrub"
+   ],
+   "props": [
+    "bucket",
+    "sponge",
+    "foam",
+    "soap",
+    "bubbles",
+    "towel"
+   ],
+   "how": "scrub with sponge/foam, bucket"
+  },
+  "brush": {
+   "poses": [
+    "brush_face"
+   ],
+   "acts": [
+    "brush"
+   ],
+   "props": [
+    "brush",
+    "comb",
+    "razor"
+   ],
+   "how": "brush_face + act brush with the tool held"
+  },
+  "comb": {
+   "poses": [
+    "brush_face"
+   ],
+   "acts": [
+    "brush"
+   ],
+   "props": [
+    "brush",
+    "comb",
+    "razor"
+   ],
+   "how": "brush_face + act brush with the tool held"
+  },
+  "shave": {
+   "poses": [
+    "brush_face"
+   ],
+   "acts": [
+    "brush"
+   ],
+   "props": [
+    "brush",
+    "comb",
+    "razor"
+   ],
+   "how": "brush_face + act brush with the tool held"
+  },
+  "paint": {
+   "poses": [
+    "brush_face",
+    "reach"
+   ],
+   "acts": [
+    "brush"
+   ],
+   "props": [
+    "brush",
+    "paint",
+    "bucket"
+   ],
+   "how": "act brush holding a paint brush"
+  },
+  "dress": {
+   "poses": [
+    "stand",
+    "proud"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "the new costume piece appears (accessory from/to) on the word"
+  },
+  "wear": {
+   "poses": [
+    "stand",
+    "proud"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "the new costume piece appears (accessory from/to) on the word"
+  },
+  "dig": {
+   "poses": [
+    "dig"
+   ],
+   "acts": [
+    "dig"
+   ],
+   "props": [
+    "shovel",
+    "grave",
+    "hole"
+   ],
+   "how": "act dig with a shovel"
+  },
+  "bury": {
+   "poses": [
+    "dig"
+   ],
+   "acts": [
+    "dig"
+   ],
+   "props": [
+    "shovel",
+    "grave",
+    "hole"
+   ],
+   "how": "act dig with a shovel"
+  },
+  "build": {
+   "poses": [
+    "hold_front",
+    "push"
+   ],
+   "acts": [
+    "pound"
+   ],
+   "props": [
+    "hammer",
+    "tools",
+    "wrench"
+   ],
+   "how": "act pound holding a hammer"
+  },
+  "fix": {
+   "poses": [
+    "hold_front",
+    "push"
+   ],
+   "acts": [
+    "pound"
+   ],
+   "props": [
+    "hammer",
+    "tools",
+    "wrench"
+   ],
+   "how": "act pound holding a hammer"
+  },
+  "repair": {
+   "poses": [
+    "hold_front",
+    "push"
+   ],
+   "acts": [
+    "pound"
+   ],
+   "props": [
+    "hammer",
+    "tools",
+    "wrench"
+   ],
+   "how": "act pound holding a hammer"
+  },
+  "hammer": {
+   "poses": [
+    "hold_front",
+    "push"
+   ],
+   "acts": [
+    "pound"
+   ],
+   "props": [
+    "hammer",
+    "tools",
+    "wrench"
+   ],
+   "how": "act pound holding a hammer"
+  },
+  "plant": {
+   "poses": [
+    "dig",
+    "reach_down"
+   ],
+   "acts": [
+    "dig"
+   ],
+   "props": [
+    "seed",
+    "plant",
+    "shovel"
+   ],
+   "how": "dig/reach_down"
+  },
+  "farm": {
+   "poses": [
+    "dig",
+    "reach_down"
+   ],
+   "acts": [
+    "dig"
+   ],
+   "props": [
+    "seed",
+    "plant",
+    "shovel"
+   ],
+   "how": "dig/reach_down"
+  },
+  "open": {
+   "poses": [
+    "reach",
+    "push"
+   ],
+   "acts": [],
+   "props": [
+    "door",
+    "box",
+    "lid",
+    "safe"
+   ],
+   "how": "reach/push on the door or box prop"
+  },
+  "close": {
+   "poses": [
+    "push"
+   ],
+   "acts": [],
+   "props": [
+    "door",
+    "lock"
+   ],
+   "how": "push the door, lock icon"
+  },
+  "shut": {
+   "poses": [
+    "push"
+   ],
+   "acts": [],
+   "props": [
+    "door",
+    "lock"
+   ],
+   "how": "push the door, lock icon"
+  },
+  "lock": {
+   "poses": [
+    "push"
+   ],
+   "acts": [],
+   "props": [
+    "door",
+    "lock"
+   ],
+   "how": "push the door, lock icon"
+  },
+  "knock": {
+   "poses": [
+    "point_fwd"
+   ],
+   "acts": [
+    "knock"
+   ],
+   "props": [
+    "door"
+   ],
+   "how": "act knock at a door"
+  },
+  "drive": {
+   "poses": [
+    "sit"
+   ],
+   "acts": [],
+   "props": [
+    "car",
+    "truck",
+    "wheel",
+    "bus"
+   ],
+   "how": "sit inside a car prop, move it (step false)"
+  },
+  "fly": {
+   "poses": [
+    "float"
+   ],
+   "acts": [],
+   "props": [
+    "plane",
+    "airplane",
+    "helicopter",
+    "wings"
+   ],
+   "how": "plane prop / float, move across a wide world"
+  },
+  "ride": {
+   "poses": [
+    "sit"
+   ],
+   "acts": [],
+   "props": [
+    "horse",
+    "bike",
+    "bicycle"
+   ],
+   "how": "sit on the animal/bike prop, move"
+  },
+  "crash": {
+   "poses": [
+    "fall",
+    "scared"
+   ],
+   "acts": [
+    "fall_down",
+    "flinch"
+   ],
+   "props": [
+    "collision",
+    "explosion",
+    "fire",
+    "smoke"
+   ],
+   "how": "flash + shake + explosion icon/fire"
+  },
+  "explode": {
+   "poses": [
+    "fall",
+    "scared"
+   ],
+   "acts": [
+    "fall_down",
+    "flinch"
+   ],
+   "props": [
+    "collision",
+    "explosion",
+    "fire",
+    "smoke"
+   ],
+   "how": "flash + shake + explosion icon/fire"
+  },
+  "burn": {
+   "poses": [
+    "scared"
+   ],
+   "acts": [],
+   "props": [
+    "fire",
+    "flames"
+   ],
+   "how": "fire fx/icon"
+  },
+  "arrest": {
+   "poses": [
+    "grab",
+    "hands_head"
+   ],
+   "acts": [],
+   "props": [
+    "handcuffs",
+    "police",
+    "chains"
+   ],
+   "how": "officer grabs, target hands_head, police icon"
+  },
+  "handcuff": {
+   "poses": [
+    "grab",
+    "hands_head"
+   ],
+   "acts": [],
+   "props": [
+    "handcuffs",
+    "police",
+    "chains"
+   ],
+   "how": "officer grabs, target hands_head, police icon"
+  },
+  "attack": {
+   "poses": [
+    "punch",
+    "push"
+   ],
+   "acts": [
+    "punch_once"
+   ],
+   "props": [],
+   "how": "the attack on the word, impact"
+  },
+  "pray": {
+   "poses": [
+    "pray",
+    "kneel"
+   ],
+   "acts": [],
+   "props": [
+    "church",
+    "cross"
+   ],
+   "how": "pose pray or kneel"
+  },
+  "salute": {
+   "poses": [
+    "salute"
+   ],
+   "acts": [
+    "salute_once"
+   ],
+   "props": [],
+   "how": "pose salute"
+  },
+  "aim": {
+   "poses": [
+    "aim",
+    "point_fwd",
+    "point_viewer"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "aim/point at the target"
+  },
+  "point": {
+   "poses": [
+    "point_fwd",
+    "point_viewer",
+    "point_up",
+    "point_down"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "point at the thing"
+  },
+  "watch": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "stare": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "see": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "notice": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "spot": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "find": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "discover": {
+   "poses": [
+    "stand",
+    "hands_hips",
+    "reach_down",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "eyes"
+   ],
+   "how": "eyes wide on the word, gaze at the thing found; push in"
+  },
+  "think": {
+   "poses": [
+    "think",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "thought",
+    "idea",
+    "bulb"
+   ],
+   "how": "think pose + thought bubble with the idea's icon"
+  },
+  "wonder": {
+   "poses": [
+    "think",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "thought",
+    "idea",
+    "bulb"
+   ],
+   "how": "think pose + thought bubble with the idea's icon"
+  },
+  "decide": {
+   "poses": [
+    "think",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "thought",
+    "idea",
+    "bulb"
+   ],
+   "how": "think pose + thought bubble with the idea's icon"
+  },
+  "plan": {
+   "poses": [
+    "think",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "thought",
+    "idea",
+    "bulb"
+   ],
+   "how": "think pose + thought bubble with the idea's icon"
+  },
+  "remember": {
+   "poses": [
+    "think",
+    "chin_think"
+   ],
+   "acts": [],
+   "props": [
+    "thought"
+   ],
+   "how": "thought bubble or a B&W flashback"
+  },
+  "hug": {
+   "poses": [
+    "hug_self",
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "heart"
+   ],
+   "how": "two characters close, arms around"
+  },
+  "embrace": {
+   "poses": [
+    "hug_self",
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "heart"
+   ],
+   "how": "two characters close, arms around"
+  },
+  "kiss": {
+   "poses": [
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "heart",
+    "kiss"
+   ],
+   "how": "faces close, heart icon"
+  },
+  "marry": {
+   "poses": [
+    "stand",
+    "present"
+   ],
+   "acts": [],
+   "props": [
+    "ring",
+    "heart",
+    "church"
+   ],
+   "how": "ring icon"
+  },
+  "wave": {
+   "poses": [
+    "wave"
+   ],
+   "acts": [
+    "wave"
+   ],
+   "props": [],
+   "how": "act wave"
+  },
+  "greet": {
+   "poses": [
+    "wave"
+   ],
+   "acts": [
+    "wave"
+   ],
+   "props": [],
+   "how": "act wave"
+  },
+  "nod": {
+   "poses": [
+    "stand"
+   ],
+   "acts": [
+    "nod"
+   ],
+   "props": [],
+   "how": "act nod"
+  },
+  "agree": {
+   "poses": [
+    "stand"
+   ],
+   "acts": [
+    "nod"
+   ],
+   "props": [],
+   "how": "act nod"
+  },
+  "shake": {
+   "poses": [
+    "hug_self"
+   ],
+   "acts": [
+    "shiver"
+   ],
+   "props": [],
+   "how": "act shiver"
+  },
+  "tremble": {
+   "poses": [
+    "hug_self"
+   ],
+   "acts": [
+    "shiver"
+   ],
+   "props": [],
+   "how": "act shiver"
+  },
+  "shiver": {
+   "poses": [
+    "hug_self"
+   ],
+   "acts": [
+    "shiver"
+   ],
+   "props": [],
+   "how": "act shiver"
+  },
+  "bow": {
+   "poses": [
+    "bow"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "pose bow"
+  },
+  "kneel": {
+   "poses": [
+    "kneel"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "pose kneel"
+  },
+  "sit": {
+   "poses": [
+    "sit",
+    "sit_relaxed",
+    "sit_floor"
+   ],
+   "acts": [
+    "sit_down"
+   ],
+   "props": [
+    "chair",
+    "bench"
+   ],
+   "how": "sit_down onto a chair in the background"
+  },
+  "stand": {
+   "poses": [
+    "stand"
+   ],
+   "acts": [
+    "stand_up"
+   ],
+   "props": [],
+   "how": "stand_up"
+  },
+  "wake": {
+   "poses": [
+    "sit",
+    "stand"
+   ],
+   "acts": [
+    "stand_up"
+   ],
+   "props": [],
+   "how": "eyes from closed to wide"
+  },
+  "work": {
+   "poses": [
+    "hold_front",
+    "dig"
+   ],
+   "acts": [
+    "type",
+    "pound",
+    "dig"
+   ],
+   "props": [],
+   "how": "the job's own action and tool"
+  },
+  "sew": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "write"
+   ],
+   "props": [
+    "needle",
+    "thread"
+   ],
+   "how": "small hand strokes with the tool"
+  },
+  "knit": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [
+    "write"
+   ],
+   "props": [
+    "needle",
+    "thread"
+   ],
+   "how": "small hand strokes with the tool"
+  },
+  "fish": {
+   "poses": [
+    "aim",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "fishing",
+    "rod",
+    "gun",
+    "bow"
+   ],
+   "how": "the tool held, aim"
+  },
+  "hunt": {
+   "poses": [
+    "aim",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "fishing",
+    "rod",
+    "gun",
+    "bow"
+   ],
+   "how": "the tool held, aim"
+  },
+  "inject": {
+   "poses": [
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "syringe",
+    "injection",
+    "needle"
+   ],
+   "how": "a syringe held to the arm"
+  },
+  "vaccinate": {
+   "poses": [
+    "reach"
+   ],
+   "acts": [],
+   "props": [
+    "syringe",
+    "injection",
+    "needle"
+   ],
+   "how": "a syringe held to the arm"
+  },
+  "operate": {
+   "poses": [
+    "hold_front",
+    "reach_down"
+   ],
+   "acts": [
+    "write"
+   ],
+   "props": [
+    "scalpel",
+    "knife",
+    "mask"
+   ],
+   "how": "surgeon over a patient lying down"
+  },
+  "poison": {
+   "poses": [
+    "hold_front",
+    "show"
+   ],
+   "acts": [],
+   "props": [
+    "poison",
+    "skull",
+    "bottle",
+    "pill"
+   ],
+   "how": "poison bottle / skull icon on the word"
+  },
+  "smoke": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "cigarette",
+    "pipe",
+    "smoke"
+   ],
+   "how": "cigarette held to the mouth, smoke fx"
+  },
+  "sing": {
+   "poses": [
+    "talk_gesture",
+    "arms_up"
+   ],
+   "acts": [
+    "talk_hands"
+   ],
+   "props": [
+    "microphone",
+    "music",
+    "note"
+   ],
+   "how": "talk range + music notes"
+  },
+  "play": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "guitar",
+    "ball",
+    "game",
+    "cards",
+    "dice"
+   ],
+   "how": "the toy/instrument held"
+  },
+  "win": {
+   "poses": [
+    "cheer",
+    "arms_up"
+   ],
+   "acts": [
+    "cheer_bounce"
+   ],
+   "props": [
+    "trophy",
+    "medal",
+    "crown"
+   ],
+   "how": "cheer + trophy icon"
+  },
+  "lose": {
+   "poses": [
+    "slump",
+    "sad_stand",
+    "hand_head"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "slump, eyes sad"
+  },
+  "scare": {
+   "poses": [
+    "scared",
+    "cower"
+   ],
+   "acts": [
+    "flinch"
+   ],
+   "props": [],
+   "how": "flinch, eyes wide, mouth scream"
+  },
+  "frighten": {
+   "poses": [
+    "scared",
+    "cower"
+   ],
+   "acts": [
+    "flinch"
+   ],
+   "props": [],
+   "how": "flinch, eyes wide, mouth scream"
+  },
+  "save": {
+   "poses": [
+    "reach",
+    "lift_body"
+   ],
+   "acts": [],
+   "props": [
+    "sos",
+    "ambulance",
+    "rope"
+   ],
+   "how": "reach to the victim / lift_body"
+  },
+  "rescue": {
+   "poses": [
+    "reach",
+    "lift_body"
+   ],
+   "acts": [],
+   "props": [
+    "sos",
+    "ambulance",
+    "rope"
+   ],
+   "how": "reach to the victim / lift_body"
+  },
+  "help": {
+   "poses": [
+    "reach",
+    "lift_body"
+   ],
+   "acts": [],
+   "props": [
+    "sos",
+    "ambulance",
+    "rope"
+   ],
+   "how": "reach to the victim / lift_body"
+  },
+  "heal": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "pill",
+    "syringe",
+    "bandage",
+    "stethoscope"
+   ],
+   "how": "doctor with the tool"
+  },
+  "treat": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "pill",
+    "syringe",
+    "bandage",
+    "stethoscope"
+   ],
+   "how": "doctor with the tool"
+  },
+  "cure": {
+   "poses": [
+    "reach",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "pill",
+    "syringe",
+    "bandage",
+    "stethoscope"
+   ],
+   "how": "doctor with the tool"
+  },
+  "vomit": {
+   "poses": [
+    "slump",
+    "bow"
+   ],
+   "acts": [],
+   "props": [
+    "nauseated",
+    "vomit"
+   ],
+   "how": "bow forward, sick face colour"
+  },
+  "sweat": {
+   "poses": [
+    "stand"
+   ],
+   "acts": [],
+   "props": [
+    "sweat",
+    "droplet"
+   ],
+   "how": "sweat drops icon"
+  },
+  "clap": {
+   "poses": [
+    "clap"
+   ],
+   "acts": [
+    "clap"
+   ],
+   "props": [],
+   "how": "act clap"
+  },
+  "applaud": {
+   "poses": [
+    "clap"
+   ],
+   "acts": [
+    "clap"
+   ],
+   "props": [],
+   "how": "act clap"
+  },
+  "pour": {
+   "poses": [
+    "hold_up",
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "bucket",
+    "bottle",
+    "water"
+   ],
+   "how": "the container held tilted, water fx"
+  },
+  "cover": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "blanket",
+    "cloth",
+    "sheet"
+   ],
+   "how": "the cloth prop over the thing"
+  },
+  "wrap": {
+   "poses": [
+    "hold_front"
+   ],
+   "acts": [],
+   "props": [
+    "blanket",
+    "cloth",
+    "sheet"
+   ],
+   "how": "the cloth prop over the thing"
+  },
+  "tie": {
+   "poses": [
+    "hold_front",
+    "grab"
+   ],
+   "acts": [],
+   "props": [
+    "rope",
+    "chains"
+   ],
+   "how": "rope prop"
+  },
+  "show": {
+   "poses": [
+    "show",
+    "present"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "show/present with the thing in hand"
+  },
+  "present": {
+   "poses": [
+    "show",
+    "present"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "show/present with the thing in hand"
+  },
+  "reveal": {
+   "poses": [
+    "show",
+    "present"
+   ],
+   "acts": [],
+   "props": [],
+   "how": "show/present with the thing in hand"
+  }
+ },
+ "nouns": {
+  "makeup": {
+   "match": [
+    "makeup",
+    "brush",
+    "lipstick",
+    "powder",
+    "cosmetic",
+    "blush"
+   ],
+   "how": "a makeup brush or lipstick held (hold, front) and brushed on the face (act brush) - visible, not behind a head"
+  },
+  "cosmetics": {
+   "match": [
+    "makeup",
+    "brush",
+    "lipstick",
+    "powder",
+    "cosmetic",
+    "blush"
+   ],
+   "how": "a makeup brush or lipstick held (hold, front) and brushed on the face (act brush) - visible, not behind a head"
+  },
+  "lipstick": {
+   "match": [
+    "makeup",
+    "brush",
+    "lipstick",
+    "powder",
+    "cosmetic",
+    "blush"
+   ],
+   "how": "a makeup brush or lipstick held (hold, front) and brushed on the face (act brush) - visible, not behind a head"
+  },
+  "powder": {
+   "match": [
+    "makeup",
+    "brush",
+    "lipstick",
+    "powder",
+    "cosmetic",
+    "blush"
+   ],
+   "how": "a makeup brush or lipstick held (hold, front) and brushed on the face (act brush) - visible, not behind a head"
+  },
+  "bath": {
+   "match": [
+    "bath",
+    "bucket",
+    "foam",
+    "soap",
+    "bubbles",
+    "sponge",
+    "shower",
+    "tub",
+    "bathroom"
+   ],
+   "how": "bathroom background + bucket/sponge/foam"
+  },
+  "shower": {
+   "match": [
+    "bath",
+    "bucket",
+    "foam",
+    "soap",
+    "bubbles",
+    "sponge",
+    "shower",
+    "tub",
+    "bathroom"
+   ],
+   "how": "bathroom background + bucket/sponge/foam"
+  },
+  "poison": {
+   "match": [
+    "poison",
+    "skull",
+    "bottle",
+    "rat"
+   ],
+   "how": "skull_and_crossbones / poison bottle icon"
+  },
+  "bread": {
+   "match": [
+    "bread",
+    "food",
+    "sandwich",
+    "burger",
+    "plate",
+    "meal",
+    "hamburger"
+   ],
+   "how": "the food prop held or icon"
+  },
+  "food": {
+   "match": [
+    "bread",
+    "food",
+    "sandwich",
+    "burger",
+    "plate",
+    "meal",
+    "hamburger"
+   ],
+   "how": "the food prop held or icon"
+  },
+  "sandwich": {
+   "match": [
+    "bread",
+    "food",
+    "sandwich",
+    "burger",
+    "plate",
+    "meal",
+    "hamburger"
+   ],
+   "how": "the food prop held or icon"
+  },
+  "burger": {
+   "match": [
+    "bread",
+    "food",
+    "sandwich",
+    "burger",
+    "plate",
+    "meal",
+    "hamburger"
+   ],
+   "how": "the food prop held or icon"
+  },
+  "meal": {
+   "match": [
+    "bread",
+    "food",
+    "sandwich",
+    "burger",
+    "plate",
+    "meal",
+    "hamburger"
+   ],
+   "how": "the food prop held or icon"
+  },
+  "gun": {
+   "match": [
+    "gun",
+    "pistol",
+    "rifle",
+    "weapon"
+   ],
+   "how": "the weapon held (hold follow)"
+  },
+  "pistol": {
+   "match": [
+    "gun",
+    "pistol",
+    "rifle",
+    "weapon"
+   ],
+   "how": "the weapon held (hold follow)"
+  },
+  "rifle": {
+   "match": [
+    "gun",
+    "pistol",
+    "rifle",
+    "weapon"
+   ],
+   "how": "the weapon held (hold follow)"
+  },
+  "weapon": {
+   "match": [
+    "gun",
+    "pistol",
+    "rifle",
+    "weapon"
+   ],
+   "how": "the weapon held (hold follow)"
+  },
+  "knife": {
+   "match": [
+    "knife",
+    "dagger",
+    "sword"
+   ],
+   "how": "the blade held"
+  },
+  "dagger": {
+   "match": [
+    "knife",
+    "dagger",
+    "sword"
+   ],
+   "how": "the blade held"
+  },
+  "sword": {
+   "match": [
+    "knife",
+    "dagger",
+    "sword"
+   ],
+   "how": "the blade held"
+  },
+  "money": {
+   "match": [
+    "money",
+    "cash",
+    "dollar",
+    "banknote",
+    "coin",
+    "gold",
+    "bag"
+   ],
+   "how": "money icons / money rain"
+  },
+  "cash": {
+   "match": [
+    "money",
+    "cash",
+    "dollar",
+    "banknote",
+    "coin",
+    "gold",
+    "bag"
+   ],
+   "how": "money icons / money rain"
+  },
+  "dollars": {
+   "match": [
+    "money",
+    "cash",
+    "dollar",
+    "banknote",
+    "coin",
+    "gold",
+    "bag"
+   ],
+   "how": "money icons / money rain"
+  },
+  "bills": {
+   "match": [
+    "money",
+    "cash",
+    "dollar",
+    "banknote",
+    "coin",
+    "gold",
+    "bag"
+   ],
+   "how": "money icons / money rain"
+  },
+  "coins": {
+   "match": [
+    "money",
+    "cash",
+    "dollar",
+    "banknote",
+    "coin",
+    "gold",
+    "bag"
+   ],
+   "how": "money icons / money rain"
+  },
+  "gold": {
+   "match": [
+    "money",
+    "cash",
+    "dollar",
+    "banknote",
+    "coin",
+    "gold",
+    "bag"
+   ],
+   "how": "money icons / money rain"
+  },
+  "phone": {
+   "match": [
+    "phone",
+    "telephone"
+   ],
+   "how": "phone held to the ear"
+  },
+  "telephone": {
+   "match": [
+    "phone",
+    "telephone"
+   ],
+   "how": "phone held to the ear"
+  },
+  "letter": {
+   "match": [
+    "letter",
+    "document",
+    "paper",
+    "contract",
+    "note",
+    "envelope",
+    "memo",
+    "page"
+   ],
+   "how": "the paper held / icon"
+  },
+  "document": {
+   "match": [
+    "letter",
+    "document",
+    "paper",
+    "contract",
+    "note",
+    "envelope",
+    "memo",
+    "page"
+   ],
+   "how": "the paper held / icon"
+  },
+  "paper": {
+   "match": [
+    "letter",
+    "document",
+    "paper",
+    "contract",
+    "note",
+    "envelope",
+    "memo",
+    "page"
+   ],
+   "how": "the paper held / icon"
+  },
+  "contract": {
+   "match": [
+    "letter",
+    "document",
+    "paper",
+    "contract",
+    "note",
+    "envelope",
+    "memo",
+    "page"
+   ],
+   "how": "the paper held / icon"
+  },
+  "note": {
+   "match": [
+    "letter",
+    "document",
+    "paper",
+    "contract",
+    "note",
+    "envelope",
+    "memo",
+    "page"
+   ],
+   "how": "the paper held / icon"
+  },
+  "book": {
+   "match": [
+    "book"
+   ],
+   "how": "book held"
+  },
+  "car": {
+   "match": [
+    "car",
+    "truck",
+    "bus",
+    "taxi",
+    "automobile"
+   ],
+   "how": "vehicle prop"
+  },
+  "truck": {
+   "match": [
+    "car",
+    "truck",
+    "bus",
+    "taxi",
+    "automobile"
+   ],
+   "how": "vehicle prop"
+  },
+  "bus": {
+   "match": [
+    "car",
+    "truck",
+    "bus",
+    "taxi",
+    "automobile"
+   ],
+   "how": "vehicle prop"
+  },
+  "taxi": {
+   "match": [
+    "car",
+    "truck",
+    "bus",
+    "taxi",
+    "automobile"
+   ],
+   "how": "vehicle prop"
+  },
+  "plane": {
+   "match": [
+    "plane",
+    "airplane"
+   ],
+   "how": "plane prop"
+  },
+  "airplane": {
+   "match": [
+    "plane",
+    "airplane"
+   ],
+   "how": "plane prop"
+  },
+  "ship": {
+   "match": [
+    "ship",
+    "boat",
+    "sailboat"
+   ],
+   "how": "boat prop/background"
+  },
+  "boat": {
+   "match": [
+    "ship",
+    "boat",
+    "sailboat"
+   ],
+   "how": "boat prop/background"
+  },
+  "box": {
+   "match": [
+    "box",
+    "crate",
+    "package"
+   ],
+   "how": "box prop"
+  },
+  "crate": {
+   "match": [
+    "box",
+    "crate",
+    "package"
+   ],
+   "how": "box prop"
+  },
+  "package": {
+   "match": [
+    "box",
+    "crate",
+    "package"
+   ],
+   "how": "box prop"
+  },
+  "bucket": {
+   "match": [
+    "bucket"
+   ],
+   "how": "bucket prop"
+  },
+  "door": {
+   "match": [
+    "door"
+   ],
+   "how": "door in the background or prop"
+  },
+  "bed": {
+   "match": [
+    "bed"
+   ],
+   "how": "bed prop/background"
+  },
+  "chair": {
+   "match": [
+    "chair",
+    "bench"
+   ],
+   "how": "chair prop"
+  },
+  "table": {
+   "match": [
+    "table",
+    "desk"
+   ],
+   "how": "table prop"
+  },
+  "desk": {
+   "match": [
+    "table",
+    "desk"
+   ],
+   "how": "table prop"
+  },
+  "medal": {
+   "match": [
+    "medal",
+    "medals"
+   ],
+   "how": "medals costume piece or icon"
+  },
+  "medals": {
+   "match": [
+    "medal",
+    "medals"
+   ],
+   "how": "medals costume piece or icon"
+  },
+  "uniform": {
+   "match": [
+    "uniform",
+    "jacket"
+   ],
+   "how": "uniform costume piece"
+  },
+  "helmet": {
+   "match": [
+    "helmet"
+   ],
+   "how": "helmet costume piece"
+  },
+  "hat": {
+   "match": [
+    "hat",
+    "cap",
+    "helmet",
+    "beanie",
+    "fedora"
+   ],
+   "how": "hat costume piece"
+  },
+  "glasses": {
+   "match": [
+    "glasses",
+    "sunglasses"
+   ],
+   "how": "glasses costume piece"
+  },
+  "brush": {
+   "match": [
+    "brush"
+   ],
+   "how": "brush held"
+  },
+  "bottle": {
+   "match": [
+    "bottle"
+   ],
+   "how": "bottle prop/icon"
+  },
+  "pill": {
+   "match": [
+    "pill",
+    "medicine",
+    "medication",
+    "drug",
+    "bottle"
+   ],
+   "how": "pill icon / bottle"
+  },
+  "pills": {
+   "match": [
+    "pill",
+    "medicine",
+    "medication",
+    "drug",
+    "bottle"
+   ],
+   "how": "pill icon / bottle"
+  },
+  "medicine": {
+   "match": [
+    "pill",
+    "medicine",
+    "medication",
+    "drug",
+    "bottle"
+   ],
+   "how": "pill icon / bottle"
+  },
+  "medication": {
+   "match": [
+    "pill",
+    "medicine",
+    "medication",
+    "drug",
+    "bottle"
+   ],
+   "how": "pill icon / bottle"
+  },
+  "drug": {
+   "match": [
+    "pill",
+    "medicine",
+    "medication",
+    "drug",
+    "bottle"
+   ],
+   "how": "pill icon / bottle"
+  },
+  "drugs": {
+   "match": [
+    "pill",
+    "medicine",
+    "medication",
+    "drug",
+    "bottle"
+   ],
+   "how": "pill icon / bottle"
+  },
+  "syringe": {
+   "match": [
+    "syringe",
+    "injection",
+    "needle",
+    "vaccine"
+   ],
+   "how": "syringe held/icon"
+  },
+  "injection": {
+   "match": [
+    "syringe",
+    "injection",
+    "needle",
+    "vaccine"
+   ],
+   "how": "syringe held/icon"
+  },
+  "needle": {
+   "match": [
+    "syringe",
+    "injection",
+    "needle",
+    "vaccine"
+   ],
+   "how": "syringe held/icon"
+  },
+  "vaccine": {
+   "match": [
+    "syringe",
+    "injection",
+    "needle",
+    "vaccine"
+   ],
+   "how": "syringe held/icon"
+  },
+  "fire": {
+   "match": [
+    "fire",
+    "flame"
+   ],
+   "how": "fire fx/icon"
+  },
+  "flames": {
+   "match": [
+    "fire",
+    "flame"
+   ],
+   "how": "fire fx/icon"
+  },
+  "rope": {
+   "match": [
+    "rope",
+    "link"
+   ],
+   "how": "rope prop"
+  },
+  "key": {
+   "match": [
+    "key"
+   ],
+   "how": "key icon/prop"
+  },
+  "keys": {
+   "match": [
+    "key"
+   ],
+   "how": "key icon/prop"
+  },
+  "ring": {
+   "match": [
+    "ring"
+   ],
+   "how": "ring icon"
+  },
+  "crown": {
+   "match": [
+    "crown"
+   ],
+   "how": "crown costume piece/icon"
+  },
+  "flag": {
+   "match": [
+    "flag"
+   ],
+   "how": "flag prop"
+  },
+  "bomb": {
+   "match": [
+    "bomb"
+   ],
+   "how": "bomb icon"
+  },
+  "camera": {
+   "match": [
+    "camera"
+   ],
+   "how": "camera prop"
+  },
+  "computer": {
+   "match": [
+    "computer",
+    "laptop"
+   ],
+   "how": "computer prop"
+  },
+  "laptop": {
+   "match": [
+    "computer",
+    "laptop"
+   ],
+   "how": "computer prop"
+  },
+  "ladder": {
+   "match": [
+    "ladder"
+   ],
+   "how": "ladder prop"
+  },
+  "shovel": {
+   "match": [
+    "shovel"
+   ],
+   "how": "shovel held"
+  },
+  "cigarette": {
+   "match": [
+    "cigarette",
+    "smoke"
+   ],
+   "how": "cigarette held"
+  },
+  "beer": {
+   "match": [
+    "beer",
+    "wine",
+    "whiskey",
+    "bottle",
+    "glass"
+   ],
+   "how": "drink held / icon"
+  },
+  "wine": {
+   "match": [
+    "beer",
+    "wine",
+    "whiskey",
+    "bottle",
+    "glass"
+   ],
+   "how": "drink held / icon"
+  },
+  "whiskey": {
+   "match": [
+    "beer",
+    "wine",
+    "whiskey",
+    "bottle",
+    "glass"
+   ],
+   "how": "drink held / icon"
+  },
+  "alcohol": {
+   "match": [
+    "beer",
+    "wine",
+    "whiskey",
+    "bottle",
+    "glass"
+   ],
+   "how": "drink held / icon"
+  },
+  "coffin": {
+   "match": [
+    "coffin",
+    "grave",
+    "headstone"
+   ],
+   "how": "coffin/grave prop"
+  },
+  "grave": {
+   "match": [
+    "coffin",
+    "grave",
+    "headstone"
+   ],
+   "how": "coffin/grave prop"
+  },
+  "trophy": {
+   "match": [
+    "trophy",
+    "prize",
+    "medal"
+   ],
+   "how": "trophy icon"
+  },
+  "prize": {
+   "match": [
+    "trophy",
+    "prize",
+    "medal"
+   ],
+   "how": "trophy icon"
+  },
+  "bag": {
+   "match": [
+    "bag",
+    "suitcase",
+    "briefcase",
+    "handbag"
+   ],
+   "how": "bag held"
+  },
+  "suitcase": {
+   "match": [
+    "bag",
+    "suitcase",
+    "briefcase",
+    "handbag"
+   ],
+   "how": "bag held"
+  },
+  "briefcase": {
+   "match": [
+    "bag",
+    "suitcase",
+    "briefcase",
+    "handbag"
+   ],
+   "how": "bag held"
+  },
+  "blood": {
+   "match": [
+    "blood",
+    "drop"
+   ],
+   "how": "blood drop icon / red state"
+  }
+ },
+ "people": [
+  "agent",
+  "agents",
+  "army",
+  "astronaut",
+  "astronauts",
+  "audience",
+  "aunt",
+  "baby",
+  "banker",
+  "bodies",
+  "body",
+  "boss",
+  "boy",
+  "boys",
+  "brother",
+  "burglar",
+  "businessman",
+  "captain",
+  "chef",
+  "chief",
+  "child",
+  "children",
+  "citizens",
+  "clerk",
+  "coach",
+  "convict",
+  "convicts",
+  "cop",
+  "cops",
+  "corpse",
+  "corpses",
+  "crew",
+  "criminal",
+  "criminals",
+  "crowd",
+  "customer",
+  "customers",
+  "dad",
+  "daughter",
+  "dentist",
+  "detective",
+  "detectives",
+  "doctor",
+  "doctors",
+  "driver",
+  "drivers",
+  "emperor",
+  "employee",
+  "employees",
+  "enemies",
+  "enemy",
+  "engineer",
+  "engineers",
+  "explorer",
+  "explorers",
+  "family",
+  "farmer",
+  "farmers",
+  "father",
+  "firefighter",
+  "firefighters",
+  "fisherman",
+  "fishermen",
+  "friend",
+  "friends",
+  "gang",
+  "general",
+  "generals",
+  "girl",
+  "girls",
+  "grandfather",
+  "grandmother",
+  "guard",
+  "guards",
+  "guy",
+  "guys",
+  "hijacker",
+  "homeless",
+  "hostage",
+  "hostages",
+  "hunter",
+  "hunters",
+  "husband",
+  "inmate",
+  "inmates",
+  "inventor",
+  "journalist",
+  "journalists",
+  "judge",
+  "kid",
+  "kids",
+  "king",
+  "knight",
+  "knights",
+  "lawyer",
+  "man",
+  "mayor",
+  "men",
+  "millionaire",
+  "miner",
+  "miners",
+  "mom",
+  "monk",
+  "monks",
+  "mother",
+  "neighbor",
+  "neighbors",
+  "neighbour",
+  "neighbours",
+  "nurse",
+  "nurses",
+  "officer",
+  "officers",
+  "owner",
+  "passenger",
+  "passengers",
+  "patient",
+  "patients",
+  "people",
+  "person",
+  "pharaoh",
+  "pilot",
+  "pirate",
+  "pirates",
+  "player",
+  "players",
+  "police",
+  "policeman",
+  "president",
+  "priest",
+  "prince",
+  "princess",
+  "prisoner",
+  "prisoners",
+  "professor",
+  "psychologist",
+  "psychologists",
+  "queen",
+  "reporter",
+  "reporters",
+  "researcher",
+  "researchers",
+  "residents",
+  "robber",
+  "robbers",
+  "sailor",
+  "sailors",
+  "scientist",
+  "scientists",
+  "servant",
+  "servants",
+  "sheriff",
+  "sister",
+  "soldier",
+  "soldiers",
+  "son",
+  "spies",
+  "spy",
+  "staff",
+  "stranger",
+  "strangers",
+  "student",
+  "students",
+  "sultan",
+  "surgeon",
+  "surgeons",
+  "survivor",
+  "survivors",
+  "teacher",
+  "team",
+  "teenager",
+  "teenagers",
+  "thief",
+  "thieves",
+  "tourist",
+  "tourists",
+  "tribe",
+  "tsar",
+  "twins",
+  "uncle",
+  "villager",
+  "villagers",
+  "volunteer",
+  "volunteers",
+  "waiter",
+  "warden",
+  "warrior",
+  "warriors",
+  "wife",
+  "witch",
+  "witches",
+  "woman",
+  "women",
+  "worker",
+  "workers"
+ ],
+ "generic": [
+  "be",
+  "is",
+  "was",
+  "were",
+  "are",
+  "been",
+  "being",
+  "have",
+  "has",
+  "had",
+  "do",
+  "does",
+  "did",
+  "go",
+  "goes",
+  "went",
+  "gone",
+  "get",
+  "got",
+  "make",
+  "made",
+  "makes",
+  "put",
+  "puts",
+  "take",
+  "took",
+  "use",
+  "used",
+  "decide",
+  "decided",
+  "want",
+  "wanted",
+  "need",
+  "needed",
+  "try",
+  "tried",
+  "start",
+  "started",
+  "begin",
+  "began",
+  "become",
+  "became",
+  "seem",
+  "seemed",
+  "keep",
+  "kept",
+  "let",
+  "come",
+  "came",
+  "turn",
+  "turned",
+  "happen",
+  "happened",
+  "know",
+  "knew",
+  "think",
+  "thought",
+  "feel",
+  "felt",
+  "mean",
+  "meant",
+  "like",
+  "liked",
+  "can",
+  "could",
+  "will",
+  "would",
+  "should",
+  "must",
+  "may",
+  "might",
+  "just",
+  "even",
+  "also",
+  "still",
+  "really",
+  "very",
+  "so",
+  "then",
+  "look",
+  "looked",
+  "looks"
+ ],
+ "irregular": {
+  "ate": "eat",
+  "eaten": "eat",
+  "drank": "drink",
+  "drunk": "drink",
+  "died": "die",
+  "dying": "die",
+  "dead": "die",
+  "gave": "give",
+  "given": "give",
+  "took": "take",
+  "taken": "take",
+  "threw": "throw",
+  "thrown": "throw",
+  "caught": "catch",
+  "ran": "run",
+  "fell": "fall",
+  "fallen": "fall",
+  "fought": "fight",
+  "shot": "shoot",
+  "hid": "hide",
+  "hidden": "hide",
+  "stole": "steal",
+  "stolen": "steal",
+  "wrote": "write",
+  "written": "write",
+  "drove": "drive",
+  "flew": "fly",
+  "rode": "ride",
+  "swam": "swim",
+  "sank": "sink",
+  "sunk": "sink",
+  "slept": "sleep",
+  "woke": "wake",
+  "found": "find",
+  "saw": "see",
+  "seen": "see",
+  "sat": "sit",
+  "stood": "stand",
+  "knelt": "kneel",
+  "paid": "pay",
+  "bought": "buy",
+  "sold": "sell",
+  "built": "build",
+  "dug": "dig",
+  "hung": "hang",
+  "kept": "keep",
+  "led": "lead",
+  "left": "leave",
+  "lit": "light",
+  "met": "meet",
+  "put": "put",
+  "said": "say",
+  "told": "tell",
+  "sang": "sing",
+  "spoke": "speak",
+  "struck": "strike",
+  "won": "win",
+  "lost": "lose",
+  "cut": "cut",
+  "hit": "hit",
+  "began": "begin",
+  "bled": "bleed",
+  "blew": "blow",
+  "broke": "break",
+  "broken": "break",
+  "men": "man",
+  "women": "woman",
+  "children": "child",
+  "people": "person",
+  "knives": "knife",
+  "teeth": "tooth"
+ },
+ "phrases": {
+  "make up": "makeup",
+  "make-up": "makeup",
+  "passed out": "faint",
+  "pass out": "faint",
+  "pick up": "lift",
+  "picked up": "lift",
+  "put on": "dress",
+  "dressed up": "dress",
+  "set fire": "burn",
+  "beat up": "beat",
+  "ran away": "escape",
+  "run away": "escape",
+  "got away": "escape",
+  "took off": "fly",
+  "fell asleep": "sleep",
+  "woke up": "wake",
+  "sat down": "sit",
+  "stood up": "stand",
+  "gave up": "lose",
+  "phone call": "call",
+  "picked": "lift",
+  "rat poison": "poison",
+  "chicken soup": "soup",
+  "dog food": "food",
+  "cat food": "food",
+  "fish oil": "oil",
+  "bird seed": "food",
+  "pig iron": "metal",
+  "horse power": "engine",
+  "chicken coop": "coop",
+  "dog house": "house"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "_doc": "Character rig geometry shared by the After Effects engine (ra_engine.jsx) and the preview renderer (ra_preview.py). Units are rig pixels: a standing character is 1000 units tall from the ground to the top of the head. Origin (0,0) is the ground point between the feet, +x is the direction the character faces, +y is down. Angles: 0 = pointing straight down, +90 = forward (facing side), 180 = up, -90 = backward. Upper limb angles are absolute; lower limb angles are bends added to the upper angle.",
+ "H": 1000,
+ "hip": [
+  0,
+  -465
+ ],
+ "torso_len": 192,
+ "torso_w": 152,
+ "limb_w": 70,
+ "shoulder_down": -35,
+ "arm_u": 140,
+ "arm_l": 131,
+ "leg_u": 215,
+ "leg_l": 215,
+ "head_d": 240,
+ "head_lift": 227,
+ "comp_w": 1600,
+ "comp_h": 1400,
+ "origin": [
+  800,
+  1250
+ ],
+ "joint_tangent": 0.36,
+ "face": {
+  "gaze": 0.11,
+  "gaze_y": 0.0,
+  "gaze_max": 0.17,
+  "mouth_follow": 0.6,
+  "mouth_follow_y": 0.3,
+  "ink": "#141414",
+  "_doc": "gaze = default horizontal eye shift toward the facing side in head diameters (the reference faces are drawn front-on with the eyes pushed 0.10-0.15 toward where the character looks); gaze_y shifts them down (+) or up (-)."
+ },
+ "procedural": {
+  "walk": {
+   "leg_amp": 28,
+   "knee": [
+    8,
+    38
+   ],
+   "arm_amp": 24,
+   "elbow": 14,
+   "bob": 10,
+   "lean": 3
+  },
+  "run": {
+   "leg_amp": 46,
+   "knee": [
+    22,
+    72
+   ],
+   "arm_amp": 52,
+   "elbow": 78,
+   "bob": 20,
+   "lean": 14
+  },
+  "idle": {
+   "arm_amp": 3.0,
+   "freq": 0.45,
+   "breath": 4
+  },
+  "talk_rate": 7.5,
+  "blink_period": [
+   2.6,
+   4.4
+  ],
+  "blink_frames": 3
+ },
+ "look": {
+  "outline_px": 3,
+  "outline_color": "#121212",
+  "bevel": 0.0,
+  "bevel_thickness": 14,
+  "glow_default": 0.0,
+  "glow_radius": 34,
+  "shadow_opacity": 0.38,
+  "limb_contour": 0.0,
+  "head_contour": 0.6,
+  "leg_contour": 0.0,
+  "outline_shade": 0.42,
+  "_outline_doc": "outline: a thin line in a darker shade of the body colour (cast.outline overrides; shade = body * outline_shade), outline_px in rig units (px at character height 1000, scales with the figure)",
+  "shade": {
+   "edge": 0.64,
+   "sigma": 0.075,
+   "choke": 0.025,
+   "head_sigma": 0.07,
+   "head_choke": 0.02,
+   "_doc": "soft clay shading measured from the references: every body part (limbs, torso, skull) is its own soft tube - a flat body-colour core that rolls off to a darker edge (edge x body colour) over about a quarter of its width; no emboss/bevel highlight. sigma/choke are fractions of the part's width (blur and inset of the core).",
+   "head_edge": 0.72
+  },
+  "_shade_measured": "reference torso profile from the edge inward (fraction of width -> brightness): 2% 0.73, 8% 0.86, 15% 0.98, then flat",
+  "armhole_cap": 0.55,
+  "_armhole_doc": "v2.3: the torso garment is drawn again over the top end of every arm in front of the body, inside a disc of armhole_cap x arm width around the shoulder, so arms come out from under the clothes at the shoulder instead of lying on the fabric (ra_rig.py and the AE engine: ACC_<i>_CAP + ACC_<i>_ARMHOLES). 0 turns it off."
+ },
+ "hip_spread": 0.22,
+ "shoulder_spread": 0.36,
+ "_turn_doc": "turn (pose/slider 0-1): 1 = front view, 0 = three-quarter view facing +x. Turning, the torso and its clothing narrow (x scale 1 - torso_turn*(1-turn)) and shift towards the facing side (torso_turn_shift x torso width), the shoulders follow the turned body (spread x (shoulder_side + (1-shoulder_side) x turn)) and the depth flips: in a three-quarter view (turn < 0.5) the camera-side arm (aF) is in front of the chest and the other one (aN) comes from behind the chest's front edge. Front views draw both arms beside the body (the far arm in front when it stays on its own side, or when fFront is 1).",
+ "face_colors": {
+  "poison": "#8B3A8C",
+  "angry": "#E2453B",
+  "sick": "#8DBA4E",
+  "cold": "#9CC8F2",
+  "pale": "#ECE6D6",
+  "blush": "#F2788A",
+  "dark": "#2A2A30"
+ },
+ "face_color_amount": 0.82,
+ "arm_w": 62,
+ "_proportions_doc": "Measured from the reference videos (standing figure, head top to feet = 1000): head 240 across (0.24 H); a clear GAP of ~0.13 head diameters between the bottom of the head and the top of the body (no neck, the head floats); torso top at 0.73 H, torso about 0.63 head diameters wide (152), bottom of the torso at ~0.39 H where the legs split; arms attach at the top corners of the torso (the joint sits just under the top line of the body or of its garment, per character: cast_arms), are a little thinner than the legs (62 vs 70) and hang to the hips (hand ends at ~0.39 H): upper arm 140, forearm 131; legs 430 + round feet. Head pieces (hair, hats, helmets) hug the skull: hats ~1.05-1.2 head widths (brimmed hats up to ~1.5), beards no wider than the head.",
+ "shoulder_side": 0.72,
+ "_shoulder_doc": "Arms always start at the outer top corners of the body (the samples): shoulder_spread x torso width for a bare body, or the measured shoulder edge of the torso garment minus 0.42 arm widths (so the arm comes out of the armhole). In a three-quarter view the shoulders follow the narrower turned body (shoulder_side 0.72), never onto the chest. Height: shoulder_down per character (negative = above the neck point) - the arm's top edge sits just under a garment's shoulder line (jackets, coats, uniforms wider than the body) or at the bare torso's top corner, never above the body's top line; -35 is the default for a typical jacket.",
+ "torso_turn": 0.22,
+ "torso_turn_shift": 0.06
+}
