@@ -1,0 +1,66 @@
+{
+  "title": "04 - Quanto Tempo Resta",
+  "aspect": "16:9",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 510.0,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0.25,
+  "fadeOut": 0.9,
+  "fast3D": true,
+  "loudness": -16,
+  "music": {
+    "enabled": true
+  },
+  "sfx": {
+    "enabled": true
+  },
+  "qaTimes": [
+    2,
+    18,
+    46,
+    75,
+    119,
+    162,
+    192,
+    225,
+    250,
+    280,
+    310,
+    325,
+    345,
+    390,
+    430,
+    500
+  ],
+  "qaStills": [
+    [
+      "cta-45s",
+      46
+    ],
+    [
+      "cta-intermediario",
+      250
+    ],
+    [
+      "cta-final",
+      500
+    ],
+    [
+      "entrega-cafe",
+      5
+    ],
+    [
+      "apoio-banco",
+      430
+    ],
+    [
+      "interacao-estante",
+      325
+    ]
+  ]
+}

@@ -1,0 +1,3046 @@
+{
+  "title": "E se você pudesse ver quanto tempo resta?",
+  "duration": 510.0,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 2.94536,
+      "line": "Dona Sol sorri e oferece um café. Acima da cabeça dela, você enxerga oito minutos e doze segundos. Olha outra vez para o número. Ele diminuiu. O pior é que ninguém mais parece estar vendo aquilo.",
+      "scene": "library: hook, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 0,
+        "part": 0,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s002",
+      "start": 2.94536,
+      "end": 5.48908,
+      "line": "Dona Sol sorri e oferece um café. Acima da cabeça dela, você enxerga oito minutos e doze segundos. Olha outra vez para o número. Ele diminuiu. O pior é que ninguém mais parece estar vendo aquilo.",
+      "scene": "library: hook, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 0,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s003",
+      "start": 5.48908,
+      "end": 7.89892,
+      "line": "Dona Sol sorri e oferece um café. Acima da cabeça dela, você enxerga oito minutos e doze segundos. Olha outra vez para o número. Ele diminuiu. O pior é que ninguém mais parece estar vendo aquilo.",
+      "scene": "library: hook, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 0,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s004",
+      "start": 7.89892,
+      "end": 10.44265,
+      "line": "Dona Sol sorri e oferece um café. Acima da cabeça dela, você enxerga oito minutos e doze segundos. Olha outra vez para o número. Ele diminuiu. O pior é que ninguém mais parece estar vendo aquilo.",
+      "scene": "library: hook, over; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 0,
+        "part": 3,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s005",
+      "start": 10.44265,
+      "end": 13.38801,
+      "line": "Dona Sol sorri e oferece um café. Acima da cabeça dela, você enxerga oito minutos e doze segundos. Olha outra vez para o número. Ele diminuiu. O pior é que ninguém mais parece estar vendo aquilo.",
+      "scene": "library: hook, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 0,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s006",
+      "start": 13.38801,
+      "end": 15.66761,
+      "line": "Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal. ",
+      "scene": "street: reveal, wide; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 1,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s007",
+      "start": 15.66761,
+      "end": 17.63636,
+      "line": "Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal. ",
+      "scene": "street: reveal, detail; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 1,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s008",
+      "start": 17.63636,
+      "end": 19.5015,
+      "line": "Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal. ",
+      "scene": "street: reveal, two; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 1,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s009",
+      "start": 19.5015,
+      "end": 21.47025,
+      "line": "Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal. ",
+      "scene": "street: reveal, close; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 1,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s010",
+      "start": 21.47025,
+      "end": 23.74986,
+      "line": "Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal. ",
+      "scene": "street: reveal, reverse; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 1,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s011",
+      "start": 23.74986,
+      "end": 26.01469,
+      "line": "Ele procura o próprio número no espelho. Nada. Continua nada. Nico consegue espiar o tempo dos outros, mas não recebeu o manual nem a informação que mais queria.",
+      "scene": "home: mirror, wide; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 2,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s012",
+      "start": 26.01469,
+      "end": 27.97068,
+      "line": "Ele procura o próprio número no espelho. Nada. Continua nada. Nico consegue espiar o tempo dos outros, mas não recebeu o manual nem a informação que mais queria.",
+      "scene": "home: mirror, detail; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 2,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s013",
+      "start": 27.97068,
+      "end": 29.82372,
+      "line": "Ele procura o próprio número no espelho. Nada. Continua nada. Nico consegue espiar o tempo dos outros, mas não recebeu o manual nem a informação que mais queria.",
+      "scene": "home: mirror, close; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 2,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s014",
+      "start": 29.82372,
+      "end": 31.77971,
+      "line": "Ele procura o próprio número no espelho. Nada. Continua nada. Nico consegue espiar o tempo dos outros, mas não recebeu o manual nem a informação que mais queria.",
+      "scene": "home: mirror, side; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 2,
+        "part": 3,
+        "cam": "side"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s015",
+      "start": 31.77971,
+      "end": 34.04454,
+      "line": "Ele procura o próprio número no espelho. Nada. Continua nada. Nico consegue espiar o tempo dos outros, mas não recebeu o manual nem a informação que mais queria.",
+      "scene": "home: mirror, close; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 2,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s016",
+      "start": 34.04454,
+      "end": 37.50639,
+      "line": "Antes de sair fazendo perguntas constrangedoras, ele pega um caderno. A regra desta história é imaginária. Não é um diagnóstico, nem uma maneira real de prever a morte. É um poder impossível colocado no caminho de uma pessoa comum.",
+      "scene": "home: notes, wide; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 3,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s017",
+      "start": 37.50639,
+      "end": 40.49615,
+      "line": "Antes de sair fazendo perguntas constrangedoras, ele pega um caderno. A regra desta história é imaginária. Não é um diagnóstico, nem uma maneira real de prever a morte. É um poder impossível colocado no caminho de uma pessoa comum.",
+      "scene": "home: notes, detail; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 3,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s018",
+      "start": 40.49615,
+      "end": 43.32857,
+      "line": "Antes de sair fazendo perguntas constrangedoras, ele pega um caderno. A regra desta história é imaginária. Não é um diagnóstico, nem uma maneira real de prever a morte. É um poder impossível colocado no caminho de uma pessoa comum.",
+      "scene": "home: notes, over; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 3,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s019",
+      "start": 43.32857,
+      "end": 46.31834,
+      "line": "Antes de sair fazendo perguntas constrangedoras, ele pega um caderno. A regra desta história é imaginária. Não é um diagnóstico, nem uma maneira real de prever a morte. É um poder impossível colocado no caminho de uma pessoa comum.",
+      "scene": "home: notes, close; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 3,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s020",
+      "start": 46.31834,
+      "end": 49.78017,
+      "line": "Antes de sair fazendo perguntas constrangedoras, ele pega um caderno. A regra desta história é imaginária. Não é um diagnóstico, nem uma maneira real de prever a morte. É um poder impossível colocado no caminho de uma pessoa comum.",
+      "scene": "home: notes, detail; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 3,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s021",
+      "start": 49.78017,
+      "end": 53.25527,
+      "line": "Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor. ",
+      "scene": "street: oldman, wide; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 4,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s022",
+      "start": 53.25527,
+      "end": 56.2565,
+      "line": "Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor. ",
+      "scene": "street: oldman, track; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 4,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s023",
+      "start": 56.2565,
+      "end": 59.09976,
+      "line": "Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor. ",
+      "scene": "street: oldman, two; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 4,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s024",
+      "start": 59.09976,
+      "end": 62.10099,
+      "line": "Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor. ",
+      "scene": "street: oldman, close; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 4,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s025",
+      "start": 62.10099,
+      "end": 65.5761,
+      "line": "Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor. ",
+      "scene": "street: oldman, track; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 4,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s026",
+      "start": 65.5761,
+      "end": 69.45467,
+      "line": "No café, uma bandeja escorrega. Nico segura a xícara antes de ela atingir o chão. Ele procura uma mudança nos contadores, como se esperasse uma pontuação de videogame. Dona Sol agradece pelo café salvo. Por um instante, isso parece uma medida muito melhor do que os dígitos.",
+      "scene": "cafe: cup, wide; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 5,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s027",
+      "start": 69.45467,
+      "end": 72.80434,
+      "line": "No café, uma bandeja escorrega. Nico segura a xícara antes de ela atingir o chão. Ele procura uma mudança nos contadores, como se esperasse uma pontuação de videogame. Dona Sol agradece pelo café salvo. Por um instante, isso parece uma medida muito melhor do que os dígitos.",
+      "scene": "cafe: cup, detail; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 5,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s028",
+      "start": 72.80434,
+      "end": 75.97773,
+      "line": "No café, uma bandeja escorrega. Nico segura a xícara antes de ela atingir o chão. Ele procura uma mudança nos contadores, como se esperasse uma pontuação de videogame. Dona Sol agradece pelo café salvo. Por um instante, isso parece uma medida muito melhor do que os dígitos.",
+      "scene": "cafe: cup, side; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 5,
+        "part": 2,
+        "cam": "side"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s029",
+      "start": 75.97773,
+      "end": 79.3274,
+      "line": "No café, uma bandeja escorrega. Nico segura a xícara antes de ela atingir o chão. Ele procura uma mudança nos contadores, como se esperasse uma pontuação de videogame. Dona Sol agradece pelo café salvo. Por um instante, isso parece uma medida muito melhor do que os dígitos.",
+      "scene": "cafe: cup, close; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 5,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s030",
+      "start": 79.3274,
+      "end": 83.20597,
+      "line": "No café, uma bandeja escorrega. Nico segura a xícara antes de ela atingir o chão. Ele procura uma mudança nos contadores, como se esperasse uma pontuação de videogame. Dona Sol agradece pelo café salvo. Por um instante, isso parece uma medida muito melhor do que os dígitos.",
+      "scene": "cafe: cup, two; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 5,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s031",
+      "start": 83.20597,
+      "end": 85.83977,
+      "line": "Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz. ",
+      "scene": "cafe: meeting, wide; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 6,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s032",
+      "start": 85.83977,
+      "end": 88.1144,
+      "line": "Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz. ",
+      "scene": "cafe: meeting, track; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 6,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s033",
+      "start": 88.1144,
+      "end": 90.26932,
+      "line": "Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz. ",
+      "scene": "cafe: meeting, two; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 6,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s034",
+      "start": 90.26932,
+      "end": 92.54395,
+      "line": "Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz. ",
+      "scene": "cafe: meeting, close; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 6,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s035",
+      "start": 92.54395,
+      "end": 95.17775,
+      "line": "Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz. ",
+      "scene": "cafe: meeting, detail; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 6,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s036",
+      "start": 95.17775,
+      "end": 98.54288,
+      "line": "Nico conta o que está acontecendo. Lia não vê os números, mas vê o amigo assustado. Pede que ele descreva o que sabe e separe isso do que está supondo. Ter uma informação estranha não torna toda interpretação automaticamente correta.",
+      "scene": "cafe: confide, two; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 7,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s037",
+      "start": 98.54288,
+      "end": 101.44913,
+      "line": "Nico conta o que está acontecendo. Lia não vê os números, mas vê o amigo assustado. Pede que ele descreva o que sabe e separe isso do que está supondo. Ter uma informação estranha não torna toda interpretação automaticamente correta.",
+      "scene": "cafe: confide, close; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 7,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s038",
+      "start": 101.44913,
+      "end": 104.20243,
+      "line": "Nico conta o que está acontecendo. Lia não vê os números, mas vê o amigo assustado. Pede que ele descreva o que sabe e separe isso do que está supondo. Ter uma informação estranha não torna toda interpretação automaticamente correta.",
+      "scene": "cafe: confide, reverse; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 7,
+        "part": 2,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s039",
+      "start": 104.20243,
+      "end": 107.10869,
+      "line": "Nico conta o que está acontecendo. Lia não vê os números, mas vê o amigo assustado. Pede que ele descreva o que sabe e separe isso do que está supondo. Ter uma informação estranha não torna toda interpretação automaticamente correta.",
+      "scene": "cafe: confide, detail; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 7,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s040",
+      "start": 107.10869,
+      "end": 110.47383,
+      "line": "Nico conta o que está acontecendo. Lia não vê os números, mas vê o amigo assustado. Pede que ele descreva o que sabe e separe isso do que está supondo. Ter uma informação estranha não torna toda interpretação automaticamente correta.",
+      "scene": "cafe: confide, two; interação física contínua e reação visível",
+      "set": "cafe",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 7,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s041",
+      "start": 110.47383,
+      "end": 114.24343,
+      "line": "À tarde, os dois ajudam a preparar uma noite de leitura na biblioteca do bairro. Dona Sol organiza os livros; Gui escolhe uma história; o carrinho atravessa a sala com uma roda reclamando. Até ele erguer os olhos e encontrar aquela contagem curta acima de Dona Sol.",
+      "scene": "library: arrival, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 8,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s042",
+      "start": 114.24343,
+      "end": 117.49901,
+      "line": "À tarde, os dois ajudam a preparar uma noite de leitura na biblioteca do bairro. Dona Sol organiza os livros; Gui escolhe uma história; o carrinho atravessa a sala com uma roda reclamando. Até ele erguer os olhos e encontrar aquela contagem curta acima de Dona Sol.",
+      "scene": "library: arrival, track; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 8,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s043",
+      "start": 117.49901,
+      "end": 120.58324,
+      "line": "À tarde, os dois ajudam a preparar uma noite de leitura na biblioteca do bairro. Dona Sol organiza os livros; Gui escolhe uma história; o carrinho atravessa a sala com uma roda reclamando. Até ele erguer os olhos e encontrar aquela contagem curta acima de Dona Sol.",
+      "scene": "library: arrival, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 8,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s044",
+      "start": 120.58324,
+      "end": 123.83882,
+      "line": "À tarde, os dois ajudam a preparar uma noite de leitura na biblioteca do bairro. Dona Sol organiza os livros; Gui escolhe uma história; o carrinho atravessa a sala com uma roda reclamando. Até ele erguer os olhos e encontrar aquela contagem curta acima de Dona Sol.",
+      "scene": "library: arrival, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 8,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s045",
+      "start": 123.83882,
+      "end": 127.60842,
+      "line": "À tarde, os dois ajudam a preparar uma noite de leitura na biblioteca do bairro. Dona Sol organiza os livros; Gui escolhe uma história; o carrinho atravessa a sala com uma roda reclamando. Até ele erguer os olhos e encontrar aquela contagem curta acima de Dona Sol.",
+      "scene": "library: arrival, over; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 8,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s046",
+      "start": 127.60842,
+      "end": 130.76592,
+      "line": "Oito minutos e doze segundos. Ela oferece café, pergunta onde estão os marcadores e segue trabalhando. Nico sente vontade de arrancá-la dali imediatamente. Mas puxar alguém pelo braço sem explicar nada criaria outro problema. Ele respira, aceita a xícara e chama Lia para conversar.",
+      "scene": "library: warning, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 9,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s047",
+      "start": 130.76592,
+      "end": 133.49285,
+      "line": "Oito minutos e doze segundos. Ela oferece café, pergunta onde estão os marcadores e segue trabalhando. Nico sente vontade de arrancá-la dali imediatamente. Mas puxar alguém pelo braço sem explicar nada criaria outro problema. Ele respira, aceita a xícara e chama Lia para conversar.",
+      "scene": "library: warning, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 9,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s048",
+      "start": 133.49285,
+      "end": 136.07626,
+      "line": "Oito minutos e doze segundos. Ela oferece café, pergunta onde estão os marcadores e segue trabalhando. Nico sente vontade de arrancá-la dali imediatamente. Mas puxar alguém pelo braço sem explicar nada criaria outro problema. Ele respira, aceita a xícara e chama Lia para conversar.",
+      "scene": "library: warning, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 9,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s049",
+      "start": 136.07626,
+      "end": 138.80319,
+      "line": "Oito minutos e doze segundos. Ela oferece café, pergunta onde estão os marcadores e segue trabalhando. Nico sente vontade de arrancá-la dali imediatamente. Mas puxar alguém pelo braço sem explicar nada criaria outro problema. Ele respira, aceita a xícara e chama Lia para conversar.",
+      "scene": "library: warning, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 9,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s050",
+      "start": 138.80319,
+      "end": 141.96068,
+      "line": "Oito minutos e doze segundos. Ela oferece café, pergunta onde estão os marcadores e segue trabalhando. Nico sente vontade de arrancá-la dali imediatamente. Mas puxar alguém pelo braço sem explicar nada criaria outro problema. Ele respira, aceita a xícara e chama Lia para conversar.",
+      "scene": "library: warning, reverse; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 9,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s051",
+      "start": 141.96068,
+      "end": 145.33608,
+      "line": "Eles olham a sala com atenção. Uma caixa está alta demais. Uma roda do carrinho trava perto da porta. No fundo, uma estante antiga ficou inclinada depois da mudança dos móveis. Esses obstáculos tornam o caminho apertado e deixam pouca margem para um erro.",
+      "scene": "library: look, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 10,
+        "part": 0,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s052",
+      "start": 145.33608,
+      "end": 148.2512,
+      "line": "Eles olham a sala com atenção. Uma caixa está alta demais. Uma roda do carrinho trava perto da porta. No fundo, uma estante antiga ficou inclinada depois da mudança dos móveis. Esses obstáculos tornam o caminho apertado e deixam pouca margem para um erro.",
+      "scene": "library: look, side; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 10,
+        "part": 1,
+        "cam": "side"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s053",
+      "start": 148.2512,
+      "end": 151.0129,
+      "line": "Eles olham a sala com atenção. Uma caixa está alta demais. Uma roda do carrinho trava perto da porta. No fundo, uma estante antiga ficou inclinada depois da mudança dos móveis. Esses obstáculos tornam o caminho apertado e deixam pouca margem para um erro.",
+      "scene": "library: look, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 10,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s054",
+      "start": 151.0129,
+      "end": 153.92802,
+      "line": "Eles olham a sala com atenção. Uma caixa está alta demais. Uma roda do carrinho trava perto da porta. No fundo, uma estante antiga ficou inclinada depois da mudança dos móveis. Esses obstáculos tornam o caminho apertado e deixam pouca margem para um erro.",
+      "scene": "library: look, over; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 10,
+        "part": 3,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s055",
+      "start": 153.92802,
+      "end": 157.30342,
+      "line": "Eles olham a sala com atenção. Uma caixa está alta demais. Uma roda do carrinho trava perto da porta. No fundo, uma estante antiga ficou inclinada depois da mudança dos móveis. Esses obstáculos tornam o caminho apertado e deixam pouca margem para um erro.",
+      "scene": "library: look, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 10,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s056",
+      "start": 157.30342,
+      "end": 161.14846,
+      "line": "Nico começa pelo que consegue fazer com calma: recolhe os livros do chão e libera uma faixa de passagem. Lia avisa Dona Sol sobre a estante e pede que ninguém use aquele canto. O contador ganha alguns segundos. Ela faz um gesto: primeiro terminem a tarefa, depois discutam o mistério.",
+      "scene": "library: firsthelp, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 11,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s057",
+      "start": 161.14846,
+      "end": 164.46917,
+      "line": "Nico começa pelo que consegue fazer com calma: recolhe os livros do chão e libera uma faixa de passagem. Lia avisa Dona Sol sobre a estante e pede que ninguém use aquele canto. O contador ganha alguns segundos. Ela faz um gesto: primeiro terminem a tarefa, depois discutam o mistério.",
+      "scene": "library: firsthelp, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 11,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s058",
+      "start": 164.46917,
+      "end": 167.61511,
+      "line": "Nico começa pelo que consegue fazer com calma: recolhe os livros do chão e libera uma faixa de passagem. Lia avisa Dona Sol sobre a estante e pede que ninguém use aquele canto. O contador ganha alguns segundos. Ela faz um gesto: primeiro terminem a tarefa, depois discutam o mistério.",
+      "scene": "library: firsthelp, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 11,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s059",
+      "start": 167.61511,
+      "end": 170.93582,
+      "line": "Nico começa pelo que consegue fazer com calma: recolhe os livros do chão e libera uma faixa de passagem. Lia avisa Dona Sol sobre a estante e pede que ninguém use aquele canto. O contador ganha alguns segundos. Ela faz um gesto: primeiro terminem a tarefa, depois discutam o mistério.",
+      "scene": "library: firsthelp, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 11,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s060",
+      "start": 170.93582,
+      "end": 174.78085,
+      "line": "Nico começa pelo que consegue fazer com calma: recolhe os livros do chão e libera uma faixa de passagem. Lia avisa Dona Sol sobre a estante e pede que ninguém use aquele canto. O contador ganha alguns segundos. Ela faz um gesto: primeiro terminem a tarefa, depois discutam o mistério.",
+      "scene": "library: firsthelp, reverse; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 11,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s061",
+      "start": 174.78085,
+      "end": 178.07177,
+      "line": "Talvez tenham mudado alguma coisa. Talvez ele tenha entendido o visor errado. Nico precisa escolher como agir mesmo sem uma resposta completa. Pela primeira vez, deixa de procurar a solução mágica e pergunta simplesmente de que ajuda Dona Sol precisa.",
+      "scene": "library: wrong, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 12,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s062",
+      "start": 178.07177,
+      "end": 180.91392,
+      "line": "Talvez tenham mudado alguma coisa. Talvez ele tenha entendido o visor errado. Nico precisa escolher como agir mesmo sem uma resposta completa. Pela primeira vez, deixa de procurar a solução mágica e pergunta simplesmente de que ajuda Dona Sol precisa.",
+      "scene": "library: wrong, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 12,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s063",
+      "start": 180.91392,
+      "end": 183.60649,
+      "line": "Talvez tenham mudado alguma coisa. Talvez ele tenha entendido o visor errado. Nico precisa escolher como agir mesmo sem uma resposta completa. Pela primeira vez, deixa de procurar a solução mágica e pergunta simplesmente de que ajuda Dona Sol precisa.",
+      "scene": "library: wrong, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 12,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s064",
+      "start": 183.60649,
+      "end": 186.44864,
+      "line": "Talvez tenham mudado alguma coisa. Talvez ele tenha entendido o visor errado. Nico precisa escolher como agir mesmo sem uma resposta completa. Pela primeira vez, deixa de procurar a solução mágica e pergunta simplesmente de que ajuda Dona Sol precisa.",
+      "scene": "library: wrong, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 12,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s065",
+      "start": 186.44864,
+      "end": 189.73955,
+      "line": "Talvez tenham mudado alguma coisa. Talvez ele tenha entendido o visor errado. Nico precisa escolher como agir mesmo sem uma resposta completa. Pela primeira vez, deixa de procurar a solução mágica e pergunta simplesmente de que ajuda Dona Sol precisa.",
+      "scene": "library: wrong, reverse; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 12,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s066",
+      "start": 189.73955,
+      "end": 191.85372,
+      "line": "Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante. ",
+      "scene": "library: map, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 13,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s067",
+      "start": 191.85372,
+      "end": 193.67958,
+      "line": "Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante. ",
+      "scene": "library: map, over; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 13,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s068",
+      "start": 193.67958,
+      "end": 195.40935,
+      "line": "Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante. ",
+      "scene": "library: map, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 13,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s069",
+      "start": 195.40935,
+      "end": 197.23521,
+      "line": "Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante. ",
+      "scene": "library: map, over; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 13,
+        "part": 3,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s070",
+      "start": 197.23521,
+      "end": 199.34938,
+      "line": "Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante. ",
+      "scene": "library: map, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 13,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s071",
+      "start": 199.34938,
+      "end": 203.29211,
+      "line": "O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil. ",
+      "scene": "library: cart, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 14,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s072",
+      "start": 203.29211,
+      "end": 206.69719,
+      "line": "O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil. ",
+      "scene": "library: cart, feet; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 14,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s073",
+      "start": 206.69719,
+      "end": 209.92307,
+      "line": "O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil. ",
+      "scene": "library: cart, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 14,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s074",
+      "start": 209.92307,
+      "end": 213.32815,
+      "line": "O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil. ",
+      "scene": "library: cart, track; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 14,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s075",
+      "start": 213.32815,
+      "end": 217.27088,
+      "line": "O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil. ",
+      "scene": "library: cart, two; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 14,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s076",
+      "start": 217.27088,
+      "end": 220.1337,
+      "line": "Esperando a avaliação, Gui oferece um relógio de brinquedo a Nico. Nico ri pela primeira vez naquela tarde. Guarda o presente no bolso. O contador não muda por causa disso. O jeito como ele está atravessando aqueles minutos, sim.",
+      "scene": "reading: joke, wide; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 15,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s077",
+      "start": 220.1337,
+      "end": 222.60614,
+      "line": "Esperando a avaliação, Gui oferece um relógio de brinquedo a Nico. Nico ri pela primeira vez naquela tarde. Guarda o presente no bolso. O contador não muda por causa disso. O jeito como ele está atravessando aqueles minutos, sim.",
+      "scene": "reading: joke, detail; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 15,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s078",
+      "start": 222.60614,
+      "end": 224.94845,
+      "line": "Esperando a avaliação, Gui oferece um relógio de brinquedo a Nico. Nico ri pela primeira vez naquela tarde. Guarda o presente no bolso. O contador não muda por causa disso. O jeito como ele está atravessando aqueles minutos, sim.",
+      "scene": "reading: joke, two; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 15,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s079",
+      "start": 224.94845,
+      "end": 227.42089,
+      "line": "Esperando a avaliação, Gui oferece um relógio de brinquedo a Nico. Nico ri pela primeira vez naquela tarde. Guarda o presente no bolso. O contador não muda por causa disso. O jeito como ele está atravessando aqueles minutos, sim.",
+      "scene": "reading: joke, close; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 15,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s080",
+      "start": 227.42089,
+      "end": 230.28372,
+      "line": "Esperando a avaliação, Gui oferece um relógio de brinquedo a Nico. Nico ri pela primeira vez naquela tarde. Guarda o presente no bolso. O contador não muda por causa disso. O jeito como ele está atravessando aqueles minutos, sim.",
+      "scene": "reading: joke, reverse; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 15,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s081",
+      "start": 230.28372,
+      "end": 234.51107,
+      "line": "A chuva aperta do lado de fora. As janelas recebem riscos brilhantes, as cortinas se mexem e a luz do fim do dia desaparece depressa. Lia acende uma lanterna. O feixe encontra os marcadores que faltavam debaixo da mesa. Por alguns segundos, a tarefa é apenas recuperar objetos e fazer Gui dar risada com as sombras.",
+      "scene": "reading: rain, wide; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 16,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s082",
+      "start": 234.51107,
+      "end": 238.16196,
+      "line": "A chuva aperta do lado de fora. As janelas recebem riscos brilhantes, as cortinas se mexem e a luz do fim do dia desaparece depressa. Lia acende uma lanterna. O feixe encontra os marcadores que faltavam debaixo da mesa. Por alguns segundos, a tarefa é apenas recuperar objetos e fazer Gui dar risada com as sombras.",
+      "scene": "reading: rain, window; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 16,
+        "part": 1,
+        "cam": "window"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s083",
+      "start": 238.16196,
+      "end": 241.62071,
+      "line": "A chuva aperta do lado de fora. As janelas recebem riscos brilhantes, as cortinas se mexem e a luz do fim do dia desaparece depressa. Lia acende uma lanterna. O feixe encontra os marcadores que faltavam debaixo da mesa. Por alguns segundos, a tarefa é apenas recuperar objetos e fazer Gui dar risada com as sombras.",
+      "scene": "reading: rain, detail; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 16,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s084",
+      "start": 241.62071,
+      "end": 245.2716,
+      "line": "A chuva aperta do lado de fora. As janelas recebem riscos brilhantes, as cortinas se mexem e a luz do fim do dia desaparece depressa. Lia acende uma lanterna. O feixe encontra os marcadores que faltavam debaixo da mesa. Por alguns segundos, a tarefa é apenas recuperar objetos e fazer Gui dar risada com as sombras.",
+      "scene": "reading: rain, two; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 16,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s085",
+      "start": 245.2716,
+      "end": 249.49895,
+      "line": "A chuva aperta do lado de fora. As janelas recebem riscos brilhantes, as cortinas se mexem e a luz do fim do dia desaparece depressa. Lia acende uma lanterna. O feixe encontra os marcadores que faltavam debaixo da mesa. Por alguns segundos, a tarefa é apenas recuperar objetos e fazer Gui dar risada com as sombras.",
+      "scene": "reading: rain, close; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 16,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s086",
+      "start": 249.49895,
+      "end": 253.71191,
+      "line": "Então a iluminação principal apaga. A luz de emergência continua acesa perto da saída. Eles suspendem a atividade e reúnem o grupo na parte livre da sala. Nico vê os dígitos de Dona Sol diminuírem. Ter um alerta na cabeça não ajuda se ele espalhar o próprio medo pelo ambiente.",
+      "scene": "reading: blackout, wide; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 17,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s087",
+      "start": 253.71191,
+      "end": 257.35038,
+      "line": "Então a iluminação principal apaga. A luz de emergência continua acesa perto da saída. Eles suspendem a atividade e reúnem o grupo na parte livre da sala. Nico vê os dígitos de Dona Sol diminuírem. Ter um alerta na cabeça não ajuda se ele espalhar o próprio medo pelo ambiente.",
+      "scene": "reading: blackout, detail; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 17,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s088",
+      "start": 257.35038,
+      "end": 260.79735,
+      "line": "Então a iluminação principal apaga. A luz de emergência continua acesa perto da saída. Eles suspendem a atividade e reúnem o grupo na parte livre da sala. Nico vê os dígitos de Dona Sol diminuírem. Ter um alerta na cabeça não ajuda se ele espalhar o próprio medo pelo ambiente.",
+      "scene": "reading: blackout, reverse; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 17,
+        "part": 2,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s089",
+      "start": 260.79735,
+      "end": 264.43582,
+      "line": "Então a iluminação principal apaga. A luz de emergência continua acesa perto da saída. Eles suspendem a atividade e reúnem o grupo na parte livre da sala. Nico vê os dígitos de Dona Sol diminuírem. Ter um alerta na cabeça não ajuda se ele espalhar o próprio medo pelo ambiente.",
+      "scene": "reading: blackout, two; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 17,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s090",
+      "start": 264.43582,
+      "end": 268.64879,
+      "line": "Então a iluminação principal apaga. A luz de emergência continua acesa perto da saída. Eles suspendem a atividade e reúnem o grupo na parte livre da sala. Nico vê os dígitos de Dona Sol diminuírem. Ter um alerta na cabeça não ajuda se ele espalhar o próprio medo pelo ambiente.",
+      "scene": "reading: blackout, close; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 17,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s091",
+      "start": 268.64879,
+      "end": 272.85385,
+      "line": "Lia segue à frente com a lanterna. Dona Sol acompanha Gui, e Nico confere se ninguém ficou para trás. O corredor parece diferente com a luz baixa. Uma cadeira fora do lugar vira um obstáculo grande. Ele a afasta, aponta o caminho e mantém a voz tranquila. Agora a ajuda tem uma direção concreta.",
+      "scene": "corridor: lead, wide; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 18,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s092",
+      "start": 272.85385,
+      "end": 276.48551,
+      "line": "Lia segue à frente com a lanterna. Dona Sol acompanha Gui, e Nico confere se ninguém ficou para trás. O corredor parece diferente com a luz baixa. Uma cadeira fora do lugar vira um obstáculo grande. Ele a afasta, aponta o caminho e mantém a voz tranquila. Agora a ajuda tem uma direção concreta.",
+      "scene": "corridor: lead, track; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 18,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s093",
+      "start": 276.48551,
+      "end": 279.92603,
+      "line": "Lia segue à frente com a lanterna. Dona Sol acompanha Gui, e Nico confere se ninguém ficou para trás. O corredor parece diferente com a luz baixa. Uma cadeira fora do lugar vira um obstáculo grande. Ele a afasta, aponta o caminho e mantém a voz tranquila. Agora a ajuda tem uma direção concreta.",
+      "scene": "corridor: lead, feet; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 18,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s094",
+      "start": 279.92603,
+      "end": 283.55768,
+      "line": "Lia segue à frente com a lanterna. Dona Sol acompanha Gui, e Nico confere se ninguém ficou para trás. O corredor parece diferente com a luz baixa. Uma cadeira fora do lugar vira um obstáculo grande. Ele a afasta, aponta o caminho e mantém a voz tranquila. Agora a ajuda tem uma direção concreta.",
+      "scene": "corridor: lead, detail; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 18,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s095",
+      "start": 283.55768,
+      "end": 287.76275,
+      "line": "Lia segue à frente com a lanterna. Dona Sol acompanha Gui, e Nico confere se ninguém ficou para trás. O corredor parece diferente com a luz baixa. Uma cadeira fora do lugar vira um obstáculo grande. Ele a afasta, aponta o caminho e mantém a voz tranquila. Agora a ajuda tem uma direção concreta.",
+      "scene": "corridor: lead, reverse; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 18,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s096",
+      "start": 287.76275,
+      "end": 291.24621,
+      "line": "Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro. ",
+      "scene": "corridor: stuck, detail; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 19,
+        "part": 0,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s097",
+      "start": 291.24621,
+      "end": 294.25465,
+      "line": "Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro. ",
+      "scene": "corridor: stuck, two; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 19,
+        "part": 1,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s098",
+      "start": 294.25465,
+      "end": 297.10477,
+      "line": "Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro. ",
+      "scene": "corridor: stuck, feet; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 19,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s099",
+      "start": 297.10477,
+      "end": 300.11321,
+      "line": "Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro. ",
+      "scene": "corridor: stuck, side; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 19,
+        "part": 3,
+        "cam": "side"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s100",
+      "start": 300.11321,
+      "end": 303.59667,
+      "line": "Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro. ",
+      "scene": "corridor: stuck, track; interação física contínua e reação visível",
+      "set": "corridor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 19,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s101",
+      "start": 303.59667,
+      "end": 307.58108,
+      "line": "Um estalo vem da sala de leitura. A estante inclinou mais um pouco e alguns livros deslizam. A equipe que eles chamaram já está chegando. Lia mantém Gui e Dona Sol longe daquele canto. Nico vê o número curto e entende que ficar encarando o visor não vai mover nenhum móvel para fora do caminho.",
+      "scene": "library: creak, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 20,
+        "part": 0,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s102",
+      "start": 307.58108,
+      "end": 311.02217,
+      "line": "Um estalo vem da sala de leitura. A estante inclinou mais um pouco e alguns livros deslizam. A equipe que eles chamaram já está chegando. Lia mantém Gui e Dona Sol longe daquele canto. Nico vê o número curto e entende que ficar encarando o visor não vai mover nenhum móvel para fora do caminho.",
+      "scene": "library: creak, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 20,
+        "part": 1,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s103",
+      "start": 311.02217,
+      "end": 314.28213,
+      "line": "Um estalo vem da sala de leitura. A estante inclinou mais um pouco e alguns livros deslizam. A equipe que eles chamaram já está chegando. Lia mantém Gui e Dona Sol longe daquele canto. Nico vê o número curto e entende que ficar encarando o visor não vai mover nenhum móvel para fora do caminho.",
+      "scene": "library: creak, close; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 20,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s104",
+      "start": 314.28213,
+      "end": 317.72322,
+      "line": "Um estalo vem da sala de leitura. A estante inclinou mais um pouco e alguns livros deslizam. A equipe que eles chamaram já está chegando. Lia mantém Gui e Dona Sol longe daquele canto. Nico vê o número curto e entende que ficar encarando o visor não vai mover nenhum móvel para fora do caminho.",
+      "scene": "library: creak, reverse; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 20,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s105",
+      "start": 317.72322,
+      "end": 321.70763,
+      "line": "Um estalo vem da sala de leitura. A estante inclinou mais um pouco e alguns livros deslizam. A equipe que eles chamaram já está chegando. Lia mantém Gui e Dona Sol longe daquele canto. Nico vê o número curto e entende que ficar encarando o visor não vai mover nenhum móvel para fora do caminho.",
+      "scene": "library: creak, over; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 20,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s106",
+      "start": 321.70763,
+      "end": 325.40151,
+      "line": "Ele ajuda a manter a área livre enquanto Lia abre espaço para a equipe trabalhar. A estante é estabilizada, o carrinho segue pela passagem e Dona Sol alcança a saída. A cena não precisa de um salto impossível. Precisa de gente se ouvindo, reconhecendo o problema e fazendo a tarefa que cabe a cada pessoa.",
+      "scene": "library: support, wide; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 21,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s107",
+      "start": 325.40151,
+      "end": 328.59169,
+      "line": "Ele ajuda a manter a área livre enquanto Lia abre espaço para a equipe trabalhar. A estante é estabilizada, o carrinho segue pela passagem e Dona Sol alcança a saída. A cena não precisa de um salto impossível. Precisa de gente se ouvindo, reconhecendo o problema e fazendo a tarefa que cabe a cada pessoa.",
+      "scene": "library: support, detail; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 21,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s108",
+      "start": 328.59169,
+      "end": 331.61395,
+      "line": "Ele ajuda a manter a área livre enquanto Lia abre espaço para a equipe trabalhar. A estante é estabilizada, o carrinho segue pela passagem e Dona Sol alcança a saída. A cena não precisa de um salto impossível. Precisa de gente se ouvindo, reconhecendo o problema e fazendo a tarefa que cabe a cada pessoa.",
+      "scene": "library: support, side; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 21,
+        "part": 2,
+        "cam": "side"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s109",
+      "start": 331.61395,
+      "end": 334.80413,
+      "line": "Ele ajuda a manter a área livre enquanto Lia abre espaço para a equipe trabalhar. A estante é estabilizada, o carrinho segue pela passagem e Dona Sol alcança a saída. A cena não precisa de um salto impossível. Precisa de gente se ouvindo, reconhecendo o problema e fazendo a tarefa que cabe a cada pessoa.",
+      "scene": "library: support, reverse; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 21,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s110",
+      "start": 334.80413,
+      "end": 338.49801,
+      "line": "Ele ajuda a manter a área livre enquanto Lia abre espaço para a equipe trabalhar. A estante é estabilizada, o carrinho segue pela passagem e Dona Sol alcança a saída. A cena não precisa de um salto impossível. Precisa de gente se ouvindo, reconhecendo o problema e fazendo a tarefa que cabe a cada pessoa.",
+      "scene": "library: support, track; interação física contínua e reação visível",
+      "set": "library",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 21,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s111",
+      "start": 338.49801,
+      "end": 342.18446,
+      "line": "O número acima de Dona Sol muda. Os segundos desaparecem. Surgem anos. Nico fica parado, como se só agora lembrasse de respirar. Isso não transforma a habilidade em ciência nem prova que ele controla a vida de alguém. Dentro desta fantasia, o futuro que parecia fechado acabou de revelar uma condição escondida.",
+      "scene": "foyer: turn, wide; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 22,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s112",
+      "start": 342.18446,
+      "end": 345.36821,
+      "line": "O número acima de Dona Sol muda. Os segundos desaparecem. Surgem anos. Nico fica parado, como se só agora lembrasse de respirar. Isso não transforma a habilidade em ciência nem prova que ele controla a vida de alguém. Dentro desta fantasia, o futuro que parecia fechado acabou de revelar uma condição escondida.",
+      "scene": "foyer: turn, close; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 22,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s113",
+      "start": 345.36821,
+      "end": 348.3844,
+      "line": "O número acima de Dona Sol muda. Os segundos desaparecem. Surgem anos. Nico fica parado, como se só agora lembrasse de respirar. Isso não transforma a habilidade em ciência nem prova que ele controla a vida de alguém. Dentro desta fantasia, o futuro que parecia fechado acabou de revelar uma condição escondida.",
+      "scene": "foyer: turn, detail; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 22,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s114",
+      "start": 348.3844,
+      "end": 351.56815,
+      "line": "O número acima de Dona Sol muda. Os segundos desaparecem. Surgem anos. Nico fica parado, como se só agora lembrasse de respirar. Isso não transforma a habilidade em ciência nem prova que ele controla a vida de alguém. Dentro desta fantasia, o futuro que parecia fechado acabou de revelar uma condição escondida.",
+      "scene": "foyer: turn, reverse; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 22,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s115",
+      "start": 351.56815,
+      "end": 355.2546,
+      "line": "O número acima de Dona Sol muda. Os segundos desaparecem. Surgem anos. Nico fica parado, como se só agora lembrasse de respirar. Isso não transforma a habilidade em ciência nem prova que ele controla a vida de alguém. Dentro desta fantasia, o futuro que parecia fechado acabou de revelar uma condição escondida.",
+      "scene": "foyer: turn, two; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 22,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s116",
+      "start": 355.2546,
+      "end": 358.99174,
+      "line": "Dona Sol olha para o salão e depois para os voluntários. Agradece por terem percebido os obstáculos antes de alguém se machucar. Nico começa a explicar os números, mas para no meio. Ela não precisa acreditar em um poder para reconhecer o cuidado. Lia entrega o café que esfriou. Dessa vez, ele consegue beber.",
+      "scene": "foyer: relief, wide; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 23,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s117",
+      "start": 358.99174,
+      "end": 362.21927,
+      "line": "Dona Sol olha para o salão e depois para os voluntários. Agradece por terem percebido os obstáculos antes de alguém se machucar. Nico começa a explicar os números, mas para no meio. Ela não precisa acreditar em um poder para reconhecer o cuidado. Lia entrega o café que esfriou. Dessa vez, ele consegue beber.",
+      "scene": "foyer: relief, detail; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 23,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s118",
+      "start": 362.21927,
+      "end": 365.27691,
+      "line": "Dona Sol olha para o salão e depois para os voluntários. Agradece por terem percebido os obstáculos antes de alguém se machucar. Nico começa a explicar os números, mas para no meio. Ela não precisa acreditar em um poder para reconhecer o cuidado. Lia entrega o café que esfriou. Dessa vez, ele consegue beber.",
+      "scene": "foyer: relief, two; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 23,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s119",
+      "start": 365.27691,
+      "end": 368.50444,
+      "line": "Dona Sol olha para o salão e depois para os voluntários. Agradece por terem percebido os obstáculos antes de alguém se machucar. Nico começa a explicar os números, mas para no meio. Ela não precisa acreditar em um poder para reconhecer o cuidado. Lia entrega o café que esfriou. Dessa vez, ele consegue beber.",
+      "scene": "foyer: relief, close; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 23,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s120",
+      "start": 368.50444,
+      "end": 372.24158,
+      "line": "Dona Sol olha para o salão e depois para os voluntários. Agradece por terem percebido os obstáculos antes de alguém se machucar. Nico começa a explicar os números, mas para no meio. Ela não precisa acreditar em um poder para reconhecer o cuidado. Lia entrega o café que esfriou. Dessa vez, ele consegue beber.",
+      "scene": "foyer: relief, reverse; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 23,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s121",
+      "start": 372.24158,
+      "end": 375.12197,
+      "line": "Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples. ",
+      "scene": "foyer: question, wide; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 24,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s122",
+      "start": 375.12197,
+      "end": 377.60959,
+      "line": "Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples. ",
+      "scene": "foyer: question, detail; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 24,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s123",
+      "start": 377.60959,
+      "end": 379.96628,
+      "line": "Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples. ",
+      "scene": "foyer: question, two; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 24,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s124",
+      "start": 379.96628,
+      "end": 382.4539,
+      "line": "Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples. ",
+      "scene": "foyer: question, close; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 24,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s125",
+      "start": 382.4539,
+      "end": 385.33429,
+      "line": "Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples. ",
+      "scene": "foyer: question, reverse; interação física contínua e reação visível",
+      "set": "foyer",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 24,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s126",
+      "start": 385.33429,
+      "end": 388.66051,
+      "line": "Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa. ",
+      "scene": "reading: cleanup, wide; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 25,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s127",
+      "start": 388.66051,
+      "end": 391.53316,
+      "line": "Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa. ",
+      "scene": "reading: cleanup, detail; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 25,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s128",
+      "start": 391.53316,
+      "end": 394.25462,
+      "line": "Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa. ",
+      "scene": "reading: cleanup, track; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 25,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s129",
+      "start": 394.25462,
+      "end": 397.12726,
+      "line": "Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa. ",
+      "scene": "reading: cleanup, two; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 25,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s130",
+      "start": 397.12726,
+      "end": 400.45348,
+      "line": "Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa. ",
+      "scene": "reading: cleanup, close; interação física contínua e reação visível",
+      "set": "reading",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 25,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s131",
+      "start": 400.45348,
+      "end": 404.72539,
+      "line": "Na saída, Lia faz um pedido: não transforme as pessoas em contadores ambulantes. Existe uma diferença entre oferecer ajuda e decidir que você sabe o que todo mundo deve fazer. Nico guarda o caderno. Algumas informações, mesmo numa fantasia, pedem discrição. Respeitar alguém também inclui deixar espaço para que essa pessoa escolha.",
+      "scene": "street: privacy, wide; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 26,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s132",
+      "start": 404.72539,
+      "end": 408.41476,
+      "line": "Na saída, Lia faz um pedido: não transforme as pessoas em contadores ambulantes. Existe uma diferença entre oferecer ajuda e decidir que você sabe o que todo mundo deve fazer. Nico guarda o caderno. Algumas informações, mesmo numa fantasia, pedem discrição. Respeitar alguém também inclui deixar espaço para que essa pessoa escolha.",
+      "scene": "street: privacy, detail; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 26,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s133",
+      "start": 408.41476,
+      "end": 411.90995,
+      "line": "Na saída, Lia faz um pedido: não transforme as pessoas em contadores ambulantes. Existe uma diferença entre oferecer ajuda e decidir que você sabe o que todo mundo deve fazer. Nico guarda o caderno. Algumas informações, mesmo numa fantasia, pedem discrição. Respeitar alguém também inclui deixar espaço para que essa pessoa escolha.",
+      "scene": "street: privacy, two; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 26,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s134",
+      "start": 411.90995,
+      "end": 415.59932,
+      "line": "Na saída, Lia faz um pedido: não transforme as pessoas em contadores ambulantes. Existe uma diferença entre oferecer ajuda e decidir que você sabe o que todo mundo deve fazer. Nico guarda o caderno. Algumas informações, mesmo numa fantasia, pedem discrição. Respeitar alguém também inclui deixar espaço para que essa pessoa escolha.",
+      "scene": "street: privacy, close; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 26,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s135",
+      "start": 415.59932,
+      "end": 419.87123,
+      "line": "Na saída, Lia faz um pedido: não transforme as pessoas em contadores ambulantes. Existe uma diferença entre oferecer ajuda e decidir que você sabe o que todo mundo deve fazer. Nico guarda o caderno. Algumas informações, mesmo numa fantasia, pedem discrição. Respeitar alguém também inclui deixar espaço para que essa pessoa escolha.",
+      "scene": "street: privacy, reverse; interação física contínua e reação visível",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 26,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s136",
+      "start": 419.87123,
+      "end": 423.45167,
+      "line": "Eles param na praça. O senhor do jornal continua ali, agora observando a chuva diminuir. Nico senta, escuta uma história e descobre um nome que nunca tinha perguntado. Ainda assim, aquele encontro só aconteceu porque alguém resolveu oferecer alguns minutos de atenção.",
+      "scene": "park: time, wide; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 27,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s137",
+      "start": 423.45167,
+      "end": 426.54386,
+      "line": "Eles param na praça. O senhor do jornal continua ali, agora observando a chuva diminuir. Nico senta, escuta uma história e descobre um nome que nunca tinha perguntado. Ainda assim, aquele encontro só aconteceu porque alguém resolveu oferecer alguns minutos de atenção.",
+      "scene": "park: time, two; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 27,
+        "part": 1,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s138",
+      "start": 426.54386,
+      "end": 429.47332,
+      "line": "Eles param na praça. O senhor do jornal continua ali, agora observando a chuva diminuir. Nico senta, escuta uma história e descobre um nome que nunca tinha perguntado. Ainda assim, aquele encontro só aconteceu porque alguém resolveu oferecer alguns minutos de atenção.",
+      "scene": "park: time, reverse; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 27,
+        "part": 2,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s139",
+      "start": 429.47332,
+      "end": 432.56552,
+      "line": "Eles param na praça. O senhor do jornal continua ali, agora observando a chuva diminuir. Nico senta, escuta uma história e descobre um nome que nunca tinha perguntado. Ainda assim, aquele encontro só aconteceu porque alguém resolveu oferecer alguns minutos de atenção.",
+      "scene": "park: time, close; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 27,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s140",
+      "start": 432.56552,
+      "end": 436.14596,
+      "line": "Eles param na praça. O senhor do jornal continua ali, agora observando a chuva diminuir. Nico senta, escuta uma história e descobre um nome que nunca tinha perguntado. Ainda assim, aquele encontro só aconteceu porque alguém resolveu oferecer alguns minutos de atenção.",
+      "scene": "park: time, wide; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 27,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s141",
+      "start": 436.14596,
+      "end": 440.1454,
+      "line": "Em casa, Nico pega o telefone. Faz uma ligação que vinha adiando porque sempre parecia haver outro dia disponível. Não pergunta quanto tempo resta. Pergunta como foi a tarde. Do outro lado, alguém começa uma história comprida. Pela primeira vez naquele dia, ele não procura uma forma de acelerar a conversa.",
+      "scene": "home: call, wide; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 28,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s142",
+      "start": 440.1454,
+      "end": 443.59947,
+      "line": "Em casa, Nico pega o telefone. Faz uma ligação que vinha adiando porque sempre parecia haver outro dia disponível. Não pergunta quanto tempo resta. Pergunta como foi a tarde. Do outro lado, alguém começa uma história comprida. Pela primeira vez naquele dia, ele não procura uma forma de acelerar a conversa.",
+      "scene": "home: call, detail; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 28,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s143",
+      "start": 443.59947,
+      "end": 446.87174,
+      "line": "Em casa, Nico pega o telefone. Faz uma ligação que vinha adiando porque sempre parecia haver outro dia disponível. Não pergunta quanto tempo resta. Pergunta como foi a tarde. Do outro lado, alguém começa uma história comprida. Pela primeira vez naquele dia, ele não procura uma forma de acelerar a conversa.",
+      "scene": "home: call, two; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 28,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s144",
+      "start": 446.87174,
+      "end": 450.3258,
+      "line": "Em casa, Nico pega o telefone. Faz uma ligação que vinha adiando porque sempre parecia haver outro dia disponível. Não pergunta quanto tempo resta. Pergunta como foi a tarde. Do outro lado, alguém começa uma história comprida. Pela primeira vez naquele dia, ele não procura uma forma de acelerar a conversa.",
+      "scene": "home: call, close; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 28,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s145",
+      "start": 450.3258,
+      "end": 454.32525,
+      "line": "Em casa, Nico pega o telefone. Faz uma ligação que vinha adiando porque sempre parecia haver outro dia disponível. Não pergunta quanto tempo resta. Pergunta como foi a tarde. Do outro lado, alguém começa uma história comprida. Pela primeira vez naquele dia, ele não procura uma forma de acelerar a conversa.",
+      "scene": "home: call, reverse; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 28,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s146",
+      "start": 454.32525,
+      "end": 457.99371,
+      "line": "À meia-noite, os números começam a desaparecer. Nico olha pela janela e encontra apenas pessoas voltando para casa. O silêncio acima das cabeças é desconfortável. Também devolve uma coisa importante: a chance de enxergar um rosto antes de tentar interpretar um prazo.",
+      "scene": "home: fade, wide; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 29,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s147",
+      "start": 457.99371,
+      "end": 461.16192,
+      "line": "À meia-noite, os números começam a desaparecer. Nico olha pela janela e encontra apenas pessoas voltando para casa. O silêncio acima das cabeças é desconfortável. Também devolve uma coisa importante: a chance de enxergar um rosto antes de tentar interpretar um prazo.",
+      "scene": "home: fade, detail; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 29,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s148",
+      "start": 461.16192,
+      "end": 464.16339,
+      "line": "À meia-noite, os números começam a desaparecer. Nico olha pela janela e encontra apenas pessoas voltando para casa. O silêncio acima das cabeças é desconfortável. Também devolve uma coisa importante: a chance de enxergar um rosto antes de tentar interpretar um prazo.",
+      "scene": "home: fade, two; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 29,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s149",
+      "start": 464.16339,
+      "end": 467.33161,
+      "line": "À meia-noite, os números começam a desaparecer. Nico olha pela janela e encontra apenas pessoas voltando para casa. O silêncio acima das cabeças é desconfortável. Também devolve uma coisa importante: a chance de enxergar um rosto antes de tentar interpretar um prazo.",
+      "scene": "home: fade, close; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 29,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s150",
+      "start": 467.33161,
+      "end": 471.00007,
+      "line": "À meia-noite, os números começam a desaparecer. Nico olha pela janela e encontra apenas pessoas voltando para casa. O silêncio acima das cabeças é desconfortável. Também devolve uma coisa importante: a chance de enxergar um rosto antes de tentar interpretar um prazo.",
+      "scene": "home: fade, reverse; interação física contínua e reação visível",
+      "set": "home",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 29,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s151",
+      "start": 471.00007,
+      "end": 475.44877,
+      "line": "E se você pudesse ver quanto tempo resta para cada pessoa? Talvez o primeiro impulso fosse contar, comparar e tentar impedir tudo. Mas esta história propõe outra medida: o que você faz com a atenção que tem agora? Ajudar, escutar e estar presente continuam possíveis mesmo quando nenhum número aparece no ar.",
+      "scene": "park: meaning, wide; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 30,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s152",
+      "start": 475.44877,
+      "end": 479.29084,
+      "line": "E se você pudesse ver quanto tempo resta para cada pessoa? Talvez o primeiro impulso fosse contar, comparar e tentar impedir tudo. Mas esta história propõe outra medida: o que você faz com a atenção que tem agora? Ajudar, escutar e estar presente continuam possíveis mesmo quando nenhum número aparece no ar.",
+      "scene": "park: meaning, detail; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 30,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s153",
+      "start": 479.29084,
+      "end": 482.9307,
+      "line": "E se você pudesse ver quanto tempo resta para cada pessoa? Talvez o primeiro impulso fosse contar, comparar e tentar impedir tudo. Mas esta história propõe outra medida: o que você faz com a atenção que tem agora? Ajudar, escutar e estar presente continuam possíveis mesmo quando nenhum número aparece no ar.",
+      "scene": "park: meaning, two; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 30,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s154",
+      "start": 482.9307,
+      "end": 486.77277,
+      "line": "E se você pudesse ver quanto tempo resta para cada pessoa? Talvez o primeiro impulso fosse contar, comparar e tentar impedir tudo. Mas esta história propõe outra medida: o que você faz com a atenção que tem agora? Ajudar, escutar e estar presente continuam possíveis mesmo quando nenhum número aparece no ar.",
+      "scene": "park: meaning, close; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 30,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s155",
+      "start": 486.77277,
+      "end": 491.22147,
+      "line": "E se você pudesse ver quanto tempo resta para cada pessoa? Talvez o primeiro impulso fosse contar, comparar e tentar impedir tudo. Mas esta história propõe outra medida: o que você faz com a atenção que tem agora? Ajudar, escutar e estar presente continuam possíveis mesmo quando nenhum número aparece no ar.",
+      "scene": "park: meaning, reverse; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 30,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s156",
+      "start": 491.22147,
+      "end": 495.35275,
+      "line": "Nico devolve o relógio de brinquedo a Gui. O menino pergunta se ajudou. Ele sorri e responde que sim, de um jeito que não estava no manual. E você: gostaria de enxergar esses números? Conta nos comentários. Se curtiu a história, inscreva-se no Então e ative o sino para explorar a próxima hipótese.",
+      "scene": "park: ending, two; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 31,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s157",
+      "start": 495.35275,
+      "end": 498.92067,
+      "line": "Nico devolve o relógio de brinquedo a Gui. O menino pergunta se ajudou. Ele sorri e responde que sim, de um jeito que não estava no manual. E você: gostaria de enxergar esses números? Conta nos comentários. Se curtiu a história, inscreva-se no Então e ative o sino para explorar a próxima hipótese.",
+      "scene": "park: ending, detail; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 31,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s158",
+      "start": 498.92067,
+      "end": 502.3008,
+      "line": "Nico devolve o relógio de brinquedo a Gui. O menino pergunta se ajudou. Ele sorri e responde que sim, de um jeito que não estava no manual. E você: gostaria de enxergar esses números? Conta nos comentários. Se curtiu a história, inscreva-se no Então e ative o sino para explorar a próxima hipótese.",
+      "scene": "park: ending, close; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 31,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s159",
+      "start": 502.3008,
+      "end": 505.86872,
+      "line": "Nico devolve o relógio de brinquedo a Gui. O menino pergunta se ajudou. Ele sorri e responde que sim, de um jeito que não estava no manual. E você: gostaria de enxergar esses números? Conta nos comentários. Se curtiu a história, inscreva-se no Então e ative o sino para explorar a próxima hipótese.",
+      "scene": "park: ending, reverse; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 31,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s160",
+      "start": 505.86872,
+      "end": 510.0,
+      "line": "Nico devolve o relógio de brinquedo a Gui. O menino pergunta se ajudou. Ele sorri e responde que sim, de um jeito que não estava no manual. E você: gostaria de enxergar esses números? Conta nos comentários. Se curtiu a história, inscreva-se no Então e ative o sino para explorar a próxima hipótese.",
+      "scene": "park: ending, wide; interação física contínua e reação visível",
+      "set": "park",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0.15
+      },
+      "params": {
+        "beat": 31,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": []
+    }
+  ]
+}

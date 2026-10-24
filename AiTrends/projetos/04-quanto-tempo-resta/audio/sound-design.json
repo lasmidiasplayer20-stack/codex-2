@@ -1,0 +1,1968 @@
+{
+  "method": "Deterministic NumPy synthesis, no sampled assets or remote service",
+  "duration": 510,
+  "peak_dbfs": -24.06722820149949,
+  "clipped_samples": 0,
+  "events": [
+    {
+      "time": 5.891,
+      "kind": "ceramic"
+    },
+    {
+      "time": 1.0,
+      "kind": "counter_reveal"
+    },
+    {
+      "time": 13.688,
+      "kind": "footstep"
+    },
+    {
+      "time": 14.248,
+      "kind": "footstep"
+    },
+    {
+      "time": 14.808,
+      "kind": "footstep"
+    },
+    {
+      "time": 15.368,
+      "kind": "footstep"
+    },
+    {
+      "time": 15.928,
+      "kind": "footstep"
+    },
+    {
+      "time": 16.488,
+      "kind": "footstep"
+    },
+    {
+      "time": 17.048,
+      "kind": "footstep"
+    },
+    {
+      "time": 17.608,
+      "kind": "footstep"
+    },
+    {
+      "time": 18.168,
+      "kind": "footstep"
+    },
+    {
+      "time": 18.728,
+      "kind": "footstep"
+    },
+    {
+      "time": 19.288,
+      "kind": "footstep"
+    },
+    {
+      "time": 19.848,
+      "kind": "footstep"
+    },
+    {
+      "time": 20.408,
+      "kind": "footstep"
+    },
+    {
+      "time": 20.968,
+      "kind": "footstep"
+    },
+    {
+      "time": 21.528,
+      "kind": "footstep"
+    },
+    {
+      "time": 22.088,
+      "kind": "footstep"
+    },
+    {
+      "time": 22.648,
+      "kind": "footstep"
+    },
+    {
+      "time": 23.208,
+      "kind": "footstep"
+    },
+    {
+      "time": 38.765,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 44.273,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 50.08,
+      "kind": "footstep"
+    },
+    {
+      "time": 50.64,
+      "kind": "footstep"
+    },
+    {
+      "time": 51.2,
+      "kind": "footstep"
+    },
+    {
+      "time": 51.76,
+      "kind": "footstep"
+    },
+    {
+      "time": 52.32,
+      "kind": "footstep"
+    },
+    {
+      "time": 52.88,
+      "kind": "footstep"
+    },
+    {
+      "time": 53.44,
+      "kind": "footstep"
+    },
+    {
+      "time": 54.0,
+      "kind": "footstep"
+    },
+    {
+      "time": 54.56,
+      "kind": "footstep"
+    },
+    {
+      "time": 55.12,
+      "kind": "footstep"
+    },
+    {
+      "time": 55.68,
+      "kind": "footstep"
+    },
+    {
+      "time": 56.24,
+      "kind": "footstep"
+    },
+    {
+      "time": 56.8,
+      "kind": "footstep"
+    },
+    {
+      "time": 57.36,
+      "kind": "footstep"
+    },
+    {
+      "time": 57.92,
+      "kind": "footstep"
+    },
+    {
+      "time": 58.48,
+      "kind": "footstep"
+    },
+    {
+      "time": 59.04,
+      "kind": "footstep"
+    },
+    {
+      "time": 59.6,
+      "kind": "footstep"
+    },
+    {
+      "time": 60.16,
+      "kind": "footstep"
+    },
+    {
+      "time": 60.72,
+      "kind": "footstep"
+    },
+    {
+      "time": 61.28,
+      "kind": "footstep"
+    },
+    {
+      "time": 61.84,
+      "kind": "footstep"
+    },
+    {
+      "time": 62.4,
+      "kind": "footstep"
+    },
+    {
+      "time": 62.96,
+      "kind": "footstep"
+    },
+    {
+      "time": 63.52,
+      "kind": "footstep"
+    },
+    {
+      "time": 64.08,
+      "kind": "footstep"
+    },
+    {
+      "time": 64.64,
+      "kind": "footstep"
+    },
+    {
+      "time": 65.2,
+      "kind": "footstep"
+    },
+    {
+      "time": 73.333,
+      "kind": "ceramic"
+    },
+    {
+      "time": 86.798,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 90.988,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 110.774,
+      "kind": "footstep"
+    },
+    {
+      "time": 111.334,
+      "kind": "footstep"
+    },
+    {
+      "time": 111.894,
+      "kind": "footstep"
+    },
+    {
+      "time": 112.454,
+      "kind": "footstep"
+    },
+    {
+      "time": 113.014,
+      "kind": "footstep"
+    },
+    {
+      "time": 113.574,
+      "kind": "footstep"
+    },
+    {
+      "time": 114.134,
+      "kind": "footstep"
+    },
+    {
+      "time": 114.694,
+      "kind": "footstep"
+    },
+    {
+      "time": 115.254,
+      "kind": "footstep"
+    },
+    {
+      "time": 115.814,
+      "kind": "footstep"
+    },
+    {
+      "time": 116.374,
+      "kind": "footstep"
+    },
+    {
+      "time": 116.934,
+      "kind": "footstep"
+    },
+    {
+      "time": 117.494,
+      "kind": "footstep"
+    },
+    {
+      "time": 118.054,
+      "kind": "footstep"
+    },
+    {
+      "time": 118.614,
+      "kind": "footstep"
+    },
+    {
+      "time": 119.174,
+      "kind": "footstep"
+    },
+    {
+      "time": 119.734,
+      "kind": "footstep"
+    },
+    {
+      "time": 120.294,
+      "kind": "footstep"
+    },
+    {
+      "time": 120.854,
+      "kind": "footstep"
+    },
+    {
+      "time": 121.414,
+      "kind": "footstep"
+    },
+    {
+      "time": 121.974,
+      "kind": "footstep"
+    },
+    {
+      "time": 122.534,
+      "kind": "footstep"
+    },
+    {
+      "time": 123.094,
+      "kind": "footstep"
+    },
+    {
+      "time": 123.654,
+      "kind": "footstep"
+    },
+    {
+      "time": 124.214,
+      "kind": "footstep"
+    },
+    {
+      "time": 124.774,
+      "kind": "footstep"
+    },
+    {
+      "time": 125.334,
+      "kind": "footstep"
+    },
+    {
+      "time": 125.894,
+      "kind": "footstep"
+    },
+    {
+      "time": 126.454,
+      "kind": "footstep"
+    },
+    {
+      "time": 127.014,
+      "kind": "footstep"
+    },
+    {
+      "time": 111.474,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 112.874,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 114.274,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 115.674,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 117.074,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 118.474,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 119.874,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 121.274,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 122.674,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 124.074,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 125.474,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 126.874,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 127.658,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 129.158,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 130.658,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 132.158,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 133.658,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 135.158,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 136.658,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 138.158,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 139.658,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 141.158,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 133.923,
+      "kind": "ceramic"
+    },
+    {
+      "time": 128.608,
+      "kind": "counter_reveal"
+    },
+    {
+      "time": 142.011,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 143.511,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 145.011,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 146.511,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 148.011,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 149.511,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 151.011,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 152.511,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 154.011,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 155.511,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 162.547,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 168.664,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 174.831,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 176.331,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 177.831,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 179.331,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 180.831,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 182.331,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 183.831,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 185.331,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 186.831,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 188.331,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 192.622,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 195.986,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 199.649,
+      "kind": "footstep"
+    },
+    {
+      "time": 200.209,
+      "kind": "footstep"
+    },
+    {
+      "time": 200.769,
+      "kind": "footstep"
+    },
+    {
+      "time": 201.329,
+      "kind": "footstep"
+    },
+    {
+      "time": 201.889,
+      "kind": "footstep"
+    },
+    {
+      "time": 202.449,
+      "kind": "footstep"
+    },
+    {
+      "time": 203.009,
+      "kind": "footstep"
+    },
+    {
+      "time": 203.569,
+      "kind": "footstep"
+    },
+    {
+      "time": 204.129,
+      "kind": "footstep"
+    },
+    {
+      "time": 204.689,
+      "kind": "footstep"
+    },
+    {
+      "time": 205.249,
+      "kind": "footstep"
+    },
+    {
+      "time": 205.809,
+      "kind": "footstep"
+    },
+    {
+      "time": 206.369,
+      "kind": "footstep"
+    },
+    {
+      "time": 206.929,
+      "kind": "footstep"
+    },
+    {
+      "time": 207.489,
+      "kind": "footstep"
+    },
+    {
+      "time": 208.049,
+      "kind": "footstep"
+    },
+    {
+      "time": 208.609,
+      "kind": "footstep"
+    },
+    {
+      "time": 209.169,
+      "kind": "footstep"
+    },
+    {
+      "time": 209.729,
+      "kind": "footstep"
+    },
+    {
+      "time": 210.289,
+      "kind": "footstep"
+    },
+    {
+      "time": 210.849,
+      "kind": "footstep"
+    },
+    {
+      "time": 211.409,
+      "kind": "footstep"
+    },
+    {
+      "time": 211.969,
+      "kind": "footstep"
+    },
+    {
+      "time": 212.529,
+      "kind": "footstep"
+    },
+    {
+      "time": 213.089,
+      "kind": "footstep"
+    },
+    {
+      "time": 213.649,
+      "kind": "footstep"
+    },
+    {
+      "time": 214.209,
+      "kind": "footstep"
+    },
+    {
+      "time": 214.769,
+      "kind": "footstep"
+    },
+    {
+      "time": 215.329,
+      "kind": "footstep"
+    },
+    {
+      "time": 215.889,
+      "kind": "footstep"
+    },
+    {
+      "time": 216.449,
+      "kind": "footstep"
+    },
+    {
+      "time": 217.009,
+      "kind": "footstep"
+    },
+    {
+      "time": 200.349,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 201.749,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 203.149,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 204.549,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 205.949,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 207.349,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 208.749,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 210.149,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 211.549,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 212.949,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 214.349,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 215.749,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 223.777,
+      "kind": "toy_watch"
+    },
+    {
+      "time": 230.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 232.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 234.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 236.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 238.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 240.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 242.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 244.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 246.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 248.284,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 249.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 251.049,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 252.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 254.049,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 255.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 257.049,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 258.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 260.049,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 261.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 263.049,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 264.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 266.049,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 267.549,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 249.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 251.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 253.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 255.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 257.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 259.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 261.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 263.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 265.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 267.499,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 254.286,
+      "kind": "light_switch"
+    },
+    {
+      "time": 268.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 270.199,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 271.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 273.199,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 274.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 276.199,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 277.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 279.199,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 280.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 282.199,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 283.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 285.199,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 286.699,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 268.949,
+      "kind": "footstep"
+    },
+    {
+      "time": 269.509,
+      "kind": "footstep"
+    },
+    {
+      "time": 270.069,
+      "kind": "footstep"
+    },
+    {
+      "time": 270.629,
+      "kind": "footstep"
+    },
+    {
+      "time": 271.189,
+      "kind": "footstep"
+    },
+    {
+      "time": 271.749,
+      "kind": "footstep"
+    },
+    {
+      "time": 272.309,
+      "kind": "footstep"
+    },
+    {
+      "time": 272.869,
+      "kind": "footstep"
+    },
+    {
+      "time": 273.429,
+      "kind": "footstep"
+    },
+    {
+      "time": 273.989,
+      "kind": "footstep"
+    },
+    {
+      "time": 274.549,
+      "kind": "footstep"
+    },
+    {
+      "time": 275.109,
+      "kind": "footstep"
+    },
+    {
+      "time": 275.669,
+      "kind": "footstep"
+    },
+    {
+      "time": 276.229,
+      "kind": "footstep"
+    },
+    {
+      "time": 276.789,
+      "kind": "footstep"
+    },
+    {
+      "time": 277.349,
+      "kind": "footstep"
+    },
+    {
+      "time": 277.909,
+      "kind": "footstep"
+    },
+    {
+      "time": 278.469,
+      "kind": "footstep"
+    },
+    {
+      "time": 279.029,
+      "kind": "footstep"
+    },
+    {
+      "time": 279.589,
+      "kind": "footstep"
+    },
+    {
+      "time": 280.149,
+      "kind": "footstep"
+    },
+    {
+      "time": 280.709,
+      "kind": "footstep"
+    },
+    {
+      "time": 281.269,
+      "kind": "footstep"
+    },
+    {
+      "time": 281.829,
+      "kind": "footstep"
+    },
+    {
+      "time": 282.389,
+      "kind": "footstep"
+    },
+    {
+      "time": 282.949,
+      "kind": "footstep"
+    },
+    {
+      "time": 283.509,
+      "kind": "footstep"
+    },
+    {
+      "time": 284.069,
+      "kind": "footstep"
+    },
+    {
+      "time": 284.629,
+      "kind": "footstep"
+    },
+    {
+      "time": 285.189,
+      "kind": "footstep"
+    },
+    {
+      "time": 285.749,
+      "kind": "footstep"
+    },
+    {
+      "time": 286.309,
+      "kind": "footstep"
+    },
+    {
+      "time": 286.869,
+      "kind": "footstep"
+    },
+    {
+      "time": 287.429,
+      "kind": "footstep"
+    },
+    {
+      "time": 268.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 270.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 272.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 274.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 276.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 278.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 280.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 282.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 284.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 286.649,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 282.984,
+      "kind": "door"
+    },
+    {
+      "time": 287.813,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 289.313,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 290.813,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 292.313,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 293.813,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 295.313,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 296.813,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 298.313,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 299.813,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 301.313,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 302.813,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 288.063,
+      "kind": "footstep"
+    },
+    {
+      "time": 288.623,
+      "kind": "footstep"
+    },
+    {
+      "time": 289.183,
+      "kind": "footstep"
+    },
+    {
+      "time": 289.743,
+      "kind": "footstep"
+    },
+    {
+      "time": 290.303,
+      "kind": "footstep"
+    },
+    {
+      "time": 290.863,
+      "kind": "footstep"
+    },
+    {
+      "time": 291.423,
+      "kind": "footstep"
+    },
+    {
+      "time": 291.983,
+      "kind": "footstep"
+    },
+    {
+      "time": 292.543,
+      "kind": "footstep"
+    },
+    {
+      "time": 293.103,
+      "kind": "footstep"
+    },
+    {
+      "time": 293.663,
+      "kind": "footstep"
+    },
+    {
+      "time": 294.223,
+      "kind": "footstep"
+    },
+    {
+      "time": 294.783,
+      "kind": "footstep"
+    },
+    {
+      "time": 295.343,
+      "kind": "footstep"
+    },
+    {
+      "time": 295.903,
+      "kind": "footstep"
+    },
+    {
+      "time": 296.463,
+      "kind": "footstep"
+    },
+    {
+      "time": 297.023,
+      "kind": "footstep"
+    },
+    {
+      "time": 297.583,
+      "kind": "footstep"
+    },
+    {
+      "time": 298.143,
+      "kind": "footstep"
+    },
+    {
+      "time": 298.703,
+      "kind": "footstep"
+    },
+    {
+      "time": 299.263,
+      "kind": "footstep"
+    },
+    {
+      "time": 299.823,
+      "kind": "footstep"
+    },
+    {
+      "time": 300.383,
+      "kind": "footstep"
+    },
+    {
+      "time": 300.943,
+      "kind": "footstep"
+    },
+    {
+      "time": 301.503,
+      "kind": "footstep"
+    },
+    {
+      "time": 302.063,
+      "kind": "footstep"
+    },
+    {
+      "time": 302.623,
+      "kind": "footstep"
+    },
+    {
+      "time": 303.183,
+      "kind": "footstep"
+    },
+    {
+      "time": 288.763,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 290.163,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 291.563,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 292.963,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 294.363,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 295.763,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 297.163,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 298.563,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 299.963,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 301.363,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 302.763,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 287.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 289.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 291.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 293.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 295.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 297.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 299.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 301.763,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 299.638,
+      "kind": "door"
+    },
+    {
+      "time": 303.647,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 305.147,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 306.647,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 308.147,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 309.647,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 311.147,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 312.647,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 314.147,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 315.647,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 317.147,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 318.647,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 320.147,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 303.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 305.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 307.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 309.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 311.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 313.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 315.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 317.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 319.597,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 309.03,
+      "kind": "wood_creak"
+    },
+    {
+      "time": 313.558,
+      "kind": "book_drop"
+    },
+    {
+      "time": 315.55,
+      "kind": "book_drop"
+    },
+    {
+      "time": 317.542,
+      "kind": "book_drop"
+    },
+    {
+      "time": 321.758,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 323.258,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 324.758,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 326.258,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 327.758,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 329.258,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 330.758,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 332.258,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 333.758,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 335.258,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 336.758,
+      "kind": "tension_pulse"
+    },
+    {
+      "time": 322.008,
+      "kind": "footstep"
+    },
+    {
+      "time": 322.568,
+      "kind": "footstep"
+    },
+    {
+      "time": 323.128,
+      "kind": "footstep"
+    },
+    {
+      "time": 323.688,
+      "kind": "footstep"
+    },
+    {
+      "time": 324.248,
+      "kind": "footstep"
+    },
+    {
+      "time": 324.808,
+      "kind": "footstep"
+    },
+    {
+      "time": 325.368,
+      "kind": "footstep"
+    },
+    {
+      "time": 325.928,
+      "kind": "footstep"
+    },
+    {
+      "time": 326.488,
+      "kind": "footstep"
+    },
+    {
+      "time": 327.048,
+      "kind": "footstep"
+    },
+    {
+      "time": 327.608,
+      "kind": "footstep"
+    },
+    {
+      "time": 328.168,
+      "kind": "footstep"
+    },
+    {
+      "time": 328.728,
+      "kind": "footstep"
+    },
+    {
+      "time": 329.288,
+      "kind": "footstep"
+    },
+    {
+      "time": 329.848,
+      "kind": "footstep"
+    },
+    {
+      "time": 330.408,
+      "kind": "footstep"
+    },
+    {
+      "time": 330.968,
+      "kind": "footstep"
+    },
+    {
+      "time": 331.528,
+      "kind": "footstep"
+    },
+    {
+      "time": 332.088,
+      "kind": "footstep"
+    },
+    {
+      "time": 332.648,
+      "kind": "footstep"
+    },
+    {
+      "time": 333.208,
+      "kind": "footstep"
+    },
+    {
+      "time": 333.768,
+      "kind": "footstep"
+    },
+    {
+      "time": 334.328,
+      "kind": "footstep"
+    },
+    {
+      "time": 334.888,
+      "kind": "footstep"
+    },
+    {
+      "time": 335.448,
+      "kind": "footstep"
+    },
+    {
+      "time": 336.008,
+      "kind": "footstep"
+    },
+    {
+      "time": 336.568,
+      "kind": "footstep"
+    },
+    {
+      "time": 337.128,
+      "kind": "footstep"
+    },
+    {
+      "time": 337.688,
+      "kind": "footstep"
+    },
+    {
+      "time": 338.248,
+      "kind": "footstep"
+    },
+    {
+      "time": 322.708,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 324.108,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 325.508,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 326.908,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 328.308,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 329.708,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 331.108,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 332.508,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 333.908,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 335.308,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 336.708,
+      "kind": "cart_wheel"
+    },
+    {
+      "time": 321.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 323.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 325.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 327.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 329.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 331.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 333.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 335.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 337.708,
+      "kind": "rain_outside"
+    },
+    {
+      "time": 351.065,
+      "kind": "door"
+    },
+    {
+      "time": 345.201,
+      "kind": "counter_change"
+    },
+    {
+      "time": 345.361,
+      "kind": "counter_change"
+    },
+    {
+      "time": 345.521,
+      "kind": "counter_change"
+    },
+    {
+      "time": 362.729,
+      "kind": "ceramic"
+    },
+    {
+      "time": 385.634,
+      "kind": "footstep"
+    },
+    {
+      "time": 386.194,
+      "kind": "footstep"
+    },
+    {
+      "time": 386.754,
+      "kind": "footstep"
+    },
+    {
+      "time": 387.314,
+      "kind": "footstep"
+    },
+    {
+      "time": 387.874,
+      "kind": "footstep"
+    },
+    {
+      "time": 388.434,
+      "kind": "footstep"
+    },
+    {
+      "time": 388.994,
+      "kind": "footstep"
+    },
+    {
+      "time": 389.554,
+      "kind": "footstep"
+    },
+    {
+      "time": 390.114,
+      "kind": "footstep"
+    },
+    {
+      "time": 390.674,
+      "kind": "footstep"
+    },
+    {
+      "time": 391.234,
+      "kind": "footstep"
+    },
+    {
+      "time": 391.794,
+      "kind": "footstep"
+    },
+    {
+      "time": 392.354,
+      "kind": "footstep"
+    },
+    {
+      "time": 392.914,
+      "kind": "footstep"
+    },
+    {
+      "time": 393.474,
+      "kind": "footstep"
+    },
+    {
+      "time": 394.034,
+      "kind": "footstep"
+    },
+    {
+      "time": 394.594,
+      "kind": "footstep"
+    },
+    {
+      "time": 395.154,
+      "kind": "footstep"
+    },
+    {
+      "time": 395.714,
+      "kind": "footstep"
+    },
+    {
+      "time": 396.274,
+      "kind": "footstep"
+    },
+    {
+      "time": 396.834,
+      "kind": "footstep"
+    },
+    {
+      "time": 397.394,
+      "kind": "footstep"
+    },
+    {
+      "time": 397.954,
+      "kind": "footstep"
+    },
+    {
+      "time": 398.514,
+      "kind": "footstep"
+    },
+    {
+      "time": 399.074,
+      "kind": "footstep"
+    },
+    {
+      "time": 399.634,
+      "kind": "footstep"
+    },
+    {
+      "time": 400.194,
+      "kind": "footstep"
+    },
+    {
+      "time": 389.87,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 395.162,
+      "kind": "paper_rustle"
+    },
+    {
+      "time": 400.753,
+      "kind": "footstep"
+    },
+    {
+      "time": 401.313,
+      "kind": "footstep"
+    },
+    {
+      "time": 401.873,
+      "kind": "footstep"
+    },
+    {
+      "time": 402.433,
+      "kind": "footstep"
+    },
+    {
+      "time": 402.993,
+      "kind": "footstep"
+    },
+    {
+      "time": 403.553,
+      "kind": "footstep"
+    },
+    {
+      "time": 404.113,
+      "kind": "footstep"
+    },
+    {
+      "time": 404.673,
+      "kind": "footstep"
+    },
+    {
+      "time": 405.233,
+      "kind": "footstep"
+    },
+    {
+      "time": 405.793,
+      "kind": "footstep"
+    },
+    {
+      "time": 406.353,
+      "kind": "footstep"
+    },
+    {
+      "time": 406.913,
+      "kind": "footstep"
+    },
+    {
+      "time": 407.473,
+      "kind": "footstep"
+    },
+    {
+      "time": 408.033,
+      "kind": "footstep"
+    },
+    {
+      "time": 408.593,
+      "kind": "footstep"
+    },
+    {
+      "time": 409.153,
+      "kind": "footstep"
+    },
+    {
+      "time": 409.713,
+      "kind": "footstep"
+    },
+    {
+      "time": 410.273,
+      "kind": "footstep"
+    },
+    {
+      "time": 410.833,
+      "kind": "footstep"
+    },
+    {
+      "time": 411.393,
+      "kind": "footstep"
+    },
+    {
+      "time": 411.953,
+      "kind": "footstep"
+    },
+    {
+      "time": 412.513,
+      "kind": "footstep"
+    },
+    {
+      "time": 413.073,
+      "kind": "footstep"
+    },
+    {
+      "time": 413.633,
+      "kind": "footstep"
+    },
+    {
+      "time": 414.193,
+      "kind": "footstep"
+    },
+    {
+      "time": 414.753,
+      "kind": "footstep"
+    },
+    {
+      "time": 415.313,
+      "kind": "footstep"
+    },
+    {
+      "time": 415.873,
+      "kind": "footstep"
+    },
+    {
+      "time": 416.433,
+      "kind": "footstep"
+    },
+    {
+      "time": 416.993,
+      "kind": "footstep"
+    },
+    {
+      "time": 417.553,
+      "kind": "footstep"
+    },
+    {
+      "time": 418.113,
+      "kind": "footstep"
+    },
+    {
+      "time": 418.673,
+      "kind": "footstep"
+    },
+    {
+      "time": 419.233,
+      "kind": "footstep"
+    },
+    {
+      "time": 437.146,
+      "kind": "phone"
+    },
+    {
+      "time": 437.346,
+      "kind": "phone"
+    },
+    {
+      "time": 500.611,
+      "kind": "toy_watch"
+    },
+    {
+      "time": 45.8,
+      "kind": "cta_click"
+    },
+    {
+      "time": 47.1,
+      "kind": "cta_bell"
+    },
+    {
+      "time": 249.8,
+      "kind": "cta_click"
+    },
+    {
+      "time": 251.1,
+      "kind": "cta_bell"
+    },
+    {
+      "time": 497.8,
+      "kind": "cta_click"
+    },
+    {
+      "time": 499.1,
+      "kind": "cta_bell"
+    }
+  ]
+}

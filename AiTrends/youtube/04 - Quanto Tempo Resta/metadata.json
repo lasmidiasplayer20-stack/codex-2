@@ -1,0 +1,56 @@
+{
+  "title": "E se você pudesse ver quanto tempo resta para cada pessoa?",
+  "channel": "Então",
+  "language": "pt-BR",
+  "duration_seconds": 510,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "thumbnail": {
+    "path": "capa.jpg",
+    "width": 1280,
+    "height": 720,
+    "text": "SÓ 8 MINUTOS? / 00:08:12",
+    "origin": "Original AI illustration using our own code-rendered cast for identity"
+  },
+  "tags": [
+    "então",
+    "e se",
+    "quanto tempo resta",
+    "contador de vida",
+    "tempo de vida",
+    "histórias animadas",
+    "ficção",
+    "superpoderes",
+    "curiosidades",
+    "mistério",
+    "suspense",
+    "animação 3d",
+    "animação por código",
+    "histórias em português",
+    "português brasileiro",
+    "escolhas",
+    "empatia",
+    "tempo"
+  ],
+  "chapters": [
+    "00:00 Oito minutos e doze segundos",
+    "00:13 Números sobre as pessoas",
+    "00:34 O poder sem manual",
+    "01:23 Contando para Lia",
+    "01:50 Uma noite na biblioteca",
+    "02:21 O que está fora do lugar?",
+    "03:09 Um plano e uma passagem",
+    "03:50 Chuva e luz de lanterna",
+    "04:28 Uma tarefa de cada vez",
+    "05:03 O estalo da estante",
+    "05:38 O contador muda",
+    "06:40 Pessoas além dos números",
+    "07:16 A ligação adiada",
+    "07:51 O tempo que temos agora"
+  ],
+  "project": "../../projetos/04-quanto-tempo-resta",
+  "youtube_upload_performed": false
+}

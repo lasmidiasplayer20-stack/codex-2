@@ -2,6 +2,7 @@
 
 Cada novo episódio tem uma pasta com capa JPEG 1280×720, título, descrição, tags separadas por vírgulas e metadados. São arquivos para revisão e upload manual; estes scripts não publicam no YouTube.
 
+- [04 — Quanto Tempo Resta](04%20-%20Quanto%20Tempo%20Resta/)
 - [03 — 10x Mais Rápido](03%20-%2010x%20Mais%20Rápido/)
 - [Pacotes anteriores preservados](../../Animação/youtube/)
 

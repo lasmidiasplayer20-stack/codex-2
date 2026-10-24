@@ -109,3 +109,5 @@ Veja `VALIDATION.json` para evidências dos testes desta instância. O ZIP port�
 Leia a [skill local reutilizável](skill/SKILL.md) para voz Puck, animação por código, tratamento de áudio, CTAs e exportação 1080p. Ela complementa a skill adaptada original; não instala uma extensão na interface.
 
 O [episódio 03 — 10x Mais Rápido](projetos/03-10x-mais-rapido/) inclui cenas 3D próprias, rig com IK, câmera e diagramas. [Pacotes YouTube novos](youtube/) ficam dentro de AiTrends. Projetos e capas anteriores permanecem nos seus caminhos originais.
+
+[04 — Quanto Tempo Resta](projetos/04-quanto-tempo-resta/) traz história própria sobre contadores de vida, cenários 3D mais detalhados, ações com objetos e voz Puck consistente nos oito trechos. Consulte o estado de render/entrega no README do projeto.

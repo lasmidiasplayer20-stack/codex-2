@@ -33,11 +33,11 @@ def main():
  assert dest.stat().st_size<98_000_000
  data=check(dest,seconds,fps)
  run(['ffmpeg','-v','error','-y','-i',dest,'-t','60','-map','0:v:0','-map','0:a:0','-c:v','libx264','-preset','fast','-crf','20','-threads','2','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-movflags','+faststart',preview]);prev=check(preview,60,fps)
- times=[2,22,46,69,100,135,170,205,250,290,325,365,400,440,475,500];sheet=Image.new('RGB',(1980,1220),'#121c29');draw=ImageDraw.Draw(sheet)
+ times=cfg.get('qaTimes',[2,22,46,69,100,135,170,205,250,290,325,365,400,440,475,500]);sheet=Image.new('RGB',(1980,1220),'#121c29');draw=ImageDraw.Draw(sheet)
  for i,t in enumerate(times):
   path=a.work/f'qa-{t}.jpg';run(['ffmpeg','-v','error','-y','-ss',str(t),'-i',dest,'-vf','scale=480:-1','-frames:v','1',path]);x=12+i%4*492;y=12+i//4*302;sheet.paste(Image.open(path),(x,y));draw.text((x+4,y+275),f'{t//60:02}:{t%60:02}',fill='white')
  sheet.save(qa/'filme-completo.jpg',quality=93)
- for label,t in [('cta-45s',46),('cta-intermediario',250),('cta-final',500),('contato',2),('apoio-banco',330)]:run(['ffmpeg','-v','error','-y','-ss',str(t),'-i',dest,'-frames:v','1',qa/(label+'.jpg')])
+ for label,t in cfg.get('qaStills',[('cta-45s',46),('cta-intermediario',250),('cta-final',500),('contato',2),('apoio-banco',330)]):run(['ffmpeg','-v','error','-y','-ss',str(t),'-i',dest,'-frames:v','1',qa/(label+'.jpg')])
  run(['ffmpeg','-v','error','-y','-i',root/'audio/narracao.wav','-c:a','libmp3lame','-b:a','192k',root/'audio/narracao.mp3'])
  sources=[root/'config.json',root/'runtime-style.json',*sorted((root/'scenes').glob('*.js')),root/'story/beats.json',root/'story/shots.json'];report={'seconds':seconds,'width':1920,'height':1080,'fps':fps,'frames':round(seconds*fps),'native_render':True,'upscaled':False,'size_limited_two_pass':recompressed,'video_bitrate_target_kbps':kbps if recompressed else None,'full_decode_passed':True,'bytes':dest.stat().st_size,'sha256':hashlib.sha256(dest.read_bytes()).hexdigest(),'source_sha256':hashlib.sha256(b''.join(x.read_bytes()for x in sources)).hexdigest(),'preview':{'seconds':60,'frames':round(60*fps),'bytes':preview.stat().st_size},'audio':'Puck pt-BR + original procedural music and SFX; AAC stereo 192 kb/s 48kHz','speech_review':'Exact TTS input/cache checks and signal metrics. No claim of full independent ASR or human listening.','cta_seconds':[[43,51],[247,255],[495,509.3]],'renderer_errors':[],'native_replacements':patches}
  for name,obj in [('export-validation.json',report),('ffprobe-final.json',data),('ffprobe-preview.json',prev)]: (qa/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')

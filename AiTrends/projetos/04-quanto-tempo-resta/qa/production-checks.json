@@ -1,0 +1,31 @@
+{
+  "beats": 32,
+  "shots": 160,
+  "narration_words": 1426,
+  "seconds": 510,
+  "native_dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "continuous_timeline": true,
+  "tts_input_matches_script": true,
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "visuals": "Own procedural Three.js geometry and Canvas textures; no imported film backgrounds, reference frames or character models",
+  "references": "See REFERENCIA.md; visual inspection, no claim of full reference audio transcription",
+  "cta_seconds": [
+    [
+      43,
+      51
+    ],
+    [
+      247,
+      255
+    ],
+    [
+      495,
+      509.3
+    ]
+  ]
+}

@@ -7,3 +7,5 @@ Comece pelo [SKILL.md](SKILL.md), depois leia o roteiro/bíblia/referência do e
 Pedido sugerido: “Acesse lasmidiasplayer20-stack/codex-2, leia AiTrends/README-CODEX.md e AiTrends/skill/SKILL.md. Crie o próximo episódio sobre [tema], com [duração], usando personagens próprios e a voz Puck. Use o mesmo pipeline por código e salve projeto, vídeo e pacote YouTube dentro de AiTrends.”
 
 Isto é documentação versionada lida pelo agente. Não é instalação automática de plugin nem hospedagem de API. Outro ambiente precisa das dependências (`studio.py doctor/setup`); chave somente em variável de ambiente. Para reutilizar o áudio existente, nenhuma chave é necessária.
+
+Referência de encenação e cenários: [04 — Quanto Tempo Resta](../projetos/04-quanto-tempo-resta/), com livros instanciados, parede oposta para contraplanos, braços IK em 3D, transferência de props e contadores que evitam os rostos.

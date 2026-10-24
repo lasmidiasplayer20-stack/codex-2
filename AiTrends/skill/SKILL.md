@@ -82,3 +82,7 @@ Guarde o log de render em `--work/full-render.log`. O exportador exige marcador 
 Para abrir pastas do próximo episódio sem sobrescrever os anteriores: `python3 AiTrends/skill/scripts/new_project.py "Título" --seconds 510 --copy-cast`. Isso cria uma estrutura vazia e, opcionalmente, copia o rig/cenário próprios. Não cria roteiro, narração ou cenas prontas. Reescreva a ação e confira o próximo número antes de renderizar.
 
 Preferir um modelo de voz por episódio. O episódio 03 documenta uma exceção: cota diária após sete trechos exigiu o mesmo timbre Puck em outro modelo no trecho final. Não afirmar identidade perfeita entre modelos; tratar e revisar a transição. `scripts/audit_voice.py` permite transcrição local independente se o modelo Whisper puder ser baixado; falha do download deve ser registrada, não apresentada como auditoria aprovada.
+
+## Evolução do episódio 04
+
+Consulte `../projetos/04-quanto-tempo-resta/scenes/` para braços com IK tridimensional, cenários com objetos instanciados, parede oposta habilitada nos contraplanos e visores que evitam rostos. `config.json` pode definir `qaTimes` e `qaStills` para imagens de QA específicas do tema. Evite herdar rótulos e instantes do episódio anterior sem conferir o conteúdo.

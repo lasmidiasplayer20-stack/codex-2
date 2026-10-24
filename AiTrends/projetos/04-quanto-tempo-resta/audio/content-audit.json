@@ -1,0 +1,10 @@
+{
+  "parts": 8,
+  "source_cache_matches_script": true,
+  "all_parts_same_model": true,
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "independent_asr_performed": false,
+  "human_listening": false,
+  "limitation": "No local ASR model is available. Provider transcription and model downloads were unavailable earlier in this session; no claim of full speech transcription."
+}
