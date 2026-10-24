@@ -27,5 +27,6 @@
       495,
       509.3
     ]
-  ]
+  ],
+  "text_comparison": "Exact beat text matches TTS cache; display narration file normalizes trailing whitespace only."
 }

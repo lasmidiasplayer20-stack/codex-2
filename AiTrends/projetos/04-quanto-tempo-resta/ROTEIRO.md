@@ -8,7 +8,7 @@ Dona Sol sorri e oferece um café. Acima da cabeça dela, você enxerga oito min
 
 ## 00:13 — reveal
 
-Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal. 
+Agora imagine sair de casa e descobrir uma contagem sobre cada pessoa. Quarenta anos. Setenta e três. Duas horas. Nico acorda com essa habilidade e tenta continuar uma manhã normal.
 
 ## 00:23 — mirror
 
@@ -20,7 +20,7 @@ Antes de sair fazendo perguntas constrangedoras, ele pega um caderno. A regra de
 
 ## 00:49 — oldman
 
-Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor. 
+Na praça, um senhor guarda o jornal e se levanta devagar. O contador dele mostra décadas. Um entregador jovem passa pelo banco com um número menor. Nico percebe a primeira armadilha: inventar uma biografia a partir de um visor.
 
 ## 01:05 — cup
 
@@ -28,7 +28,7 @@ No café, uma bandeja escorrega. Nico segura a xícara antes de ela atingir o ch
 
 ## 01:23 — meeting
 
-Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz. 
+Lia chega, puxa uma cadeira e encontra Nico olhando para um ponto acima da testa dela. Pergunta se tem alguma coisa no cabelo. Ele disfarça mal. Ela tira uma folha presa no capuz.
 
 ## 01:35 — confide
 
@@ -56,11 +56,11 @@ Talvez tenham mudado alguma coisa. Talvez ele tenha entendido o visor errado. Ni
 
 ## 03:09 — map
 
-Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante. 
+Lia desenha um mapa rápido no caderno. Sala de leitura, corredor, saída. Eles combinam funções: manter a passagem livre, reunir o grupo e chamar a equipe responsável pelo prédio para avaliar a estante.
 
 ## 03:19 — cart
 
-O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil. 
+O carrinho começa a andar. Nico empurra de um lado, Lia orienta do outro. A roda emperra na junção do piso. Ele para, reposiciona o carrinho e tenta por um caminho mais largo. Um movimento lento e combinado resolve o que a pressa estava tornando difícil.
 
 ## 03:37 — joke
 
@@ -80,7 +80,7 @@ Lia segue à frente com a lanterna. Dona Sol acompanha Gui, e Nico confere se ni
 
 ## 04:47 — stuck
 
-Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro. 
+Perto da saída, o carrinho ficou atravessado. Um livro caiu junto da roda. A passagem é menor do que parecia no mapa. Nico sente a vontade de resolver tudo de uma vez. Em vez disso, chama Lia, segura o carrinho e espera que ela retire o livro.
 
 ## 05:03 — creak
 
@@ -100,11 +100,11 @@ Dona Sol olha para o salão e depois para os voluntários. Agradece por terem pe
 
 ## 06:12 — question
 
-Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples. 
+Se o contador muda quando as circunstâncias mudam, o que ele mostra? Um destino? Uma possibilidade? O caminho mais provável naquele instante? A história deixa essa pergunta aberta. Nico gostaria de uma regra simples.
 
 ## 06:25 — cleanup
 
-Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa. 
+Com o local liberado pela equipe, a noite de leitura fica para outro dia. Os voluntários juntam os marcadores, separam os livros e guardam as cadeiras. Gui encontra o livro que faltava no carrinho. Nico o recebe e o coloca na caixa.
 
 ## 06:40 — privacy
 

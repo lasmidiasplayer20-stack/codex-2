@@ -13,7 +13,7 @@ def main():
  for name,obj in [('config.json',cfg),('runtime-style.json',{'contrast':1,'sat':1,'lift':[0,0,0],'gamma':[1,1,1],'gain':[1,1,1],'vignette':.23,'grain':0,'bloom':0}),('story/beats.json',[]),('story/shots.json',{'title':a.title,'duration':a.seconds,'shots':[]})]:(root/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')
  (root/'input/narracao.txt').write_text('');(root/'.gitignore').write_text('build/\nreferencias/\naudio/*.wav\n*.log\n__pycache__/\n');(root/'README.md').write_text(f'# {cfg["title"]}\n\nProjeto vazio; leia `../../skill/SKILL.md`, escreva roteiro e cenas próprios antes de renderizar. Nenhuma voz ou imagem foi gerada.\n')
  if a.copy_cast:
-  example=BASE/'projetos/03-10x-mais-rapido/scenes'
+  candidates=[d for d in directory.iterdir()if re.match(r'^\d+-',d.name)and (d/'scenes/rig.js').is_file()and (d/'scenes/world.js').is_file()];example=max(candidates,key=lambda d:int(re.match(r'^(\d+)-',d.name).group(1)))/'scenes'
   for f in ['rig.js','world.js']:shutil.copyfile(example/f,root/'scenes'/f)
  folder_title=re.sub(r'[\\/:*?"<>|]','-',cfg['title']);youtube=BASE/'youtube'/folder_title;youtube.mkdir(parents=True,exist_ok=False)
  for name in ['titulo.txt','descricao.txt','tags.txt']:(youtube/name).write_text('')

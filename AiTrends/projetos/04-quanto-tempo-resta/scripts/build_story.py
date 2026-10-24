@@ -53,7 +53,7 @@ if __name__=='__main__':
   elapsed=end
  for i in range(1,len(shots)):shots[i]['start']=shots[i-1]['end']
  shots[-1]['end']=510
- (ROOT/'story/beats.json').write_text(json.dumps(beats,ensure_ascii=False,indent=2)+'\n');(ROOT/'story/shots.json').write_text(json.dumps({'title':'E se você pudesse ver quanto tempo resta?','duration':510,'shots':shots},ensure_ascii=False,indent=2)+'\n');(ROOT/'input/narracao.txt').write_text('\n\n'.join(b['text']for b in beats)+'\n')
+ (ROOT/'story/beats.json').write_text(json.dumps(beats,ensure_ascii=False,indent=2)+'\n');(ROOT/'story/shots.json').write_text(json.dumps({'title':'E se você pudesse ver quanto tempo resta?','duration':510,'shots':shots},ensure_ascii=False,indent=2)+'\n');(ROOT/'input/narracao.txt').write_text('\n\n'.join(b['text'].rstrip()for b in beats)+'\n')
  cfg=json.loads((ROOT/'config.json').read_text());cfg.update(title='04 - Quanto Tempo Resta',loudness=-16,music={'enabled':True},sfx={'enabled':True});(ROOT/'config.json').write_text(json.dumps(cfg,ensure_ascii=False,indent=2)+'\n')
- (ROOT/'ROTEIRO.md').write_text('# Quanto tempo resta? / Então\n\nHistória original e ficcional, em português brasileiro.\n\n'+'\n\n'.join(f'## {int(b["start"])//60:02}:{int(b["start"])%60:02} — {b["action"]}\n\n{b["text"]}'for b in beats)+'\n')
+ (ROOT/'ROTEIRO.md').write_text('# Quanto tempo resta? / Então\n\nHistória original e ficcional, em português brasileiro.\n\n'+'\n\n'.join(f'## {int(b["start"])//60:02}:{int(b["start"])%60:02} — {b["action"]}\n\n{b["text"].rstrip()}'for b in beats)+'\n')
  print('STORY',words,'words',len(shots),'shots')

@@ -12,7 +12,7 @@ Repositório: `lasmidiasplayer20-stack/codex-2`. Raiz deste pacote: `AiTrends/`.
 - `AiTrends/projetos/NN-slug/`: roteiro, configuração, `story/`, `scenes/`, `input/`, `audio/`, `exports/` e `qa/` daquele episódio.
 - `AiTrends/youtube/NN - Título/`: `capa.jpg`, `titulo.txt`, `descricao.txt`, `tags.txt` com vírgulas e `metadata.json`.
 - `AiTrends/skill/`: este guia, scripts compartilhados e cópias atribuídas das referências do kit.
-- Projeto completo de referência: `../projetos/03-10x-mais-rapido/`; projeto anterior: `../projetos/02-quantas-mentiras/`.
+- Referência atual: `../projetos/04-quanto-tempo-resta/`; projetos anteriores: `../projetos/03-10x-mais-rapido/` e `../projetos/02-quantas-mentiras/`.
 - Os antigos pacotes em `Animação/youtube/` continuam preservados. Novos pacotes ficam em `AiTrends/youtube/`.
 
 Use o próximo número livre. Preserve projetos existentes. Nunca publique intermediários, arquivos de chaves, `.env`, tokens ou configurações de conta. Use `GEMINI_API_KEY` do ambiente; não peça para colar uma chave em uma mensagem.
