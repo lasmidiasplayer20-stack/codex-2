@@ -13,12 +13,14 @@ O episódio **04 — Quanto Tempo Resta foi reprovado pelo usuário no áudio e 
 
 Para o próximo vídeo: uma amostra de voz de 20–30 s, comparação local de voz original/tratada/mix e avaliação do usuário **antes de gerar a narração completa**. Renderizar também uma amostra em movimento para avaliar cintilação antes do render longo. Reaproveitar cache; corrigir trechos isolados; não repetir gerações completas nem presumir que a cadeia do episódio 04 foi aprovada. O usuário enviará outra referência; este feedback não autoriza regenerar o vídeo atual.
 
+Amostra aprovada posteriormente: `../projetos/05-imortal/audio/03-voz-com-mix.mp3`, Puck / `gemini-2.5-flash-preview-tts`, resposta do usuário “Aprovada com mix discreta”. Preservar esse perfil; aprovação da amostra não é aprovação editorial automática do episódio completo.
+
 ## Organização canônica
 
 - `AiTrends/projetos/NN-slug/`: roteiro, configuração, `story/`, `scenes/`, `input/`, `audio/`, `exports/` e `qa/` daquele episódio.
 - `AiTrends/youtube/NN - Título/`: `capa.jpg`, `titulo.txt`, `descricao.txt`, `tags.txt` com vírgulas e `metadata.json`.
 - `AiTrends/skill/`: este guia, scripts compartilhados e cópias atribuídas das referências do kit.
-- Referência atual: `../projetos/04-quanto-tempo-resta/`; projetos anteriores: `../projetos/03-10x-mais-rapido/` e `../projetos/02-quantas-mentiras/`.
+- Referência atual: `../projetos/05-imortal/`, com amostra Puck + mix discreta aprovada. Anteriores: `../projetos/04-quanto-tempo-resta/` (áudio reprovado/cintilação relatada), `../projetos/03-10x-mais-rapido/` e `../projetos/02-quantas-mentiras/`.
 - Os antigos pacotes em `Animação/youtube/` continuam preservados. Novos pacotes ficam em `AiTrends/youtube/`.
 
 Use o próximo número livre. Preserve projetos existentes. Nunca publique intermediários, arquivos de chaves, `.env`, tokens ou configurações de conta. Use `GEMINI_API_KEY` do ambiente; não peça para colar uma chave em uma mensagem.
@@ -106,3 +108,5 @@ No episódio 05, a leitura natural ultrapassou o alvo inicial: 590,625 s. Não a
 O helper `generate_voice.py` agora envia orientação de leitura também no caminho `generateContent`; caches antigos são preservados, sem regeneração automática. `new_project.py` passa a criar projetos com `fast3D: false` para manter MSAA. O exportador lê `config.ctaSeconds`, evitando relatar os tempos de outro episódio quando a duração muda.
 
 Novo projeto de referência: `../projetos/05-imortal/`, com caixa articulada, fotografia por código, envelhecimento visual da amiga, cadeiras/rodas/plantas/mala, diagramas e cenas espaciais. Não copiar seu roteiro em outros episódios. Manter o procedimento de amostra de áudio e teste temporal do guia; não usar a reprovação do episódio 04 como padrão aprovado.
+
+Perfil exato aprovado no episódio 05: Puck / `gemini-2.5-flash-preview-tts` / `generateContent`, direção explícita em português e mix discreta. Para duração de 8min30s com esse ritmo natural, estimar 1.150–1.230 palavras, depois validar a amostra; o episódio 05 mostrou que 1.391 palavras ultrapassam esse alvo. Não usar o alvo antigo de 165 palavras/min sem conferir o perfil real.

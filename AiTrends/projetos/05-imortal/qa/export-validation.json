@@ -1,0 +1,38 @@
+{
+  "seconds": 590.625,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "frames": 14175,
+  "native_render": true,
+  "upscaled": false,
+  "size_limited_two_pass": false,
+  "video_bitrate_target_kbps": null,
+  "full_decode_passed": true,
+  "bytes": 83657337,
+  "sha256": "3cb74d50c673207ca22dea547e888229eef7a1786b82fea27af71b7b0d56c3c1",
+  "source_sha256": "51c5e60ae15b676967f94fa8c683d57c2995d5cf95e7bf0da4c90187b9685478",
+  "preview": {
+    "seconds": 60,
+    "frames": 1440,
+    "bytes": 6913500
+  },
+  "audio": "Puck pt-BR + original procedural music and SFX; AAC stereo 192 kb/s 48kHz",
+  "speech_review": "Exact TTS input/cache checks and signal metrics. No claim of full independent ASR or human listening.",
+  "cta_seconds": [
+    [
+      43,
+      51
+    ],
+    [
+      289.40625,
+      297.40625
+    ],
+    [
+      576.625,
+      589.625
+    ]
+  ],
+  "renderer_errors": [],
+  "native_replacements": []
+}

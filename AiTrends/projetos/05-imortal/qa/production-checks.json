@@ -30,5 +30,15 @@
     }
   ],
   "visual_review": "160 plan sheets and consecutive motion strips; not a claim of human video playback or complete frame-by-frame review.",
-  "full_audio_approval": "Only the initial 20s sample was evaluated by user; full narration has technical signal checks, no independent ASR or claimed human listening."
+  "full_audio_approval": "Only the initial 20s sample was evaluated by user; full narration has technical signal checks, no independent ASR or claimed human listening.",
+  "reference_sha256": "590e676fdaa9f926efcde85a89f597f232669d3fe6251781fcb0408dfc559c71",
+  "reference_bytes": 16602990,
+  "voice_cache_private_files": 9,
+  "current_export_status": "complete_validated",
+  "full_render_complete": true,
+  "full_decode_passed": true,
+  "preview_decode_passed": true,
+  "final_sha256": "3cb74d50c673207ca22dea547e888229eef7a1786b82fea27af71b7b0d56c3c1",
+  "final_bytes": 83657337,
+  "native_replacements": []
 }

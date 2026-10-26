@@ -1,6 +1,14 @@
 # 05 — E se você fosse imortal?
 
-**Render completo em andamento.** História própria em português, horizontal, 1920×1080/24 fps. Duração natural: **9min50,625s**, 1.391 palavras, 32 sequências e 160 planos. O alvo inicial de 8min30s cedeu ao ritmo natural da voz aprovada; não aceleramos a narração para caber.
+**Entregue no GitHub.** História própria em português, horizontal, 1920×1080/24 fps. Duração natural: **9min50,625s**, 1.391 palavras, 32 sequências e 160 planos. O alvo inicial de 8min30s cedeu ao ritmo natural da voz aprovada; não aceleramos a narração para caber.
+
+## Vídeos
+
+- [Episódio completo — 9min50s / 1080p](exports/05%20-%20E%20se%20voc%C3%AA%20fosse%20imortal.mp4)
+- [Prévia de um minuto — 1080p](exports/05%20-%20E%20se%20voc%C3%AA%20fosse%20imortal%20-%20Preview%201min.mp4)
+- [Piloto inicial de 20 segundos](exports/05-imortal-piloto-20s.mp4)
+
+MP4 H.264/AAC estéreo; resolução nativa, 24 fps. Decodificação integral passou no filme (14.175 quadros) e na prévia (1.440 quadros). O tamanho do filme está abaixo do limite individual do GitHub; `qa/export-validation.json` registra hash, bitrate e evidências. Aprovação editorial do filme completo ainda não foi solicitada nem presumida.
 
 ## Áudio aprovado antes da geração completa
 

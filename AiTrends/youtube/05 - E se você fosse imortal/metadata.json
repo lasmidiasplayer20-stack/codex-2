@@ -1,5 +1,5 @@
 {
-  "status": "package_ready_video_rendering",
+  "status": "ready",
   "title": "E se você fosse imortal? O tempo seria seu maior problema",
   "description_file": "descricao.txt",
   "tags_file": "tags.txt",
@@ -57,5 +57,7 @@
   ],
   "duration_seconds": 590.625,
   "project": "../../projetos/05-imortal",
-  "youtube_upload_authorized": false
+  "youtube_upload_authorized": false,
+  "video": "../../projetos/05-imortal/exports/05 - E se você fosse imortal.mp4",
+  "preview": "../../projetos/05-imortal/exports/05 - E se você fosse imortal - Preview 1min.mp4"
 }
