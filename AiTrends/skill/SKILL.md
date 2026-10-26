@@ -92,3 +92,7 @@ Preferir um modelo de voz por episódio. O episódio 03 documenta uma exceção:
 ## Evolução do episódio 04
 
 Consulte `../projetos/04-quanto-tempo-resta/scenes/` para braços com IK tridimensional, cenários com objetos instanciados, parede oposta habilitada nos contraplanos e visores que evitam rostos. `config.json` pode definir `qaTimes` e `qaStills` para imagens de QA específicas do tema. Evite herdar rótulos e instantes do episódio anterior sem conferir o conteúdo.
+
+## Voz reafirmada — episódio 05
+
+Em 26/10/2026, o usuário reafirmou manter a voz Puck do início, reduzir oscilações e evitar vazios longos. Não interpretar como autorização para trocar o timbre ou como aprovação de uma amostra ainda não ouvida. No caminho `generateContent` do helper compartilhado, a orientação de estilo não era enviada: enviar direção de narração explícita no prompt nos próximos trechos. Isso é uma falha de implementação constatada, não diagnóstico completo da reprovação do episódio 04. Amostra 05: uma geração, variantes locais, sem acelerar nem cortar pausas; avaliação ainda pendente.

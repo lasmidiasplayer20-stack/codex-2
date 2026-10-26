@@ -1,0 +1,3047 @@
+{
+  "title": "E se você fosse imortal?",
+  "duration": 510,
+  "timing_status": "provisional_pending_voice_sample",
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 3.66643,
+      "line": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?",
+      "scene": "caixa: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s002",
+      "start": 3.66643,
+      "end": 7.33285,
+      "line": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?",
+      "scene": "caixa: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s003",
+      "start": 7.33285,
+      "end": 10.99928,
+      "line": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?",
+      "scene": "caixa: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s004",
+      "start": 10.99928,
+      "end": 14.66571,
+      "line": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?",
+      "scene": "caixa: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s005",
+      "start": 14.66571,
+      "end": 18.33214,
+      "line": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?",
+      "scene": "caixa: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s006",
+      "start": 18.33214,
+      "end": 21.77858,
+      "line": "Para entender essa caixa, precisamos voltar à primeira manhã. Nico acorda no mesmo quarto, derruba o despertador e descobre um fio branco no cabelo. Puxa o fio, olha de novo e encontra a cor de sempre. É assim que começa a coisa mais estranha da vida dele.",
+      "scene": "volta: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s007",
+      "start": 21.77858,
+      "end": 25.22502,
+      "line": "Para entender essa caixa, precisamos voltar à primeira manhã. Nico acorda no mesmo quarto, derruba o despertador e descobre um fio branco no cabelo. Puxa o fio, olha de novo e encontra a cor de sempre. É assim que começa a coisa mais estranha da vida dele.",
+      "scene": "volta: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s008",
+      "start": 25.22502,
+      "end": 28.67146,
+      "line": "Para entender essa caixa, precisamos voltar à primeira manhã. Nico acorda no mesmo quarto, derruba o despertador e descobre um fio branco no cabelo. Puxa o fio, olha de novo e encontra a cor de sempre. É assim que começa a coisa mais estranha da vida dele.",
+      "scene": "volta: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s009",
+      "start": 28.67146,
+      "end": 32.1179,
+      "line": "Para entender essa caixa, precisamos voltar à primeira manhã. Nico acorda no mesmo quarto, derruba o despertador e descobre um fio branco no cabelo. Puxa o fio, olha de novo e encontra a cor de sempre. É assim que começa a coisa mais estranha da vida dele.",
+      "scene": "volta: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s010",
+      "start": 32.1179,
+      "end": 35.56434,
+      "line": "Para entender essa caixa, precisamos voltar à primeira manhã. Nico acorda no mesmo quarto, derruba o despertador e descobre um fio branco no cabelo. Puxa o fio, olha de novo e encontra a cor de sempre. É assim que começa a coisa mais estranha da vida dele.",
+      "scene": "volta: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s011",
+      "start": 35.56434,
+      "end": 39.08411,
+      "line": "Vamos combinar a regra desta fantasia: Nico não envelhece e seu corpo se recupera de ferimentos. Isso não significa que ele controla o mundo, deixa de sentir dor ou consegue atravessar uma parede. A parte impossível está no corpo dele. As consequências vão aparecer no resto da vida.",
+      "scene": "regra: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s012",
+      "start": 39.08411,
+      "end": 42.60388,
+      "line": "Vamos combinar a regra desta fantasia: Nico não envelhece e seu corpo se recupera de ferimentos. Isso não significa que ele controla o mundo, deixa de sentir dor ou consegue atravessar uma parede. A parte impossível está no corpo dele. As consequências vão aparecer no resto da vida.",
+      "scene": "regra: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s013",
+      "start": 42.60388,
+      "end": 46.12365,
+      "line": "Vamos combinar a regra desta fantasia: Nico não envelhece e seu corpo se recupera de ferimentos. Isso não significa que ele controla o mundo, deixa de sentir dor ou consegue atravessar uma parede. A parte impossível está no corpo dele. As consequências vão aparecer no resto da vida.",
+      "scene": "regra: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s014",
+      "start": 46.12365,
+      "end": 49.64342,
+      "line": "Vamos combinar a regra desta fantasia: Nico não envelhece e seu corpo se recupera de ferimentos. Isso não significa que ele controla o mundo, deixa de sentir dor ou consegue atravessar uma parede. A parte impossível está no corpo dele. As consequências vão aparecer no resto da vida.",
+      "scene": "regra: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s015",
+      "start": 49.64342,
+      "end": 53.16319,
+      "line": "Vamos combinar a regra desta fantasia: Nico não envelhece e seu corpo se recupera de ferimentos. Isso não significa que ele controla o mundo, deixa de sentir dor ou consegue atravessar uma parede. A parte impossível está no corpo dele. As consequências vão aparecer no resto da vida.",
+      "scene": "regra: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s016",
+      "start": 53.16319,
+      "end": 56.90295,
+      "line": "Ele não resolve testar o poder pulando de um prédio. Conta a Lia, procura respostas e continua se cuidando. A primeira prova chega devagar: as datas mudam, as marcas de uma queda desaparecem, e o rosto permanece igual. Lia coloca duas fotos lado a lado. Pela primeira vez, ninguém faz piada.",
+      "scene": "teste: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s017",
+      "start": 56.90295,
+      "end": 60.6427,
+      "line": "Ele não resolve testar o poder pulando de um prédio. Conta a Lia, procura respostas e continua se cuidando. A primeira prova chega devagar: as datas mudam, as marcas de uma queda desaparecem, e o rosto permanece igual. Lia coloca duas fotos lado a lado. Pela primeira vez, ninguém faz piada.",
+      "scene": "teste: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s018",
+      "start": 60.6427,
+      "end": 64.38246,
+      "line": "Ele não resolve testar o poder pulando de um prédio. Conta a Lia, procura respostas e continua se cuidando. A primeira prova chega devagar: as datas mudam, as marcas de uma queda desaparecem, e o rosto permanece igual. Lia coloca duas fotos lado a lado. Pela primeira vez, ninguém faz piada.",
+      "scene": "teste: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s019",
+      "start": 64.38246,
+      "end": 68.12221,
+      "line": "Ele não resolve testar o poder pulando de um prédio. Conta a Lia, procura respostas e continua se cuidando. A primeira prova chega devagar: as datas mudam, as marcas de uma queda desaparecem, e o rosto permanece igual. Lia coloca duas fotos lado a lado. Pela primeira vez, ninguém faz piada.",
+      "scene": "teste: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s020",
+      "start": 68.12221,
+      "end": 71.86197,
+      "line": "Ele não resolve testar o poder pulando de um prédio. Conta a Lia, procura respostas e continua se cuidando. A primeira prova chega devagar: as datas mudam, as marcas de uma queda desaparecem, e o rosto permanece igual. Lia coloca duas fotos lado a lado. Pela primeira vez, ninguém faz piada.",
+      "scene": "teste: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s021",
+      "start": 71.86197,
+      "end": 75.5284,
+      "line": "No começo, a notícia parece maravilhosa. Nico quer aprender piano, construir uma casa, visitar lugares distantes e terminar os livros que comprou por impulso. Lia aponta para uma cadeira desmontada na oficina. Antes de dominar todos os instrumentos do planeta, talvez ele possa aprender a montar aquilo sem sobrar parafuso.",
+      "scene": "promessa: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s022",
+      "start": 75.5284,
+      "end": 79.19482,
+      "line": "No começo, a notícia parece maravilhosa. Nico quer aprender piano, construir uma casa, visitar lugares distantes e terminar os livros que comprou por impulso. Lia aponta para uma cadeira desmontada na oficina. Antes de dominar todos os instrumentos do planeta, talvez ele possa aprender a montar aquilo sem sobrar parafuso.",
+      "scene": "promessa: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s023",
+      "start": 79.19482,
+      "end": 82.86125,
+      "line": "No começo, a notícia parece maravilhosa. Nico quer aprender piano, construir uma casa, visitar lugares distantes e terminar os livros que comprou por impulso. Lia aponta para uma cadeira desmontada na oficina. Antes de dominar todos os instrumentos do planeta, talvez ele possa aprender a montar aquilo sem sobrar parafuso.",
+      "scene": "promessa: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s024",
+      "start": 82.86125,
+      "end": 86.52768,
+      "line": "No começo, a notícia parece maravilhosa. Nico quer aprender piano, construir uma casa, visitar lugares distantes e terminar os livros que comprou por impulso. Lia aponta para uma cadeira desmontada na oficina. Antes de dominar todos os instrumentos do planeta, talvez ele possa aprender a montar aquilo sem sobrar parafuso.",
+      "scene": "promessa: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s025",
+      "start": 86.52768,
+      "end": 90.1941,
+      "line": "No começo, a notícia parece maravilhosa. Nico quer aprender piano, construir uma casa, visitar lugares distantes e terminar os livros que comprou por impulso. Lia aponta para uma cadeira desmontada na oficina. Antes de dominar todos os instrumentos do planeta, talvez ele possa aprender a montar aquilo sem sobrar parafuso.",
+      "scene": "promessa: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s026",
+      "start": 90.1941,
+      "end": 93.64055,
+      "line": "Ele segura a madeira, ela alinha o encaixe. O primeiro resultado balança. O segundo fica torto. O terceiro suporta o peso dos dois. Ter tempo infinito não colocou habilidade instantânea nas mãos de Nico. Para melhorar, ele ainda precisa prestar atenção ao erro que acabou de cometer.",
+      "scene": "cadeira: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s027",
+      "start": 93.64055,
+      "end": 97.08699,
+      "line": "Ele segura a madeira, ela alinha o encaixe. O primeiro resultado balança. O segundo fica torto. O terceiro suporta o peso dos dois. Ter tempo infinito não colocou habilidade instantânea nas mãos de Nico. Para melhorar, ele ainda precisa prestar atenção ao erro que acabou de cometer.",
+      "scene": "cadeira: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s028",
+      "start": 97.08699,
+      "end": 100.53343,
+      "line": "Ele segura a madeira, ela alinha o encaixe. O primeiro resultado balança. O segundo fica torto. O terceiro suporta o peso dos dois. Ter tempo infinito não colocou habilidade instantânea nas mãos de Nico. Para melhorar, ele ainda precisa prestar atenção ao erro que acabou de cometer.",
+      "scene": "cadeira: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s029",
+      "start": 100.53343,
+      "end": 103.97987,
+      "line": "Ele segura a madeira, ela alinha o encaixe. O primeiro resultado balança. O segundo fica torto. O terceiro suporta o peso dos dois. Ter tempo infinito não colocou habilidade instantânea nas mãos de Nico. Para melhorar, ele ainda precisa prestar atenção ao erro que acabou de cometer.",
+      "scene": "cadeira: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s030",
+      "start": 103.97987,
+      "end": 107.42631,
+      "line": "Ele segura a madeira, ela alinha o encaixe. O primeiro resultado balança. O segundo fica torto. O terceiro suporta o peso dos dois. Ter tempo infinito não colocou habilidade instantânea nas mãos de Nico. Para melhorar, ele ainda precisa prestar atenção ao erro que acabou de cometer.",
+      "scene": "cadeira: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s031",
+      "start": 107.42631,
+      "end": 110.87275,
+      "line": "Só que uma ideia perigosa chega junto com o presente: amanhã dá. Nico adia a aula, a viagem e uma visita. Apenas porque começou a tratar cada oportunidade como se pudesse reaparecer do mesmo jeito. Enquanto ele espera uma vontade perfeita, as outras pessoas seguem seus calendários.",
+      "scene": "adiar: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s032",
+      "start": 110.87275,
+      "end": 114.31919,
+      "line": "Só que uma ideia perigosa chega junto com o presente: amanhã dá. Nico adia a aula, a viagem e uma visita. Apenas porque começou a tratar cada oportunidade como se pudesse reaparecer do mesmo jeito. Enquanto ele espera uma vontade perfeita, as outras pessoas seguem seus calendários.",
+      "scene": "adiar: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s033",
+      "start": 114.31919,
+      "end": 117.76564,
+      "line": "Só que uma ideia perigosa chega junto com o presente: amanhã dá. Nico adia a aula, a viagem e uma visita. Apenas porque começou a tratar cada oportunidade como se pudesse reaparecer do mesmo jeito. Enquanto ele espera uma vontade perfeita, as outras pessoas seguem seus calendários.",
+      "scene": "adiar: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s034",
+      "start": 117.76564,
+      "end": 121.21208,
+      "line": "Só que uma ideia perigosa chega junto com o presente: amanhã dá. Nico adia a aula, a viagem e uma visita. Apenas porque começou a tratar cada oportunidade como se pudesse reaparecer do mesmo jeito. Enquanto ele espera uma vontade perfeita, as outras pessoas seguem seus calendários.",
+      "scene": "adiar: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s035",
+      "start": 121.21208,
+      "end": 124.65852,
+      "line": "Só que uma ideia perigosa chega junto com o presente: amanhã dá. Nico adia a aula, a viagem e uma visita. Apenas porque começou a tratar cada oportunidade como se pudesse reaparecer do mesmo jeito. Enquanto ele espera uma vontade perfeita, as outras pessoas seguem seus calendários.",
+      "scene": "adiar: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s036",
+      "start": 124.65852,
+      "end": 128.25162,
+      "line": "Lia marca um encontro na praça. Nico chega atrasado e encontra o banco vazio. No telefone, uma mensagem curta: precisei ir. Ele olha o relógio com irritação, depois entende o absurdo. O relógio não está com defeito. A vida dela continua tendo compromissos que o poder dele não altera.",
+      "scene": "encontro: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s037",
+      "start": 128.25162,
+      "end": 131.84472,
+      "line": "Lia marca um encontro na praça. Nico chega atrasado e encontra o banco vazio. No telefone, uma mensagem curta: precisei ir. Ele olha o relógio com irritação, depois entende o absurdo. O relógio não está com defeito. A vida dela continua tendo compromissos que o poder dele não altera.",
+      "scene": "encontro: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s038",
+      "start": 131.84472,
+      "end": 135.43781,
+      "line": "Lia marca um encontro na praça. Nico chega atrasado e encontra o banco vazio. No telefone, uma mensagem curta: precisei ir. Ele olha o relógio com irritação, depois entende o absurdo. O relógio não está com defeito. A vida dela continua tendo compromissos que o poder dele não altera.",
+      "scene": "encontro: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s039",
+      "start": 135.43781,
+      "end": 139.03091,
+      "line": "Lia marca um encontro na praça. Nico chega atrasado e encontra o banco vazio. No telefone, uma mensagem curta: precisei ir. Ele olha o relógio com irritação, depois entende o absurdo. O relógio não está com defeito. A vida dela continua tendo compromissos que o poder dele não altera.",
+      "scene": "encontro: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s040",
+      "start": 139.03091,
+      "end": 142.62401,
+      "line": "Lia marca um encontro na praça. Nico chega atrasado e encontra o banco vazio. No telefone, uma mensagem curta: precisei ir. Ele olha o relógio com irritação, depois entende o absurdo. O relógio não está com defeito. A vida dela continua tendo compromissos que o poder dele não altera.",
+      "scene": "encontro: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s041",
+      "start": 142.62401,
+      "end": 145.55715,
+      "line": "No dia seguinte, ele aparece antes da hora. Os dois inventam um acordo simples: uma coisa nova por semana e uma coisa importante que não pode ser adiada. O caderno recebe a primeira tarefa. Consertar a cadeira de Dona Sol.",
+      "scene": "acordo: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s042",
+      "start": 145.55715,
+      "end": 148.49029,
+      "line": "No dia seguinte, ele aparece antes da hora. Os dois inventam um acordo simples: uma coisa nova por semana e uma coisa importante que não pode ser adiada. O caderno recebe a primeira tarefa. Consertar a cadeira de Dona Sol.",
+      "scene": "acordo: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s043",
+      "start": 148.49029,
+      "end": 151.42344,
+      "line": "No dia seguinte, ele aparece antes da hora. Os dois inventam um acordo simples: uma coisa nova por semana e uma coisa importante que não pode ser adiada. O caderno recebe a primeira tarefa. Consertar a cadeira de Dona Sol.",
+      "scene": "acordo: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s044",
+      "start": 151.42344,
+      "end": 154.35658,
+      "line": "No dia seguinte, ele aparece antes da hora. Os dois inventam um acordo simples: uma coisa nova por semana e uma coisa importante que não pode ser adiada. O caderno recebe a primeira tarefa. Consertar a cadeira de Dona Sol.",
+      "scene": "acordo: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s045",
+      "start": 154.35658,
+      "end": 157.28972,
+      "line": "No dia seguinte, ele aparece antes da hora. Os dois inventam um acordo simples: uma coisa nova por semana e uma coisa importante que não pode ser adiada. O caderno recebe a primeira tarefa. Consertar a cadeira de Dona Sol.",
+      "scene": "acordo: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s046",
+      "start": 157.28972,
+      "end": 159.70956,
+      "line": "Os anos passam pela janela da oficina. Mudam as bicicletas, as fachadas, os aparelhos sobre a mesa. Nico troca peças, aprende ferramentas e começa tudo de novo quando um material deixa de existir.",
+      "scene": "decadas: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s047",
+      "start": 159.70956,
+      "end": 162.1294,
+      "line": "Os anos passam pela janela da oficina. Mudam as bicicletas, as fachadas, os aparelhos sobre a mesa. Nico troca peças, aprende ferramentas e começa tudo de novo quando um material deixa de existir.",
+      "scene": "decadas: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s048",
+      "start": 162.1294,
+      "end": 164.54925,
+      "line": "Os anos passam pela janela da oficina. Mudam as bicicletas, as fachadas, os aparelhos sobre a mesa. Nico troca peças, aprende ferramentas e começa tudo de novo quando um material deixa de existir.",
+      "scene": "decadas: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s049",
+      "start": 164.54925,
+      "end": 166.96909,
+      "line": "Os anos passam pela janela da oficina. Mudam as bicicletas, as fachadas, os aparelhos sobre a mesa. Nico troca peças, aprende ferramentas e começa tudo de novo quando um material deixa de existir.",
+      "scene": "decadas: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s050",
+      "start": 166.96909,
+      "end": 169.38893,
+      "line": "Os anos passam pela janela da oficina. Mudam as bicicletas, as fachadas, os aparelhos sobre a mesa. Nico troca peças, aprende ferramentas e começa tudo de novo quando um material deixa de existir.",
+      "scene": "decadas: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s051",
+      "start": 169.38893,
+      "end": 172.3954,
+      "line": "Lia fica mais velha. O jeito de rir continua parecido, mas ela passa a escolher o banco com sombra e caminha num ritmo diferente. Nico diminui o passo junto. Algumas companhias só cabem na velocidade de quem está ao seu lado.",
+      "scene": "amiga: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s052",
+      "start": 172.3954,
+      "end": 175.40187,
+      "line": "Lia fica mais velha. O jeito de rir continua parecido, mas ela passa a escolher o banco com sombra e caminha num ritmo diferente. Nico diminui o passo junto. Algumas companhias só cabem na velocidade de quem está ao seu lado.",
+      "scene": "amiga: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s053",
+      "start": 175.40187,
+      "end": 178.40834,
+      "line": "Lia fica mais velha. O jeito de rir continua parecido, mas ela passa a escolher o banco com sombra e caminha num ritmo diferente. Nico diminui o passo junto. Algumas companhias só cabem na velocidade de quem está ao seu lado.",
+      "scene": "amiga: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s054",
+      "start": 178.40834,
+      "end": 181.41481,
+      "line": "Lia fica mais velha. O jeito de rir continua parecido, mas ela passa a escolher o banco com sombra e caminha num ritmo diferente. Nico diminui o passo junto. Algumas companhias só cabem na velocidade de quem está ao seu lado.",
+      "scene": "amiga: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s055",
+      "start": 181.41481,
+      "end": 184.42128,
+      "line": "Lia fica mais velha. O jeito de rir continua parecido, mas ela passa a escolher o banco com sombra e caminha num ritmo diferente. Nico diminui o passo junto. Algumas companhias só cabem na velocidade de quem está ao seu lado.",
+      "scene": "amiga: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s056",
+      "start": 184.42128,
+      "end": 188.08771,
+      "line": "Ela lhe entrega uma pequena câmera e pede uma foto da cadeira. Nico sugere guardar tudo para sempre. Lia prefere outra ideia: anotar o que aconteceu naquele dia. O cheiro da tinta. O parafuso perdido. A gargalhada quando os dois sentaram e perceberam que tinham montado o encosto ao contrário.",
+      "scene": "presente: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s057",
+      "start": 188.08771,
+      "end": 191.75413,
+      "line": "Ela lhe entrega uma pequena câmera e pede uma foto da cadeira. Nico sugere guardar tudo para sempre. Lia prefere outra ideia: anotar o que aconteceu naquele dia. O cheiro da tinta. O parafuso perdido. A gargalhada quando os dois sentaram e perceberam que tinham montado o encosto ao contrário.",
+      "scene": "presente: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s058",
+      "start": 191.75413,
+      "end": 195.42056,
+      "line": "Ela lhe entrega uma pequena câmera e pede uma foto da cadeira. Nico sugere guardar tudo para sempre. Lia prefere outra ideia: anotar o que aconteceu naquele dia. O cheiro da tinta. O parafuso perdido. A gargalhada quando os dois sentaram e perceberam que tinham montado o encosto ao contrário.",
+      "scene": "presente: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s059",
+      "start": 195.42056,
+      "end": 199.08699,
+      "line": "Ela lhe entrega uma pequena câmera e pede uma foto da cadeira. Nico sugere guardar tudo para sempre. Lia prefere outra ideia: anotar o que aconteceu naquele dia. O cheiro da tinta. O parafuso perdido. A gargalhada quando os dois sentaram e perceberam que tinham montado o encosto ao contrário.",
+      "scene": "presente: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s060",
+      "start": 199.08699,
+      "end": 202.75341,
+      "line": "Ela lhe entrega uma pequena câmera e pede uma foto da cadeira. Nico sugere guardar tudo para sempre. Lia prefere outra ideia: anotar o que aconteceu naquele dia. O cheiro da tinta. O parafuso perdido. A gargalhada quando os dois sentaram e perceberam que tinham montado o encosto ao contrário.",
+      "scene": "presente: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s061",
+      "start": 202.75341,
+      "end": 205.75988,
+      "line": "Um dia, Lia já não está no banco. A história não precisa fingir que existe uma frase capaz de resolver isso. Nico guarda a câmera e deixa a cadeira na oficina. A imortalidade não oferece um atalho para atravessar a saudade.",
+      "scene": "despedida: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s062",
+      "start": 205.75988,
+      "end": 208.76636,
+      "line": "Um dia, Lia já não está no banco. A história não precisa fingir que existe uma frase capaz de resolver isso. Nico guarda a câmera e deixa a cadeira na oficina. A imortalidade não oferece um atalho para atravessar a saudade.",
+      "scene": "despedida: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s063",
+      "start": 208.76636,
+      "end": 211.77283,
+      "line": "Um dia, Lia já não está no banco. A história não precisa fingir que existe uma frase capaz de resolver isso. Nico guarda a câmera e deixa a cadeira na oficina. A imortalidade não oferece um atalho para atravessar a saudade.",
+      "scene": "despedida: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s064",
+      "start": 211.77283,
+      "end": 214.7793,
+      "line": "Um dia, Lia já não está no banco. A história não precisa fingir que existe uma frase capaz de resolver isso. Nico guarda a câmera e deixa a cadeira na oficina. A imortalidade não oferece um atalho para atravessar a saudade.",
+      "scene": "despedida: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s065",
+      "start": 214.7793,
+      "end": 217.78577,
+      "line": "Um dia, Lia já não está no banco. A história não precisa fingir que existe uma frase capaz de resolver isso. Nico guarda a câmera e deixa a cadeira na oficina. A imortalidade não oferece um atalho para atravessar a saudade.",
+      "scene": "despedida: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s066",
+      "start": 217.78577,
+      "end": 220.42559,
+      "line": "Ele tenta evitar novas amizades. Imagina que, se não se aproximar de ninguém, não vai precisar se despedir. A oficina fica organizada demais e silenciosa demais. Proteger cada lembrança começou a fechar o caminho para outras.",
+      "scene": "isolado: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s067",
+      "start": 220.42559,
+      "end": 223.06542,
+      "line": "Ele tenta evitar novas amizades. Imagina que, se não se aproximar de ninguém, não vai precisar se despedir. A oficina fica organizada demais e silenciosa demais. Proteger cada lembrança começou a fechar o caminho para outras.",
+      "scene": "isolado: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s068",
+      "start": 223.06542,
+      "end": 225.70525,
+      "line": "Ele tenta evitar novas amizades. Imagina que, se não se aproximar de ninguém, não vai precisar se despedir. A oficina fica organizada demais e silenciosa demais. Proteger cada lembrança começou a fechar o caminho para outras.",
+      "scene": "isolado: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s069",
+      "start": 225.70525,
+      "end": 228.34508,
+      "line": "Ele tenta evitar novas amizades. Imagina que, se não se aproximar de ninguém, não vai precisar se despedir. A oficina fica organizada demais e silenciosa demais. Proteger cada lembrança começou a fechar o caminho para outras.",
+      "scene": "isolado: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s070",
+      "start": 228.34508,
+      "end": 230.9849,
+      "line": "Ele tenta evitar novas amizades. Imagina que, se não se aproximar de ninguém, não vai precisar se despedir. A oficina fica organizada demais e silenciosa demais. Proteger cada lembrança começou a fechar o caminho para outras.",
+      "scene": "isolado: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s071",
+      "start": 230.9849,
+      "end": 233.99137,
+      "line": "Então alguém bate à porta. Uma vizinha precisa consertar uma roda de carrinho. Nico explica que não está atendendo. Ela pergunta se pode ao menos deixar a peça. Quando a porta fecha, ele percebe uma arruela solta e pega a chave.",
+      "scene": "vizinha: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s072",
+      "start": 233.99137,
+      "end": 236.99784,
+      "line": "Então alguém bate à porta. Uma vizinha precisa consertar uma roda de carrinho. Nico explica que não está atendendo. Ela pergunta se pode ao menos deixar a peça. Quando a porta fecha, ele percebe uma arruela solta e pega a chave.",
+      "scene": "vizinha: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s073",
+      "start": 236.99784,
+      "end": 240.00431,
+      "line": "Então alguém bate à porta. Uma vizinha precisa consertar uma roda de carrinho. Nico explica que não está atendendo. Ela pergunta se pode ao menos deixar a peça. Quando a porta fecha, ele percebe uma arruela solta e pega a chave.",
+      "scene": "vizinha: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s074",
+      "start": 240.00431,
+      "end": 243.01078,
+      "line": "Então alguém bate à porta. Uma vizinha precisa consertar uma roda de carrinho. Nico explica que não está atendendo. Ela pergunta se pode ao menos deixar a peça. Quando a porta fecha, ele percebe uma arruela solta e pega a chave.",
+      "scene": "vizinha: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s075",
+      "start": 243.01078,
+      "end": 246.01725,
+      "line": "Então alguém bate à porta. Uma vizinha precisa consertar uma roda de carrinho. Nico explica que não está atendendo. Ela pergunta se pode ao menos deixar a peça. Quando a porta fecha, ele percebe uma arruela solta e pega a chave.",
+      "scene": "vizinha: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s076",
+      "start": 246.01725,
+      "end": 249.24371,
+      "line": "A roda volta a girar. O carrinho retorna trazendo uma muda de árvore. A vizinha insiste em plantá-la na praça. Nico segura a pá, afasta uma pedra e encontra espaço perto do banco. Está permitindo que uma lembrança caminhe junto de uma experiência nova.",
+      "scene": "reabrir: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s077",
+      "start": 249.24371,
+      "end": 252.47017,
+      "line": "A roda volta a girar. O carrinho retorna trazendo uma muda de árvore. A vizinha insiste em plantá-la na praça. Nico segura a pá, afasta uma pedra e encontra espaço perto do banco. Está permitindo que uma lembrança caminhe junto de uma experiência nova.",
+      "scene": "reabrir: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s078",
+      "start": 252.47017,
+      "end": 255.69662,
+      "line": "A roda volta a girar. O carrinho retorna trazendo uma muda de árvore. A vizinha insiste em plantá-la na praça. Nico segura a pá, afasta uma pedra e encontra espaço perto do banco. Está permitindo que uma lembrança caminhe junto de uma experiência nova.",
+      "scene": "reabrir: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s079",
+      "start": 255.69662,
+      "end": 258.92308,
+      "line": "A roda volta a girar. O carrinho retorna trazendo uma muda de árvore. A vizinha insiste em plantá-la na praça. Nico segura a pá, afasta uma pedra e encontra espaço perto do banco. Está permitindo que uma lembrança caminhe junto de uma experiência nova.",
+      "scene": "reabrir: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s080",
+      "start": 258.92308,
+      "end": 262.14953,
+      "line": "A roda volta a girar. O carrinho retorna trazendo uma muda de árvore. A vizinha insiste em plantá-la na praça. Nico segura a pá, afasta uma pedra e encontra espaço perto do banco. Está permitindo que uma lembrança caminhe junto de uma experiência nova.",
+      "scene": "reabrir: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s081",
+      "start": 262.14953,
+      "end": 264.42272,
+      "line": "Cem anos depois da primeira fotografia, a árvore cobre o banco inteiro. A cidade cresceu ao redor dela. Nico não reconhece todas as ruas e precisa pedir informação como qualquer visitante.",
+      "scene": "cem: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s082",
+      "start": 264.42272,
+      "end": 266.6959,
+      "line": "Cem anos depois da primeira fotografia, a árvore cobre o banco inteiro. A cidade cresceu ao redor dela. Nico não reconhece todas as ruas e precisa pedir informação como qualquer visitante.",
+      "scene": "cem: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s083",
+      "start": 266.6959,
+      "end": 268.96909,
+      "line": "Cem anos depois da primeira fotografia, a árvore cobre o banco inteiro. A cidade cresceu ao redor dela. Nico não reconhece todas as ruas e precisa pedir informação como qualquer visitante.",
+      "scene": "cem: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s084",
+      "start": 268.96909,
+      "end": 271.24227,
+      "line": "Cem anos depois da primeira fotografia, a árvore cobre o banco inteiro. A cidade cresceu ao redor dela. Nico não reconhece todas as ruas e precisa pedir informação como qualquer visitante.",
+      "scene": "cem: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s085",
+      "start": 271.24227,
+      "end": 273.51546,
+      "line": "Cem anos depois da primeira fotografia, a árvore cobre o banco inteiro. A cidade cresceu ao redor dela. Nico não reconhece todas as ruas e precisa pedir informação como qualquer visitante.",
+      "scene": "cem: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s086",
+      "start": 273.51546,
+      "end": 276.52193,
+      "line": "O caderno virou uma coleção de caixas. Nico encontra um nome que já não consegue ligar a um rosto. Nossa fantasia não deu memória infinita a ele. Ele começa a organizar os registros para poder reencontrar histórias, não apenas acumular objetos.",
+      "scene": "memoria: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s087",
+      "start": 276.52193,
+      "end": 279.5284,
+      "line": "O caderno virou uma coleção de caixas. Nico encontra um nome que já não consegue ligar a um rosto. Nossa fantasia não deu memória infinita a ele. Ele começa a organizar os registros para poder reencontrar histórias, não apenas acumular objetos.",
+      "scene": "memoria: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s088",
+      "start": 279.5284,
+      "end": 282.53487,
+      "line": "O caderno virou uma coleção de caixas. Nico encontra um nome que já não consegue ligar a um rosto. Nossa fantasia não deu memória infinita a ele. Ele começa a organizar os registros para poder reencontrar histórias, não apenas acumular objetos.",
+      "scene": "memoria: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s089",
+      "start": 282.53487,
+      "end": 285.54134,
+      "line": "O caderno virou uma coleção de caixas. Nico encontra um nome que já não consegue ligar a um rosto. Nossa fantasia não deu memória infinita a ele. Ele começa a organizar os registros para poder reencontrar histórias, não apenas acumular objetos.",
+      "scene": "memoria: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s090",
+      "start": 285.54134,
+      "end": 288.54781,
+      "line": "O caderno virou uma coleção de caixas. Nico encontra um nome que já não consegue ligar a um rosto. Nossa fantasia não deu memória infinita a ele. Ele começa a organizar os registros para poder reencontrar histórias, não apenas acumular objetos.",
+      "scene": "memoria: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s091",
+      "start": 288.54781,
+      "end": 291.70093,
+      "line": "Também surgem perguntas práticas. Como explicar uma aparência que nunca muda? Quem mantém os documentos? O que significa fazer uma promessa para sempre? Dentro da história, Nico precisa de confiança, ajuda e acordos claros, em vez de fingir que pode resolver tudo sozinho.",
+      "scene": "identidade: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s092",
+      "start": 291.70093,
+      "end": 294.85406,
+      "line": "Também surgem perguntas práticas. Como explicar uma aparência que nunca muda? Quem mantém os documentos? O que significa fazer uma promessa para sempre? Dentro da história, Nico precisa de confiança, ajuda e acordos claros, em vez de fingir que pode resolver tudo sozinho.",
+      "scene": "identidade: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s093",
+      "start": 294.85406,
+      "end": 298.00719,
+      "line": "Também surgem perguntas práticas. Como explicar uma aparência que nunca muda? Quem mantém os documentos? O que significa fazer uma promessa para sempre? Dentro da história, Nico precisa de confiança, ajuda e acordos claros, em vez de fingir que pode resolver tudo sozinho.",
+      "scene": "identidade: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s094",
+      "start": 298.00719,
+      "end": 301.16032,
+      "line": "Também surgem perguntas práticas. Como explicar uma aparência que nunca muda? Quem mantém os documentos? O que significa fazer uma promessa para sempre? Dentro da história, Nico precisa de confiança, ajuda e acordos claros, em vez de fingir que pode resolver tudo sozinho.",
+      "scene": "identidade: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s095",
+      "start": 301.16032,
+      "end": 304.31344,
+      "line": "Também surgem perguntas práticas. Como explicar uma aparência que nunca muda? Quem mantém os documentos? O que significa fazer uma promessa para sempre? Dentro da história, Nico precisa de confiança, ajuda e acordos claros, em vez de fingir que pode resolver tudo sozinho.",
+      "scene": "identidade: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s096",
+      "start": 304.31344,
+      "end": 306.80661,
+      "line": "Ele transforma parte da oficina numa sala de aprendizagem. Uma pessoa ensina desenho, outra aparece com um motor diferente, outra sabe cultivar plantas em pouco espaço. Nico tem experiência, mas não monopoliza a mesa.",
+      "scene": "escola: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s097",
+      "start": 306.80661,
+      "end": 309.29978,
+      "line": "Ele transforma parte da oficina numa sala de aprendizagem. Uma pessoa ensina desenho, outra aparece com um motor diferente, outra sabe cultivar plantas em pouco espaço. Nico tem experiência, mas não monopoliza a mesa.",
+      "scene": "escola: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s098",
+      "start": 309.29978,
+      "end": 311.79295,
+      "line": "Ele transforma parte da oficina numa sala de aprendizagem. Uma pessoa ensina desenho, outra aparece com um motor diferente, outra sabe cultivar plantas em pouco espaço. Nico tem experiência, mas não monopoliza a mesa.",
+      "scene": "escola: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s099",
+      "start": 311.79295,
+      "end": 314.28613,
+      "line": "Ele transforma parte da oficina numa sala de aprendizagem. Uma pessoa ensina desenho, outra aparece com um motor diferente, outra sabe cultivar plantas em pouco espaço. Nico tem experiência, mas não monopoliza a mesa.",
+      "scene": "escola: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s100",
+      "start": 314.28613,
+      "end": 316.7793,
+      "line": "Ele transforma parte da oficina numa sala de aprendizagem. Uma pessoa ensina desenho, outra aparece com um motor diferente, outra sabe cultivar plantas em pouco espaço. Nico tem experiência, mas não monopoliza a mesa.",
+      "scene": "escola: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s101",
+      "start": 316.7793,
+      "end": 320.29907,
+      "line": "E fora da fantasia? Não conhecemos uma maneira de tornar uma pessoa imortal. O envelhecimento envolve vários processos; não existe um único botão que baste desligar. Telômeros participam da biologia das células, mas isso não faz deles um contador simples que possa ser reiniciado para garantir vida eterna.",
+      "scene": "ciencia: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s102",
+      "start": 320.29907,
+      "end": 323.81884,
+      "line": "E fora da fantasia? Não conhecemos uma maneira de tornar uma pessoa imortal. O envelhecimento envolve vários processos; não existe um único botão que baste desligar. Telômeros participam da biologia das células, mas isso não faz deles um contador simples que possa ser reiniciado para garantir vida eterna.",
+      "scene": "ciencia: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s103",
+      "start": 323.81884,
+      "end": 327.33861,
+      "line": "E fora da fantasia? Não conhecemos uma maneira de tornar uma pessoa imortal. O envelhecimento envolve vários processos; não existe um único botão que baste desligar. Telômeros participam da biologia das células, mas isso não faz deles um contador simples que possa ser reiniciado para garantir vida eterna.",
+      "scene": "ciencia: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s104",
+      "start": 327.33861,
+      "end": 330.85838,
+      "line": "E fora da fantasia? Não conhecemos uma maneira de tornar uma pessoa imortal. O envelhecimento envolve vários processos; não existe um único botão que baste desligar. Telômeros participam da biologia das células, mas isso não faz deles um contador simples que possa ser reiniciado para garantir vida eterna.",
+      "scene": "ciencia: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s105",
+      "start": 330.85838,
+      "end": 334.37815,
+      "line": "E fora da fantasia? Não conhecemos uma maneira de tornar uma pessoa imortal. O envelhecimento envolve vários processos; não existe um único botão que baste desligar. Telômeros participam da biologia das células, mas isso não faz deles um contador simples que possa ser reiniciado para garantir vida eterna.",
+      "scene": "ciencia: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s106",
+      "start": 334.37815,
+      "end": 337.89792,
+      "line": "Há organismos que desafiam nossas expectativas. Uma pequena água-viva, chamada Turritopsis dohrnii, pode reverter etapas do seu desenvolvimento em certas condições. Isso não a torna indestrutível: doenças, predadores e outras condições continuam existindo. Um fenômeno fascinante em outra espécie não funciona como receita pronta para o corpo humano.",
+      "scene": "natureza: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s107",
+      "start": 337.89792,
+      "end": 341.41769,
+      "line": "Há organismos que desafiam nossas expectativas. Uma pequena água-viva, chamada Turritopsis dohrnii, pode reverter etapas do seu desenvolvimento em certas condições. Isso não a torna indestrutível: doenças, predadores e outras condições continuam existindo. Um fenômeno fascinante em outra espécie não funciona como receita pronta para o corpo humano.",
+      "scene": "natureza: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s108",
+      "start": 341.41769,
+      "end": 344.93746,
+      "line": "Há organismos que desafiam nossas expectativas. Uma pequena água-viva, chamada Turritopsis dohrnii, pode reverter etapas do seu desenvolvimento em certas condições. Isso não a torna indestrutível: doenças, predadores e outras condições continuam existindo. Um fenômeno fascinante em outra espécie não funciona como receita pronta para o corpo humano.",
+      "scene": "natureza: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s109",
+      "start": 344.93746,
+      "end": 348.45723,
+      "line": "Há organismos que desafiam nossas expectativas. Uma pequena água-viva, chamada Turritopsis dohrnii, pode reverter etapas do seu desenvolvimento em certas condições. Isso não a torna indestrutível: doenças, predadores e outras condições continuam existindo. Um fenômeno fascinante em outra espécie não funciona como receita pronta para o corpo humano.",
+      "scene": "natureza: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s110",
+      "start": 348.45723,
+      "end": 351.97699,
+      "line": "Há organismos que desafiam nossas expectativas. Uma pequena água-viva, chamada Turritopsis dohrnii, pode reverter etapas do seu desenvolvimento em certas condições. Isso não a torna indestrutível: doenças, predadores e outras condições continuam existindo. Um fenômeno fascinante em outra espécie não funciona como receita pronta para o corpo humano.",
+      "scene": "natureza: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s111",
+      "start": 351.97699,
+      "end": 354.25018,
+      "line": "Voltando a Nico, os séculos seguintes não vêm com um roteiro garantido. Ele vê projetos darem certo e outros fracassarem. A praça muda de nome, perde árvores, ganha um jardim novo.",
+      "scene": "futuro: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s112",
+      "start": 354.25018,
+      "end": 356.52336,
+      "line": "Voltando a Nico, os séculos seguintes não vêm com um roteiro garantido. Ele vê projetos darem certo e outros fracassarem. A praça muda de nome, perde árvores, ganha um jardim novo.",
+      "scene": "futuro: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s113",
+      "start": 356.52336,
+      "end": 358.79655,
+      "line": "Voltando a Nico, os séculos seguintes não vêm com um roteiro garantido. Ele vê projetos darem certo e outros fracassarem. A praça muda de nome, perde árvores, ganha um jardim novo.",
+      "scene": "futuro: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s114",
+      "start": 358.79655,
+      "end": 361.06973,
+      "line": "Voltando a Nico, os séculos seguintes não vêm com um roteiro garantido. Ele vê projetos darem certo e outros fracassarem. A praça muda de nome, perde árvores, ganha um jardim novo.",
+      "scene": "futuro: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s115",
+      "start": 361.06973,
+      "end": 363.34292,
+      "line": "Voltando a Nico, os séculos seguintes não vêm com um roteiro garantido. Ele vê projetos darem certo e outros fracassarem. A praça muda de nome, perde árvores, ganha um jardim novo.",
+      "scene": "futuro: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s116",
+      "start": 363.34292,
+      "end": 365.98275,
+      "line": "Em algum futuro imaginário, aparece a oportunidade de sair da Terra. Nico arruma uma mala pequena. Precisa escolher o que levar. Uma câmera antiga, algumas páginas e uma semente vencem a disputa com centenas de lembranças.",
+      "scene": "partida: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s117",
+      "start": 365.98275,
+      "end": 368.62257,
+      "line": "Em algum futuro imaginário, aparece a oportunidade de sair da Terra. Nico arruma uma mala pequena. Precisa escolher o que levar. Uma câmera antiga, algumas páginas e uma semente vencem a disputa com centenas de lembranças.",
+      "scene": "partida: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s118",
+      "start": 368.62257,
+      "end": 371.2624,
+      "line": "Em algum futuro imaginário, aparece a oportunidade de sair da Terra. Nico arruma uma mala pequena. Precisa escolher o que levar. Uma câmera antiga, algumas páginas e uma semente vencem a disputa com centenas de lembranças.",
+      "scene": "partida: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s119",
+      "start": 371.2624,
+      "end": 373.90223,
+      "line": "Em algum futuro imaginário, aparece a oportunidade de sair da Terra. Nico arruma uma mala pequena. Precisa escolher o que levar. Uma câmera antiga, algumas páginas e uma semente vencem a disputa com centenas de lembranças.",
+      "scene": "partida: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s120",
+      "start": 373.90223,
+      "end": 376.54206,
+      "line": "Em algum futuro imaginário, aparece a oportunidade de sair da Terra. Nico arruma uma mala pequena. Precisa escolher o que levar. Uma câmera antiga, algumas páginas e uma semente vencem a disputa com centenas de lembranças.",
+      "scene": "partida: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s121",
+      "start": 376.54206,
+      "end": 379.54853,
+      "line": "Na estação, os outros viajantes flutuam devagar entre apoios. Nico prende a mala antes de abrir a caixa. Um objeto solto atravessa a cabine e obriga todo mundo a interromper o trabalho. O poder não cancelou a necessidade de seguir instruções.",
+      "scene": "nave: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s122",
+      "start": 379.54853,
+      "end": 382.555,
+      "line": "Na estação, os outros viajantes flutuam devagar entre apoios. Nico prende a mala antes de abrir a caixa. Um objeto solto atravessa a cabine e obriga todo mundo a interromper o trabalho. O poder não cancelou a necessidade de seguir instruções.",
+      "scene": "nave: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s123",
+      "start": 382.555,
+      "end": 385.56147,
+      "line": "Na estação, os outros viajantes flutuam devagar entre apoios. Nico prende a mala antes de abrir a caixa. Um objeto solto atravessa a cabine e obriga todo mundo a interromper o trabalho. O poder não cancelou a necessidade de seguir instruções.",
+      "scene": "nave: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s124",
+      "start": 385.56147,
+      "end": 388.56794,
+      "line": "Na estação, os outros viajantes flutuam devagar entre apoios. Nico prende a mala antes de abrir a caixa. Um objeto solto atravessa a cabine e obriga todo mundo a interromper o trabalho. O poder não cancelou a necessidade de seguir instruções.",
+      "scene": "nave: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s125",
+      "start": 388.56794,
+      "end": 391.57441,
+      "line": "Na estação, os outros viajantes flutuam devagar entre apoios. Nico prende a mala antes de abrir a caixa. Um objeto solto atravessa a cabine e obriga todo mundo a interromper o trabalho. O poder não cancelou a necessidade de seguir instruções.",
+      "scene": "nave: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s126",
+      "start": 391.57441,
+      "end": 393.99425,
+      "line": "No destino, uma pequena estufa recebe a primeira muda. Nico trabalha com pessoas que nunca conheceram a praça. Ele conta a origem da semente, mas também escuta as histórias que chegaram com elas.",
+      "scene": "jardim: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s127",
+      "start": 393.99425,
+      "end": 396.41409,
+      "line": "No destino, uma pequena estufa recebe a primeira muda. Nico trabalha com pessoas que nunca conheceram a praça. Ele conta a origem da semente, mas também escuta as histórias que chegaram com elas.",
+      "scene": "jardim: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s128",
+      "start": 396.41409,
+      "end": 398.83393,
+      "line": "No destino, uma pequena estufa recebe a primeira muda. Nico trabalha com pessoas que nunca conheceram a praça. Ele conta a origem da semente, mas também escuta as histórias que chegaram com elas.",
+      "scene": "jardim: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s129",
+      "start": 398.83393,
+      "end": 401.25377,
+      "line": "No destino, uma pequena estufa recebe a primeira muda. Nico trabalha com pessoas que nunca conheceram a praça. Ele conta a origem da semente, mas também escuta as histórias que chegaram com elas.",
+      "scene": "jardim: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s130",
+      "start": 401.25377,
+      "end": 403.67362,
+      "line": "No destino, uma pequena estufa recebe a primeira muda. Nico trabalha com pessoas que nunca conheceram a praça. Ele conta a origem da semente, mas também escuta as histórias que chegaram com elas.",
+      "scene": "jardim: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "station",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s131",
+      "start": 403.67362,
+      "end": 406.60676,
+      "line": "Agora podemos afastar a câmera até os milênios. É uma mudança de escala, não uma previsão sobre a humanidade. Não sabemos quais tecnologias existirão nem onde alguém conseguiria viver. Tempo disponível não cria, sozinho, ar, energia ou um lugar seguro.",
+      "scene": "cosmos: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s132",
+      "start": 406.60676,
+      "end": 409.5399,
+      "line": "Agora podemos afastar a câmera até os milênios. É uma mudança de escala, não uma previsão sobre a humanidade. Não sabemos quais tecnologias existirão nem onde alguém conseguiria viver. Tempo disponível não cria, sozinho, ar, energia ou um lugar seguro.",
+      "scene": "cosmos: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s133",
+      "start": 409.5399,
+      "end": 412.47304,
+      "line": "Agora podemos afastar a câmera até os milênios. É uma mudança de escala, não uma previsão sobre a humanidade. Não sabemos quais tecnologias existirão nem onde alguém conseguiria viver. Tempo disponível não cria, sozinho, ar, energia ou um lugar seguro.",
+      "scene": "cosmos: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s134",
+      "start": 412.47304,
+      "end": 415.40618,
+      "line": "Agora podemos afastar a câmera até os milênios. É uma mudança de escala, não uma previsão sobre a humanidade. Não sabemos quais tecnologias existirão nem onde alguém conseguiria viver. Tempo disponível não cria, sozinho, ar, energia ou um lugar seguro.",
+      "scene": "cosmos: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s135",
+      "start": 415.40618,
+      "end": 418.33932,
+      "line": "Agora podemos afastar a câmera até os milênios. É uma mudança de escala, não uma previsão sobre a humanidade. Não sabemos quais tecnologias existirão nem onde alguém conseguiria viver. Tempo disponível não cria, sozinho, ar, energia ou um lugar seguro.",
+      "scene": "cosmos: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s136",
+      "start": 418.33932,
+      "end": 422.22574,
+      "line": "Em escalas de bilhões de anos, até estrelas mudam. O Sol também terá uma evolução que transforma profundamente o Sistema Solar. A regra de um corpo que se recupera não explica como sobreviver sem um ambiente habitável. Se quisermos levar Nico além disso, precisamos declarar outra hipótese, em vez de escondê-la no roteiro.",
+      "scene": "estrela: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s137",
+      "start": 422.22574,
+      "end": 426.11215,
+      "line": "Em escalas de bilhões de anos, até estrelas mudam. O Sol também terá uma evolução que transforma profundamente o Sistema Solar. A regra de um corpo que se recupera não explica como sobreviver sem um ambiente habitável. Se quisermos levar Nico além disso, precisamos declarar outra hipótese, em vez de escondê-la no roteiro.",
+      "scene": "estrela: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s138",
+      "start": 426.11215,
+      "end": 429.99856,
+      "line": "Em escalas de bilhões de anos, até estrelas mudam. O Sol também terá uma evolução que transforma profundamente o Sistema Solar. A regra de um corpo que se recupera não explica como sobreviver sem um ambiente habitável. Se quisermos levar Nico além disso, precisamos declarar outra hipótese, em vez de escondê-la no roteiro.",
+      "scene": "estrela: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s139",
+      "start": 429.99856,
+      "end": 433.88497,
+      "line": "Em escalas de bilhões de anos, até estrelas mudam. O Sol também terá uma evolução que transforma profundamente o Sistema Solar. A regra de um corpo que se recupera não explica como sobreviver sem um ambiente habitável. Se quisermos levar Nico além disso, precisamos declarar outra hipótese, em vez de escondê-la no roteiro.",
+      "scene": "estrela: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s140",
+      "start": 433.88497,
+      "end": 437.77139,
+      "line": "Em escalas de bilhões de anos, até estrelas mudam. O Sol também terá uma evolução que transforma profundamente o Sistema Solar. A regra de um corpo que se recupera não explica como sobreviver sem um ambiente habitável. Se quisermos levar Nico além disso, precisamos declarar outra hipótese, em vez de escondê-la no roteiro.",
+      "scene": "estrela: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s141",
+      "start": 437.77139,
+      "end": 441.51114,
+      "line": "Por isso, a nossa história para antes de fingir uma resposta para o fim do universo. A pergunta mais difícil já estava na oficina. Com tanto tempo disponível, Nico seria capaz de continuar curioso? De pedir desculpa? De admitir que uma pessoa que viveu muito menos pode lhe ensinar alguma coisa?",
+      "scene": "limite: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s142",
+      "start": 441.51114,
+      "end": 445.2509,
+      "line": "Por isso, a nossa história para antes de fingir uma resposta para o fim do universo. A pergunta mais difícil já estava na oficina. Com tanto tempo disponível, Nico seria capaz de continuar curioso? De pedir desculpa? De admitir que uma pessoa que viveu muito menos pode lhe ensinar alguma coisa?",
+      "scene": "limite: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s143",
+      "start": 445.2509,
+      "end": 448.99065,
+      "line": "Por isso, a nossa história para antes de fingir uma resposta para o fim do universo. A pergunta mais difícil já estava na oficina. Com tanto tempo disponível, Nico seria capaz de continuar curioso? De pedir desculpa? De admitir que uma pessoa que viveu muito menos pode lhe ensinar alguma coisa?",
+      "scene": "limite: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s144",
+      "start": 448.99065,
+      "end": 452.73041,
+      "line": "Por isso, a nossa história para antes de fingir uma resposta para o fim do universo. A pergunta mais difícil já estava na oficina. Com tanto tempo disponível, Nico seria capaz de continuar curioso? De pedir desculpa? De admitir que uma pessoa que viveu muito menos pode lhe ensinar alguma coisa?",
+      "scene": "limite: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s145",
+      "start": 452.73041,
+      "end": 456.47017,
+      "line": "Por isso, a nossa história para antes de fingir uma resposta para o fim do universo. A pergunta mais difícil já estava na oficina. Com tanto tempo disponível, Nico seria capaz de continuar curioso? De pedir desculpa? De admitir que uma pessoa que viveu muito menos pode lhe ensinar alguma coisa?",
+      "scene": "limite: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s146",
+      "start": 456.47017,
+      "end": 460.20992,
+      "line": "Voltamos à caixa do começo. Trezentos anos depois, Nico reconhece a fotografia da cadeira. No verso, encontra uma anotação de Lia: finalmente parou de balançar. Ele ri, chama os aprendizes e coloca a foto na mesa. Em seguida, entrega a ferramenta a alguém que ainda está tentando acertar o primeiro encaixe.",
+      "scene": "retorno: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s147",
+      "start": 460.20992,
+      "end": 463.94968,
+      "line": "Voltamos à caixa do começo. Trezentos anos depois, Nico reconhece a fotografia da cadeira. No verso, encontra uma anotação de Lia: finalmente parou de balançar. Ele ri, chama os aprendizes e coloca a foto na mesa. Em seguida, entrega a ferramenta a alguém que ainda está tentando acertar o primeiro encaixe.",
+      "scene": "retorno: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s148",
+      "start": 463.94968,
+      "end": 467.68943,
+      "line": "Voltamos à caixa do começo. Trezentos anos depois, Nico reconhece a fotografia da cadeira. No verso, encontra uma anotação de Lia: finalmente parou de balançar. Ele ri, chama os aprendizes e coloca a foto na mesa. Em seguida, entrega a ferramenta a alguém que ainda está tentando acertar o primeiro encaixe.",
+      "scene": "retorno: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s149",
+      "start": 467.68943,
+      "end": 471.42919,
+      "line": "Voltamos à caixa do começo. Trezentos anos depois, Nico reconhece a fotografia da cadeira. No verso, encontra uma anotação de Lia: finalmente parou de balançar. Ele ri, chama os aprendizes e coloca a foto na mesa. Em seguida, entrega a ferramenta a alguém que ainda está tentando acertar o primeiro encaixe.",
+      "scene": "retorno: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s150",
+      "start": 471.42919,
+      "end": 475.16894,
+      "line": "Voltamos à caixa do começo. Trezentos anos depois, Nico reconhece a fotografia da cadeira. No verso, encontra uma anotação de Lia: finalmente parou de balançar. Ele ri, chama os aprendizes e coloca a foto na mesa. Em seguida, entrega a ferramenta a alguém que ainda está tentando acertar o primeiro encaixe.",
+      "scene": "retorno: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s151",
+      "start": 475.16894,
+      "end": 479.20201,
+      "line": "Ser imortal parece oferecer todos os dias. Mas não oferece de novo exatamente esta conversa, esta amizade ou esta tarde. Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada. A novidade não é ter aprendido a vencer o tempo. É ter parado de usar a eternidade como desculpa para adiar.",
+      "scene": "escolha: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s152",
+      "start": 479.20201,
+      "end": 483.23508,
+      "line": "Ser imortal parece oferecer todos os dias. Mas não oferece de novo exatamente esta conversa, esta amizade ou esta tarde. Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada. A novidade não é ter aprendido a vencer o tempo. É ter parado de usar a eternidade como desculpa para adiar.",
+      "scene": "escolha: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s153",
+      "start": 483.23508,
+      "end": 487.26815,
+      "line": "Ser imortal parece oferecer todos os dias. Mas não oferece de novo exatamente esta conversa, esta amizade ou esta tarde. Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada. A novidade não é ter aprendido a vencer o tempo. É ter parado de usar a eternidade como desculpa para adiar.",
+      "scene": "escolha: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s154",
+      "start": 487.26815,
+      "end": 491.30122,
+      "line": "Ser imortal parece oferecer todos os dias. Mas não oferece de novo exatamente esta conversa, esta amizade ou esta tarde. Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada. A novidade não é ter aprendido a vencer o tempo. É ter parado de usar a eternidade como desculpa para adiar.",
+      "scene": "escolha: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s155",
+      "start": 491.30122,
+      "end": 495.33429,
+      "line": "Ser imortal parece oferecer todos os dias. Mas não oferece de novo exatamente esta conversa, esta amizade ou esta tarde. Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada. A novidade não é ter aprendido a vencer o tempo. É ter parado de usar a eternidade como desculpa para adiar.",
+      "scene": "escolha: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s156",
+      "start": 495.33429,
+      "end": 498.26743,
+      "line": "E você: aceitaria viver para sempre, sabendo que o mundo continuaria mudando? Qual seria a primeira coisa que faria, e o que teria medo de perder? Conta nos comentários. Se quiser explorar outras hipóteses com a gente, inscreva-se no Então.",
+      "scene": "final: wide; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s157",
+      "start": 498.26743,
+      "end": 501.20058,
+      "line": "E você: aceitaria viver para sempre, sabendo que o mundo continuaria mudando? Qual seria a primeira coisa que faria, e o que teria medo de perder? Conta nos comentários. Se quiser explorar outras hipóteses com a gente, inscreva-se no Então.",
+      "scene": "final: hands; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 1,
+        "cam": "hands"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s158",
+      "start": 501.20058,
+      "end": 504.13372,
+      "line": "E você: aceitaria viver para sempre, sabendo que o mundo continuaria mudando? Qual seria a primeira coisa que faria, e o que teria medo de perder? Conta nos comentários. Se quiser explorar outras hipóteses com a gente, inscreva-se no Então.",
+      "scene": "final: track; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s159",
+      "start": 504.13372,
+      "end": 507.06686,
+      "line": "E você: aceitaria viver para sempre, sabendo que o mundo continuaria mudando? Qual seria a primeira coisa que faria, e o que teria medo de perder? Conta nos comentários. Se quiser explorar outras hipóteses com a gente, inscreva-se no Então.",
+      "scene": "final: close; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s160",
+      "start": 507.06686,
+      "end": 510.0,
+      "line": "E você: aceitaria viver para sempre, sabendo que o mundo continuaria mudando? Qual seria a primeira coisa que faria, e o que teria medo de perder? Conta nos comentários. Se quiser explorar outras hipóteses com a gente, inscreva-se no Então.",
+      "scene": "final: orbit; ação contínua e reação, sem reiniciar movimento no corte",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    }
+  ]
+}

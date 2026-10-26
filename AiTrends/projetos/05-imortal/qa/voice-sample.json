@@ -1,0 +1,24 @@
+{
+  "text": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?",
+  "direction": "Narre em português brasileiro, como um apresentador curioso conversando com uma pessoa. Voz Puck, calorosa, clara, com sorriso discreto no começo e curiosidade sincera no final. Ritmo confortável, sem pressa. Volume uniforme. Faça uma pausa natural após fotografia e antes da pergunta final. Não sussurre, não grite, não dramatize como trailer. Leia SOMENTE o texto após NARRAÇÃO, sem comentários nem instruções.",
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "api": "generateContent",
+  "attempt_limit": 1,
+  "status": "pending_user_evaluation",
+  "request_sha256": "17657ef860b78491652a3d5c867f39372cb6790de79c46bc2dbbe55893ebd7b1",
+  "mime_type": "audio/L16;codec=pcm;rate=24000",
+  "generations": 1,
+  "speed_change": false,
+  "silence_cuts": false,
+  "pitch_change": false,
+  "approval": "pending",
+  "human_listening": false,
+  "variants": [
+    "original",
+    "light",
+    "mix"
+  ],
+  "treatment": "65 Hz highpass; gentle 1.6:1 compressor; loudnorm -18 LUFS; no tempo changes or pause removal",
+  "mix": "Very quiet original harmonic bed and single low-level wood click; no repetitive oscillators or flashing SFX"
+}
