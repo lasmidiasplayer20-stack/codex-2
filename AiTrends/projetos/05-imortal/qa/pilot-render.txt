@@ -1,0 +1,14 @@
+WARNING: 155 shots have no scene file yet: s006, s007, s008, s009, s010, s011, s012, s013, s014, s015, s016, s017 …
+Rendering frames 0-483 (20.1 s) with 1 worker(s)…
+  48/483 frames  7.30 fps  elapsed 0m07s  eta 0m60s
+  96/483 frames  7.72 fps  elapsed 0m12s  eta 0m50s
+  144/483 frames  7.60 fps  elapsed 0m19s  eta 0m45s
+  192/483 frames  7.52 fps  elapsed 0m26s  eta 0m39s
+  240/483 frames  7.50 fps  elapsed 0m32s  eta 0m32s
+  288/483 frames  7.41 fps  elapsed 0m39s  eta 0m26s
+  336/483 frames  7.36 fps  elapsed 0m46s  eta 0m20s
+  384/483 frames  7.42 fps  elapsed 0m52s  eta 0m13s
+  432/483 frames  7.53 fps  elapsed 0m57s  eta 0m07s
+  480/483 frames  8.05 fps  elapsed 0m60s  eta 0m00s
+
+Done: /workspace/immortal-private/pilot-silent.mp4  (1m00s)

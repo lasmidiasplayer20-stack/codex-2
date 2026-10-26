@@ -96,3 +96,13 @@ Consulte `../projetos/04-quanto-tempo-resta/scenes/` para braços com IK tridime
 ## Voz reafirmada — episódio 05
 
 Em 26/10/2026, o usuário reafirmou manter a voz Puck do início, reduzir oscilações e evitar vazios longos. Não interpretar como autorização para trocar o timbre ou como aprovação de uma amostra ainda não ouvida. No caminho `generateContent` do helper compartilhado, a orientação de estilo não era enviada: enviar direção de narração explícita no prompt nos próximos trechos. Isso é uma falha de implementação constatada, não diagnóstico completo da reprovação do episódio 04. Amostra 05: uma geração, variantes locais, sem acelerar nem cortar pausas; avaliação ainda pendente.
+
+## Episódio 05 — amostra aprovada e áudio natural
+
+O usuário aprovou explicitamente `05-imortal/audio/03-voz-com-mix.mp3`: **“Aprovada com mix discreta”**. Esse arquivo passa a ser a referência curta aprovada para Puck e mix discreta. A aprovação cobre a amostra; não declarar aprovação editorial automática do filme ou voz completos. Registrar arquivo avaliado e resposta. Abertura reutilizada; oito blocos restantes no mesmo modelo, sem nova geração do trecho bom.
+
+No episódio 05, a leitura natural ultrapassou o alvo inicial: 590,625 s. Não aceleramos a fala. Tratamento leve: filtro 65 Hz, compressão 1,6:1, −18 LUFS. Encurtamos somente vazios sustentados >1,2 s para ~0,65 s; as pausas curtas foram preservadas. Isso atende ao pedido de evitar longos vazios; não confundir com remoção agressiva de todas as respirações. Mistura com harmonia espaçada e Foley muito discreto, sem pulsação sonora insistente.
+
+O helper `generate_voice.py` agora envia orientação de leitura também no caminho `generateContent`; caches antigos são preservados, sem regeneração automática. `new_project.py` passa a criar projetos com `fast3D: false` para manter MSAA. O exportador lê `config.ctaSeconds`, evitando relatar os tempos de outro episódio quando a duração muda.
+
+Novo projeto de referência: `../projetos/05-imortal/`, com caixa articulada, fotografia por código, envelhecimento visual da amiga, cadeiras/rodas/plantas/mala, diagramas e cenas espaciais. Não copiar seu roteiro em outros episódios. Manter o procedimento de amostra de áudio e teste temporal do guia; não usar a reprovação do episódio 04 como padrão aprovado.

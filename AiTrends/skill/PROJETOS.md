@@ -11,3 +11,8 @@ Pedido sugerido: “Acesse lasmidiasplayer20-stack/codex-2, leia AiTrends/README
 Isto é documentação versionada lida pelo agente. Não é instalação automática de plugin nem hospedagem de API. Outro ambiente precisa das dependências (`studio.py doctor/setup`); chave somente em variável de ambiente. Para reutilizar o áudio existente, nenhuma chave é necessária.
 
 Referência de encenação e cenários: [04 — Quanto Tempo Resta](../projetos/04-quanto-tempo-resta/), com livros instanciados, parede oposta para contraplanos, braços IK em 3D, transferência de props e contadores que evitam os rostos.
+
+
+## 05 — Imortal
+
+`../projetos/05-imortal/`: história própria sobre imortalidade, 160 planos, Puck confirmada pelo usuário. Amostra com mix discreta aprovada antes de oito blocos restantes. Sem acelerar a voz, antialiasing ligado. Pacote YouTube próprio em `../youtube/05 - E se você fosse imortal/`. Estado exato no README; não presumir aprovação editorial do episódio completo.

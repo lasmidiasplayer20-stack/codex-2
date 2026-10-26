@@ -31,11 +31,13 @@ export function actor(T,id){
  const head=new H.Group();body.add(head);const skull=mesh('sphere','#10131d',[0,0,0],[.255,.255,.255],true);head.add(L.outline(skull,'#fff0c9',1.035),skull);
  const faceMat=new H.MeshBasicMaterial({map:face('smile',false),transparent:true,depthWrite:false,side:H.DoubleSide});const panel=new H.Mesh(new H.PlaneGeometry(.39,.39),faceMat);panel.rotation.y=Math.PI/2;panel.position.x=.26;head.add(panel);
  if(c.pony){head.add(mesh('sphere','#171528',[-.26,0,0],[.11,.2,.11],true),mesh('sphere',c.color,[-.2,.1,0],[.07,.07,.07]));}
+ const ageHair=mesh('sphere','#b9c4bf',[-.12,.16,0],[.19,.15,.22],true);head.add(ageHair);ageHair.visible=false;
  const limbs={},joints={},feet={},palms={};
  for(const side of ['F','B']){limbs['thigh'+side]=bone(body,'#151b2c',.047);limbs['calf'+side]=bone(body,'#151b2c',.044);limbs['upper'+side]=bone(body,c.color,.067);limbs['lower'+side]=bone(body,c.color,.059);for(const joint of ['knee','elbow']){joints[joint+side]=mesh('sphere',joint==='knee'?'#182038':c.color);body.add(joints[joint+side]);}feet[side]=mesh('sphere',c.accent,[0,.065,0],[.16,.065,.09]);palms[side]=mesh('sphere','#111625',[0,0,0],[.073,.073,.073],true);body.add(feet[side],palms[side]);}
  const shadow=new H.Mesh(L.geo.circle,new H.MeshBasicMaterial({color:'#101421',transparent:true,opacity:.18,depthWrite:false}));shadow.rotation.x=-Math.PI/2;shadow.scale.set(.38,.24,1);shadow.position.y=.012;root.add(shadow);
  let lastFace='';
  function update(o){
+  ageHair.visible=!!o.age;
   root.position.set(o.x||0,o.y||0,o.z||0);root.rotation.y=o.yaw||0;const stance=o.run?.42:.6,stride=o.run?.57:.31,phase=(o.distance||0)/(stride/stance);const moving=o.moving!==false;const seated=o.sit;let hip=(seated?.55:1.025)-.46*(o.crouch||0),lean=o.run?.11:.16*(o.crouch||0);
   if(moving&&!seated)hip-=.025*(1-Math.cos(phase*Math.PI*4));const hipP=[0,hip,0],sh=[lean,hip+.46,0];
   neck.position.set(lean,hip+.53,0);chest.position.set(lean*.5,hip+.23,0);hem.position.set(0,hip,0);zip.position.set(.183+lean*.5,hip+.23,0);pocket.position.set(.187+lean*.5,hip+.1,.08);head.position.set(lean+.025,hip+.76+.008*Math.sin(o.time*1.7),0);head.rotation.z=o.nod||0;head.rotation.y=o.headYaw??-.35;
@@ -44,10 +46,13 @@ export function actor(T,id){
    if(seated){footX=.36;footY=.065;}
    else if(moving){if(q<stance)footX=stride/2-q/stance*stride;else{const u=(q-stance)/(1-stance);footX=-stride/2+stride*(u*u*(3-2*u));footY+=(o.run?.19:.08)*Math.sin(Math.PI*u);}}
    else footX=i?-.12:.12;
+   if(moving&&o.gaitWeight!==undefined){const w=o.gaitWeight;footX=(i?-.12:.12)*(1-w)+footX*w;footY=.065+(footY-.065)*w;}
    const leg=solve([hipP[0],hipP[1],z],[footX,footY,z],.5,.5,-1);limbs['thigh'+side].set([0,hip,z],leg.elbow);limbs['calf'+side].set(leg.elbow,leg.end);joints['knee'+side].position.set(...leg.elbow);joints['knee'+side].scale.setScalar(.052);feet[side].position.set(...leg.end);
    const shoulder=[sh[0],sh[1],i?-.19:.19];const swing=moving?Math.sin((phase+i*.5)*Math.PI*2):0;let hand=o.run?[lean+.10-.35*swing,hip+.21-.12*swing,shoulder[2]]:[lean+.08+.12*swing,hip-.09,shoulder[2]];
    if(seated)hand=[.28,.68,shoulder[2]];
+   const neutralHand=[...hand];
    if(o.gesture==='point'&&side==='F')hand=[.53,1.33,.19];if(o.gesture==='think'&&side==='F')hand=[.23,1.54,.19];if(o.gesture==='surprise')hand=[.24,1.55,shoulder[2]];
+   if(o.gestureWeight!==undefined)hand=hand.map((v,k)=>neutralHand[k]+(v-neutralHand[k])*o.gestureWeight);
    if(o.hand&&side==='F')hand=[...o.hand];if(o.handB&&side==='B')hand=[...o.handB];
    const arm=armSolve(shoulder,hand,.33,.33);limbs['upper'+side].set(shoulder,arm.elbow);limbs['lower'+side].set(arm.elbow,arm.end);joints['elbow'+side].position.set(...arm.elbow);joints['elbow'+side].scale.setScalar(.068);palms[side].position.set(...arm.end);
   }

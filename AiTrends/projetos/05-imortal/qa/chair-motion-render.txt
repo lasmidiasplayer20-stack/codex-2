@@ -1,0 +1,9 @@
+Rendering frames 2160-2448 (12.0 s) with 1 worker(s)…
+  48/288 frames  8.16 fps  elapsed 0m06s  eta 0m29s
+  96/288 frames  8.19 fps  elapsed 0m12s  eta 0m23s
+  144/288 frames  7.71 fps  elapsed 0m19s  eta 0m19s
+  192/288 frames  7.56 fps  elapsed 0m25s  eta 0m13s
+  240/288 frames  7.62 fps  elapsed 0m31s  eta 0m06s
+  288/288 frames  7.54 fps  elapsed 0m38s  eta 0m00s
+
+Done: /workspace/immortal-private/chair-motion-native.mp4  (0m39s)

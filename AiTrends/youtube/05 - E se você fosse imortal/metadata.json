@@ -1,7 +1,61 @@
 {
-  "status": "draft_pending_voice_evaluation",
-  "project": "../../projetos/05-imortal",
+  "status": "package_ready_video_rendering",
   "title": "E se você fosse imortal? O tempo seria seu maior problema",
-  "thumbnail_status": "pending",
+  "description_file": "descricao.txt",
+  "tags_file": "tags.txt",
+  "thumbnail": "capa.jpg",
+  "thumbnail_method": "Original procedural Pillow artwork, 1280x720, no image API",
+  "chapters": [
+    {
+      "seconds": 0,
+      "label": "A caixa guardada por 300 anos"
+    },
+    {
+      "seconds": 20.291,
+      "label": "A primeira manhã"
+    },
+    {
+      "seconds": 80.29,
+      "label": "Tudo pode ficar para amanhã?"
+    },
+    {
+      "seconds": 174.328,
+      "label": "Os anos passam"
+    },
+    {
+      "seconds": 229.516,
+      "label": "O preço das despedidas"
+    },
+    {
+      "seconds": 260.964,
+      "label": "Uma roda e um recomeço"
+    },
+    {
+      "seconds": 309.182,
+      "label": "O que fica na memória"
+    },
+    {
+      "seconds": 363.072,
+      "label": "Imortalidade existe?"
+    },
+    {
+      "seconds": 406.987,
+      "label": "Um futuro imaginário"
+    },
+    {
+      "seconds": 423.103,
+      "label": "Levando uma lembrança ao espaço"
+    },
+    {
+      "seconds": 469.078,
+      "label": "Quando até as estrelas mudam"
+    },
+    {
+      "seconds": 525.12,
+      "label": "A fotografia e a escolha"
+    }
+  ],
+  "duration_seconds": 590.625,
+  "project": "../../projetos/05-imortal",
   "youtube_upload_authorized": false
 }

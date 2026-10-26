@@ -2,255 +2,255 @@
   {
     "id": 1,
     "start": 0,
-    "end": 18.33214,
+    "end": 20.29096,
     "action": "caixa",
     "set": "workshop",
     "text": "Você abre uma caixa guardada há trezentos anos. Dentro dela, encontra uma fotografia. Todo mundo mudou. Você, não. No começo, viver para sempre parecia o melhor presente do universo. Mas tem uma pergunta que ninguém colocou no contrato: o que você faz quando o tempo deixa de ser um limite?"
   },
   {
     "id": 2,
-    "start": 18.33214,
-    "end": 35.56434,
+    "start": 20.29096,
+    "end": 38.84004,
     "action": "volta",
     "set": "workshop",
     "text": "Para entender essa caixa, precisamos voltar à primeira manhã. Nico acorda no mesmo quarto, derruba o despertador e descobre um fio branco no cabelo. Puxa o fio, olha de novo e encontra a cor de sempre. É assim que começa a coisa mais estranha da vida dele."
   },
   {
     "id": 3,
-    "start": 35.56434,
-    "end": 53.16319,
+    "start": 38.84004,
+    "end": 58.71004,
     "action": "regra",
     "set": "diagram",
     "text": "Vamos combinar a regra desta fantasia: Nico não envelhece e seu corpo se recupera de ferimentos. Isso não significa que ele controla o mundo, deixa de sentir dor ou consegue atravessar uma parede. A parte impossível está no corpo dele. As consequências vão aparecer no resto da vida."
   },
   {
     "id": 4,
-    "start": 53.16319,
-    "end": 71.86197,
+    "start": 58.71004,
+    "end": 80.29004,
     "action": "teste",
     "set": "workshop",
     "text": "Ele não resolve testar o poder pulando de um prédio. Conta a Lia, procura respostas e continua se cuidando. A primeira prova chega devagar: as datas mudam, as marcas de uma queda desaparecem, e o rosto permanece igual. Lia coloca duas fotos lado a lado. Pela primeira vez, ninguém faz piada."
   },
   {
     "id": 5,
-    "start": 71.86197,
-    "end": 90.1941,
+    "start": 80.29004,
+    "end": 101.41463,
     "action": "promessa",
     "set": "garden",
     "text": "No começo, a notícia parece maravilhosa. Nico quer aprender piano, construir uma casa, visitar lugares distantes e terminar os livros que comprou por impulso. Lia aponta para uma cadeira desmontada na oficina. Antes de dominar todos os instrumentos do planeta, talvez ele possa aprender a montar aquilo sem sobrar parafuso."
   },
   {
     "id": 6,
-    "start": 90.1941,
-    "end": 107.42631,
+    "start": 101.41463,
+    "end": 120.09988,
     "action": "cadeira",
     "set": "workshop",
     "text": "Ele segura a madeira, ela alinha o encaixe. O primeiro resultado balança. O segundo fica torto. O terceiro suporta o peso dos dois. Ter tempo infinito não colocou habilidade instantânea nas mãos de Nico. Para melhorar, ele ainda precisa prestar atenção ao erro que acabou de cometer."
   },
   {
     "id": 7,
-    "start": 107.42631,
-    "end": 124.65852,
+    "start": 120.09988,
+    "end": 138.78513,
     "action": "adiar",
     "set": "workshop",
     "text": "Só que uma ideia perigosa chega junto com o presente: amanhã dá. Nico adia a aula, a viagem e uma visita. Apenas porque começou a tratar cada oportunidade como se pudesse reaparecer do mesmo jeito. Enquanto ele espera uma vontade perfeita, as outras pessoas seguem seus calendários."
   },
   {
     "id": 8,
-    "start": 124.65852,
-    "end": 142.62401,
+    "start": 138.78513,
+    "end": 158.26549,
     "action": "encontro",
     "set": "garden",
     "text": "Lia marca um encontro na praça. Nico chega atrasado e encontra o banco vazio. No telefone, uma mensagem curta: precisei ir. Ele olha o relógio com irritação, depois entende o absurdo. O relógio não está com defeito. A vida dela continua tendo compromissos que o poder dele não altera."
   },
   {
     "id": 9,
-    "start": 142.62401,
-    "end": 157.28972,
+    "start": 158.26549,
+    "end": 174.32783,
     "action": "acordo",
     "set": "garden",
     "text": "No dia seguinte, ele aparece antes da hora. Os dois inventam um acordo simples: uma coisa nova por semana e uma coisa importante que não pode ser adiada. O caderno recebe a primeira tarefa. Consertar a cadeira de Dona Sol."
   },
   {
     "id": 10,
-    "start": 157.28972,
-    "end": 169.38893,
+    "start": 174.32783,
+    "end": 190.39646,
     "action": "decadas",
     "set": "workshop",
     "text": "Os anos passam pela janela da oficina. Mudam as bicicletas, as fachadas, os aparelhos sobre a mesa. Nico troca peças, aprende ferramentas e começa tudo de novo quando um material deixa de existir."
   },
   {
     "id": 11,
-    "start": 169.38893,
-    "end": 184.42128,
+    "start": 190.39646,
+    "end": 207.45646,
     "action": "amiga",
     "set": "garden",
     "text": "Lia fica mais velha. O jeito de rir continua parecido, mas ela passa a escolher o banco com sombra e caminha num ritmo diferente. Nico diminui o passo junto. Algumas companhias só cabem na velocidade de quem está ao seu lado."
   },
   {
     "id": 12,
-    "start": 184.42128,
-    "end": 202.75341,
+    "start": 207.45646,
+    "end": 229.51646,
     "action": "presente",
     "set": "workshop",
     "text": "Ela lhe entrega uma pequena câmera e pede uma foto da cadeira. Nico sugere guardar tudo para sempre. Lia prefere outra ideia: anotar o que aconteceu naquele dia. O cheiro da tinta. O parafuso perdido. A gargalhada quando os dois sentaram e perceberam que tinham montado o encosto ao contrário."
   },
   {
     "id": 13,
-    "start": 202.75341,
-    "end": 217.78577,
+    "start": 229.51646,
+    "end": 246.04962,
     "action": "despedida",
     "set": "garden",
     "text": "Um dia, Lia já não está no banco. A história não precisa fingir que existe uma frase capaz de resolver isso. Nico guarda a câmera e deixa a cadeira na oficina. A imortalidade não oferece um atalho para atravessar a saudade."
   },
   {
     "id": 14,
-    "start": 217.78577,
-    "end": 230.9849,
+    "start": 246.04962,
+    "end": 260.96404,
     "action": "isolado",
     "set": "workshop",
     "text": "Ele tenta evitar novas amizades. Imagina que, se não se aproximar de ninguém, não vai precisar se despedir. A oficina fica organizada demais e silenciosa demais. Proteger cada lembrança começou a fechar o caminho para outras."
   },
   {
     "id": 15,
-    "start": 230.9849,
-    "end": 246.01725,
+    "start": 260.96404,
+    "end": 277.94989,
     "action": "vizinha",
     "set": "workshop",
     "text": "Então alguém bate à porta. Uma vizinha precisa consertar uma roda de carrinho. Nico explica que não está atendendo. Ela pergunta se pode ao menos deixar a peça. Quando a porta fecha, ele percebe uma arruela solta e pega a chave."
   },
   {
     "id": 16,
-    "start": 246.01725,
-    "end": 262.14953,
+    "start": 277.94989,
+    "end": 296.17862,
     "action": "reabrir",
     "set": "garden",
     "text": "A roda volta a girar. O carrinho retorna trazendo uma muda de árvore. A vizinha insiste em plantá-la na praça. Nico segura a pá, afasta uma pedra e encontra espaço perto do banco. Está permitindo que uma lembrança caminhe junto de uma experiência nova."
   },
   {
     "id": 17,
-    "start": 262.14953,
-    "end": 273.51546,
+    "start": 296.17862,
+    "end": 309.18158,
     "action": "cem",
     "set": "garden",
     "text": "Cem anos depois da primeira fotografia, a árvore cobre o banco inteiro. A cidade cresceu ao redor dela. Nico não reconhece todas as ruas e precisa pedir informação como qualquer visitante."
   },
   {
     "id": 18,
-    "start": 273.51546,
-    "end": 288.54781,
+    "start": 309.18158,
+    "end": 327.90623,
     "action": "memoria",
     "set": "workshop",
     "text": "O caderno virou uma coleção de caixas. Nico encontra um nome que já não consegue ligar a um rosto. Nossa fantasia não deu memória infinita a ele. Ele começa a organizar os registros para poder reencontrar histórias, não apenas acumular objetos."
   },
   {
     "id": 19,
-    "start": 288.54781,
-    "end": 304.31344,
+    "start": 327.90623,
+    "end": 347.54428,
     "action": "identidade",
     "set": "diagram",
     "text": "Também surgem perguntas práticas. Como explicar uma aparência que nunca muda? Quem mantém os documentos? O que significa fazer uma promessa para sempre? Dentro da história, Nico precisa de confiança, ajuda e acordos claros, em vez de fingir que pode resolver tudo sozinho."
   },
   {
     "id": 20,
-    "start": 304.31344,
-    "end": 316.7793,
+    "start": 347.54428,
+    "end": 363.07204,
     "action": "escola",
     "set": "workshop",
     "text": "Ele transforma parte da oficina numa sala de aprendizagem. Uma pessoa ensina desenho, outra aparece com um motor diferente, outra sabe cultivar plantas em pouco espaço. Nico tem experiência, mas não monopoliza a mesa."
   },
   {
     "id": 21,
-    "start": 316.7793,
-    "end": 334.37815,
+    "start": 363.07204,
+    "end": 385.15358,
     "action": "ciencia",
     "set": "diagram",
     "text": "E fora da fantasia? Não conhecemos uma maneira de tornar uma pessoa imortal. O envelhecimento envolve vários processos; não existe um único botão que baste desligar. Telômeros participam da biologia das células, mas isso não faz deles um contador simples que possa ser reiniciado para garantir vida eterna."
   },
   {
     "id": 22,
-    "start": 334.37815,
-    "end": 351.97699,
+    "start": 385.15358,
+    "end": 406.98693,
     "action": "natureza",
     "set": "diagram",
     "text": "Há organismos que desafiam nossas expectativas. Uma pequena água-viva, chamada Turritopsis dohrnii, pode reverter etapas do seu desenvolvimento em certas condições. Isso não a torna indestrutível: doenças, predadores e outras condições continuam existindo. Um fenômeno fascinante em outra espécie não funciona como receita pronta para o corpo humano."
   },
   {
     "id": 23,
-    "start": 351.97699,
-    "end": 363.34292,
+    "start": 406.98693,
+    "end": 423.10258,
     "action": "futuro",
     "set": "garden",
     "text": "Voltando a Nico, os séculos seguintes não vêm com um roteiro garantido. Ele vê projetos darem certo e outros fracassarem. A praça muda de nome, perde árvores, ganha um jardim novo."
   },
   {
     "id": 24,
-    "start": 363.34292,
-    "end": 376.54206,
+    "start": 423.10258,
+    "end": 439.54258,
     "action": "partida",
     "set": "station",
     "text": "Em algum futuro imaginário, aparece a oportunidade de sair da Terra. Nico arruma uma mala pequena. Precisa escolher o que levar. Uma câmera antiga, algumas páginas e uma semente vencem a disputa com centenas de lembranças."
   },
   {
     "id": 25,
-    "start": 376.54206,
-    "end": 391.57441,
+    "start": 439.54258,
+    "end": 456.27196,
     "action": "nave",
     "set": "station",
     "text": "Na estação, os outros viajantes flutuam devagar entre apoios. Nico prende a mala antes de abrir a caixa. Um objeto solto atravessa a cabine e obriga todo mundo a interromper o trabalho. O poder não cancelou a necessidade de seguir instruções."
   },
   {
     "id": 26,
-    "start": 391.57441,
-    "end": 403.67362,
+    "start": 456.27196,
+    "end": 469.07814,
     "action": "jardim",
     "set": "station",
     "text": "No destino, uma pequena estufa recebe a primeira muda. Nico trabalha com pessoas que nunca conheceram a praça. Ele conta a origem da semente, mas também escuta as histórias que chegaram com elas."
   },
   {
     "id": 27,
-    "start": 403.67362,
-    "end": 418.33932,
+    "start": 469.07814,
+    "end": 484.60079,
     "action": "cosmos",
     "set": "space",
     "text": "Agora podemos afastar a câmera até os milênios. É uma mudança de escala, não uma previsão sobre a humanidade. Não sabemos quais tecnologias existirão nem onde alguém conseguiria viver. Tempo disponível não cria, sozinho, ar, energia ou um lugar seguro."
   },
   {
     "id": 28,
-    "start": 418.33932,
-    "end": 437.77139,
+    "start": 484.60079,
+    "end": 505.16829,
     "action": "estrela",
     "set": "space",
     "text": "Em escalas de bilhões de anos, até estrelas mudam. O Sol também terá uma evolução que transforma profundamente o Sistema Solar. A regra de um corpo que se recupera não explica como sobreviver sem um ambiente habitável. Se quisermos levar Nico além disso, precisamos declarar outra hipótese, em vez de escondê-la no roteiro."
   },
   {
     "id": 29,
-    "start": 437.77139,
-    "end": 456.47017,
+    "start": 505.16829,
+    "end": 525.11967,
     "action": "limite",
     "set": "space",
     "text": "Por isso, a nossa história para antes de fingir uma resposta para o fim do universo. A pergunta mais difícil já estava na oficina. Com tanto tempo disponível, Nico seria capaz de continuar curioso? De pedir desculpa? De admitir que uma pessoa que viveu muito menos pode lhe ensinar alguma coisa?"
   },
   {
     "id": 30,
-    "start": 456.47017,
-    "end": 475.16894,
+    "start": 525.11967,
+    "end": 547.99293,
     "action": "retorno",
     "set": "workshop",
     "text": "Voltamos à caixa do começo. Trezentos anos depois, Nico reconhece a fotografia da cadeira. No verso, encontra uma anotação de Lia: finalmente parou de balançar. Ele ri, chama os aprendizes e coloca a foto na mesa. Em seguida, entrega a ferramenta a alguém que ainda está tentando acertar o primeiro encaixe."
   },
   {
     "id": 31,
-    "start": 475.16894,
-    "end": 495.33429,
+    "start": 547.99293,
+    "end": 572.66018,
     "action": "escolha",
     "set": "garden",
     "text": "Ser imortal parece oferecer todos os dias. Mas não oferece de novo exatamente esta conversa, esta amizade ou esta tarde. Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada. A novidade não é ter aprendido a vencer o tempo. É ter parado de usar a eternidade como desculpa para adiar."
   },
   {
     "id": 32,
-    "start": 495.33429,
-    "end": 510,
+    "start": 572.66018,
+    "end": 590.625,
     "action": "final",
     "set": "garden",
     "text": "E você: aceitaria viver para sempre, sabendo que o mundo continuaria mudando? Qual seria a primeira coisa que faria, e o que teria medo de perder? Conta nos comentários. Se quiser explorar outras hipóteses com a gente, inscreva-se no Então."

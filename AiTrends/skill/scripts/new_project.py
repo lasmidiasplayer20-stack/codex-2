@@ -9,7 +9,7 @@ def main():
  if not re.fullmatch('[a-z0-9]+(?:-[a-z0-9]+)*',slug):raise SystemExit('Use a simple lowercase hyphenated slug.')
  directory=BASE/'projetos';directory.mkdir(exist_ok=True);numbers=[int(m.group(1))for f in directory.iterdir()if(m:=re.match(r'^(\d+)-',f.name))];number=max(numbers,default=0)+1;root=directory/f'{number:02}-{slug}';root.mkdir(exist_ok=False)
  for sub in ['input','story','scenes','scripts','audio','timeline','exports','qa']:(root/sub).mkdir()
- cfg={'title':f'{number:02} - {a.title}','aspect':'16:9','resolution':'1080p','fps':24,'style':'entaoSpeed','duration':a.seconds,'voiceover':'audio/narracao.mp3','script':'input/narracao.txt','captions':False,'bars':'none','fadeIn':.25,'fadeOut':.9,'fast3D':True}
+ cfg={'title':f'{number:02} - {a.title}','aspect':'16:9','resolution':'1080p','fps':24,'style':'entaoSpeed','duration':a.seconds,'voiceover':'audio/narracao.mp3','script':'input/narracao.txt','captions':False,'bars':'none','fadeIn':.25,'fadeOut':.9,'fast3D':False}
  for name,obj in [('config.json',cfg),('runtime-style.json',{'contrast':1,'sat':1,'lift':[0,0,0],'gamma':[1,1,1],'gain':[1,1,1],'vignette':.23,'grain':0,'bloom':0}),('story/beats.json',[]),('story/shots.json',{'title':a.title,'duration':a.seconds,'shots':[]})]:(root/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n')
  (root/'input/narracao.txt').write_text('');(root/'.gitignore').write_text('build/\nreferencias/\naudio/*.wav\n*.log\n__pycache__/\n');(root/'README.md').write_text(f'# {cfg["title"]}\n\nProjeto vazio; leia `../../skill/SKILL.md`, escreva roteiro e cenas próprios antes de renderizar. Nenhuma voz ou imagem foi gerada.\n')
  if a.copy_cast:

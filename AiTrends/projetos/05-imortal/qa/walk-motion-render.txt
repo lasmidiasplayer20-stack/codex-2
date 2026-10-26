@@ -1,0 +1,9 @@
+Rendering frames 4572-4860 (12.0 s) with 1 worker(s)…
+  48/288 frames  8.14 fps  elapsed 0m06s  eta 0m29s
+  96/288 frames  8.56 fps  elapsed 0m11s  eta 0m22s
+  144/288 frames  8.66 fps  elapsed 0m17s  eta 0m17s
+  192/288 frames  8.56 fps  elapsed 0m22s  eta 0m11s
+  240/288 frames  8.40 fps  elapsed 0m29s  eta 0m06s
+  288/288 frames  8.29 fps  elapsed 0m35s  eta 0m00s
+
+Done: /workspace/immortal-private/walk-motion-native.mp4  (0m36s)

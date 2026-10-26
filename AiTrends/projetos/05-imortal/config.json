@@ -4,7 +4,7 @@
   "resolution": "1080p",
   "fps": 24,
   "style": "entaoSpeed",
-  "duration": 510.0,
+  "duration": 590.625,
   "voiceover": "audio/narracao.mp3",
   "script": "input/narracao.txt",
   "captions": false,
@@ -15,5 +15,59 @@
   "music": {
     "enabled": true
   },
-  "loudness": -16
+  "loudness": -16,
+  "ctaSeconds": [
+    [
+      43,
+      51
+    ],
+    [
+      289.40625,
+      297.40625
+    ],
+    [
+      576.625,
+      589.625
+    ]
+  ],
+  "qaTimes": [
+    2,
+    22,
+    46,
+    90,
+    120,
+    160,
+    200,
+    240,
+    280,
+    320,
+    360,
+    400,
+    440,
+    480,
+    560,
+    585
+  ],
+  "qaStills": [
+    [
+      "cta-45s",
+      46
+    ],
+    [
+      "cta-intermediario",
+      293
+    ],
+    [
+      "cta-final",
+      583
+    ],
+    [
+      "contato-caixa",
+      6
+    ],
+    [
+      "plantio",
+      284
+    ]
+  ]
 }

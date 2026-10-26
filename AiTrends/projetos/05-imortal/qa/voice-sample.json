@@ -12,7 +12,7 @@
   "speed_change": false,
   "silence_cuts": false,
   "pitch_change": false,
-  "approval": "pending",
+  "approval": "approved_with_discreet_mix",
   "human_listening": false,
   "variants": [
     "original",
@@ -20,5 +20,10 @@
     "mix"
   ],
   "treatment": "65 Hz highpass; gentle 1.6:1 compressor; loudnorm -18 LUFS; no tempo changes or pause removal",
-  "mix": "Very quiet original harmonic bed and single low-level wood click; no repetitive oscillators or flashing SFX"
+  "mix": "Very quiet original harmonic bed and single low-level wood click; no repetitive oscillators or flashing SFX",
+  "approved_by": "user",
+  "user_reply": "Aprovada com mix discreta",
+  "approved_voice": "Puck",
+  "full_generation_authorized": true,
+  "approved_audio_filename": "audio/03-voz-com-mix.mp3"
 }

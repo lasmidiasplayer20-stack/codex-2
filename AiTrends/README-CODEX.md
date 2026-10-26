@@ -115,3 +115,6 @@ O [episódio 03 — 10x Mais Rápido](projetos/03-10x-mais-rapido/) inclui cenas
 ### Feedback de qualidade a aplicar ao próximo episódio
 
 O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da animação. Antes de reutilizar esse pipeline, leia [o procedimento obrigatório de áudio e estabilidade temporal](skill/references/audio-and-temporal-quality.md). Fazer uma amostra curta e aguardar a avaliação do áudio antes de gerar o lote completo, reaproveitando cache para evitar gasto repetido. O episódio 04 permanece como referência técnica, com a reprovação registrada.
+
+
+[05 — E se você fosse imortal?](projetos/05-imortal/) preserva a Puck e inclui amostra de voz/mix aprovada pelo usuário, tratamento leve sem aceleração, antialiasing ativo e pacote YouTube próprio. Consulte o estado de render/entrega no README do projeto.

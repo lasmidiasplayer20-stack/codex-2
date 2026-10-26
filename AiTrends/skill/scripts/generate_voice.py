@@ -19,7 +19,9 @@ def main():
   endpoint='https://generativelanguage.googleapis.com/v1beta/interactions'
   if a.api=='generateContent':
    endpoint=f'https://generativelanguage.googleapis.com/v1beta/models/{a.model}:generateContent'
-   body={'contents':[{'parts':[{'text':text}]}],'generationConfig':{'responseModalities':['AUDIO'],'speechConfig':{'voiceConfig':{'prebuiltVoiceConfig':{'voiceName':'Puck'}}}}}
+   narration_style='Narre em português brasileiro, voz Puck, calorosa e curiosa, ritmo confortável de conversa, volume uniforme, sem gritar ou sussurrar. Preserve pausas de sentido breves. Leia somente a NARRAÇÃO abaixo, sem comentários ou instruções.'
+   record['narration_direction']=narration_style
+   body={'contents':[{'parts':[{'text':narration_style+'\n\nNARRAÇÃO:\n'+text}]}],'generationConfig':{'responseModalities':['AUDIO'],'speechConfig':{'voiceConfig':{'prebuiltVoiceConfig':{'voiceName':'Puck'}}}}}
   req=urllib.request.Request(endpoint,data=json.dumps(body).encode(),headers={'Content-Type':'application/json','x-goog-api-key':key})
   for attempt in range(4):
    try:

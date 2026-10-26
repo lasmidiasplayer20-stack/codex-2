@@ -1,0 +1,43 @@
+{
+  "method": "Original NumPy harmonies and isolated wooden Foley, no samples or APIs.",
+  "approved_reference": "03-voz-com-mix.mp3 approved by user",
+  "music_peak_dbfs": -41.46622085571289,
+  "voice_peak_dbfs": -2.6751480102539062,
+  "mix_peak_dbfs": -2.6721155643463135,
+  "clipped_samples": 0,
+  "events": [
+    {
+      "time": 9.130932,
+      "event": "soft_wood_contact"
+    },
+    {
+      "time": 109.8229925,
+      "event": "soft_wood_contact"
+    },
+    {
+      "time": 217.38345999999999,
+      "event": "soft_wood_contact"
+    },
+    {
+      "time": 268.6076725,
+      "event": "soft_wood_contact"
+    },
+    {
+      "time": 535.412637,
+      "event": "soft_wood_contact"
+    },
+    {
+      "time": 44,
+      "event": "quiet_cta_note"
+    },
+    {
+      "time": 290.40625,
+      "event": "quiet_cta_note"
+    },
+    {
+      "time": 577.625,
+      "event": "quiet_cta_note"
+    }
+  ],
+  "no_time_stretch": true
+}

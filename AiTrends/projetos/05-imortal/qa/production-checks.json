@@ -1,0 +1,34 @@
+{
+  "full_render_started": true,
+  "source_sha256": "51c5e60ae15b676967f94fa8c683d57c2995d5cf95e7bf0da4c90187b9685478",
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "antialiasing": true,
+  "fast3D": false,
+  "lighting": "constant, no periodic opacity/light modulation",
+  "motion_samples": [
+    {
+      "start": 0,
+      "end": 20.125,
+      "frames": 483,
+      "stage": "opening before world expansion"
+    },
+    {
+      "start": 90,
+      "end": 102,
+      "frames": 288,
+      "stage": "chair interactions before voice retiming"
+    },
+    {
+      "start": 190.5,
+      "end": 202.5,
+      "frames": 288,
+      "stage": "walk on frozen final scene source"
+    }
+  ],
+  "visual_review": "160 plan sheets and consecutive motion strips; not a claim of human video playback or complete frame-by-frame review.",
+  "full_audio_approval": "Only the initial 20s sample was evaluated by user; full narration has technical signal checks, no independent ASR or claimed human listening."
+}

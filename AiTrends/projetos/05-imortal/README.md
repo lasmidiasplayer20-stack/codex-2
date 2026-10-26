@@ -1,27 +1,32 @@
 # 05 — E se você fosse imortal?
 
-**Em produção. Não é o episódio final.** Roteiro original em português, alvo de 8min30s, horizontal, 1920×1080/24 fps. Voz Puck preservada conforme pedido do usuário. Sem nova geração completa até avaliação da amostra.
+**Render completo em andamento.** História própria em português, horizontal, 1920×1080/24 fps. Duração natural: **9min50,625s**, 1.391 palavras, 32 sequências e 160 planos. O alvo inicial de 8min30s cedeu ao ritmo natural da voz aprovada; não aceleramos a narração para caber.
 
-## Avaliar o áudio primeiro
+## Áudio aprovado antes da geração completa
 
-Uma única chamada Gemini gerou 20,13 segundos. As três versões abaixo usam exatamente essa geração:
+O usuário avaliou [a amostra com mix discreta](audio/03-voz-com-mix.mp3) e respondeu “Aprovada com mix discreta”. Puck e `gemini-2.5-flash-preview-tts` foram mantidos em todos os trechos. A abertura aprovada foi reutilizada. Nove chamadas ao todo: uma amostra e oito blocos restantes, sem regenerações, tentativas automáticas ou troca de modelo.
 
-- [01 — voz original](audio/01-voz-original.mp3)
-- [02 — tratamento leve](audio/02-voz-tratamento-leve.mp3)
-- [03 — com mix discreta](audio/03-voz-com-mix.mp3)
+A [voz reutilizável](audio/narracao.mp3), [mix](audio/mix.mp3) e [trilha própria](audio/trilha.mp3) ficam em `audio/`. Tratamento leve igual ao da amostra: filtro de 65 Hz, compressão 1,6:1 e volume alvo −18 LUFS. Apenas pausas sustentadas acima de 1,2 s foram encurtadas para aproximadamente 0,65 s. Não há alteração de velocidade ou tom. Voz final: −18 LUFS, LRA 3,1 LU, pico verdadeiro −2,6 dBTP; nenhum vazio abaixo de −40 dB por mais de 1,2 s foi detectado no MP3. Essas medições não substituem escuta. O usuário aprovou a amostra, não avaliou ainda a narração inteira. Não houve ASR independente completo nem alegação de escuta humana completa.
 
-Nenhuma alteração de velocidade, tom ou remoção de pausas. Tratamento: filtro baixo de 65 Hz, compressão leve 1,6:1, normalização a −18 LUFS. A versão mix acrescenta harmonia discreta e um clique de madeira isolado, sintetizados em Python. A escolha do usuário continua pendente; medições não aprovam timbre nem naturalidade. Não reutilizar automaticamente o tratamento reprovado no episódio 04.
+## Direção e projeto
 
-## Projeto e limites desta etapa
+[ROTEIRO.md](ROTEIRO.md), [bible de direção](story/bible.md) e [análise da referência](story/reference-analysis.md). Oficina, praça, diagramas, estação e espaço. Nico mantém jaqueta verde-menta; Lia usa violeta. O envelhecimento dela aparece no cabelo. A caixa, fotografia, cadeira, caderno, carrinho, roda, muda e mala são geometria/texturas desenhadas por código.
 
-[ROTEIRO.md](ROTEIRO.md): 1.391 palavras; 32 sequências e 160 planos **provisórios**. Cenas implementadas: somente os cinco planos da abertura; os outros 155 ainda precisam de implementação e revisão. A narração completa, sincronização fina, CTAs no filme final, demais cenários, capa definitiva e export de um minuto não estão concluídos. Não executar render completo neste estado.
+Ações usam tempo global da sequência, inclusive entre cortes. Dois segmentos por membro e alcance limitado; pés em apoio; fotografia e ferramentas ligadas às mãos mundiais. Câmeras de acompanhamento, pés, detalhe, vista superior, reação, contraplanos e órbita. CTAs do Então perto de 45 s, no meio e no encerramento. Sem lip sync do narrador.
 
-[Plano de direção](story/bible.md) e [análise da referência](story/reference-analysis.md). Referência externa guardada em área privada, sem redistribuição de vídeo/frames/fala. Sem transcrição independente completa do áudio original.
+Antialiasing habilitado (`fast3D: false`), luz fixa, sem opacidade pulsante, flashes repetidos, grão ou partículas aleatórias. Planos em folhas e amostras nativas de movimento foram inspecionados; isso não equivale a garantia subjetiva de ausência de todo artefato. QA e cobertura real em `qa/`.
 
-Abertura: geometria Three.js por código, personagem próprio, janela, mesa, caixa com tampa articulada, fotografia desenhada por código, aproximação/close/orbita. Tempo global contínuo entre cortes; mão e fotografia compartilham transformação mundial. Antialiasing habilitado (`fast3D: false`), iluminação fixa, sem opacidade pulsante, grão ou partículas aleatórias. Ainda é um piloto para avaliação, não aprovação do filme completo.
+## Reproduzir sem novas APIs
 
-## Próxima etapa
+Da raiz do repositório:
 
-Aguardar avaliação da voz conforme [regra da skill](../../skill/references/audio-and-temporal-quality.md), seção “Próxima produção”. Depois reutilizar o áudio aprovado, gerar somente trechos faltantes, ajustar texto e pausas em vez de acelerar, implementar e revisar o restante das cenas. Export final e preview de um minuto em 1080p somente após essas etapas.
+```bash
+python3 AiTrends/studio.py doctor
+node AiTrends/skill/scripts/render.mjs --project "$PWD/AiTrends/projetos/05-imortal" --from 0 --to 6 --scale 1 --workers 1 --format jpeg --out /tmp/imortal-teste.mp4
+```
 
-Assets: geometria, fotografia, roteiro, sons e personagens próprios por código; rig derivado do código próprio do episódio 04 com ajuste de extensão das pernas e tesselação do crânio. Motor aiTrends e fontes mantêm as licenças fornecidas no kit. Não há fotos ou personagens importados da referência.
+O render é silencioso. Usar `audio/mix.mp3` existente para montar o MP4. O exportador compartilhado exige log completo de render, usa resolução nativa e valida os arquivos. Não executar `scripts/build_story.py` após a temporização final: ele recria o rascunho proporcional inicial. `generate_remaining.py` só é necessário para recuperar voz com cache privado de originais; não roda durante render/mix. Credencial exclusivamente no ambiente.
+
+O [pacote YouTube](../../youtube/05%20-%20E%20se%20voc%C3%AA%20fosse%20imortal/) reúne capa, título, descrição/capítulos e tags. Não houve upload no YouTube.
+
+Assets: roteiro, personagens, geometria, fotografia e sons próprios. Rig derivado do código próprio do episódio 04, com postura estendida, cabeça mais arredondada e transições de apoio. Motor/fontes aiTrends mantêm suas licenças originais. Referência externa foi guardada em área privada, sem redistribuição de frames, fala ou música. Verificação externa das páginas científicas foi bloqueada por 403 e está registrada em `qa/research-status.md`; não se declara pesquisa consultada com sucesso.
