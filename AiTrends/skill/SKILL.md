@@ -15,6 +15,14 @@ Para o próximo vídeo: uma amostra de voz de 20–30 s, comparação local de v
 
 Amostra aprovada posteriormente: `../projetos/05-imortal/audio/03-voz-com-mix.mp3`, Puck / `gemini-2.5-flash-preview-tts`, resposta do usuário “Aprovada com mix discreta”. Preservar esse perfil; aprovação da amostra não é aprovação editorial automática do episódio completo.
 
+## Feedback mais recente — aplicar ao episódio 06
+
+Após o episódio 05, o usuário informou **“algumas articulações ficaram toscas, a voz ficou ok”**. A voz Puck e seu tratamento estão aceitos; a animação não recebeu aprovação geral. Não copiar o rig do 05 sem revisar marcha, cotovelos, joelhos, alcance, apoio e transições em movimento. Leia [a revisão obrigatória de articulações e efeitos Python](references/joints-and-python-foley.md).
+
+**Efeitos sonoros devem ser criados em Python e fazer parte da entrega.** Mapear passos, contatos de mão/objeto, madeira/ferramentas, água/vento, mecanismos e transições motivadas aos eventos da cena. Trilha musical e voz sozinhas não cumprem essa etapa. Salvar script reproduzível, stem de SFX e lista de eventos com instante/duração/ganho; conferir presença real na mix e inteligibilidade da voz. Não substituir todos os sons por bipes repetidos ou efeitos inaudíveis.
+
+Preservar o perfil vocal aprovado. A aprovação já dada não precisa ser pedida de novo para a mesma voz/modelo/tratamento; novas variantes de voz ou mudanças de modelo exigem amostra antes do lote. Reaproveitar cache e limitar chamadas.
+
 ## Organização canônica
 
 - `AiTrends/projetos/NN-slug/`: roteiro, configuração, `story/`, `scenes/`, `input/`, `audio/`, `exports/` e `qa/` daquele episódio.
@@ -97,7 +105,7 @@ Consulte `../projetos/04-quanto-tempo-resta/scenes/` para braços com IK tridime
 
 ## Voz reafirmada — episódio 05
 
-Em 26/10/2026, o usuário reafirmou manter a voz Puck do início, reduzir oscilações e evitar vazios longos. Não interpretar como autorização para trocar o timbre ou como aprovação de uma amostra ainda não ouvida. No caminho `generateContent` do helper compartilhado, a orientação de estilo não era enviada: enviar direção de narração explícita no prompt nos próximos trechos. Isso é uma falha de implementação constatada, não diagnóstico completo da reprovação do episódio 04. Amostra 05: uma geração, variantes locais, sem acelerar nem cortar pausas; avaliação ainda pendente.
+Em 26/10/2026, o usuário reafirmou manter a voz Puck do início, reduzir oscilações e evitar vazios longos. Não interpretar como autorização para trocar o timbre ou como aprovação de uma amostra ainda não ouvida. No caminho `generateContent` do helper compartilhado, a orientação de estilo não era enviada: enviar direção de narração explícita no prompt nos próximos trechos. Isso é uma falha de implementação constatada, não diagnóstico completo da reprovação do episódio 04. Amostra 05: uma geração, variantes locais, sem acelerar nem cortar pausas; registro histórico anterior à aprovação posterior documentada abaixo.
 
 ## Episódio 05 — amostra aprovada e áudio natural
 

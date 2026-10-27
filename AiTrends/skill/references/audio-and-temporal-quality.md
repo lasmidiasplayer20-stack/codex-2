@@ -47,3 +47,8 @@ O usuário manteve a Puck e aprovou `projetos/05-imortal/audio/03-voz-com-mix.mp
 A amostra usa tratamento leve (65 Hz, compressão 1,6:1, −18 LUFS), harmonia espaçada e Foley muito baixo. A versão completa só encurta vazios sustentados >1,2 s para cerca de 0,65 s e mantém pausas breves; não muda velocidade/tom. Aprovação da amostra não equivale a aprovação do filme completo. Registro: `AiTrends/projetos/05-imortal/qa/voice-sample.json`.
 
 **Planejar duração antes de gerar:** o episódio 05 terminou com 1.391 palavras em 590,625 s (~141 palavras/min), apesar de um alvo inicial de 510 s. A amostra curta foi mais rápida do que os blocos longos. Nos próximos roteiros com este perfil, orçar aproximadamente 135–145 palavras/min (cerca de 1.150–1.230 palavras para 8min30s), verificar com a amostra e reservar pausas. Se a duração for rígida, encurtar o texto antes do lote. Não descobrir o desvio apenas depois de gastar com toda a narração nem corrigir acelerando a voz.
+
+
+## Feedback posterior do episódio 05
+
+O usuário avaliou a entrega: “a voz ficou ok”, mas algumas articulações ficaram toscas. Assim, a voz do episódio 05 está aceita; preservar seu perfil e cache. A etapa de reavaliar voz é necessária se mudar voz/modelo/estilo, sem pedir de novo aprovação da mesma configuração já aceita. O novo controle obrigatório de articulações e efeitos Python está em [joints-and-python-foley.md](joints-and-python-foley.md). Essa aceitação não aprova a animação inteira.
