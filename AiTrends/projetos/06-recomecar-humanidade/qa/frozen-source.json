@@ -1,5 +1,5 @@
 {
-  "source_sha256": "9edc506304f1a576d7e50e54fc5e9de3f8e411bcfabc0ad72ff6d9033d5fcd72",
+  "source_sha256": "27478f7875e10ee954d51e91bc57badcf9a912c45ce872b4e3b313d7b9de241a",
   "meaning": "Current preflight scene/config/beat/shot source before remaining voice generation. Queue aborts if changed.",
   "waiting_for_same_voice_model": true,
   "not_before_utc": "2026-10-27T07:03:00Z",

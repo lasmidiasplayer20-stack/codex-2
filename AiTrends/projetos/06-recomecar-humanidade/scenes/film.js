@@ -71,7 +71,7 @@ function animate(s,b,t,d){
  if(held){const h=s.A.nico.point();show(s,held,[h.x,h.y,h.z]);if(held==='cards')s.P.cards.rotation.z=.14*Math.sin(u*8*Math.PI);}
  // Contact-driven transfers: props use actual reachable hands after IK.
  if(act==='encontro'&&u>.55){const h=s.A.nico.point().lerp(s.A.lia.point(),q((u-.55)/.3));show(s,'radio',[h.x,h.y,h.z]);}
- 
+
  if(act==='memoria'&&u>.45){const h=s.A.nico.point().lerp(s.A.lia.point(),q((u-.45)/.35));show(s,'paper',[h.x,h.y,h.z]);}
  if(act==='travessia'){
   const a=s.A.nico.point(),b=s.A.lia.point(),k=q((u-.60)/.2);P.plank.position.set((a.x+b.x)/2,lerp((a.y+b.y)/2,.20,k),1.45);P.plank.rotation.z=.05*(1-p);

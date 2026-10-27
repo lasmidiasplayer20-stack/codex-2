@@ -3,6 +3,7 @@ import os,json,hashlib,wave,base64,urllib.request,urllib.error,time
 P=Path(__file__).resolve().parents[1];parser=__import__('argparse').ArgumentParser();parser.add_argument('--work',type=Path,required=True);W=parser.parse_args().work;W.mkdir(parents=True,exist_ok=True)
 profile=json.loads((P/'audio/voice-profile.json').read_text());model=profile['model'];direction=profile['direction'];key=os.environ.get('GEMINI_API_KEY')
 if not key:raise SystemExit('Missing environment key; no call made.')
+assert model=='gemini-2.5-flash-preview-tts'and profile['voice']=='Puck','Same approved voice/model required.'
 beats=json.loads((P/'story/beats.json').read_text());manifest=[]
 for i,start in enumerate(range(0,len(beats),4),1):
  group=beats[start:start+4];text='\n\n'.join(b['text']for b in group);out=W/f'block-{i:02}.wav';record={'file':out.name,'beats':[b['id']for b in group],'text':text,'direction':direction,'model':model,'voice':'Puck'};sha=hashlib.sha256(json.dumps(record,sort_keys=True).encode()).hexdigest();record['request_sha256']=sha

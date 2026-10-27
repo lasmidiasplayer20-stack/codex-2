@@ -22,6 +22,7 @@ def main():
   if digest()!=args.expected_source:raise RuntimeError('Frozen source changed; stopped.')
   py=REPO/'AiTrends/.venv/bin/python';state('GENERATING_REMAINING_VOICE')
   run([py,P/'scripts/generate_voice.py','--work',args.work/'voice'],'generate-after-reset.log')
+  if digest()!=args.expected_source:raise RuntimeError('Source changed during voice generation; treatment stopped to preserve edits.')
   state('TREATING_NATURAL_VOICE');run([py,P/'scripts/treat_natural.py','--work',args.work/'voice'],'treat-after-reset.log')
   state('BUILDING_PYTHON_SFX_AND_MIX');run([py,P/'scripts/sound.py','--voice','narracao.wav'],'sound-final.log')
   run([py,P/'scripts/youtube.py'],'youtube-final.log');frozen=digest();state('RENDERING_NATIVE_1080P',source_sha256=frozen)
