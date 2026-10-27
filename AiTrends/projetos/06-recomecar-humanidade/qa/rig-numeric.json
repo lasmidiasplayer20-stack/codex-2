@@ -1,0 +1,5 @@
+{
+  "cases": 360,
+  "max_length_error": 2.7755575615628914e-16,
+  "interpretation": "Fixed bone lengths verified numerically; not a substitute for motion/pose review."
+}

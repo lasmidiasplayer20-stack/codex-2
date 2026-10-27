@@ -126,3 +126,11 @@ O helper `generate_voice.py` agora envia orientação de leitura também no cami
 Novo projeto de referência: `../projetos/05-imortal/`, com caixa articulada, fotografia por código, envelhecimento visual da amiga, cadeiras/rodas/plantas/mala, diagramas e cenas espaciais. Não copiar seu roteiro em outros episódios. Manter o procedimento de amostra de áudio e teste temporal do guia; não usar a reprovação do episódio 04 como padrão aprovado.
 
 Perfil exato aprovado no episódio 05: Puck / `gemini-2.5-flash-preview-tts` / `generateContent`, direção explícita em português e mix discreta. Para duração de 8min30s com esse ritmo natural, estimar 1.150–1.230 palavras, depois validar a amostra; o episódio 05 mostrou que 1.391 palavras ultrapassam esse alvo. Não usar o alvo antigo de 165 palavras/min sem conferir o perfil real.
+
+## Episódio 06 — mesma Puck, cota e Foley
+
+O usuário escolheu “Aguardar a mesma voz/modelo” depois de o servidor confirmar HTTP 429 por cota diária gratuita (10 chamadas do modelo nessa conta). Não trocar de modelo nem gerar repetidamente antes da hora de liberação indicada pelo serviço. Dois blocos já existem em cache e devem ser reaproveitados. O estado do próximo episódio fica em `../projetos/06-recomecar-humanidade/README.md`.
+
+O projeto 06 contém Foley Python em stem próprio `audio/sfx.mp3` e manifesto `audio/sfx-events.json`, além de música e mix separadas. Passos seguem distância de marcha; contatos incluem rádio, papel, água, caixas e madeira. Não voltar à mistura sem eventos de ação. O rig foi revisado, mas não chamar a nova animação de aprovada pelo usuário só porque passou em cálculos ou decode.
+
+A retomada após cota pode usar `scripts/resume_after_quota.py` do próprio projeto: cache, fonte congelada, seis blocos faltantes, sem fallback/billing/retries contínuos, render e export nativos e publicação autorizada. É um processo no ambiente, não serviço externo durável; fonte alterada ou erro interrompe a fila. Não declarar vídeo completo antes de `qa/export-validation.json` e push confirmado.

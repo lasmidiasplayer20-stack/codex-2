@@ -1,0 +1,33 @@
+Rendering frames 0-1440 (60.0 s) with 2 worker(s)…
+  48/1440 frames  6.79 fps  elapsed 0m07s  eta 3m25s
+  96/1440 frames  7.51 fps  elapsed 0m13s  eta 2m59s
+  144/1440 frames  7.71 fps  elapsed 0m19s  eta 2m48s
+  192/1440 frames  7.85 fps  elapsed 0m24s  eta 2m39s
+  240/1440 frames  7.88 fps  elapsed 0m30s  eta 2m32s
+  288/1440 frames  7.89 fps  elapsed 0m36s  eta 2m26s
+  336/1440 frames  7.89 fps  elapsed 0m43s  eta 2m20s
+  384/1440 frames  7.85 fps  elapsed 0m49s  eta 2m15s
+  432/1440 frames  7.88 fps  elapsed 0m55s  eta 2m08s
+  480/1440 frames  7.94 fps  elapsed 1m00s  eta 2m01s
+  528/1440 frames  8.00 fps  elapsed 1m06s  eta 1m54s
+  576/1440 frames  8.07 fps  elapsed 1m11s  eta 1m47s
+  624/1440 frames  8.14 fps  elapsed 1m17s  eta 1m40s
+  672/1440 frames  8.16 fps  elapsed 1m22s  eta 1m34s
+  720/1440 frames  8.14 fps  elapsed 1m28s  eta 1m28s
+  768/1440 frames  8.00 fps  elapsed 1m36s  eta 1m24s
+  816/1440 frames  7.87 fps  elapsed 1m44s  eta 1m19s
+  864/1440 frames  7.74 fps  elapsed 1m52s  eta 1m14s
+  912/1440 frames  7.69 fps  elapsed 1m59s  eta 1m09s
+  960/1440 frames  7.68 fps  elapsed 2m05s  eta 1m03s
+  1008/1440 frames  7.67 fps  elapsed 2m11s  eta 0m56s
+  1056/1440 frames  7.65 fps  elapsed 2m18s  eta 0m50s
+  1104/1440 frames  7.64 fps  elapsed 2m25s  eta 0m44s
+  1152/1440 frames  7.60 fps  elapsed 2m32s  eta 0m38s
+  1200/1440 frames  7.58 fps  elapsed 2m38s  eta 0m32s
+  1248/1440 frames  7.62 fps  elapsed 2m44s  eta 0m25s
+  1296/1440 frames  7.72 fps  elapsed 2m48s  eta 0m19s
+  1344/1440 frames  7.83 fps  elapsed 2m52s  eta 0m12s
+  1392/1440 frames  7.92 fps  elapsed 2m56s  eta 0m06s
+  1440/1440 frames  7.92 fps  elapsed 3m02s  eta 0m00s
+
+Done: /workspace/humanity-private/preview-final-silent.mp4  (3m03s)

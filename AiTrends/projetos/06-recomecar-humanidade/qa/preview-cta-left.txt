@@ -1,0 +1,7 @@
+Rendering frames 1032-1224 (8.0 s) with 1 worker(s)…
+  48/192 frames  6.47 fps  elapsed 0m07s  eta 0m22s
+  96/192 frames  5.70 fps  elapsed 0m17s  eta 0m17s
+  144/192 frames  5.80 fps  elapsed 0m25s  eta 0m08s
+  192/192 frames  6.00 fps  elapsed 0m32s  eta 0m00s
+
+Done: /workspace/humanity-private/preview-cta-left.mp4  (0m33s)

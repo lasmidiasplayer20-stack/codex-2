@@ -1,0 +1,12 @@
+{
+  "model": "Aa x Aa, independent Mendelian allele transmission, simplified autosomal recessive example",
+  "outcomes": [
+    "AA",
+    "Aa",
+    "aA",
+    "aa"
+  ],
+  "probability_aa": 0.25,
+  "scope": "Conditional mathematical example only; no claim about all diseases or any real couple.",
+  "external_sources_successfully_fetched": false
+}

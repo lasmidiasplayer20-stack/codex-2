@@ -1,0 +1,9 @@
+Rendering frames 9216-9504 (12.0 s) with 1 worker(s)…
+  48/288 frames  7.78 fps  elapsed 0m06s  eta 0m31s
+  96/288 frames  7.94 fps  elapsed 0m12s  eta 0m24s
+  144/288 frames  7.96 fps  elapsed 0m18s  eta 0m18s
+  192/288 frames  7.78 fps  elapsed 0m25s  eta 0m12s
+  240/288 frames  7.89 fps  elapsed 0m30s  eta 0m06s
+  288/288 frames  7.93 fps  elapsed 0m36s  eta 0m00s
+
+Done: /workspace/humanity-private/harbor-motion.mp4  (0m37s)

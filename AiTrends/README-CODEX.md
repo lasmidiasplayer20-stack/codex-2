@@ -118,3 +118,6 @@ O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da 
 
 
 [05 — E se você fosse imortal?](projetos/05-imortal/) preserva a Puck e inclui amostra de voz/mix aprovada pelo usuário, tratamento leve sem aceleração, antialiasing ativo e pacote YouTube próprio. Consulte o estado de render/entrega no README do projeto.
+
+
+[06 — Duas pessoas podem recomeçar a humanidade?](projetos/06-recomecar-humanidade/) tem prévia inicial nativa 1080p, rig revisado, Foley Python em stem separado e capa neon com arquivo único YOUTUBE. O usuário escolheu aguardar a mesma Puck após cota diária. Consulte o estado real no README/QA do projeto; prévia inicial não é o filme completo.

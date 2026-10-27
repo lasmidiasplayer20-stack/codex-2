@@ -1,14 +1,18 @@
 {
-  "status": "draft",
-  "voice_profile": "Puck, gemini-2.5-flash-preview-tts, same accepted direction/treatment",
-  "voice_blocks_cached": 1,
-  "next_voice_block": 2,
-  "voice_blocker": "HTTP 429, cause not classified",
-  "automatic_retries": 0,
+  "status": "preflight_and_initial_preview_ready_waiting_daily_voice_reset",
+  "voice_profile": "Puck / gemini-2.5-flash-preview-tts",
+  "voice_blocks_cached": 2,
+  "remaining_blocks": 6,
+  "voice_blocker": "Free Tier daily generate_content limit 10 for this model, confirmed HTTP429",
+  "user_choice": "Aguardar a mesma voz/modelo",
+  "not_before_utc": "2026-10-27T07:03:00Z",
+  "not_before_brasilia": "04:03",
+  "automatic_provider_retries_before_reset": 0,
   "model_fallback": false,
   "joint_motion_approval": false,
   "reference_video_seconds": 418.493243,
   "target_duration_seconds": 510,
   "final_duration_seconds": null,
-  "full_video_generated": false
+  "full_video_generated": false,
+  "initial_preview": "exports/06 - Previa inicial 1min.mp4"
 }

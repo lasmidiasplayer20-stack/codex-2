@@ -16,3 +16,8 @@ Referência de encenação e cenários: [04 — Quanto Tempo Resta](../projetos/
 ## 05 — Imortal
 
 `../projetos/05-imortal/`: história própria sobre imortalidade, 160 planos, Puck confirmada pelo usuário. Amostra com mix discreta aprovada antes de oito blocos restantes. Sem acelerar a voz, antialiasing ligado. Pacote YouTube próprio em `../youtube/05 - E se você fosse imortal/`. Estado exato no README; não presumir aprovação editorial do episódio completo.
+
+
+## 06 — Recomeçar a humanidade
+
+`../projetos/06-recomecar-humanidade/`: 1.203 palavras,32beats164planos; prévia inicial nativa, dois blocos Puck em cache, restantes aguardando a mesma voz/modelo por escolha do usuário. Rig revisado, Foley Python com stem/manifesto, capa no padrão neon aprovado e metadados em arquivo único YOUTUBE. Estado exato no README e qa/production-state.json.

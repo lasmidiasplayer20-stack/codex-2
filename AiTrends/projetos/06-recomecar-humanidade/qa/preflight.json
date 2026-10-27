@@ -1,0 +1,43 @@
+{
+  "status": "preflight_ready_pending_complete_voice",
+  "voice_model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "voice_cached_blocks_verified": 2,
+  "remaining_blocks": 6,
+  "further_calls_before_reset": false,
+  "motion_samples": [
+    {
+      "range": [
+        0,
+        16
+      ],
+      "frames": 384,
+      "native_1080p": true,
+      "coverage": "walking, feet, radio, reactions; before partial timing alignment"
+    },
+    {
+      "range": [
+        384,
+        396
+      ],
+      "frames": 288,
+      "native_1080p": true,
+      "coverage": "support on harbor platforms, shared plank interaction"
+    },
+    {
+      "range": [
+        0,
+        60
+      ],
+      "frames": 1440,
+      "native_1080p": true,
+      "coverage": "initial preview with partial real narration and Python Foley; CTA corrected by8second native replacement"
+    }
+  ],
+  "storyboard_review": "All164 plans reviewed, before the final CTA move to lower-left; no missing or error scenes.",
+  "antialiasing": true,
+  "new_joints_user_approved": false,
+  "human_full_voice_listening": false,
+  "independent_ASR": false,
+  "final_full_video_exists": false
+}

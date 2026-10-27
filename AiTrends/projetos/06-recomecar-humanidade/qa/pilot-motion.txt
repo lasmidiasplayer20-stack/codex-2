@@ -1,0 +1,11 @@
+Rendering frames 0-384 (16.0 s) with 1 worker(s)…
+  48/384 frames  6.74 fps  elapsed 0m07s  eta 0m50s
+  96/384 frames  7.00 fps  elapsed 0m14s  eta 0m41s
+  144/384 frames  7.19 fps  elapsed 0m20s  eta 0m33s
+  192/384 frames  7.16 fps  elapsed 0m27s  eta 0m27s
+  240/384 frames  7.19 fps  elapsed 0m33s  eta 0m20s
+  288/384 frames  7.23 fps  elapsed 0m40s  eta 0m13s
+  336/384 frames  7.10 fps  elapsed 0m47s  eta 0m07s
+  384/384 frames  6.98 fps  elapsed 0m55s  eta 0m00s
+
+Done: /workspace/humanity-private/pilot-native-silent.mp4  (0m56s)
