@@ -4,12 +4,66 @@
   "resolution": "1080p",
   "fps": 24,
   "style": "entaoSpeed",
-  "duration": 510.0,
+  "duration": 520.75,
   "voiceover": "audio/narracao.mp3",
   "script": "input/narracao.txt",
   "captions": false,
   "bars": "none",
   "fadeIn": 0.25,
   "fadeOut": 0.9,
-  "fast3D": false
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      43,
+      51
+    ],
+    [
+      255.1675,
+      263.1675
+    ],
+    [
+      506.75,
+      519.75
+    ]
+  ],
+  "qaTimes": [
+    2,
+    36,
+    70,
+    104,
+    139,
+    173,
+    207,
+    241,
+    276,
+    310,
+    344,
+    378,
+    413,
+    447,
+    481,
+    515
+  ],
+  "qaStills": [
+    [
+      "cta-45s",
+      46
+    ],
+    [
+      "cta-intermediario",
+      259
+    ],
+    [
+      "cta-final",
+      513
+    ],
+    [
+      "captura",
+      246
+    ],
+    [
+      "interruptor",
+      436
+    ]
+  ]
 }

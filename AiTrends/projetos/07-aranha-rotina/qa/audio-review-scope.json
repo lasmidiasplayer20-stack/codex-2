@@ -5,8 +5,10 @@
   "independent_ASR": false,
   "ASR_attempt": "Local faster-whisper base download attempted once, then retried with escalated network permissions as required by environment policy. Both returned ProxyError403; no transcription or ASR approval is claimed.",
   "no_paid_transcription_API": true,
-  "remaining_voice_blocks": 2,
+  "remaining_voice_blocks": 0,
   "quota_response": "429 RESOURCE_EXHAUSTED; Free Tier daily requests limit10 reported by provider. Stop; preserve six completed blocks.",
   "second_credential_result": "One additional successful block with same voice/model, then same daily quota429. No billing upgrade or further retry before reset.",
-  "technical_audio_checks": "Exact generated text/cache hashes, durations, peaks, no clipped samples, long-gap trimming only. These checks do not replace listening or establish editorial acceptance."
+  "technical_audio_checks": "Exact generated text/cache hashes, durations, peaks, no clipped samples, long-gap trimming only. These checks do not replace listening or establish editorial acceptance.",
+  "final_voice_complete": true,
+  "latest_credential_result": "First credential in latest attachment generated two missing blocks; other credentials not needed."
 }

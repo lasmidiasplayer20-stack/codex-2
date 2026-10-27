@@ -34,223 +34,223 @@
   {
     "id": 5,
     "start": 73.81096,
-    "end": 88.61141,
+    "end": 88.51235,
     "action": "atalho",
     "set": "apartment",
     "text": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso."
   },
   {
     "id": 6,
-    "start": 88.61141,
-    "end": 103.41187,
+    "start": 88.51235,
+    "end": 103.21374,
     "action": "hipotese",
     "set": "apartment",
     "text": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante."
   },
   {
     "id": 7,
-    "start": 103.41187,
-    "end": 119.62189,
+    "start": 103.21374,
+    "end": 119.31527,
     "action": "mapa",
     "set": "apartment",
     "text": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem."
   },
   {
     "id": 8,
-    "start": 119.62189,
-    "end": 135.99192,
+    "start": 119.31527,
+    "end": 135.57679,
     "action": "teste",
     "set": "apartment",
     "text": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção."
   },
   {
     "id": 9,
-    "start": 135.99192,
-    "end": 157.44692,
+    "start": 135.57679,
+    "end": 156.84175,
     "action": "olhos",
     "set": "apartment",
     "text": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador."
   },
   {
     "id": 10,
-    "start": 157.44692,
-    "end": 176.98692,
+    "start": 156.84175,
+    "end": 176.38175,
     "action": "escala",
     "set": "apartment",
     "text": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real."
   },
   {
     "id": 11,
-    "start": 176.98692,
-    "end": 198.00965,
+    "start": 176.38175,
+    "end": 197.32688,
     "action": "vibracao",
     "set": "apartment",
     "text": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números."
   },
   {
     "id": 12,
-    "start": 198.00965,
-    "end": 219.43287,
+    "start": 197.32688,
+    "end": 218.65833,
     "action": "rotina",
     "set": "apartment",
     "text": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando."
   },
   {
     "id": 13,
-    "start": 219.43287,
-    "end": 237.33202,
+    "start": 218.65833,
+    "end": 236.54865,
     "action": "troca",
     "set": "apartment",
     "text": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho."
   },
   {
     "id": 14,
-    "start": 237.33202,
-    "end": 256.85835,
+    "start": 236.54865,
+    "end": 256.06535,
     "action": "captura",
     "set": "apartment",
     "text": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa."
   },
   {
     "id": 15,
-    "start": 256.85835,
-    "end": 275.1643,
+    "start": 256.06535,
+    "end": 274.36227,
     "action": "soltura",
     "set": "apartment",
     "text": "Do lado de fora há um vaso. Lia inclina o copo e a aranha alcança uma folha. Nico fecha a janela, confere o trinco e comemora. A câmera permanece na folha quando eles saem. A aranha desaparece atrás do vaso. Não sabemos para onde foi."
   },
   {
     "id": 16,
-    "start": 275.1643,
-    "end": 294.44383,
+    "start": 274.36227,
+    "end": 293.63238,
     "action": "retorno",
     "set": "apartment",
     "text": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali."
   },
   {
     "id": 17,
-    "start": 294.44383,
-    "end": 311.19763,
+    "start": 293.63238,
+    "end": 310.3263,
     "action": "duvida",
     "set": "apartment",
     "text": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova."
   },
   {
     "id": 18,
-    "start": 311.19763,
-    "end": 327.95142,
+    "start": 310.3263,
+    "end": 327.02023,
     "action": "camera",
     "set": "apartment",
     "text": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira."
   },
   {
     "id": 19,
-    "start": 327.95142,
-    "end": 344.341,
+    "start": 327.02023,
+    "end": 343.35124,
     "action": "fora",
     "set": "apartment",
     "text": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher."
   },
   {
     "id": 20,
-    "start": 344.341,
-    "end": 361.25479,
+    "start": 343.35124,
+    "end": 360.20517,
     "action": "cadeira",
     "set": "apartment",
     "text": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto."
   },
   {
     "id": 21,
-    "start": 361.25479,
-    "end": 374.99599,
+    "start": 360.20517,
+    "end": 373.85658,
     "action": "sombra",
     "set": "apartment",
     "text": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?"
   },
   {
     "id": 22,
-    "start": 374.99599,
-    "end": 388.26335,
+    "start": 373.85658,
+    "end": 387.03726,
     "action": "plano",
     "set": "apartment",
     "text": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas."
   },
   {
     "id": 23,
-    "start": 388.26335,
-    "end": 402.47839,
+    "start": 387.03726,
+    "end": 401.15941,
     "action": "desvio",
     "set": "apartment",
     "text": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece."
   },
   {
     "id": 24,
-    "start": 402.47839,
-    "end": 415.74575,
+    "start": 401.15941,
+    "end": 414.50008,
     "action": "espera",
     "set": "apartment",
     "text": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar."
   },
   {
     "id": 25,
-    "start": 415.74575,
-    "end": 427.52753,
+    "start": 414.50008,
+    "end": 427.43693,
     "action": "pista",
     "set": "apartment",
     "text": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede."
   },
   {
     "id": 26,
-    "start": 427.52753,
-    "end": 438.13113,
+    "start": 427.43693,
+    "end": 439.0801,
     "action": "interruptor",
     "set": "apartment",
     "text": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar."
   },
   {
     "id": 27,
-    "start": 438.13113,
-    "end": 450.69837,
+    "start": 439.0801,
+    "end": 452.8794,
     "action": "escolha",
     "set": "apartment",
     "text": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto."
   },
   {
     "id": 28,
-    "start": 450.69837,
-    "end": 462.48015,
+    "start": 452.8794,
+    "end": 465.97625,
     "action": "apagao",
     "set": "apartment",
     "text": "A luz se apaga. A janela ainda ilumina a sala de azul. Nico e Lia continuam juntos, longe do interruptor. Nenhum deles apertou o botão. A regra parece ter mudado."
   },
   {
     "id": 29,
-    "start": 462.48015,
-    "end": 474.26193,
+    "start": 465.97625,
+    "end": 479.55239,
     "action": "revela",
     "set": "apartment",
     "text": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro."
   },
   {
     "id": 30,
-    "start": 474.26193,
-    "end": 486.04371,
+    "start": 479.55239,
+    "end": 492.18738,
     "action": "vaso",
     "set": "apartment",
     "text": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua."
   },
   {
     "id": 31,
-    "start": 486.04371,
-    "end": 498.61094,
+    "start": 492.18738,
+    "end": 508.07738,
     "action": "ultimo",
     "set": "apartment",
     "text": "Voltamos ao copo. Nico guarda o cartão e sai. Tudo fica quieto. Então um fio move o cartão até a marca no mapa. A explicação do cabo era válida. Mas explicava tudo?"
   },
   {
     "id": 32,
-    "start": 498.61094,
-    "end": 510.0,
+    "start": 508.07738,
+    "end": 520.75,
     "action": "final",
     "set": "apartment",
     "text": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais."
