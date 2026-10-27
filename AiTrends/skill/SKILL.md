@@ -80,7 +80,7 @@ O render produz vídeo silencioso. Música e SFX são sintetizados em Python; mi
 
 ## Capas — padrão visual pedido pelo usuário
 
-O usuário mandou refazer a capa do episódio 05 no estilo da imagem “QUEM ESTÁ MENTINDO?” e pediu manter esse estilo. Referência própria atual: `../youtube/05 - E se você fosse imortal/capa.jpg`. Leia [youtube-cover-style.md](references/youtube-cover-style.md).
+O usuário mandou refazer a capa do episódio 05 no estilo da imagem “QUEM ESTÁ MENTINDO?” e, após ver a nova versão neon, aprovou: **“ok, deixe esse estilo salvo”**. Esse é o padrão visual das próximas capas. Referência própria atual: `../youtube/05 - E se você fosse imortal/capa.jpg`. Leia [youtube-cover-style.md](references/youtube-cover-style.md).
 
 Priorizar ilustração rica, iluminação cinematográfica neon, contornos fortes, rosto expressivo grande e texto curto em branco/amarelo com borda preta. Preservar identidade e cores de nossos personagens. Adaptar composição, fundo e elementos à premissa; não repetir os contadores de mentira ou a roupa amarela de outro canal. A capa simplificada procedural anterior do 05 fica como histórico, não como estilo a repetir.
 

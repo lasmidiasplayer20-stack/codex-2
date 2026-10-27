@@ -1,0 +1,3123 @@
+{
+  "title": "Duas pessoas poderiam recomeçar a humanidade?",
+  "duration": 510,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 2.89692,
+      "line": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?",
+      "scene": "cidade: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s002",
+      "start": 2.89692,
+      "end": 5.79385,
+      "line": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?",
+      "scene": "cidade: feet; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s003",
+      "start": 5.79385,
+      "end": 8.69077,
+      "line": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?",
+      "scene": "cidade: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s004",
+      "start": 8.69077,
+      "end": 11.5877,
+      "line": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?",
+      "scene": "cidade: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s005",
+      "start": 11.5877,
+      "end": 14.48462,
+      "line": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?",
+      "scene": "cidade: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s006",
+      "start": 14.48462,
+      "end": 17.38155,
+      "line": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?",
+      "scene": "cidade: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s007",
+      "start": 17.38155,
+      "end": 19.85453,
+      "line": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia.",
+      "scene": "encontro: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s008",
+      "start": 19.85453,
+      "end": 22.32751,
+      "line": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia.",
+      "scene": "encontro: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s009",
+      "start": 22.32751,
+      "end": 24.8005,
+      "line": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia.",
+      "scene": "encontro: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s010",
+      "start": 24.8005,
+      "end": 27.27348,
+      "line": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia.",
+      "scene": "encontro: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s011",
+      "start": 27.27348,
+      "end": 29.74647,
+      "line": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia.",
+      "scene": "encontro: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s012",
+      "start": 29.74647,
+      "end": 32.21945,
+      "line": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia.",
+      "scene": "encontro: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 5,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s013",
+      "start": 32.21945,
+      "end": 35.18703,
+      "line": "Lia puxa um quadro. Nico desenha duas pessoas, depois uma família enorme. Só que um desenho pode multiplicar bonequinhos sem precisar alimentar ninguém. Uma população precisa sobreviver hoje antes de conseguir chegar à próxima geração.",
+      "scene": "plano: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s014",
+      "start": 35.18703,
+      "end": 38.15461,
+      "line": "Lia puxa um quadro. Nico desenha duas pessoas, depois uma família enorme. Só que um desenho pode multiplicar bonequinhos sem precisar alimentar ninguém. Uma população precisa sobreviver hoje antes de conseguir chegar à próxima geração.",
+      "scene": "plano: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s015",
+      "start": 38.15461,
+      "end": 41.12219,
+      "line": "Lia puxa um quadro. Nico desenha duas pessoas, depois uma família enorme. Só que um desenho pode multiplicar bonequinhos sem precisar alimentar ninguém. Uma população precisa sobreviver hoje antes de conseguir chegar à próxima geração.",
+      "scene": "plano: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s016",
+      "start": 41.12219,
+      "end": 44.08978,
+      "line": "Lia puxa um quadro. Nico desenha duas pessoas, depois uma família enorme. Só que um desenho pode multiplicar bonequinhos sem precisar alimentar ninguém. Uma população precisa sobreviver hoje antes de conseguir chegar à próxima geração.",
+      "scene": "plano: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s017",
+      "start": 44.08978,
+      "end": 47.05736,
+      "line": "Lia puxa um quadro. Nico desenha duas pessoas, depois uma família enorme. Só que um desenho pode multiplicar bonequinhos sem precisar alimentar ninguém. Uma população precisa sobreviver hoje antes de conseguir chegar à próxima geração.",
+      "scene": "plano: reverse; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s018",
+      "start": 47.05736,
+      "end": 50.02494,
+      "line": "Se uma quantidade dobra, ela cresce depressa: dois, quatro, oito. Não é uma previsão demográfica. A conta não informa quem nasce, quem chega à idade adulta, quais recursos existem ou como as pessoas escolhem viver.",
+      "scene": "numeros: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s019",
+      "start": 50.02494,
+      "end": 52.99252,
+      "line": "Se uma quantidade dobra, ela cresce depressa: dois, quatro, oito. Não é uma previsão demográfica. A conta não informa quem nasce, quem chega à idade adulta, quais recursos existem ou como as pessoas escolhem viver.",
+      "scene": "numeros: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s020",
+      "start": 52.99252,
+      "end": 55.9601,
+      "line": "Se uma quantidade dobra, ela cresce depressa: dois, quatro, oito. Não é uma previsão demográfica. A conta não informa quem nasce, quem chega à idade adulta, quais recursos existem ou como as pessoas escolhem viver.",
+      "scene": "numeros: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s021",
+      "start": 55.9601,
+      "end": 58.92768,
+      "line": "Se uma quantidade dobra, ela cresce depressa: dois, quatro, oito. Não é uma previsão demográfica. A conta não informa quem nasce, quem chega à idade adulta, quais recursos existem ou como as pessoas escolhem viver.",
+      "scene": "numeros: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s022",
+      "start": 58.92768,
+      "end": 61.89526,
+      "line": "Se uma quantidade dobra, ela cresce depressa: dois, quatro, oito. Não é uma previsão demográfica. A conta não informa quem nasce, quem chega à idade adulta, quais recursos existem ou como as pessoas escolhem viver.",
+      "scene": "numeros: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s023",
+      "start": 61.89526,
+      "end": 63.67581,
+      "line": "E existe outro problema que a multiplicação esconde. Mesmo com muitos descendentes, todos começariam com uma amostra minúscula da diversidade humana.",
+      "scene": "gargalo: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s024",
+      "start": 63.67581,
+      "end": 65.45636,
+      "line": "E existe outro problema que a multiplicação esconde. Mesmo com muitos descendentes, todos começariam com uma amostra minúscula da diversidade humana.",
+      "scene": "gargalo: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s025",
+      "start": 65.45636,
+      "end": 67.23691,
+      "line": "E existe outro problema que a multiplicação esconde. Mesmo com muitos descendentes, todos começariam com uma amostra minúscula da diversidade humana.",
+      "scene": "gargalo: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s026",
+      "start": 67.23691,
+      "end": 69.01746,
+      "line": "E existe outro problema que a multiplicação esconde. Mesmo com muitos descendentes, todos começariam com uma amostra minúscula da diversidade humana.",
+      "scene": "gargalo: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s027",
+      "start": 69.01746,
+      "end": 70.798,
+      "line": "E existe outro problema que a multiplicação esconde. Mesmo com muitos descendentes, todos começariam com uma amostra minúscula da diversidade humana.",
+      "scene": "gargalo: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s028",
+      "start": 70.798,
+      "end": 74.44389,
+      "line": "Nico abre duas caixas coloridas. Cada uma representa parte da informação genética de uma pessoa. Um descendente recebe material dos dois pais. As combinações podem mudar, mas combinar o mesmo conjunto de peças não equivale a recuperar tudo que ficou fora das caixas.",
+      "scene": "heranca: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s029",
+      "start": 74.44389,
+      "end": 78.08978,
+      "line": "Nico abre duas caixas coloridas. Cada uma representa parte da informação genética de uma pessoa. Um descendente recebe material dos dois pais. As combinações podem mudar, mas combinar o mesmo conjunto de peças não equivale a recuperar tudo que ficou fora das caixas.",
+      "scene": "heranca: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s030",
+      "start": 78.08978,
+      "end": 81.73566,
+      "line": "Nico abre duas caixas coloridas. Cada uma representa parte da informação genética de uma pessoa. Um descendente recebe material dos dois pais. As combinações podem mudar, mas combinar o mesmo conjunto de peças não equivale a recuperar tudo que ficou fora das caixas.",
+      "scene": "heranca: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s031",
+      "start": 81.73566,
+      "end": 85.38155,
+      "line": "Nico abre duas caixas coloridas. Cada uma representa parte da informação genética de uma pessoa. Um descendente recebe material dos dois pais. As combinações podem mudar, mas combinar o mesmo conjunto de peças não equivale a recuperar tudo que ficou fora das caixas.",
+      "scene": "heranca: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s032",
+      "start": 85.38155,
+      "end": 89.02743,
+      "line": "Nico abre duas caixas coloridas. Cada uma representa parte da informação genética de uma pessoa. Um descendente recebe material dos dois pais. As combinações podem mudar, mas combinar o mesmo conjunto de peças não equivale a recuperar tudo que ficou fora das caixas.",
+      "scene": "heranca: reverse; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s033",
+      "start": 89.02743,
+      "end": 91.31671,
+      "line": "Para a maioria dos genes nos autossomos, cada pessoa possui duas cópias: uma herdada de cada progenitor. Dois fundadores carregam poucas versões de cada uma dessas regiões.",
+      "scene": "copias: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s034",
+      "start": 91.31671,
+      "end": 93.60599,
+      "line": "Para a maioria dos genes nos autossomos, cada pessoa possui duas cópias: uma herdada de cada progenitor. Dois fundadores carregam poucas versões de cada uma dessas regiões.",
+      "scene": "copias: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s035",
+      "start": 93.60599,
+      "end": 95.89526,
+      "line": "Para a maioria dos genes nos autossomos, cada pessoa possui duas cópias: uma herdada de cada progenitor. Dois fundadores carregam poucas versões de cada uma dessas regiões.",
+      "scene": "copias: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s036",
+      "start": 95.89526,
+      "end": 98.18454,
+      "line": "Para a maioria dos genes nos autossomos, cada pessoa possui duas cópias: uma herdada de cada progenitor. Dois fundadores carregam poucas versões de cada uma dessas regiões.",
+      "scene": "copias: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s037",
+      "start": 98.18454,
+      "end": 100.47382,
+      "line": "Para a maioria dos genes nos autossomos, cada pessoa possui duas cópias: uma herdada de cada progenitor. Dois fundadores carregam poucas versões de cada uma dessas regiões.",
+      "scene": "copias: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s038",
+      "start": 100.47382,
+      "end": 102.6783,
+      "line": "Algumas variantes associadas a doenças recessivas podem estar presentes sem causar aquela condição na pessoa portadora. Olhar para alguém saudável não revela todas as suas variantes.",
+      "scene": "oculto: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s039",
+      "start": 102.6783,
+      "end": 104.88279,
+      "line": "Algumas variantes associadas a doenças recessivas podem estar presentes sem causar aquela condição na pessoa portadora. Olhar para alguém saudável não revela todas as suas variantes.",
+      "scene": "oculto: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s040",
+      "start": 104.88279,
+      "end": 107.08728,
+      "line": "Algumas variantes associadas a doenças recessivas podem estar presentes sem causar aquela condição na pessoa portadora. Olhar para alguém saudável não revela todas as suas variantes.",
+      "scene": "oculto: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s041",
+      "start": 107.08728,
+      "end": 109.29177,
+      "line": "Algumas variantes associadas a doenças recessivas podem estar presentes sem causar aquela condição na pessoa portadora. Olhar para alguém saudável não revela todas as suas variantes.",
+      "scene": "oculto: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s042",
+      "start": 109.29177,
+      "end": 111.49626,
+      "line": "Algumas variantes associadas a doenças recessivas podem estar presentes sem causar aquela condição na pessoa portadora. Olhar para alguém saudável não revela todas as suas variantes.",
+      "scene": "oculto: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s043",
+      "start": 111.49626,
+      "end": 115.31172,
+      "line": "Num exemplo simples, os dois pais carregam uma mesma variante recessiva. Para cada gestação, o modelo prevê vinte e cinco por cento de chance de receber as duas cópias associadas à condição. Esse número pertence ao exemplo, não a qualquer casal nem a qualquer doença.",
+      "scene": "quadrado: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s044",
+      "start": 115.31172,
+      "end": 119.12718,
+      "line": "Num exemplo simples, os dois pais carregam uma mesma variante recessiva. Para cada gestação, o modelo prevê vinte e cinco por cento de chance de receber as duas cópias associadas à condição. Esse número pertence ao exemplo, não a qualquer casal nem a qualquer doença.",
+      "scene": "quadrado: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s045",
+      "start": 119.12718,
+      "end": 122.94264,
+      "line": "Num exemplo simples, os dois pais carregam uma mesma variante recessiva. Para cada gestação, o modelo prevê vinte e cinco por cento de chance de receber as duas cópias associadas à condição. Esse número pertence ao exemplo, não a qualquer casal nem a qualquer doença.",
+      "scene": "quadrado: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s046",
+      "start": 122.94264,
+      "end": 126.7581,
+      "line": "Num exemplo simples, os dois pais carregam uma mesma variante recessiva. Para cada gestação, o modelo prevê vinte e cinco por cento de chance de receber as duas cópias associadas à condição. Esse número pertence ao exemplo, não a qualquer casal nem a qualquer doença.",
+      "scene": "quadrado: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s047",
+      "start": 126.7581,
+      "end": 130.57357,
+      "line": "Num exemplo simples, os dois pais carregam uma mesma variante recessiva. Para cada gestação, o modelo prevê vinte e cinco por cento de chance de receber as duas cópias associadas à condição. Esse número pertence ao exemplo, não a qualquer casal nem a qualquer doença.",
+      "scene": "quadrado: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s048",
+      "start": 130.57357,
+      "end": 133.96509,
+      "line": "Também não significa que, entre quatro crianças, exatamente uma terá a condição. Probabilidade não distribui resultados como uma fila organizada. Nico embaralha quatro cartas, repete o sorteio e percebe que os resultados variam. O risco é recalculado a cada gestação.",
+      "scene": "chance: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s049",
+      "start": 133.96509,
+      "end": 137.35661,
+      "line": "Também não significa que, entre quatro crianças, exatamente uma terá a condição. Probabilidade não distribui resultados como uma fila organizada. Nico embaralha quatro cartas, repete o sorteio e percebe que os resultados variam. O risco é recalculado a cada gestação.",
+      "scene": "chance: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s050",
+      "start": 137.35661,
+      "end": 140.74813,
+      "line": "Também não significa que, entre quatro crianças, exatamente uma terá a condição. Probabilidade não distribui resultados como uma fila organizada. Nico embaralha quatro cartas, repete o sorteio e percebe que os resultados variam. O risco é recalculado a cada gestação.",
+      "scene": "chance: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s051",
+      "start": 140.74813,
+      "end": 144.13965,
+      "line": "Também não significa que, entre quatro crianças, exatamente uma terá a condição. Probabilidade não distribui resultados como uma fila organizada. Nico embaralha quatro cartas, repete o sorteio e percebe que os resultados variam. O risco é recalculado a cada gestação.",
+      "scene": "chance: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s052",
+      "start": 144.13965,
+      "end": 147.53117,
+      "line": "Também não significa que, entre quatro crianças, exatamente uma terá a condição. Probabilidade não distribui resultados como uma fila organizada. Nico embaralha quatro cartas, repete o sorteio e percebe que os resultados variam. O risco é recalculado a cada gestação.",
+      "scene": "chance: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s053",
+      "start": 147.53117,
+      "end": 150.83791,
+      "line": "Agora acompanhe os fios do quadro. Se todos descendem das mesmas duas pessoas e ninguém mais chega, as famílias continuam ligadas àquele início. O parentesco próximo aumenta a possibilidade de duas cópias herdadas terem vindo de um mesmo ancestral.",
+      "scene": "parentesco: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s054",
+      "start": 150.83791,
+      "end": 154.14464,
+      "line": "Agora acompanhe os fios do quadro. Se todos descendem das mesmas duas pessoas e ninguém mais chega, as famílias continuam ligadas àquele início. O parentesco próximo aumenta a possibilidade de duas cópias herdadas terem vindo de um mesmo ancestral.",
+      "scene": "parentesco: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s055",
+      "start": 154.14464,
+      "end": 157.45137,
+      "line": "Agora acompanhe os fios do quadro. Se todos descendem das mesmas duas pessoas e ninguém mais chega, as famílias continuam ligadas àquele início. O parentesco próximo aumenta a possibilidade de duas cópias herdadas terem vindo de um mesmo ancestral.",
+      "scene": "parentesco: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s056",
+      "start": 157.45137,
+      "end": 160.7581,
+      "line": "Agora acompanhe os fios do quadro. Se todos descendem das mesmas duas pessoas e ninguém mais chega, as famílias continuam ligadas àquele início. O parentesco próximo aumenta a possibilidade de duas cópias herdadas terem vindo de um mesmo ancestral.",
+      "scene": "parentesco: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s057",
+      "start": 160.7581,
+      "end": 164.06484,
+      "line": "Agora acompanhe os fios do quadro. Se todos descendem das mesmas duas pessoas e ninguém mais chega, as famílias continuam ligadas àquele início. O parentesco próximo aumenta a possibilidade de duas cópias herdadas terem vindo de um mesmo ancestral.",
+      "scene": "parentesco: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s058",
+      "start": 164.06484,
+      "end": 167.62594,
+      "line": "Isso pode aumentar a expressão de variantes recessivas prejudiciais. Não significa que todo descendente terá uma doença, nem permite prever a saúde de alguém só pela árvore familiar. Estamos falando de riscos de uma população isolada, não julgando o valor das pessoas.",
+      "scene": "risco: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s059",
+      "start": 167.62594,
+      "end": 171.18703,
+      "line": "Isso pode aumentar a expressão de variantes recessivas prejudiciais. Não significa que todo descendente terá uma doença, nem permite prever a saúde de alguém só pela árvore familiar. Estamos falando de riscos de uma população isolada, não julgando o valor das pessoas.",
+      "scene": "risco: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s060",
+      "start": 171.18703,
+      "end": 174.74813,
+      "line": "Isso pode aumentar a expressão de variantes recessivas prejudiciais. Não significa que todo descendente terá uma doença, nem permite prever a saúde de alguém só pela árvore familiar. Estamos falando de riscos de uma população isolada, não julgando o valor das pessoas.",
+      "scene": "risco: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s061",
+      "start": 174.74813,
+      "end": 178.30923,
+      "line": "Isso pode aumentar a expressão de variantes recessivas prejudiciais. Não significa que todo descendente terá uma doença, nem permite prever a saúde de alguém só pela árvore familiar. Estamos falando de riscos de uma população isolada, não julgando o valor das pessoas.",
+      "scene": "risco: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s062",
+      "start": 178.30923,
+      "end": 181.87032,
+      "line": "Isso pode aumentar a expressão de variantes recessivas prejudiciais. Não significa que todo descendente terá uma doença, nem permite prever a saúde de alguém só pela árvore familiar. Estamos falando de riscos de uma população isolada, não julgando o valor das pessoas.",
+      "scene": "risco: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s063",
+      "start": 181.87032,
+      "end": 185.34663,
+      "line": "Nico tenta resolver o problema embaralhando as cartas mais depressa. Lia separa a pilha original e pede que ele encontre uma cor que nunca esteve ali. A recombinação reorganiza material existente. Ela não restaura, sozinha, toda a diversidade perdida no começo.",
+      "scene": "baralho: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s064",
+      "start": 185.34663,
+      "end": 188.82294,
+      "line": "Nico tenta resolver o problema embaralhando as cartas mais depressa. Lia separa a pilha original e pede que ele encontre uma cor que nunca esteve ali. A recombinação reorganiza material existente. Ela não restaura, sozinha, toda a diversidade perdida no começo.",
+      "scene": "baralho: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s065",
+      "start": 188.82294,
+      "end": 192.29925,
+      "line": "Nico tenta resolver o problema embaralhando as cartas mais depressa. Lia separa a pilha original e pede que ele encontre uma cor que nunca esteve ali. A recombinação reorganiza material existente. Ela não restaura, sozinha, toda a diversidade perdida no começo.",
+      "scene": "baralho: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s066",
+      "start": 192.29925,
+      "end": 195.77556,
+      "line": "Nico tenta resolver o problema embaralhando as cartas mais depressa. Lia separa a pilha original e pede que ele encontre uma cor que nunca esteve ali. A recombinação reorganiza material existente. Ela não restaura, sozinha, toda a diversidade perdida no começo.",
+      "scene": "baralho: reverse; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s067",
+      "start": 195.77556,
+      "end": 199.25187,
+      "line": "Nico tenta resolver o problema embaralhando as cartas mais depressa. Lia separa a pilha original e pede que ele encontre uma cor que nunca esteve ali. A recombinação reorganiza material existente. Ela não restaura, sozinha, toda a diversidade perdida no começo.",
+      "scene": "baralho: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s068",
+      "start": 199.25187,
+      "end": 202.64339,
+      "line": "Em populações pequenas, o acaso pesa bastante. Uma versão genética pode deixar de passar adiante por circunstâncias que não a tornam melhor ou pior. Esse processo é chamado deriva genética. Quanto menor a população, maiores podem ser essas oscilações aleatórias.",
+      "scene": "acaso: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s069",
+      "start": 202.64339,
+      "end": 206.03491,
+      "line": "Em populações pequenas, o acaso pesa bastante. Uma versão genética pode deixar de passar adiante por circunstâncias que não a tornam melhor ou pior. Esse processo é chamado deriva genética. Quanto menor a população, maiores podem ser essas oscilações aleatórias.",
+      "scene": "acaso: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s070",
+      "start": 206.03491,
+      "end": 209.42643,
+      "line": "Em populações pequenas, o acaso pesa bastante. Uma versão genética pode deixar de passar adiante por circunstâncias que não a tornam melhor ou pior. Esse processo é chamado deriva genética. Quanto menor a população, maiores podem ser essas oscilações aleatórias.",
+      "scene": "acaso: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s071",
+      "start": 209.42643,
+      "end": 212.81796,
+      "line": "Em populações pequenas, o acaso pesa bastante. Uma versão genética pode deixar de passar adiante por circunstâncias que não a tornam melhor ou pior. Esse processo é chamado deriva genética. Quanto menor a população, maiores podem ser essas oscilações aleatórias.",
+      "scene": "acaso: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s072",
+      "start": 212.81796,
+      "end": 216.20948,
+      "line": "Em populações pequenas, o acaso pesa bastante. Uma versão genética pode deixar de passar adiante por circunstâncias que não a tornam melhor ou pior. Esse processo é chamado deriva genética. Quanto menor a população, maiores podem ser essas oscilações aleatórias.",
+      "scene": "acaso: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s073",
+      "start": 216.20948,
+      "end": 219.34663,
+      "line": "Novas mutações podem criar variação, mas não são encomendas feitas conforme a necessidade. Não seria prudente esperar que aparecessem rapidamente todas as soluções de que aquele grupo precisa. Muitas mudanças são neutras, algumas prejudiciais; o contexto importa.",
+      "scene": "mutacao: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s074",
+      "start": 219.34663,
+      "end": 222.48379,
+      "line": "Novas mutações podem criar variação, mas não são encomendas feitas conforme a necessidade. Não seria prudente esperar que aparecessem rapidamente todas as soluções de que aquele grupo precisa. Muitas mudanças são neutras, algumas prejudiciais; o contexto importa.",
+      "scene": "mutacao: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s075",
+      "start": 222.48379,
+      "end": 225.62095,
+      "line": "Novas mutações podem criar variação, mas não são encomendas feitas conforme a necessidade. Não seria prudente esperar que aparecessem rapidamente todas as soluções de que aquele grupo precisa. Muitas mudanças são neutras, algumas prejudiciais; o contexto importa.",
+      "scene": "mutacao: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s076",
+      "start": 225.62095,
+      "end": 228.7581,
+      "line": "Novas mutações podem criar variação, mas não são encomendas feitas conforme a necessidade. Não seria prudente esperar que aparecessem rapidamente todas as soluções de que aquele grupo precisa. Muitas mudanças são neutras, algumas prejudiciais; o contexto importa.",
+      "scene": "mutacao: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s077",
+      "start": 228.7581,
+      "end": 231.89526,
+      "line": "Novas mutações podem criar variação, mas não são encomendas feitas conforme a necessidade. Não seria prudente esperar que aparecessem rapidamente todas as soluções de que aquele grupo precisa. Muitas mudanças são neutras, algumas prejudiciais; o contexto importa.",
+      "scene": "mutacao: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s078",
+      "start": 231.89526,
+      "end": 235.54115,
+      "line": "A praça ajuda a explicar outra parte. Lia compara sementes de origens diferentes. Um ambiente muda, surge um problema, e respostas iguais podem deixar o grupo vulnerável. Diversidade pode ampliar possibilidades de resposta; não é um escudo que garante resistência a qualquer doença.",
+      "scene": "ambiente: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s079",
+      "start": 235.54115,
+      "end": 239.18703,
+      "line": "A praça ajuda a explicar outra parte. Lia compara sementes de origens diferentes. Um ambiente muda, surge um problema, e respostas iguais podem deixar o grupo vulnerável. Diversidade pode ampliar possibilidades de resposta; não é um escudo que garante resistência a qualquer doença.",
+      "scene": "ambiente: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s080",
+      "start": 239.18703,
+      "end": 242.83292,
+      "line": "A praça ajuda a explicar outra parte. Lia compara sementes de origens diferentes. Um ambiente muda, surge um problema, e respostas iguais podem deixar o grupo vulnerável. Diversidade pode ampliar possibilidades de resposta; não é um escudo que garante resistência a qualquer doença.",
+      "scene": "ambiente: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s081",
+      "start": 242.83292,
+      "end": 246.4788,
+      "line": "A praça ajuda a explicar outra parte. Lia compara sementes de origens diferentes. Um ambiente muda, surge um problema, e respostas iguais podem deixar o grupo vulnerável. Diversidade pode ampliar possibilidades de resposta; não é um escudo que garante resistência a qualquer doença.",
+      "scene": "ambiente: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s082",
+      "start": 246.4788,
+      "end": 250.12469,
+      "line": "A praça ajuda a explicar outra parte. Lia compara sementes de origens diferentes. Um ambiente muda, surge um problema, e respostas iguais podem deixar o grupo vulnerável. Diversidade pode ampliar possibilidades de resposta; não é um escudo que garante resistência a qualquer doença.",
+      "scene": "ambiente: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s083",
+      "start": 250.12469,
+      "end": 252.31505,
+      "line": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos.",
+      "scene": "rotina: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s084",
+      "start": 252.31505,
+      "end": 254.5054,
+      "line": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos.",
+      "scene": "rotina: feet; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s085",
+      "start": 254.5054,
+      "end": 256.69576,
+      "line": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos.",
+      "scene": "rotina: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s086",
+      "start": 256.69576,
+      "end": 258.88612,
+      "line": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos.",
+      "scene": "rotina: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s087",
+      "start": 258.88612,
+      "end": 261.07648,
+      "line": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos.",
+      "scene": "rotina: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s088",
+      "start": 261.07648,
+      "end": 263.26683,
+      "line": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos.",
+      "scene": "rotina: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 5,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s089",
+      "start": 263.26683,
+      "end": 266.14963,
+      "line": "Com apenas duas pessoas, uma lesão que exigisse repouso mudaria todas as tarefas. Quem buscaria água? Quem cuidaria de quem precisa? Basta perceber como é pequena a margem para dividir trabalho e receber ajuda.",
+      "scene": "cuidado: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "clinic",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s090",
+      "start": 266.14963,
+      "end": 269.03242,
+      "line": "Com apenas duas pessoas, uma lesão que exigisse repouso mudaria todas as tarefas. Quem buscaria água? Quem cuidaria de quem precisa? Basta perceber como é pequena a margem para dividir trabalho e receber ajuda.",
+      "scene": "cuidado: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "clinic",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s091",
+      "start": 269.03242,
+      "end": 271.91521,
+      "line": "Com apenas duas pessoas, uma lesão que exigisse repouso mudaria todas as tarefas. Quem buscaria água? Quem cuidaria de quem precisa? Basta perceber como é pequena a margem para dividir trabalho e receber ajuda.",
+      "scene": "cuidado: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "clinic",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s092",
+      "start": 271.91521,
+      "end": 274.798,
+      "line": "Com apenas duas pessoas, uma lesão que exigisse repouso mudaria todas as tarefas. Quem buscaria água? Quem cuidaria de quem precisa? Basta perceber como é pequena a margem para dividir trabalho e receber ajuda.",
+      "scene": "cuidado: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "clinic",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s093",
+      "start": 274.798,
+      "end": 277.6808,
+      "line": "Com apenas duas pessoas, uma lesão que exigisse repouso mudaria todas as tarefas. Quem buscaria água? Quem cuidaria de quem precisa? Basta perceber como é pequena a margem para dividir trabalho e receber ajuda.",
+      "scene": "cuidado: reverse; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "clinic",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s094",
+      "start": 277.6808,
+      "end": 281.15711,
+      "line": "Há ainda fertilidade, saúde, tempo entre gerações e decisões pessoais. Nenhuma dessas coisas aparece numa sequência de potências de dois. Um cenário responsável não trata pessoas como peças obrigadas a cumprir uma meta. A matemática precisa reconhecer limites biológicos e humanos.",
+      "scene": "tempo: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s095",
+      "start": 281.15711,
+      "end": 284.63342,
+      "line": "Há ainda fertilidade, saúde, tempo entre gerações e decisões pessoais. Nenhuma dessas coisas aparece numa sequência de potências de dois. Um cenário responsável não trata pessoas como peças obrigadas a cumprir uma meta. A matemática precisa reconhecer limites biológicos e humanos.",
+      "scene": "tempo: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s096",
+      "start": 284.63342,
+      "end": 288.10973,
+      "line": "Há ainda fertilidade, saúde, tempo entre gerações e decisões pessoais. Nenhuma dessas coisas aparece numa sequência de potências de dois. Um cenário responsável não trata pessoas como peças obrigadas a cumprir uma meta. A matemática precisa reconhecer limites biológicos e humanos.",
+      "scene": "tempo: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s097",
+      "start": 288.10973,
+      "end": 291.58603,
+      "line": "Há ainda fertilidade, saúde, tempo entre gerações e decisões pessoais. Nenhuma dessas coisas aparece numa sequência de potências de dois. Um cenário responsável não trata pessoas como peças obrigadas a cumprir uma meta. A matemática precisa reconhecer limites biológicos e humanos.",
+      "scene": "tempo: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s098",
+      "start": 291.58603,
+      "end": 295.06234,
+      "line": "Há ainda fertilidade, saúde, tempo entre gerações e decisões pessoais. Nenhuma dessas coisas aparece numa sequência de potências de dois. Um cenário responsável não trata pessoas como peças obrigadas a cumprir uma meta. A matemática precisa reconhecer limites biológicos e humanos.",
+      "scene": "tempo: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s099",
+      "start": 295.06234,
+      "end": 298.36908,
+      "line": "E se eles encontrassem material reprodutivo preservado de outras pessoas? A hipótese mudaria, porque a diversidade inicial poderia vir de mais fundadores. Mas armazenamento adequado, equipamentos, profissionais e condições de uso não apareceriam automaticamente ao lado de uma tomada.",
+      "scene": "banco: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s100",
+      "start": 298.36908,
+      "end": 301.67581,
+      "line": "E se eles encontrassem material reprodutivo preservado de outras pessoas? A hipótese mudaria, porque a diversidade inicial poderia vir de mais fundadores. Mas armazenamento adequado, equipamentos, profissionais e condições de uso não apareceriam automaticamente ao lado de uma tomada.",
+      "scene": "banco: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s101",
+      "start": 301.67581,
+      "end": 304.98254,
+      "line": "E se eles encontrassem material reprodutivo preservado de outras pessoas? A hipótese mudaria, porque a diversidade inicial poderia vir de mais fundadores. Mas armazenamento adequado, equipamentos, profissionais e condições de uso não apareceriam automaticamente ao lado de uma tomada.",
+      "scene": "banco: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s102",
+      "start": 304.98254,
+      "end": 308.28928,
+      "line": "E se eles encontrassem material reprodutivo preservado de outras pessoas? A hipótese mudaria, porque a diversidade inicial poderia vir de mais fundadores. Mas armazenamento adequado, equipamentos, profissionais e condições de uso não apareceriam automaticamente ao lado de uma tomada.",
+      "scene": "banco: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s103",
+      "start": 308.28928,
+      "end": 311.59601,
+      "line": "E se eles encontrassem material reprodutivo preservado de outras pessoas? A hipótese mudaria, porque a diversidade inicial poderia vir de mais fundadores. Mas armazenamento adequado, equipamentos, profissionais e condições de uso não apareceriam automaticamente ao lado de uma tomada.",
+      "scene": "banco: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s104",
+      "start": 311.59601,
+      "end": 315.15711,
+      "line": "Então qual seria o número mínimo seguro? Não existe uma resposta universal que sirva para todo cenário. O resultado depende de diversidade inicial, parentesco, mudanças no ambiente, crescimento e outros fatores. Um número isolado não garante uma população viável por muitos séculos.",
+      "scene": "limite: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s105",
+      "start": 315.15711,
+      "end": 318.7182,
+      "line": "Então qual seria o número mínimo seguro? Não existe uma resposta universal que sirva para todo cenário. O resultado depende de diversidade inicial, parentesco, mudanças no ambiente, crescimento e outros fatores. Um número isolado não garante uma população viável por muitos séculos.",
+      "scene": "limite: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s106",
+      "start": 318.7182,
+      "end": 322.2793,
+      "line": "Então qual seria o número mínimo seguro? Não existe uma resposta universal que sirva para todo cenário. O resultado depende de diversidade inicial, parentesco, mudanças no ambiente, crescimento e outros fatores. Um número isolado não garante uma população viável por muitos séculos.",
+      "scene": "limite: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s107",
+      "start": 322.2793,
+      "end": 325.8404,
+      "line": "Então qual seria o número mínimo seguro? Não existe uma resposta universal que sirva para todo cenário. O resultado depende de diversidade inicial, parentesco, mudanças no ambiente, crescimento e outros fatores. Um número isolado não garante uma população viável por muitos séculos.",
+      "scene": "limite: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s108",
+      "start": 325.8404,
+      "end": 329.4015,
+      "line": "Então qual seria o número mínimo seguro? Não existe uma resposta universal que sirva para todo cenário. O resultado depende de diversidade inicial, parentesco, mudanças no ambiente, crescimento e outros fatores. Um número isolado não garante uma população viável por muitos séculos.",
+      "scene": "limite: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s109",
+      "start": 329.4015,
+      "end": 332.70823,
+      "line": "Lia apaga a palavra garantido do quadro. Modelos ajudam a comparar hipóteses; também dependem das regras escolhidas. Se Nico muda sobrevivência, recursos ou variedade genética, a projeção muda. Uma linha bonita subindo na tela pode esconder premissas muito frágeis.",
+      "scene": "modelos: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s110",
+      "start": 332.70823,
+      "end": 336.01496,
+      "line": "Lia apaga a palavra garantido do quadro. Modelos ajudam a comparar hipóteses; também dependem das regras escolhidas. Se Nico muda sobrevivência, recursos ou variedade genética, a projeção muda. Uma linha bonita subindo na tela pode esconder premissas muito frágeis.",
+      "scene": "modelos: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s111",
+      "start": 336.01496,
+      "end": 339.3217,
+      "line": "Lia apaga a palavra garantido do quadro. Modelos ajudam a comparar hipóteses; também dependem das regras escolhidas. Se Nico muda sobrevivência, recursos ou variedade genética, a projeção muda. Uma linha bonita subindo na tela pode esconder premissas muito frágeis.",
+      "scene": "modelos: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s112",
+      "start": 339.3217,
+      "end": 342.62843,
+      "line": "Lia apaga a palavra garantido do quadro. Modelos ajudam a comparar hipóteses; também dependem das regras escolhidas. Se Nico muda sobrevivência, recursos ou variedade genética, a projeção muda. Uma linha bonita subindo na tela pode esconder premissas muito frágeis.",
+      "scene": "modelos: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s113",
+      "start": 342.62843,
+      "end": 345.93516,
+      "line": "Lia apaga a palavra garantido do quadro. Modelos ajudam a comparar hipóteses; também dependem das regras escolhidas. Se Nico muda sobrevivência, recursos ou variedade genética, a projeção muda. Uma linha bonita subindo na tela pode esconder premissas muito frágeis.",
+      "scene": "modelos: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s114",
+      "start": 345.93516,
+      "end": 349.07232,
+      "line": "Na conservação, populações reduzidas podem enfrentar problemas de parentesco, perda de diversidade e acidentes ambientais. Recuperar indivíduos é importante, mas contar cabeças não basta. Isso não autoriza transferir um resultado de outra espécie diretamente para a humanidade.",
+      "scene": "natureza: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s115",
+      "start": 349.07232,
+      "end": 352.20948,
+      "line": "Na conservação, populações reduzidas podem enfrentar problemas de parentesco, perda de diversidade e acidentes ambientais. Recuperar indivíduos é importante, mas contar cabeças não basta. Isso não autoriza transferir um resultado de outra espécie diretamente para a humanidade.",
+      "scene": "natureza: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s116",
+      "start": 352.20948,
+      "end": 355.34663,
+      "line": "Na conservação, populações reduzidas podem enfrentar problemas de parentesco, perda de diversidade e acidentes ambientais. Recuperar indivíduos é importante, mas contar cabeças não basta. Isso não autoriza transferir um resultado de outra espécie diretamente para a humanidade.",
+      "scene": "natureza: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s117",
+      "start": 355.34663,
+      "end": 358.48379,
+      "line": "Na conservação, populações reduzidas podem enfrentar problemas de parentesco, perda de diversidade e acidentes ambientais. Recuperar indivíduos é importante, mas contar cabeças não basta. Isso não autoriza transferir um resultado de outra espécie diretamente para a humanidade.",
+      "scene": "natureza: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s118",
+      "start": 358.48379,
+      "end": 361.62095,
+      "line": "Na conservação, populações reduzidas podem enfrentar problemas de parentesco, perda de diversidade e acidentes ambientais. Recuperar indivíduos é importante, mas contar cabeças não basta. Isso não autoriza transferir um resultado de outra espécie diretamente para a humanidade.",
+      "scene": "natureza: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s119",
+      "start": 361.62095,
+      "end": 364.24938,
+      "line": "Nico volta ao rádio. Procurar outras pessoas mudaria o problema inteiro. Ele ajusta o aparelho, Lia aproxima o mapa e os dois marcam lugares onde poderiam encontrar sinais de uma comunidade.",
+      "scene": "radio: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s120",
+      "start": 364.24938,
+      "end": 366.87781,
+      "line": "Nico volta ao rádio. Procurar outras pessoas mudaria o problema inteiro. Ele ajusta o aparelho, Lia aproxima o mapa e os dois marcam lugares onde poderiam encontrar sinais de uma comunidade.",
+      "scene": "radio: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s121",
+      "start": 366.87781,
+      "end": 369.50623,
+      "line": "Nico volta ao rádio. Procurar outras pessoas mudaria o problema inteiro. Ele ajusta o aparelho, Lia aproxima o mapa e os dois marcam lugares onde poderiam encontrar sinais de uma comunidade.",
+      "scene": "radio: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s122",
+      "start": 369.50623,
+      "end": 372.13466,
+      "line": "Nico volta ao rádio. Procurar outras pessoas mudaria o problema inteiro. Ele ajusta o aparelho, Lia aproxima o mapa e os dois marcam lugares onde poderiam encontrar sinais de uma comunidade.",
+      "scene": "radio: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s123",
+      "start": 372.13466,
+      "end": 374.76309,
+      "line": "Nico volta ao rádio. Procurar outras pessoas mudaria o problema inteiro. Ele ajusta o aparelho, Lia aproxima o mapa e os dois marcam lugares onde poderiam encontrar sinais de uma comunidade.",
+      "scene": "radio: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "supply",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s124",
+      "start": 374.76309,
+      "end": 377.80133,
+      "line": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar.",
+      "scene": "travessia: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s125",
+      "start": 377.80133,
+      "end": 380.83957,
+      "line": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar.",
+      "scene": "travessia: feet; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s126",
+      "start": 380.83957,
+      "end": 383.87781,
+      "line": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar.",
+      "scene": "travessia: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s127",
+      "start": 383.87781,
+      "end": 386.91604,
+      "line": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar.",
+      "scene": "travessia: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 3,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s128",
+      "start": 386.91604,
+      "end": 389.95428,
+      "line": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar.",
+      "scene": "travessia: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s129",
+      "start": 389.95428,
+      "end": 392.99252,
+      "line": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar.",
+      "scene": "travessia: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s130",
+      "start": 392.99252,
+      "end": 396.38404,
+      "line": "Do outro lado, uma luz responde. Nesta história, existem outros sobreviventes. Isso encerra a condição de apenas duas pessoas; não demonstra que o cenário original daria certo. O grupo pode reunir conhecimentos, dividir tarefas e ampliar as possibilidades de cuidado.",
+      "scene": "sinal: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s131",
+      "start": 396.38404,
+      "end": 399.77556,
+      "line": "Do outro lado, uma luz responde. Nesta história, existem outros sobreviventes. Isso encerra a condição de apenas duas pessoas; não demonstra que o cenário original daria certo. O grupo pode reunir conhecimentos, dividir tarefas e ampliar as possibilidades de cuidado.",
+      "scene": "sinal: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s132",
+      "start": 399.77556,
+      "end": 403.16708,
+      "line": "Do outro lado, uma luz responde. Nesta história, existem outros sobreviventes. Isso encerra a condição de apenas duas pessoas; não demonstra que o cenário original daria certo. O grupo pode reunir conhecimentos, dividir tarefas e ampliar as possibilidades de cuidado.",
+      "scene": "sinal: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s133",
+      "start": 403.16708,
+      "end": 406.5586,
+      "line": "Do outro lado, uma luz responde. Nesta história, existem outros sobreviventes. Isso encerra a condição de apenas duas pessoas; não demonstra que o cenário original daria certo. O grupo pode reunir conhecimentos, dividir tarefas e ampliar as possibilidades de cuidado.",
+      "scene": "sinal: reverse; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s134",
+      "start": 406.5586,
+      "end": 409.95012,
+      "line": "Do outro lado, uma luz responde. Nesta história, existem outros sobreviventes. Isso encerra a condição de apenas duas pessoas; não demonstra que o cenário original daria certo. O grupo pode reunir conhecimentos, dividir tarefas e ampliar as possibilidades de cuidado.",
+      "scene": "sinal: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "harbor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s135",
+      "start": 409.95012,
+      "end": 413.6808,
+      "line": "Nico encontra quem sabe reparar a bomba. Lia apresenta o mapa a quem conhece a região. Uma pessoa ensina uma tarefa que os dois estavam fazendo do jeito mais difícil. Ter ajuda produz uma mudança imediata, muito antes de qualquer cálculo sobre gerações futuras.",
+      "scene": "grupo: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s136",
+      "start": 413.6808,
+      "end": 417.41147,
+      "line": "Nico encontra quem sabe reparar a bomba. Lia apresenta o mapa a quem conhece a região. Uma pessoa ensina uma tarefa que os dois estavam fazendo do jeito mais difícil. Ter ajuda produz uma mudança imediata, muito antes de qualquer cálculo sobre gerações futuras.",
+      "scene": "grupo: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s137",
+      "start": 417.41147,
+      "end": 421.14214,
+      "line": "Nico encontra quem sabe reparar a bomba. Lia apresenta o mapa a quem conhece a região. Uma pessoa ensina uma tarefa que os dois estavam fazendo do jeito mais difícil. Ter ajuda produz uma mudança imediata, muito antes de qualquer cálculo sobre gerações futuras.",
+      "scene": "grupo: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s138",
+      "start": 421.14214,
+      "end": 424.87282,
+      "line": "Nico encontra quem sabe reparar a bomba. Lia apresenta o mapa a quem conhece a região. Uma pessoa ensina uma tarefa que os dois estavam fazendo do jeito mais difícil. Ter ajuda produz uma mudança imediata, muito antes de qualquer cálculo sobre gerações futuras.",
+      "scene": "grupo: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s139",
+      "start": 424.87282,
+      "end": 428.60349,
+      "line": "Nico encontra quem sabe reparar a bomba. Lia apresenta o mapa a quem conhece a região. Uma pessoa ensina uma tarefa que os dois estavam fazendo do jeito mais difícil. Ter ajuda produz uma mudança imediata, muito antes de qualquer cálculo sobre gerações futuras.",
+      "scene": "grupo: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s140",
+      "start": 428.60349,
+      "end": 432.16459,
+      "line": "Com mais pessoas de origens diferentes, a amostra genética pode ser mais ampla, mas quantidade e diversidade não são a mesma medida. O parentesco também importa. Uma comunidade precisa ser entendida pelas relações entre seus integrantes e pelas condições em que vive.",
+      "scene": "diversidade: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s141",
+      "start": 432.16459,
+      "end": 435.72569,
+      "line": "Com mais pessoas de origens diferentes, a amostra genética pode ser mais ampla, mas quantidade e diversidade não são a mesma medida. O parentesco também importa. Uma comunidade precisa ser entendida pelas relações entre seus integrantes e pelas condições em que vive.",
+      "scene": "diversidade: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s142",
+      "start": 435.72569,
+      "end": 439.28678,
+      "line": "Com mais pessoas de origens diferentes, a amostra genética pode ser mais ampla, mas quantidade e diversidade não são a mesma medida. O parentesco também importa. Uma comunidade precisa ser entendida pelas relações entre seus integrantes e pelas condições em que vive.",
+      "scene": "diversidade: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s143",
+      "start": 439.28678,
+      "end": 442.84788,
+      "line": "Com mais pessoas de origens diferentes, a amostra genética pode ser mais ampla, mas quantidade e diversidade não são a mesma medida. O parentesco também importa. Uma comunidade precisa ser entendida pelas relações entre seus integrantes e pelas condições em que vive.",
+      "scene": "diversidade: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s144",
+      "start": 442.84788,
+      "end": 446.40898,
+      "line": "Com mais pessoas de origens diferentes, a amostra genética pode ser mais ampla, mas quantidade e diversidade não são a mesma medida. O parentesco também importa. Uma comunidade precisa ser entendida pelas relações entre seus integrantes e pelas condições em que vive.",
+      "scene": "diversidade: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "diagram",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s145",
+      "start": 446.40898,
+      "end": 449.8005,
+      "line": "O quadro recebe uma segunda coluna. De um lado, informação genética. Do outro, saber fazer: cultivar, construir, registrar, ensinar e cuidar. Nico guarda o mapa numa pasta. Lia deixa as ferramentas organizadas para que outra pessoa consiga continuar o trabalho.",
+      "scene": "memoria: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s146",
+      "start": 449.8005,
+      "end": 453.19202,
+      "line": "O quadro recebe uma segunda coluna. De um lado, informação genética. Do outro, saber fazer: cultivar, construir, registrar, ensinar e cuidar. Nico guarda o mapa numa pasta. Lia deixa as ferramentas organizadas para que outra pessoa consiga continuar o trabalho.",
+      "scene": "memoria: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s147",
+      "start": 453.19202,
+      "end": 456.58354,
+      "line": "O quadro recebe uma segunda coluna. De um lado, informação genética. Do outro, saber fazer: cultivar, construir, registrar, ensinar e cuidar. Nico guarda o mapa numa pasta. Lia deixa as ferramentas organizadas para que outra pessoa consiga continuar o trabalho.",
+      "scene": "memoria: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s148",
+      "start": 456.58354,
+      "end": 459.97506,
+      "line": "O quadro recebe uma segunda coluna. De um lado, informação genética. Do outro, saber fazer: cultivar, construir, registrar, ensinar e cuidar. Nico guarda o mapa numa pasta. Lia deixa as ferramentas organizadas para que outra pessoa consiga continuar o trabalho.",
+      "scene": "memoria: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s149",
+      "start": 459.97506,
+      "end": 463.36658,
+      "line": "O quadro recebe uma segunda coluna. De um lado, informação genética. Do outro, saber fazer: cultivar, construir, registrar, ensinar e cuidar. Nico guarda o mapa numa pasta. Lia deixa as ferramentas organizadas para que outra pessoa consiga continuar o trabalho.",
+      "scene": "memoria: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "school",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s150",
+      "start": 463.36658,
+      "end": 466.67332,
+      "line": "Duas pessoas poderiam ter descendentes em condições favoráveis. Isso é diferente de oferecer uma base confiável para reconstruir a humanidade por muitas gerações. O gargalo genético seria extremo, e os obstáculos de sobrevivência tornariam o cenário ainda mais frágil.",
+      "scene": "resposta: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s151",
+      "start": 466.67332,
+      "end": 469.98005,
+      "line": "Duas pessoas poderiam ter descendentes em condições favoráveis. Isso é diferente de oferecer uma base confiável para reconstruir a humanidade por muitas gerações. O gargalo genético seria extremo, e os obstáculos de sobrevivência tornariam o cenário ainda mais frágil.",
+      "scene": "resposta: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s152",
+      "start": 469.98005,
+      "end": 473.28678,
+      "line": "Duas pessoas poderiam ter descendentes em condições favoráveis. Isso é diferente de oferecer uma base confiável para reconstruir a humanidade por muitas gerações. O gargalo genético seria extremo, e os obstáculos de sobrevivência tornariam o cenário ainda mais frágil.",
+      "scene": "resposta: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s153",
+      "start": 473.28678,
+      "end": 476.59352,
+      "line": "Duas pessoas poderiam ter descendentes em condições favoráveis. Isso é diferente de oferecer uma base confiável para reconstruir a humanidade por muitas gerações. O gargalo genético seria extremo, e os obstáculos de sobrevivência tornariam o cenário ainda mais frágil.",
+      "scene": "resposta: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s154",
+      "start": 476.59352,
+      "end": 479.90025,
+      "line": "Duas pessoas poderiam ter descendentes em condições favoráveis. Isso é diferente de oferecer uma base confiável para reconstruir a humanidade por muitas gerações. O gargalo genético seria extremo, e os obstáculos de sobrevivência tornariam o cenário ainda mais frágil.",
+      "scene": "resposta: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s155",
+      "start": 479.90025,
+      "end": 482.44389,
+      "line": "Voltamos ao café da primeira cena. Agora há gente chegando, trabalhando e conversando. Uma sociedade depende de conexões: pessoas diferentes, habilidades compartilhadas e cuidado que continua quando alguém precisa parar.",
+      "scene": "volta: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s156",
+      "start": 482.44389,
+      "end": 484.98753,
+      "line": "Voltamos ao café da primeira cena. Agora há gente chegando, trabalhando e conversando. Uma sociedade depende de conexões: pessoas diferentes, habilidades compartilhadas e cuidado que continua quando alguém precisa parar.",
+      "scene": "volta: feet; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s157",
+      "start": 484.98753,
+      "end": 487.53117,
+      "line": "Voltamos ao café da primeira cena. Agora há gente chegando, trabalhando e conversando. Uma sociedade depende de conexões: pessoas diferentes, habilidades compartilhadas e cuidado que continua quando alguém precisa parar.",
+      "scene": "volta: track; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s158",
+      "start": 487.53117,
+      "end": 490.07481,
+      "line": "Voltamos ao café da primeira cena. Agora há gente chegando, trabalhando e conversando. Uma sociedade depende de conexões: pessoas diferentes, habilidades compartilhadas e cuidado que continua quando alguém precisa parar.",
+      "scene": "volta: two; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s159",
+      "start": 490.07481,
+      "end": 492.61845,
+      "line": "Voltamos ao café da primeira cena. Agora há gente chegando, trabalhando e conversando. Uma sociedade depende de conexões: pessoas diferentes, habilidades compartilhadas e cuidado que continua quando alguém precisa parar.",
+      "scene": "volta: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s160",
+      "start": 492.61845,
+      "end": 496.09476,
+      "line": "E você, qual seria a primeira habilidade que procuraria numa comunidade começando do zero? Conta nos comentários. Se gosta de transformar perguntas estranhas em histórias e explicações, inscreva-se no Então e ative o sino. A gente se encontra na próxima hipótese.",
+      "scene": "final: wide; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s161",
+      "start": 496.09476,
+      "end": 499.57107,
+      "line": "E você, qual seria a primeira habilidade que procuraria numa comunidade começando do zero? Conta nos comentários. Se gosta de transformar perguntas estranhas em histórias e explicações, inscreva-se no Então e ative o sino. A gente se encontra na próxima hipótese.",
+      "scene": "final: detail; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s162",
+      "start": 499.57107,
+      "end": 503.04738,
+      "line": "E você, qual seria a primeira habilidade que procuraria numa comunidade começando do zero? Conta nos comentários. Se gosta de transformar perguntas estranhas em histórias e explicações, inscreva-se no Então e ative o sino. A gente se encontra na próxima hipótese.",
+      "scene": "final: orbit; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s163",
+      "start": 503.04738,
+      "end": 506.52369,
+      "line": "E você, qual seria a primeira habilidade que procuraria numa comunidade começando do zero? Conta nos comentários. Se gosta de transformar perguntas estranhas em histórias e explicações, inscreva-se no Então e ative o sino. A gente se encontra na próxima hipótese.",
+      "scene": "final: close; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s164",
+      "start": 506.52369,
+      "end": 510.0,
+      "line": "E você, qual seria a primeira habilidade que procuraria numa comunidade começando do zero? Conta nos comentários. Se gosta de transformar perguntas estranhas em histórias e explicações, inscreva-se no Então e ative o sino. A gente se encontra na próxima hipótese.",
+      "scene": "final: over; preparação, contato, consequência e reação contínuos entre cortes",
+      "set": "street",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    }
+  ],
+  "timing_status": "provisional"
+}

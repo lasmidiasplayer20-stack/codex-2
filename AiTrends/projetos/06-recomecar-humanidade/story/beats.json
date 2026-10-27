@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 17.38155,
+    "action": "cidade",
+    "set": "street",
+    "text": "Você sai de casa e encontra uma cidade inteira funcionando sem ninguém. O café ainda está na mesa. O semáforo muda de cor. Então aparece outra pessoa. A pergunta parece simples: se sobrassem só vocês dois, daria para recomeçar a humanidade?"
+  },
+  {
+    "id": 2,
+    "start": 17.38155,
+    "end": 32.21945,
+    "action": "encontro",
+    "set": "street",
+    "text": "Nico e Lia se encontram na praça. Primeiro conferem o que têm: água, comida, abrigo e um rádio. Nesta hipótese, os dois são adultos. Vamos usar essa situação impossível para entender um problema de biologia."
+  },
+  {
+    "id": 3,
+    "start": 32.21945,
+    "end": 47.05736,
+    "action": "plano",
+    "set": "school",
+    "text": "Lia puxa um quadro. Nico desenha duas pessoas, depois uma família enorme. Só que um desenho pode multiplicar bonequinhos sem precisar alimentar ninguém. Uma população precisa sobreviver hoje antes de conseguir chegar à próxima geração."
+  },
+  {
+    "id": 4,
+    "start": 47.05736,
+    "end": 61.89526,
+    "action": "numeros",
+    "set": "diagram",
+    "text": "Se uma quantidade dobra, ela cresce depressa: dois, quatro, oito. Não é uma previsão demográfica. A conta não informa quem nasce, quem chega à idade adulta, quais recursos existem ou como as pessoas escolhem viver."
+  },
+  {
+    "id": 5,
+    "start": 61.89526,
+    "end": 70.798,
+    "action": "gargalo",
+    "set": "diagram",
+    "text": "E existe outro problema que a multiplicação esconde. Mesmo com muitos descendentes, todos começariam com uma amostra minúscula da diversidade humana."
+  },
+  {
+    "id": 6,
+    "start": 70.798,
+    "end": 89.02743,
+    "action": "heranca",
+    "set": "school",
+    "text": "Nico abre duas caixas coloridas. Cada uma representa parte da informação genética de uma pessoa. Um descendente recebe material dos dois pais. As combinações podem mudar, mas combinar o mesmo conjunto de peças não equivale a recuperar tudo que ficou fora das caixas."
+  },
+  {
+    "id": 7,
+    "start": 89.02743,
+    "end": 100.47382,
+    "action": "copias",
+    "set": "diagram",
+    "text": "Para a maioria dos genes nos autossomos, cada pessoa possui duas cópias: uma herdada de cada progenitor. Dois fundadores carregam poucas versões de cada uma dessas regiões."
+  },
+  {
+    "id": 8,
+    "start": 100.47382,
+    "end": 111.49626,
+    "action": "oculto",
+    "set": "diagram",
+    "text": "Algumas variantes associadas a doenças recessivas podem estar presentes sem causar aquela condição na pessoa portadora. Olhar para alguém saudável não revela todas as suas variantes."
+  },
+  {
+    "id": 9,
+    "start": 111.49626,
+    "end": 130.57357,
+    "action": "quadrado",
+    "set": "diagram",
+    "text": "Num exemplo simples, os dois pais carregam uma mesma variante recessiva. Para cada gestação, o modelo prevê vinte e cinco por cento de chance de receber as duas cópias associadas à condição. Esse número pertence ao exemplo, não a qualquer casal nem a qualquer doença."
+  },
+  {
+    "id": 10,
+    "start": 130.57357,
+    "end": 147.53117,
+    "action": "chance",
+    "set": "diagram",
+    "text": "Também não significa que, entre quatro crianças, exatamente uma terá a condição. Probabilidade não distribui resultados como uma fila organizada. Nico embaralha quatro cartas, repete o sorteio e percebe que os resultados variam. O risco é recalculado a cada gestação."
+  },
+  {
+    "id": 11,
+    "start": 147.53117,
+    "end": 164.06484,
+    "action": "parentesco",
+    "set": "school",
+    "text": "Agora acompanhe os fios do quadro. Se todos descendem das mesmas duas pessoas e ninguém mais chega, as famílias continuam ligadas àquele início. O parentesco próximo aumenta a possibilidade de duas cópias herdadas terem vindo de um mesmo ancestral."
+  },
+  {
+    "id": 12,
+    "start": 164.06484,
+    "end": 181.87032,
+    "action": "risco",
+    "set": "diagram",
+    "text": "Isso pode aumentar a expressão de variantes recessivas prejudiciais. Não significa que todo descendente terá uma doença, nem permite prever a saúde de alguém só pela árvore familiar. Estamos falando de riscos de uma população isolada, não julgando o valor das pessoas."
+  },
+  {
+    "id": 13,
+    "start": 181.87032,
+    "end": 199.25187,
+    "action": "baralho",
+    "set": "school",
+    "text": "Nico tenta resolver o problema embaralhando as cartas mais depressa. Lia separa a pilha original e pede que ele encontre uma cor que nunca esteve ali. A recombinação reorganiza material existente. Ela não restaura, sozinha, toda a diversidade perdida no começo."
+  },
+  {
+    "id": 14,
+    "start": 199.25187,
+    "end": 216.20948,
+    "action": "acaso",
+    "set": "diagram",
+    "text": "Em populações pequenas, o acaso pesa bastante. Uma versão genética pode deixar de passar adiante por circunstâncias que não a tornam melhor ou pior. Esse processo é chamado deriva genética. Quanto menor a população, maiores podem ser essas oscilações aleatórias."
+  },
+  {
+    "id": 15,
+    "start": 216.20948,
+    "end": 231.89526,
+    "action": "mutacao",
+    "set": "diagram",
+    "text": "Novas mutações podem criar variação, mas não são encomendas feitas conforme a necessidade. Não seria prudente esperar que aparecessem rapidamente todas as soluções de que aquele grupo precisa. Muitas mudanças são neutras, algumas prejudiciais; o contexto importa."
+  },
+  {
+    "id": 16,
+    "start": 231.89526,
+    "end": 250.12469,
+    "action": "ambiente",
+    "set": "garden",
+    "text": "A praça ajuda a explicar outra parte. Lia compara sementes de origens diferentes. Um ambiente muda, surge um problema, e respostas iguais podem deixar o grupo vulnerável. Diversidade pode ampliar possibilidades de resposta; não é um escudo que garante resistência a qualquer doença."
+  },
+  {
+    "id": 17,
+    "start": 250.12469,
+    "end": 263.26683,
+    "action": "rotina",
+    "set": "supply",
+    "text": "Enquanto o quadro cresce, a água precisa continuar chegando. Nico carrega um recipiente. Lia verifica uma bomba e separa ferramentas. Conhecimento, alimentação, saneamento, cuidado e infraestrutura também precisam atravessar os anos."
+  },
+  {
+    "id": 18,
+    "start": 263.26683,
+    "end": 277.6808,
+    "action": "cuidado",
+    "set": "clinic",
+    "text": "Com apenas duas pessoas, uma lesão que exigisse repouso mudaria todas as tarefas. Quem buscaria água? Quem cuidaria de quem precisa? Basta perceber como é pequena a margem para dividir trabalho e receber ajuda."
+  },
+  {
+    "id": 19,
+    "start": 277.6808,
+    "end": 295.06234,
+    "action": "tempo",
+    "set": "garden",
+    "text": "Há ainda fertilidade, saúde, tempo entre gerações e decisões pessoais. Nenhuma dessas coisas aparece numa sequência de potências de dois. Um cenário responsável não trata pessoas como peças obrigadas a cumprir uma meta. A matemática precisa reconhecer limites biológicos e humanos."
+  },
+  {
+    "id": 20,
+    "start": 295.06234,
+    "end": 311.59601,
+    "action": "banco",
+    "set": "supply",
+    "text": "E se eles encontrassem material reprodutivo preservado de outras pessoas? A hipótese mudaria, porque a diversidade inicial poderia vir de mais fundadores. Mas armazenamento adequado, equipamentos, profissionais e condições de uso não apareceriam automaticamente ao lado de uma tomada."
+  },
+  {
+    "id": 21,
+    "start": 311.59601,
+    "end": 329.4015,
+    "action": "limite",
+    "set": "diagram",
+    "text": "Então qual seria o número mínimo seguro? Não existe uma resposta universal que sirva para todo cenário. O resultado depende de diversidade inicial, parentesco, mudanças no ambiente, crescimento e outros fatores. Um número isolado não garante uma população viável por muitos séculos."
+  },
+  {
+    "id": 22,
+    "start": 329.4015,
+    "end": 345.93516,
+    "action": "modelos",
+    "set": "school",
+    "text": "Lia apaga a palavra garantido do quadro. Modelos ajudam a comparar hipóteses; também dependem das regras escolhidas. Se Nico muda sobrevivência, recursos ou variedade genética, a projeção muda. Uma linha bonita subindo na tela pode esconder premissas muito frágeis."
+  },
+  {
+    "id": 23,
+    "start": 345.93516,
+    "end": 361.62095,
+    "action": "natureza",
+    "set": "garden",
+    "text": "Na conservação, populações reduzidas podem enfrentar problemas de parentesco, perda de diversidade e acidentes ambientais. Recuperar indivíduos é importante, mas contar cabeças não basta. Isso não autoriza transferir um resultado de outra espécie diretamente para a humanidade."
+  },
+  {
+    "id": 24,
+    "start": 361.62095,
+    "end": 374.76309,
+    "action": "radio",
+    "set": "supply",
+    "text": "Nico volta ao rádio. Procurar outras pessoas mudaria o problema inteiro. Ele ajusta o aparelho, Lia aproxima o mapa e os dois marcam lugares onde poderiam encontrar sinais de uma comunidade."
+  },
+  {
+    "id": 25,
+    "start": 374.76309,
+    "end": 392.99252,
+    "action": "travessia",
+    "set": "harbor",
+    "text": "Eles levam água e ferramentas até uma passagem danificada. Nico segura uma tábua; Lia prende a extremidade. Antes de atravessar, conferem o apoio. O movimento é pequeno, mas tem uma consequência clara: agora existe um caminho até a margem que não conseguiam alcançar."
+  },
+  {
+    "id": 26,
+    "start": 392.99252,
+    "end": 409.95012,
+    "action": "sinal",
+    "set": "harbor",
+    "text": "Do outro lado, uma luz responde. Nesta história, existem outros sobreviventes. Isso encerra a condição de apenas duas pessoas; não demonstra que o cenário original daria certo. O grupo pode reunir conhecimentos, dividir tarefas e ampliar as possibilidades de cuidado."
+  },
+  {
+    "id": 27,
+    "start": 409.95012,
+    "end": 428.60349,
+    "action": "grupo",
+    "set": "street",
+    "text": "Nico encontra quem sabe reparar a bomba. Lia apresenta o mapa a quem conhece a região. Uma pessoa ensina uma tarefa que os dois estavam fazendo do jeito mais difícil. Ter ajuda produz uma mudança imediata, muito antes de qualquer cálculo sobre gerações futuras."
+  },
+  {
+    "id": 28,
+    "start": 428.60349,
+    "end": 446.40898,
+    "action": "diversidade",
+    "set": "diagram",
+    "text": "Com mais pessoas de origens diferentes, a amostra genética pode ser mais ampla, mas quantidade e diversidade não são a mesma medida. O parentesco também importa. Uma comunidade precisa ser entendida pelas relações entre seus integrantes e pelas condições em que vive."
+  },
+  {
+    "id": 29,
+    "start": 446.40898,
+    "end": 463.36658,
+    "action": "memoria",
+    "set": "school",
+    "text": "O quadro recebe uma segunda coluna. De um lado, informação genética. Do outro, saber fazer: cultivar, construir, registrar, ensinar e cuidar. Nico guarda o mapa numa pasta. Lia deixa as ferramentas organizadas para que outra pessoa consiga continuar o trabalho."
+  },
+  {
+    "id": 30,
+    "start": 463.36658,
+    "end": 479.90025,
+    "action": "resposta",
+    "set": "garden",
+    "text": "Duas pessoas poderiam ter descendentes em condições favoráveis. Isso é diferente de oferecer uma base confiável para reconstruir a humanidade por muitas gerações. O gargalo genético seria extremo, e os obstáculos de sobrevivência tornariam o cenário ainda mais frágil."
+  },
+  {
+    "id": 31,
+    "start": 479.90025,
+    "end": 492.61845,
+    "action": "volta",
+    "set": "street",
+    "text": "Voltamos ao café da primeira cena. Agora há gente chegando, trabalhando e conversando. Uma sociedade depende de conexões: pessoas diferentes, habilidades compartilhadas e cuidado que continua quando alguém precisa parar."
+  },
+  {
+    "id": 32,
+    "start": 492.61845,
+    "end": 510,
+    "action": "final",
+    "set": "street",
+    "text": "E você, qual seria a primeira habilidade que procuraria numa comunidade começando do zero? Conta nos comentários. Se gosta de transformar perguntas estranhas em histórias e explicações, inscreva-se no Então e ative o sino. A gente se encontra na próxima hipótese."
+  }
+]

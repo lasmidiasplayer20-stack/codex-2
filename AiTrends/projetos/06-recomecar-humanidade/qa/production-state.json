@@ -1,0 +1,14 @@
+{
+  "status": "draft",
+  "voice_profile": "Puck, gemini-2.5-flash-preview-tts, same accepted direction/treatment",
+  "voice_blocks_cached": 1,
+  "next_voice_block": 2,
+  "voice_blocker": "HTTP 429, cause not classified",
+  "automatic_retries": 0,
+  "model_fallback": false,
+  "joint_motion_approval": false,
+  "reference_video_seconds": 418.493243,
+  "target_duration_seconds": 510,
+  "final_duration_seconds": null,
+  "full_video_generated": false
+}

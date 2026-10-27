@@ -1,8 +1,14 @@
-# Capas do Então — referência visual permanente
+# Capas do Então — padrão visual aprovado
 
 Pedido do usuário: “ANTES REFAÇA A ULTIMA CAPA NESSE ESTILO AQUI, E VAI PROCURAR MANTELO”. A imagem fornecida mostra um protagonista redondo expressivo, cenário noturno rico, reflexos no chão, iluminação neon, cores intensas e texto grande branco/amarelo com contorno preto.
 
 Referência própria versionada a usar: `AiTrends/youtube/05 - E se você fosse imortal/capa.jpg`. A versão 2 foi gerada com ferramenta de imagem; não é saída do script Pillow histórico. A estética da capa é referência para capas, sem exigir trocar o motor por código dos vídeos.
+
+## Aprovação explícita do usuário
+
+Depois de ver a nova capa e de conferir a diferença em relação à versão simples anterior, o usuário respondeu **“ok, deixe esse estilo salvo”**. Portanto, a referência aprovada é a capa **nova com neon e cenário ilustrado rico**, não a primeira capa simples do episódio 05. Caminho canônico: `AiTrends/youtube/05 - E se você fosse imortal/capa.jpg`. Versão aprovada publicada no commit `9e6c8e6af5f52802dbac7db7be30af88b9798b0a`, SHA256 `7e11c641b5c99934a9132d9dcf0470eb2d0d239f1f64a03835e0188e659c9810`.
+
+Reutilizar essa direção nas próximas capas sem pedir novamente aprovação da mesma estética. Adaptar tema e composição, manter a identidade dos nossos personagens. Evitar voltar por engano ao script Pillow ou ao arquivo de capa em `historico/`.
 
 ## Elementos a manter
 
