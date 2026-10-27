@@ -1,0 +1,78 @@
+{
+  "complete_narration": false,
+  "generated_beats": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "seconds": 415.74575,
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "parts": [
+    {
+      "file": "block-01.wav",
+      "raw_seconds": 73.65095833333334,
+      "treated_seconds": 73.65095833333334,
+      "long_gaps_shortened": 0,
+      "speed_change": false
+    },
+    {
+      "file": "block-02.wav",
+      "raw_seconds": 62.650958333333335,
+      "treated_seconds": 62.02095833333333,
+      "long_gaps_shortened": 1,
+      "speed_change": false
+    },
+    {
+      "file": "block-03.wav",
+      "raw_seconds": 84.65095833333334,
+      "treated_seconds": 83.28095833333333,
+      "long_gaps_shortened": 2,
+      "speed_change": false
+    },
+    {
+      "file": "block-04.wav",
+      "raw_seconds": 74.85095833333334,
+      "treated_seconds": 74.85095833333334,
+      "long_gaps_shortened": 0,
+      "speed_change": false
+    },
+    {
+      "file": "block-05.wav",
+      "raw_seconds": 66.65095833333334,
+      "treated_seconds": 66.65095833333334,
+      "long_gaps_shortened": 0,
+      "speed_change": false
+    },
+    {
+      "file": "block-06.wav",
+      "raw_seconds": 54.49095833333333,
+      "treated_seconds": 54.49095833333333,
+      "long_gaps_shortened": 0,
+      "speed_change": false
+    }
+  ],
+  "timing": "Generated block boundaries and paragraph gaps; approximate sentence timing, no ASR",
+  "remaining_timing": "provisional, not a completed final audio/video"
+}

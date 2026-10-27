@@ -1,0 +1,4 @@
+# Referência observada
+Arquivo Drive: if-The-Spider-In-Your-Room-Ever-Disappears-DON-T-LOOK-FOR-IT.mp4, ID1ccp_g_N-nFyRITN7j0YcY6f9evAuyWN8. 344,398s;1280x720;AAC. Contato distribuído a cada17s e trechos consecutivos analisados localmente. Não há escuta integral/transcrição independente. Frames e áudio da referência não integram o render.
+
+Gramática a adaptar: quarto recorrente com geografia simples; olhar para teto/rodapé; ameaça inicialmente fora de quadro; objeto cotidiano vira pista; escala da sombra e virada final. Original usa regras imperativas e terror de anomalia. Nosso filme usa investigação em dupla, humor, premissa explícita de ficção e explicação parcial. Não copiar lista de regras, fala integral, personagens, assinatura de departamento ou alegações como engolir aranhas durante o sono.

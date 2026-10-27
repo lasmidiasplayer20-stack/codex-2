@@ -1,0 +1,8 @@
+{
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "direction": "Narre em português brasileiro, como um apresentador curioso conversando com uma pessoa. Voz Puck, calorosa, clara, com sorriso discreto no começo e curiosidade sincera no final. Ritmo confortável, sem pressa. Volume uniforme. Faça uma pausa natural após fotografia e antes da pergunta final. Não sussurre, não grite, não dramatize como trailer. Leia SOMENTE o texto após NARRAÇÃO, sem comentários nem instruções.",
+  "approval_source": "User: a voz ficou ok, after episode05; then chose waiting for same voice/model in episode06.",
+  "previous_episode": "05-imortal",
+  "new_model_authorized": false
+}

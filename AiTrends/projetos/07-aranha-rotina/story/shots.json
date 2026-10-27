@@ -1,0 +1,3598 @@
+{
+  "title": "E se uma aranha aprendesse sua rotina?",
+  "duration": 510,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 4.00277,
+      "line": "Você viu uma aranha no canto do quarto. Pegou um copo, voltou e ela tinha desaparecido. Até aí, uma noite comum. Mas e se, toda vez que você mudasse de plano, ela já estivesse esperando no lugar seguinte? Esta é uma história de ficção. E começa com Nico decidindo que não vai perder o sono por causa de oito pernas.",
+      "scene": "sumiu: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s002",
+      "start": 4.00277,
+      "end": 8.00554,
+      "line": "Você viu uma aranha no canto do quarto. Pegou um copo, voltou e ela tinha desaparecido. Até aí, uma noite comum. Mas e se, toda vez que você mudasse de plano, ela já estivesse esperando no lugar seguinte? Esta é uma história de ficção. E começa com Nico decidindo que não vai perder o sono por causa de oito pernas.",
+      "scene": "sumiu: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s003",
+      "start": 8.00554,
+      "end": 12.00831,
+      "line": "Você viu uma aranha no canto do quarto. Pegou um copo, voltou e ela tinha desaparecido. Até aí, uma noite comum. Mas e se, toda vez que você mudasse de plano, ela já estivesse esperando no lugar seguinte? Esta é uma história de ficção. E começa com Nico decidindo que não vai perder o sono por causa de oito pernas.",
+      "scene": "sumiu: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s004",
+      "start": 12.00831,
+      "end": 16.01108,
+      "line": "Você viu uma aranha no canto do quarto. Pegou um copo, voltou e ela tinha desaparecido. Até aí, uma noite comum. Mas e se, toda vez que você mudasse de plano, ela já estivesse esperando no lugar seguinte? Esta é uma história de ficção. E começa com Nico decidindo que não vai perder o sono por causa de oito pernas.",
+      "scene": "sumiu: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 3,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s005",
+      "start": 16.01108,
+      "end": 20.01385,
+      "line": "Você viu uma aranha no canto do quarto. Pegou um copo, voltou e ela tinha desaparecido. Até aí, uma noite comum. Mas e se, toda vez que você mudasse de plano, ela já estivesse esperando no lugar seguinte? Esta é uma história de ficção. E começa com Nico decidindo que não vai perder o sono por causa de oito pernas.",
+      "scene": "sumiu: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 4,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s006",
+      "start": 20.01385,
+      "end": 24.01662,
+      "line": "Você viu uma aranha no canto do quarto. Pegou um copo, voltou e ela tinha desaparecido. Até aí, uma noite comum. Mas e se, toda vez que você mudasse de plano, ela já estivesse esperando no lugar seguinte? Esta é uma história de ficção. E começa com Nico decidindo que não vai perder o sono por causa de oito pernas.",
+      "scene": "sumiu: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s007",
+      "start": 24.01662,
+      "end": 26.81855,
+      "line": "Nico coloca o copo na mesa e procura um cartão para capturar a visitante sem machucá-la. Olha de novo para a parede. Nada. Ele afasta a cortina devagar. A aranha está do outro lado do vidro, exatamente na altura dos seus olhos.",
+      "scene": "copo: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s008",
+      "start": 26.81855,
+      "end": 29.6205,
+      "line": "Nico coloca o copo na mesa e procura um cartão para capturar a visitante sem machucá-la. Olha de novo para a parede. Nada. Ele afasta a cortina devagar. A aranha está do outro lado do vidro, exatamente na altura dos seus olhos.",
+      "scene": "copo: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s009",
+      "start": 29.6205,
+      "end": 32.42243,
+      "line": "Nico coloca o copo na mesa e procura um cartão para capturar a visitante sem machucá-la. Olha de novo para a parede. Nada. Ele afasta a cortina devagar. A aranha está do outro lado do vidro, exatamente na altura dos seus olhos.",
+      "scene": "copo: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s010",
+      "start": 32.42243,
+      "end": 35.22437,
+      "line": "Nico coloca o copo na mesa e procura um cartão para capturar a visitante sem machucá-la. Olha de novo para a parede. Nada. Ele afasta a cortina devagar. A aranha está do outro lado do vidro, exatamente na altura dos seus olhos.",
+      "scene": "copo: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s011",
+      "start": 35.22437,
+      "end": 38.02631,
+      "line": "Nico coloca o copo na mesa e procura um cartão para capturar a visitante sem machucá-la. Olha de novo para a parede. Nada. Ele afasta a cortina devagar. A aranha está do outro lado do vidro, exatamente na altura dos seus olhos.",
+      "scene": "copo: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s012",
+      "start": 38.02631,
+      "end": 40.82825,
+      "line": "Nico coloca o copo na mesa e procura um cartão para capturar a visitante sem machucá-la. Olha de novo para a parede. Nada. Ele afasta a cortina devagar. A aranha está do outro lado do vidro, exatamente na altura dos seus olhos.",
+      "scene": "copo: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s013",
+      "start": 40.82825,
+      "end": 43.49676,
+      "line": "Lia chega e encontra Nico negociando com a janela. Ela aponta o espaço atrás da cortina: um esconderijo perfeitamente normal. Ele concorda, um pouco ofendido por ter discutido com algo menor que uma moeda. Os dois resolvem continuar a noite.",
+      "scene": "lia: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s014",
+      "start": 43.49676,
+      "end": 46.16528,
+      "line": "Lia chega e encontra Nico negociando com a janela. Ela aponta o espaço atrás da cortina: um esconderijo perfeitamente normal. Ele concorda, um pouco ofendido por ter discutido com algo menor que uma moeda. Os dois resolvem continuar a noite.",
+      "scene": "lia: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s015",
+      "start": 46.16528,
+      "end": 48.83379,
+      "line": "Lia chega e encontra Nico negociando com a janela. Ela aponta o espaço atrás da cortina: um esconderijo perfeitamente normal. Ele concorda, um pouco ofendido por ter discutido com algo menor que uma moeda. Os dois resolvem continuar a noite.",
+      "scene": "lia: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s016",
+      "start": 48.83379,
+      "end": 51.5023,
+      "line": "Lia chega e encontra Nico negociando com a janela. Ela aponta o espaço atrás da cortina: um esconderijo perfeitamente normal. Ele concorda, um pouco ofendido por ter discutido com algo menor que uma moeda. Os dois resolvem continuar a noite.",
+      "scene": "lia: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s017",
+      "start": 51.5023,
+      "end": 54.17082,
+      "line": "Lia chega e encontra Nico negociando com a janela. Ela aponta o espaço atrás da cortina: um esconderijo perfeitamente normal. Ele concorda, um pouco ofendido por ter discutido com algo menor que uma moeda. Os dois resolvem continuar a noite.",
+      "scene": "lia: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s018",
+      "start": 54.17082,
+      "end": 56.83933,
+      "line": "Lia chega e encontra Nico negociando com a janela. Ela aponta o espaço atrás da cortina: um esconderijo perfeitamente normal. Ele concorda, um pouco ofendido por ter discutido com algo menor que uma moeda. Os dois resolvem continuar a noite.",
+      "scene": "lia: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s019",
+      "start": 56.83933,
+      "end": 59.66794,
+      "line": "Na cozinha, Nico liga a chaleira. Lia abre um caderno. Quando ele volta ao corredor, encontra um fio atravessando a passagem. Não uma muralha de teias: um único fio, bem onde encosta o ombro ao passar. Ele para e muda de caminho.",
+      "scene": "chaleira: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s020",
+      "start": 59.66794,
+      "end": 62.49654,
+      "line": "Na cozinha, Nico liga a chaleira. Lia abre um caderno. Quando ele volta ao corredor, encontra um fio atravessando a passagem. Não uma muralha de teias: um único fio, bem onde encosta o ombro ao passar. Ele para e muda de caminho.",
+      "scene": "chaleira: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s021",
+      "start": 62.49654,
+      "end": 65.32515,
+      "line": "Na cozinha, Nico liga a chaleira. Lia abre um caderno. Quando ele volta ao corredor, encontra um fio atravessando a passagem. Não uma muralha de teias: um único fio, bem onde encosta o ombro ao passar. Ele para e muda de caminho.",
+      "scene": "chaleira: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s022",
+      "start": 65.32515,
+      "end": 68.15375,
+      "line": "Na cozinha, Nico liga a chaleira. Lia abre um caderno. Quando ele volta ao corredor, encontra um fio atravessando a passagem. Não uma muralha de teias: um único fio, bem onde encosta o ombro ao passar. Ele para e muda de caminho.",
+      "scene": "chaleira: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s023",
+      "start": 68.15375,
+      "end": 70.98236,
+      "line": "Na cozinha, Nico liga a chaleira. Lia abre um caderno. Quando ele volta ao corredor, encontra um fio atravessando a passagem. Não uma muralha de teias: um único fio, bem onde encosta o ombro ao passar. Ele para e muda de caminho.",
+      "scene": "chaleira: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s024",
+      "start": 70.98236,
+      "end": 73.81096,
+      "line": "Na cozinha, Nico liga a chaleira. Lia abre um caderno. Quando ele volta ao corredor, encontra um fio atravessando a passagem. Não uma muralha de teias: um único fio, bem onde encosta o ombro ao passar. Ele para e muda de caminho.",
+      "scene": "chaleira: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s025",
+      "start": 73.81096,
+      "end": 76.27771,
+      "line": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso.",
+      "scene": "atalho: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s026",
+      "start": 76.27771,
+      "end": 78.74444,
+      "line": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso.",
+      "scene": "atalho: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s027",
+      "start": 78.74444,
+      "end": 81.21118,
+      "line": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso.",
+      "scene": "atalho: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s028",
+      "start": 81.21118,
+      "end": 83.67793,
+      "line": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso.",
+      "scene": "atalho: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s029",
+      "start": 83.67793,
+      "end": 86.14466,
+      "line": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso.",
+      "scene": "atalho: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s030",
+      "start": 86.14466,
+      "end": 88.61141,
+      "line": "O atalho passa pelo sofá. Nico contorna a mesa, levanta uma almofada e vê a aranha no braço do móvel. Ela não avança. Só fica ali. O susto faz ele recuar e derrubar uma meia que estava carregando. Lia segura o riso.",
+      "scene": "atalho: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s031",
+      "start": 88.61141,
+      "end": 91.07815,
+      "line": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante.",
+      "scene": "hipotese: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s032",
+      "start": 91.07815,
+      "end": 93.5449,
+      "line": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante.",
+      "scene": "hipotese: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s033",
+      "start": 93.5449,
+      "end": 96.01163,
+      "line": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante.",
+      "scene": "hipotese: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s034",
+      "start": 96.01163,
+      "end": 98.47838,
+      "line": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante.",
+      "scene": "hipotese: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s035",
+      "start": 98.47838,
+      "end": 100.94512,
+      "line": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante.",
+      "scene": "hipotese: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s036",
+      "start": 100.94512,
+      "end": 103.41187,
+      "line": "Agora vem a pergunta da nossa hipótese: e se aquela aranha conseguisse aprender os hábitos de uma pessoa? Não estamos dizendo que aranhas reais planejam armadilhas humanas. A regra impossível desta história é outra: cada rotina repetida oferece uma pista à visitante.",
+      "scene": "hipotese: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s037",
+      "start": 103.41187,
+      "end": 106.11353,
+      "line": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem.",
+      "scene": "mapa: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s038",
+      "start": 106.11353,
+      "end": 108.81521,
+      "line": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem.",
+      "scene": "mapa: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s039",
+      "start": 108.81521,
+      "end": 111.51687,
+      "line": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem.",
+      "scene": "mapa: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s040",
+      "start": 111.51687,
+      "end": 114.21855,
+      "line": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem.",
+      "scene": "mapa: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s041",
+      "start": 114.21855,
+      "end": 116.92021,
+      "line": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem.",
+      "scene": "mapa: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s042",
+      "start": 116.92021,
+      "end": 119.62189,
+      "line": "Lia desenha o apartamento visto de cima. Quarto, cozinha, sofá, corredor. Nico marca os lugares onde encontrou a aranha. Os pontos parecem formar um caminho. Só que ele também passou por todos aqueles lugares. Um mapa pode mostrar um padrão sem revelar quem está seguindo quem.",
+      "scene": "mapa: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s043",
+      "start": 119.62189,
+      "end": 122.35022,
+      "line": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção.",
+      "scene": "teste: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s044",
+      "start": 122.35022,
+      "end": 125.07857,
+      "line": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção.",
+      "scene": "teste: feet; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s045",
+      "start": 125.07857,
+      "end": 127.8069,
+      "line": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção.",
+      "scene": "teste: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s046",
+      "start": 127.8069,
+      "end": 130.53524,
+      "line": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção.",
+      "scene": "teste: floor; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 3,
+        "cam": "floor"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s047",
+      "start": 130.53524,
+      "end": 133.26358,
+      "line": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção.",
+      "scene": "teste: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s048",
+      "start": 133.26358,
+      "end": 135.99192,
+      "line": "Eles combinam um teste. Lia fica perto do quarto e Nico escolhe um caminho diferente, sem anunciar a escolha. Ele dá dois passos em direção à cozinha, para, gira e volta ao sofá. A câmera acompanha pelos pés. No rodapé, uma sombra também muda de direção.",
+      "scene": "teste: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 5,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s049",
+      "start": 135.99192,
+      "end": 139.56775,
+      "line": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador.",
+      "scene": "olhos: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s050",
+      "start": 139.56775,
+      "end": 143.14359,
+      "line": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador.",
+      "scene": "olhos: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s051",
+      "start": 143.14359,
+      "end": 146.71941,
+      "line": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador.",
+      "scene": "olhos: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s052",
+      "start": 146.71941,
+      "end": 150.29525,
+      "line": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador.",
+      "scene": "olhos: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s053",
+      "start": 150.29525,
+      "end": 153.87108,
+      "line": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador.",
+      "scene": "olhos: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s054",
+      "start": 153.87108,
+      "end": 157.44692,
+      "line": "Nico aponta para a sombra como quem acabou de resolver um mistério. Lia aproxima a lanterna. Era o fio do carregador balançando. Por alguns segundos, o medo tinha transformado um objeto comum numa perseguição. Os dois respiram. Então a aranha cruza o fundo da parede, longe do carregador.",
+      "scene": "olhos: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s055",
+      "start": 157.44692,
+      "end": 160.70358,
+      "line": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real.",
+      "scene": "escala: floor; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 0,
+        "cam": "floor"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s056",
+      "start": 160.70358,
+      "end": 163.96025,
+      "line": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real.",
+      "scene": "escala: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s057",
+      "start": 163.96025,
+      "end": 167.21691,
+      "line": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real.",
+      "scene": "escala: travel; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 2,
+        "cam": "travel"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s058",
+      "start": 167.21691,
+      "end": 170.47359,
+      "line": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real.",
+      "scene": "escala: floor; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 3,
+        "cam": "floor"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s059",
+      "start": 170.47359,
+      "end": 173.73025,
+      "line": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real.",
+      "scene": "escala: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s060",
+      "start": 173.73025,
+      "end": 176.98692,
+      "line": "Vamos descer até o tamanho dela. O rodapé vira um muro. O tapete parece um campo irregular, e um passo de Nico atravessa o corredor como um acontecimento enorme. Aqui a câmera mostra nossa fantasia de perto; não está simulando exatamente os sentidos de uma espécie real.",
+      "scene": "escala: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 5,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s061",
+      "start": 176.98692,
+      "end": 180.4907,
+      "line": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números.",
+      "scene": "vibracao: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s062",
+      "start": 180.4907,
+      "end": 183.9945,
+      "line": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números.",
+      "scene": "vibracao: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s063",
+      "start": 183.9945,
+      "end": 187.49828,
+      "line": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números.",
+      "scene": "vibracao: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s064",
+      "start": 187.49828,
+      "end": 191.00207,
+      "line": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números.",
+      "scene": "vibracao: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s065",
+      "start": 191.00207,
+      "end": 194.50585,
+      "line": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números.",
+      "scene": "vibracao: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s066",
+      "start": 194.50585,
+      "end": 198.00965,
+      "line": "Na história, a visitante percebe repetições pelas vibrações. Nico sempre pisa na mesma tábua antes de abrir a porta. A chaleira vem antes da caminhada até o sofá. Ele acende o abajur, senta e procura o controle. Uma sequência previsível vira um relógio sem números.",
+      "scene": "vibracao: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s067",
+      "start": 198.00965,
+      "end": 201.58018,
+      "line": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando.",
+      "scene": "rotina: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s068",
+      "start": 201.58018,
+      "end": 205.15072,
+      "line": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando.",
+      "scene": "rotina: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s069",
+      "start": 205.15072,
+      "end": 208.72125,
+      "line": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando.",
+      "scene": "rotina: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s070",
+      "start": 208.72125,
+      "end": 212.2918,
+      "line": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando.",
+      "scene": "rotina: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s071",
+      "start": 212.2918,
+      "end": 215.86233,
+      "line": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando.",
+      "scene": "rotina: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s072",
+      "start": 215.86233,
+      "end": 219.43287,
+      "line": "Lia organiza três cartões: passo, luz, sofá. Nico repete o percurso uma vez. Depois outra. A aranha aparece cada vez mais perto do último ponto. Ele quer declarar vitória, mas Lia interrompe o teste: se a intenção é descobrir uma rotina, repetir a rotina também pode estar ensinando.",
+      "scene": "rotina: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s073",
+      "start": 219.43287,
+      "end": 222.41606,
+      "line": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho.",
+      "scene": "troca: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s074",
+      "start": 222.41606,
+      "end": 225.39925,
+      "line": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho.",
+      "scene": "troca: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s075",
+      "start": 225.39925,
+      "end": 228.38244,
+      "line": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho.",
+      "scene": "troca: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s076",
+      "start": 228.38244,
+      "end": 231.36564,
+      "line": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho.",
+      "scene": "troca: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s077",
+      "start": 231.36564,
+      "end": 234.34882,
+      "line": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho.",
+      "scene": "troca: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s078",
+      "start": 234.34882,
+      "end": 237.33202,
+      "line": "Eles trocam os cartões de ordem. Primeiro o sofá, depois a luz, depois a cozinha. Nico executa o plano exageradamente devagar. Lia acompanha pelo corredor. Quando chegam à mesa, encontram a aranha dentro do copo vazio. Por um instante, o problema parece resolvido sozinho.",
+      "scene": "troca: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s079",
+      "start": 237.33202,
+      "end": 240.5864,
+      "line": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa.",
+      "scene": "captura: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s080",
+      "start": 240.5864,
+      "end": 243.8408,
+      "line": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa.",
+      "scene": "captura: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s081",
+      "start": 243.8408,
+      "end": 247.09518,
+      "line": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa.",
+      "scene": "captura: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 2,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s082",
+      "start": 247.09518,
+      "end": 250.34957,
+      "line": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa.",
+      "scene": "captura: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 3,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s083",
+      "start": 250.34957,
+      "end": 253.60396,
+      "line": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa.",
+      "scene": "captura: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s084",
+      "start": 253.60396,
+      "end": 256.85835,
+      "line": "Lia desliza o cartão sob a borda. Nico segura o copo por cima. A ação é pequena: apoiar, fechar a passagem, levantar. Os dois levam a visitante até a janela, sem corrida nem pancada. Pela primeira vez, existe uma distância clara entre o susto e uma decisão cuidadosa.",
+      "scene": "captura: window; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 5,
+        "cam": "window"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s085",
+      "start": 256.85835,
+      "end": 260.51954,
+      "line": "Do lado de fora há um vaso. Lia inclina o copo e a aranha alcança uma folha. Nico fecha a janela, confere o trinco e comemora. A câmera permanece na folha quando eles saem. A aranha desaparece atrás do vaso. Não sabemos para onde foi.",
+      "scene": "soltura: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s086",
+      "start": 260.51954,
+      "end": 264.18073,
+      "line": "Do lado de fora há um vaso. Lia inclina o copo e a aranha alcança uma folha. Nico fecha a janela, confere o trinco e comemora. A câmera permanece na folha quando eles saem. A aranha desaparece atrás do vaso. Não sabemos para onde foi.",
+      "scene": "soltura: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s087",
+      "start": 264.18073,
+      "end": 267.84192,
+      "line": "Do lado de fora há um vaso. Lia inclina o copo e a aranha alcança uma folha. Nico fecha a janela, confere o trinco e comemora. A câmera permanece na folha quando eles saem. A aranha desaparece atrás do vaso. Não sabemos para onde foi.",
+      "scene": "soltura: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 2,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s088",
+      "start": 267.84192,
+      "end": 271.50311,
+      "line": "Do lado de fora há um vaso. Lia inclina o copo e a aranha alcança uma folha. Nico fecha a janela, confere o trinco e comemora. A câmera permanece na folha quando eles saem. A aranha desaparece atrás do vaso. Não sabemos para onde foi.",
+      "scene": "soltura: window; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 3,
+        "cam": "window"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s089",
+      "start": 271.50311,
+      "end": 275.1643,
+      "line": "Do lado de fora há um vaso. Lia inclina o copo e a aranha alcança uma folha. Nico fecha a janela, confere o trinco e comemora. A câmera permanece na folha quando eles saem. A aranha desaparece atrás do vaso. Não sabemos para onde foi.",
+      "scene": "soltura: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 4,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s090",
+      "start": 275.1643,
+      "end": 278.37755,
+      "line": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali.",
+      "scene": "retorno: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s091",
+      "start": 278.37755,
+      "end": 281.59081,
+      "line": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali.",
+      "scene": "retorno: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s092",
+      "start": 281.59081,
+      "end": 284.80406,
+      "line": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali.",
+      "scene": "retorno: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s093",
+      "start": 284.80406,
+      "end": 288.01732,
+      "line": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali.",
+      "scene": "retorno: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s094",
+      "start": 288.01732,
+      "end": 291.23057,
+      "line": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali.",
+      "scene": "retorno: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s095",
+      "start": 291.23057,
+      "end": 294.44383,
+      "line": "Mais tarde, Nico pega o controle no mesmo braço do sofá. Há um fio preso ao botão de ligar. Ele chama Lia, mantendo a mão suspensa. A hipótese piorou: talvez a visitante não estivesse apenas prevendo o destino. Talvez tivesse aprendido qual objeto fazia Nico permanecer ali.",
+      "scene": "retorno: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s096",
+      "start": 294.44383,
+      "end": 297.23614,
+      "line": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova.",
+      "scene": "duvida: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s097",
+      "start": 297.23614,
+      "end": 300.02843,
+      "line": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova.",
+      "scene": "duvida: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s098",
+      "start": 300.02843,
+      "end": 302.82074,
+      "line": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova.",
+      "scene": "duvida: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s099",
+      "start": 302.82074,
+      "end": 305.61303,
+      "line": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova.",
+      "scene": "duvida: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s100",
+      "start": 305.61303,
+      "end": 308.40534,
+      "line": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova.",
+      "scene": "duvida: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s101",
+      "start": 308.40534,
+      "end": 311.19763,
+      "line": "Lia lembra que aquele fio pode ser antigo. Nico pergunta como ter certeza. Os dois fotografam o ponto e marcam a hora no caderno. Separar o que viram do que imaginaram parece menos emocionante que fugir, mas é o que impede qualquer coincidência de virar prova.",
+      "scene": "duvida: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s102",
+      "start": 311.19763,
+      "end": 313.98993,
+      "line": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira.",
+      "scene": "camera: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s103",
+      "start": 313.98993,
+      "end": 316.78223,
+      "line": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira.",
+      "scene": "camera: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s104",
+      "start": 316.78223,
+      "end": 319.57453,
+      "line": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira.",
+      "scene": "camera: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s105",
+      "start": 319.57453,
+      "end": 322.36682,
+      "line": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira.",
+      "scene": "camera: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s106",
+      "start": 322.36682,
+      "end": 325.15913,
+      "line": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira.",
+      "scene": "camera: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s107",
+      "start": 325.15913,
+      "end": 327.95142,
+      "line": "Eles montam um celular apoiado em livros, enquadrando o sofá. Nico vai à cozinha. Lia fica no corredor. O plano é observar sem mexer em nada. Na tela, o quarto parece tranquilo. Até que uma aranha atravessa a lente, tão perto que ocupa a imagem inteira.",
+      "scene": "camera: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s108",
+      "start": 327.95142,
+      "end": 330.68302,
+      "line": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher.",
+      "scene": "fora: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s109",
+      "start": 330.68302,
+      "end": 333.41461,
+      "line": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher.",
+      "scene": "fora: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s110",
+      "start": 333.41461,
+      "end": 336.14622,
+      "line": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher.",
+      "scene": "fora: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s111",
+      "start": 336.14622,
+      "end": 338.87781,
+      "line": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher.",
+      "scene": "fora: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s112",
+      "start": 338.87781,
+      "end": 341.6094,
+      "line": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher.",
+      "scene": "fora: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s113",
+      "start": 341.6094,
+      "end": 344.341,
+      "line": "A gravação não mostra o sofá naquele momento. Nico quer rever o trecho; Lia aponta para a borda do enquadramento. Uma câmera registra só um pedaço do mundo. O que acontece fora dele continua desconhecido. E é justamente esse espaço que o medo adora preencher.",
+      "scene": "fora: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s114",
+      "start": 344.341,
+      "end": 347.15996,
+      "line": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto.",
+      "scene": "cadeira: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s115",
+      "start": 347.15996,
+      "end": 349.97893,
+      "line": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto.",
+      "scene": "cadeira: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s116",
+      "start": 349.97893,
+      "end": 352.79789,
+      "line": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto.",
+      "scene": "cadeira: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s117",
+      "start": 352.79789,
+      "end": 355.61686,
+      "line": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto.",
+      "scene": "cadeira: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s118",
+      "start": 355.61686,
+      "end": 358.43582,
+      "line": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto.",
+      "scene": "cadeira: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s119",
+      "start": 358.43582,
+      "end": 361.25479,
+      "line": "Eles mudam o celular de lugar e puxam uma cadeira para apoiar a lanterna. Nico interrompe o movimento antes de subir: ninguém precisa se equilibrar num móvel para resolver isso. Lia alcança o interruptor pela parede. A luz acende, e a sombra gigantesca some do teto.",
+      "scene": "cadeira: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s120",
+      "start": 361.25479,
+      "end": 363.54499,
+      "line": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?",
+      "scene": "sombra: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s121",
+      "start": 363.54499,
+      "end": 365.83519,
+      "line": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?",
+      "scene": "sombra: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s122",
+      "start": 365.83519,
+      "end": 368.1254,
+      "line": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?",
+      "scene": "sombra: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s123",
+      "start": 368.1254,
+      "end": 370.41559,
+      "line": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?",
+      "scene": "sombra: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s124",
+      "start": 370.41559,
+      "end": 372.7058,
+      "line": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?",
+      "scene": "sombra: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s125",
+      "start": 372.7058,
+      "end": 374.99599,
+      "line": "Perto do abajur, a aranha pequena projetava uma sombra enorme. A luz explica o tamanho. Mas, ao lado dela, um fio puxa o cartão do sofá. Coincidência ou participação?",
+      "scene": "sombra: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s126",
+      "start": 374.99599,
+      "end": 377.20722,
+      "line": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas.",
+      "scene": "plano: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s127",
+      "start": 377.20722,
+      "end": 379.41844,
+      "line": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas.",
+      "scene": "plano: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s128",
+      "start": 379.41844,
+      "end": 381.62967,
+      "line": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas.",
+      "scene": "plano: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s129",
+      "start": 381.62967,
+      "end": 383.8409,
+      "line": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas.",
+      "scene": "plano: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s130",
+      "start": 383.8409,
+      "end": 386.05212,
+      "line": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas.",
+      "scene": "plano: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s131",
+      "start": 386.05212,
+      "end": 388.26335,
+      "line": "Nico propõe abandonar o apartamento. Lia prefere mudar uma coisa por vez: lanterna imóvel, trajeto registrado, cartões guardados. Assim conseguem acompanhar o que realmente muda entre duas tentativas.",
+      "scene": "plano: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s132",
+      "start": 388.26335,
+      "end": 390.63253,
+      "line": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece.",
+      "scene": "desvio: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s133",
+      "start": 390.63253,
+      "end": 393.0017,
+      "line": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece.",
+      "scene": "desvio: feet; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s134",
+      "start": 393.0017,
+      "end": 395.37088,
+      "line": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece.",
+      "scene": "desvio: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s135",
+      "start": 395.37088,
+      "end": 397.74004,
+      "line": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece.",
+      "scene": "desvio: floor; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 3,
+        "cam": "floor"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s136",
+      "start": 397.74004,
+      "end": 400.10922,
+      "line": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece.",
+      "scene": "desvio: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s137",
+      "start": 400.10922,
+      "end": 402.47839,
+      "line": "Nico sai do quarto e desvia da tábua habitual. A câmera acompanha até o outro lado do tapete. No rodapé, a aranha chega ao ponto conhecido. Só que ninguém aparece.",
+      "scene": "desvio: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s138",
+      "start": 402.47839,
+      "end": 404.68962,
+      "line": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar.",
+      "scene": "espera: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s139",
+      "start": 404.68962,
+      "end": 406.90084,
+      "line": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar.",
+      "scene": "espera: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s140",
+      "start": 406.90084,
+      "end": 409.11207,
+      "line": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar.",
+      "scene": "espera: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s141",
+      "start": 409.11207,
+      "end": 411.3233,
+      "line": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar.",
+      "scene": "espera: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s142",
+      "start": 411.3233,
+      "end": 413.53452,
+      "line": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar.",
+      "scene": "espera: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s143",
+      "start": 413.53452,
+      "end": 415.74575,
+      "line": "A visitante espera. Nico também. Lia observa e quase ri. Na nossa regra inventada, aprender o passado não permite adivinhar toda escolha futura. Uma previsão também pode falhar.",
+      "scene": "espera: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s144",
+      "start": 415.74575,
+      "end": 417.70937,
+      "line": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede.",
+      "scene": "pista: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s145",
+      "start": 417.70937,
+      "end": 419.67301,
+      "line": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede.",
+      "scene": "pista: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s146",
+      "start": 419.67301,
+      "end": 421.63664,
+      "line": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede.",
+      "scene": "pista: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s147",
+      "start": 421.63664,
+      "end": 423.60027,
+      "line": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede.",
+      "scene": "pista: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s148",
+      "start": 423.60027,
+      "end": 425.5639,
+      "line": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede.",
+      "scene": "pista: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 4,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s149",
+      "start": 425.5639,
+      "end": 427.52753,
+      "line": "A aranha segue outra pista: o brilho sob a porta. Nico mudou o caminho, mas deixou o abajur ligado. O destino continua igual. Há mais de um hábito nessa rede.",
+      "scene": "pista: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s150",
+      "start": 427.52753,
+      "end": 429.2948,
+      "line": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar.",
+      "scene": "interruptor: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s151",
+      "start": 429.2948,
+      "end": 431.06206,
+      "line": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar.",
+      "scene": "interruptor: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s152",
+      "start": 431.06206,
+      "end": 432.82933,
+      "line": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar.",
+      "scene": "interruptor: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s153",
+      "start": 432.82933,
+      "end": 434.5966,
+      "line": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar.",
+      "scene": "interruptor: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s154",
+      "start": 434.5966,
+      "end": 436.36386,
+      "line": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar.",
+      "scene": "interruptor: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s155",
+      "start": 436.36386,
+      "end": 438.13113,
+      "line": "Lia acompanha um fio pelo rodapé. Ele sobe pela mesa e termina junto ao interruptor do abajur. Um lugar que Nico toca toda noite, quase sem olhar.",
+      "scene": "interruptor: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s156",
+      "start": 438.13113,
+      "end": 440.22567,
+      "line": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto.",
+      "scene": "escolha: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s157",
+      "start": 440.22567,
+      "end": 442.32021,
+      "line": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto.",
+      "scene": "escolha: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s158",
+      "start": 442.32021,
+      "end": 444.41475,
+      "line": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto.",
+      "scene": "escolha: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s159",
+      "start": 444.41475,
+      "end": 446.50929,
+      "line": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto.",
+      "scene": "escolha: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s160",
+      "start": 446.50929,
+      "end": 448.60383,
+      "line": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto.",
+      "scene": "escolha: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s161",
+      "start": 448.60383,
+      "end": 450.69837,
+      "line": "Nico estende a mão por hábito e para antes do botão. Lia ilumina o fio. A aranha está imóvel. Ele recolhe a mão e recua. Desta vez, não vai repetir o gesto.",
+      "scene": "escolha: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s162",
+      "start": 450.69837,
+      "end": 453.05473,
+      "line": "A luz se apaga. A janela ainda ilumina a sala de azul. Nico e Lia continuam juntos, longe do interruptor. Nenhum deles apertou o botão. A regra parece ter mudado.",
+      "scene": "apagao: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s163",
+      "start": 453.05473,
+      "end": 455.41109,
+      "line": "A luz se apaga. A janela ainda ilumina a sala de azul. Nico e Lia continuam juntos, longe do interruptor. Nenhum deles apertou o botão. A regra parece ter mudado.",
+      "scene": "apagao: switch; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 1,
+        "cam": "switch"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s164",
+      "start": 455.41109,
+      "end": 457.76743,
+      "line": "A luz se apaga. A janela ainda ilumina a sala de azul. Nico e Lia continuam juntos, longe do interruptor. Nenhum deles apertou o botão. A regra parece ter mudado.",
+      "scene": "apagao: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 2,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s165",
+      "start": 457.76743,
+      "end": 460.12379,
+      "line": "A luz se apaga. A janela ainda ilumina a sala de azul. Nico e Lia continuam juntos, longe do interruptor. Nenhum deles apertou o botão. A regra parece ter mudado.",
+      "scene": "apagao: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s166",
+      "start": 460.12379,
+      "end": 462.48015,
+      "line": "A luz se apaga. A janela ainda ilumina a sala de azul. Nico e Lia continuam juntos, longe do interruptor. Nenhum deles apertou o botão. A regra parece ter mudado.",
+      "scene": "apagao: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s167",
+      "start": 462.48015,
+      "end": 464.44377,
+      "line": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro.",
+      "scene": "revela: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s168",
+      "start": 464.44377,
+      "end": 466.40741,
+      "line": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro.",
+      "scene": "revela: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s169",
+      "start": 466.40741,
+      "end": 468.37104,
+      "line": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro.",
+      "scene": "revela: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s170",
+      "start": 468.37104,
+      "end": 470.33467,
+      "line": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro.",
+      "scene": "revela: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s171",
+      "start": 470.33467,
+      "end": 472.2983,
+      "line": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro.",
+      "scene": "revela: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s172",
+      "start": 472.2983,
+      "end": 474.26193,
+      "line": "Lia aponta a lanterna: o cabo ficou preso na cadeira que moveram. O plugue saiu da tomada. Uma causa comum explica o apagão. Nem toda resposta precisa de um monstro.",
+      "scene": "revela: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s173",
+      "start": 474.26193,
+      "end": 476.22555,
+      "line": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua.",
+      "scene": "vaso: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s174",
+      "start": 476.22555,
+      "end": 478.18919,
+      "line": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua.",
+      "scene": "vaso: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 1,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s175",
+      "start": 478.18919,
+      "end": 480.15282,
+      "line": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua.",
+      "scene": "vaso: close; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s176",
+      "start": 480.15282,
+      "end": 482.11645,
+      "line": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua.",
+      "scene": "vaso: track; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s177",
+      "start": 482.11645,
+      "end": 484.08008,
+      "line": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua.",
+      "scene": "vaso: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 4,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s178",
+      "start": 484.08008,
+      "end": 486.04371,
+      "line": "Eles desligam o aparelho com segurança e organizam o cabo. A aranha reaparece no vaso. Lia abre espaço para ela sair. Nico aceita não controlar cada canto. A noite continua.",
+      "scene": "vaso: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s179",
+      "start": 486.04371,
+      "end": 488.55716,
+      "line": "Voltamos ao copo. Nico guarda o cartão e sai. Tudo fica quieto. Então um fio move o cartão até a marca no mapa. A explicação do cabo era válida. Mas explicava tudo?",
+      "scene": "ultimo: wide; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s180",
+      "start": 488.55716,
+      "end": 491.0706,
+      "line": "Voltamos ao copo. Nico guarda o cartão e sai. Tudo fica quieto. Então um fio move o cartão até a marca no mapa. A explicação do cabo era válida. Mas explicava tudo?",
+      "scene": "ultimo: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s181",
+      "start": 491.0706,
+      "end": 493.58404,
+      "line": "Voltamos ao copo. Nico guarda o cartão e sai. Tudo fica quieto. Então um fio move o cartão até a marca no mapa. A explicação do cabo era válida. Mas explicava tudo?",
+      "scene": "ultimo: macro; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 2,
+        "cam": "macro"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s182",
+      "start": 493.58404,
+      "end": 496.09749,
+      "line": "Voltamos ao copo. Nico guarda o cartão e sai. Tudo fica quieto. Então um fio move o cartão até a marca no mapa. A explicação do cabo era válida. Mas explicava tudo?",
+      "scene": "ultimo: spider; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 3,
+        "cam": "spider"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s183",
+      "start": 496.09749,
+      "end": 498.61094,
+      "line": "Voltamos ao copo. Nico guarda o cartão e sai. Tudo fica quieto. Então um fio move o cartão até a marca no mapa. A explicação do cabo era válida. Mas explicava tudo?",
+      "scene": "ultimo: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 4,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s184",
+      "start": 498.61094,
+      "end": 500.50911,
+      "line": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais.",
+      "scene": "final: two; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s185",
+      "start": 500.50911,
+      "end": 502.4073,
+      "line": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais.",
+      "scene": "final: hand; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s186",
+      "start": 502.4073,
+      "end": 504.30547,
+      "line": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais.",
+      "scene": "final: over; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s187",
+      "start": 504.30547,
+      "end": 506.20364,
+      "line": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais.",
+      "scene": "final: reverse; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s188",
+      "start": 506.20364,
+      "end": 508.10182,
+      "line": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais.",
+      "scene": "final: detail; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 4,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s189",
+      "start": 508.10182,
+      "end": 510.0,
+      "line": "Se uma criatura aprendesse seus hábitos, qual rotina entregaria você? Conta nos comentários e inscreva-se no Então. Esta foi uma ficção de suspense, não um manual sobre aranhas reais.",
+      "scene": "final: reveal; ação contínua, perspectiva motivada pelo objeto e reação",
+      "set": "apartment",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 5,
+        "cam": "reveal"
+      },
+      "sfx": []
+    }
+  ],
+  "timing_status": "provisional"
+}

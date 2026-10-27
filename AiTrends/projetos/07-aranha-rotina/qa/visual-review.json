@@ -1,0 +1,33 @@
+{
+  "inspected_plan_sheets": 8,
+  "sampled_shots": 189,
+  "initial_native_preview": {
+    "seconds": 60,
+    "frames": 1440,
+    "full_decode_passed": true,
+    "actual_mp4_contact_sheet_opened": true,
+    "walking_motion_strip_opened": true
+  },
+  "native_capture_pilot": {
+    "seconds": 16,
+    "frames": 384,
+    "decode_passed": true,
+    "consecutive_frames_opened": true
+  },
+  "corrected_lift_pilot": {
+    "frames": 193,
+    "decode_passed": true,
+    "consecutive_frames_opened": true
+  },
+  "fixes": [
+    "Visible characters restored after inserts",
+    "Front-facing reaction closeups",
+    "Foreground cutaway for macro subjects",
+    "Spider scaled to fit inverted cup",
+    "Hand-anchored lift of cup/card",
+    "Fixed segment lengths in eight-legged rig",
+    "Walking ends within3.4seconds rather than stretching across full paragraph",
+    "Single smooth lamp/bounce-light dim, no strobe"
+  ],
+  "limitations": "Not human continuous playback of every frame or a full listening review. Initial preview predates the final minor spider-leg/contact changes; native contact pilots cover those. No user editorial approval claimed."
+}

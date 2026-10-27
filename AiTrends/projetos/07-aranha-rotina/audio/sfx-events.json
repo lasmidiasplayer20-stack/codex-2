@@ -1,0 +1,1746 @@
+{
+  "method": "Python NumPy procedural Foley; same action fractions and cubic travel easing as film.js",
+  "events": [
+    {
+      "beat": 1,
+      "action": "sumiu",
+      "fraction": 0.048766488753866306,
+      "time": 1.17121,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 1,
+      "action": "sumiu",
+      "fraction": 0.06144192571045776,
+      "time": 1.47563,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 1,
+      "action": "sumiu",
+      "fraction": 0.07033344745066474,
+      "time": 1.68917,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 1,
+      "action": "sumiu",
+      "fraction": 0.07895980795817574,
+      "time": 1.89635,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 1,
+      "action": "sumiu",
+      "fraction": 0.09098310224757857,
+      "time": 2.18511,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 2,
+      "action": "copo",
+      "fraction": 0.12,
+      "time": 26.03402,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 2,
+      "action": "copo",
+      "fraction": 0.4,
+      "time": 30.74127,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.06611406350129852,
+      "time": 41.88681,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.08329850029937234,
+      "time": 42.16195,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.0953529796760245,
+      "time": 42.35495,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.10494953395185362,
+      "time": 42.50861,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.11408258597680655,
+      "time": 42.65484,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.12528645520925943,
+      "time": 42.83422,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.14049618356228757,
+      "time": 43.07775,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 3,
+      "action": "lia",
+      "fraction": 0.16890183879081416,
+      "time": 43.53255,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.04375203766673291,
+      "time": 57.58187,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.05512411323211016,
+      "time": 57.77488,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.06310135752491909,
+      "time": 57.91026,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.0694520306179241,
+      "time": 58.01804,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.0748149320282061,
+      "time": 58.10906,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.07950272862258781,
+      "time": 58.18862,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.0836946371625255,
+      "time": 58.25976,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.08750407533346581,
+      "time": 58.32442,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.09100790577612869,
+      "time": 58.38388,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.09426090770879102,
+      "time": 58.43909,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.09730366069265275,
+      "time": 58.49073,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.100167161315678,
+      "time": 58.53933,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.10303066193870326,
+      "time": 58.58793,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.10607341492256499,
+      "time": 58.63957,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.1093264168552273,
+      "time": 58.69478,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.11283024729789021,
+      "time": 58.75424,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.11663968546883052,
+      "time": 58.8189,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.12083159400876821,
+      "time": 58.89004,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.12551939060314993,
+      "time": 58.9696,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.13088229201343193,
+      "time": 59.06062,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.13723296510643693,
+      "time": 59.1684,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.1452102093992459,
+      "time": 59.30378,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.1565822849646231,
+      "time": 59.49679,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.65,
+      "time": 67.87089,
+      "kind": "switch",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.055
+    },
+    {
+      "beat": 4,
+      "action": "chaleira",
+      "fraction": 0.7,
+      "time": 68.71947,
+      "kind": "kettle",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 1.2
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.07389985265139364,
+      "time": 74.90471,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.09310797993962029,
+      "time": 75.189,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.10658203073225327,
+      "time": 75.38842,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.11741768954771148,
+      "time": 75.54879,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.12929596442762994,
+      "time": 75.7246,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.14494699785943496,
+      "time": 75.95624,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.17069239329402977,
+      "time": 76.33728,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.43,
+      "time": 80.17515,
+      "kind": "fabric",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.5
+    },
+    {
+      "beat": 5,
+      "action": "atalho",
+      "fraction": 0.68,
+      "time": 83.87527,
+      "kind": "fabric",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.5
+    },
+    {
+      "beat": 7,
+      "action": "mapa",
+      "fraction": 0.15,
+      "time": 105.84337,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 7,
+      "action": "mapa",
+      "fraction": 0.6,
+      "time": 113.13788,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.1592209306069217,
+      "time": 122.22834,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.2006058020555115,
+      "time": 122.90581,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.22963631875177848,
+      "time": 123.38104,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.2528092265545875,
+      "time": 123.76038,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.27714661494835985,
+      "time": 124.15879,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.3084226419016117,
+      "time": 124.67078,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.35585855483334594,
+      "time": 125.44731,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.6943327194351936,
+      "time": 130.98814,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.744843883899715,
+      "time": 131.81501,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.7902121981304605,
+      "time": 132.55769,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 8,
+      "action": "teste",
+      "fraction": 0.8762755992100119,
+      "time": 133.96655,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.04642674157699675,
+      "time": 158.3541,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.05849402899088771,
+      "time": 158.58989,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.06695894809019665,
+      "time": 158.7553,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.07369785841878039,
+      "time": 158.88698,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.07938861137923939,
+      "time": 158.99817,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.08436298817765688,
+      "time": 159.09537,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.08888979243169935,
+      "time": 159.18383,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.0937688126152759,
+      "time": 159.27916,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.09932664959927118,
+      "time": 159.38776,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.10586400270880035,
+      "time": 159.5155,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.11397606967759377,
+      "time": 159.67401,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.12520257320387357,
+      "time": 159.89338,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 10,
+      "action": "escala",
+      "fraction": 0.14873016183117724,
+      "time": 160.35311,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.0465988681932434,
+      "time": 177.96656,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.05871089493794404,
+      "time": 178.22118,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.06720719762851686,
+      "time": 178.3998,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.07397109239048204,
+      "time": 178.54199,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.079682943752804,
+      "time": 178.66207,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.08507341235339622,
+      "time": 178.7754,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.09130645883260372,
+      "time": 178.90643,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.09889600384807053,
+      "time": 179.06598,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.10896717513228883,
+      "time": 179.27771,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "vibracao",
+      "fraction": 0.12597794411929975,
+      "time": 179.63532,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 12,
+      "action": "rotina",
+      "fraction": 0.25,
+      "time": 203.36545,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 12,
+      "action": "rotina",
+      "fraction": 0.55,
+      "time": 209.79242,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 12,
+      "action": "rotina",
+      "fraction": 0.8,
+      "time": 215.14823,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 13,
+      "action": "troca",
+      "fraction": 0.22,
+      "time": 223.37068,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 13,
+      "action": "troca",
+      "fraction": 0.5,
+      "time": 228.38245,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 13,
+      "action": "troca",
+      "fraction": 0.75,
+      "time": 232.85723,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 14,
+      "action": "captura",
+      "fraction": 0.12,
+      "time": 239.67518,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 14,
+      "action": "captura",
+      "fraction": 0.45,
+      "time": 246.11887,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 14,
+      "action": "captura",
+      "fraction": 0.65,
+      "time": 250.02413,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.05105128377952688,
+      "time": 257.79289,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.0643205870579826,
+      "time": 258.0358,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.07362869209466422,
+      "time": 258.20619,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.08103886157594804,
+      "time": 258.34184,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.08729646730995717,
+      "time": 258.45639,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.09276633904629568,
+      "time": 258.55653,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.09821079183332919,
+      "time": 258.65619,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.10443252297932412,
+      "time": 258.77009,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.11178793921946421,
+      "time": 258.90473,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.12099905169314176,
+      "time": 259.07335,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.1340302729357212,
+      "time": 259.3119,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.62,
+      "time": 268.20804,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 15,
+      "action": "soltura",
+      "fraction": 0.84,
+      "time": 272.23535,
+      "kind": "latch",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.1
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.05062539340913419,
+      "time": 276.14033,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.06378399881537734,
+      "time": 276.39403,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.0730144518909673,
+      "time": 276.57198,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.08036280275396357,
+      "time": 276.71366,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.08656820502066445,
+      "time": 276.83329,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.09235484960404987,
+      "time": 276.94486,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.09899585807148178,
+      "time": 277.07289,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.10702853994880845,
+      "time": 277.22776,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.11754166095178925,
+      "time": 277.43045,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.13443309177174662,
+      "time": 277.75611,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 16,
+      "action": "retorno",
+      "fraction": 0.65,
+      "time": 287.69599,
+      "kind": "switch",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.055
+    },
+    {
+      "beat": 17,
+      "action": "duvida",
+      "fraction": 0.45,
+      "time": 301.98304,
+      "kind": "phone",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.11
+    },
+    {
+      "beat": 17,
+      "action": "duvida",
+      "fraction": 0.7,
+      "time": 306.17149,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 18,
+      "action": "camera",
+      "fraction": 0.25,
+      "time": 315.38608,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 18,
+      "action": "camera",
+      "fraction": 0.4,
+      "time": 317.89915,
+      "kind": "phone",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.11
+    },
+    {
+      "beat": 20,
+      "action": "cadeira",
+      "fraction": 0.3,
+      "time": 349.41514,
+      "kind": "chair",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.55
+    },
+    {
+      "beat": 20,
+      "action": "cadeira",
+      "fraction": 0.7,
+      "time": 356.18065,
+      "kind": "switch",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.055
+    },
+    {
+      "beat": 21,
+      "action": "sombra",
+      "fraction": 0.62,
+      "time": 369.77433,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 22,
+      "action": "plano",
+      "fraction": 0.3,
+      "time": 378.9762,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.19738189792677144,
+      "time": 391.06914,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.24868560806614057,
+      "time": 391.79843,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.28467395747134683,
+      "time": 392.31,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.31332423240843676,
+      "time": 392.71727,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.3375182977641742,
+      "time": 393.06119,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.35866671137502776,
+      "time": 393.36181,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.37757798745891785,
+      "time": 393.63064,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.3947637958535429,
+      "time": 393.87493,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.41116125028982786,
+      "time": 394.10802,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.4289129238282121,
+      "time": 394.36036,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.4485479300166535,
+      "time": 394.63948,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.47066270051009734,
+      "time": 394.95384,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.49622905154868935,
+      "time": 395.31727,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.5270238484101138,
+      "time": 395.75502,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.5669887902223254,
+      "time": 396.32312,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 23,
+      "action": "desvio",
+      "fraction": 0.6294454062669859,
+      "time": 397.21094,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.09355664013105781,
+      "time": 428.51957,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.11787398025855916,
+      "time": 428.77742,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.13493202402842297,
+      "time": 428.9583,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.1485119089626514,
+      "time": 429.10229,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.1599796042759966,
+      "time": 429.22389,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.17133971300645973,
+      "time": 429.34435,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.18475339177449626,
+      "time": 429.48658,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.2015177655054009,
+      "time": 429.66434,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 26,
+      "action": "interruptor",
+      "fraction": 0.22511898856901094,
+      "time": 429.9146,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 27,
+      "action": "escolha",
+      "fraction": 0.68,
+      "time": 446.67685,
+      "kind": "fabric",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.5
+    },
+    {
+      "beat": 28,
+      "action": "apagao",
+      "fraction": 0.3,
+      "time": 454.2329,
+      "kind": "switch",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.055
+    },
+    {
+      "beat": 29,
+      "action": "revela",
+      "fraction": 0.2,
+      "time": 464.83651,
+      "kind": "cable",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.08565298627711648,
+      "time": 475.27107,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.10791600039689575,
+      "time": 475.53337,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.1235329826537176,
+      "time": 475.71737,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.13596564052051244,
+      "time": 475.86385,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.14653210570278818,
+      "time": 475.98834,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.15778001002967146,
+      "time": 476.12086,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.17138986230607392,
+      "time": 476.28121,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.18921535200084946,
+      "time": 476.49122,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.21792692074762265,
+      "time": 476.8295,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 30,
+      "action": "vaso",
+      "fraction": 0.55,
+      "time": 480.74191,
+      "kind": "latch",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.1
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.07997719523492662,
+      "time": 487.0488,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.10076495178803599,
+      "time": 487.31005,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.11534707546196463,
+      "time": 487.4933,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.12695588384938858,
+      "time": 487.63919,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.13679249449331218,
+      "time": 487.76281,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.14709789698831194,
+      "time": 487.89232,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.15948985375425948,
+      "time": 488.04806,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.17551796679934578,
+      "time": 488.24948,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.2003047610877896,
+      "time": 488.56099,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 31,
+      "action": "ultimo",
+      "fraction": 0.68,
+      "time": 494.58943,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    }
+  ],
+  "provisional_after_beat": 20
+}

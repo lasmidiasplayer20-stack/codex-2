@@ -1,0 +1,17 @@
+{
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "seconds": 60,
+  "frames": 1440,
+  "full_decode_passed": true,
+  "voice": "Puck",
+  "sfx": "Python NumPy Foley and discrete harmony",
+  "bytes": 18005598,
+  "sha256": "57997355106d0242d0d1dfee9935aff30ba3d0d73bfdfa7f32610cc44b376ec7",
+  "complete_episode": false,
+  "visual_review": "Inspected actual MP4 contact sheet and initial walking motion strip; no human full listening claimed.",
+  "minor_later_changes": "Final source also includes exact fixed-length spider-leg solving and cup/card lifting contacts, reviewed separately in native contact pilots."
+}

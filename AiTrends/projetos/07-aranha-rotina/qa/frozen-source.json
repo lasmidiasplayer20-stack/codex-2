@@ -1,0 +1,9 @@
+{
+  "sha256_before_remaining_voice": "ca54300eef5e6d49a13cd7de185931b767d1a24f99a6644aeadb8b0ff241f611",
+  "not_before_utc": "2026-10-28T07:03:00Z",
+  "local_brasilia": "2026-10-28 04:03",
+  "same_voice_model_required": true,
+  "cached_blocks": 6,
+  "missing_blocks": 2,
+  "resume_is_live_process_not_external_scheduler": true
+}

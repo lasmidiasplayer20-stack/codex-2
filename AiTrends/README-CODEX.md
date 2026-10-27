@@ -121,3 +121,5 @@ O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da 
 
 
 [06 — Duas pessoas podem recomeçar a humanidade?](projetos/06-recomecar-humanidade/) tem prévia inicial nativa 1080p, rig revisado, Foley Python em stem separado e capa neon com arquivo único YOUTUBE. O usuário escolheu aguardar a mesma Puck após cota diária. Consulte o estado real no README/QA do projeto; prévia inicial não é o filme completo.
+
+[07 — E se uma aranha aprendesse sua rotina?](projetos/07-aranha-rotina/) adapta uma referência de suspense para história original com Nico/Lia, apartamento procedural, câmera de rodapé/macro, Foley Python e capa neon. Consulte o README/QA para o estado real de voz, prévia e exportação.
