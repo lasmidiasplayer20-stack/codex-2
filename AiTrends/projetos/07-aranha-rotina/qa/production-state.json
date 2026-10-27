@@ -1,14 +1,13 @@
 {
-  "status": "full_audio_complete_video_rendering_native_1080p",
-  "complete_episode_generated": false,
-  "native_preview_seconds": 60,
+  "status": "complete_export_technical_checks_passed",
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
   "voice_blocks": 8,
-  "remaining_voice_blocks": 0,
-  "same_voice_model": "Puck / gemini-2.5-flash-preview-tts",
-  "requires_live_environment": true,
-  "preflight_shots": 189,
-  "native_motion_pilots": "0–60s preview plus16s cup/card pilot and corrected8s lift",
-  "voice_human_full_listening": false,
+  "final_seconds": 520.75,
+  "full_video_generated": true,
+  "full_decode_passed": true,
+  "final_sha256": "17e4f91aab8a795b4feca5d17b227f4cea8fed5e2437f23e2ce232f559496dd5",
+  "final_human_listening": false,
   "independent_full_ASR": false,
-  "final_voice_seconds": 520.75
+  "user_editorial_approval": false
 }

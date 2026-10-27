@@ -1,7 +1,7 @@
 # 07 — E se uma aranha aprendesse sua rotina? / Então
 
 <!-- CURRENT_STATUS_START -->
-**Narração completa: 8min40,75s. Vídeo completo em render nativo1920×1080/24fps.** A primeira credencial do último anexo gerou os dois blocos restantes; os seis anteriores foram preservados. Mesma Puck/modelo, sem aceleração, com mix discreta e174eventos Foley em Python. Prévia inicial de1min disponível; o filme completo ainda não foi exportado.
+**Completo: 8min41s, 1920×1080/24fps.** Oito blocos da mesma Puck/modelo, tratamento leve, Foley Python e prévia final de1min. Exportação e decodificação integral validadas. Não se declara escuta humana integral nem aprovação editorial do usuário.
 <!-- CURRENT_STATUS_END -->
 
 Ficção original de suspense com humor. Nico e Lia investigam uma aranha que parece antecipar os caminhos deles. A hipótese fantástica é declarada; o filme não é uma explicação científica de comportamento animal. Uma causa comum explica o apagão e o último plano preserva a ambiguidade.
@@ -44,3 +44,9 @@ Fontes/licenças: motor aiTrends fornecido pelo usuário, Three.js e fontes do k
 [Narração tratada](audio/narracao.mp3) · [Voz com mix discreta e Foley Python](audio/mix.mp3). Os oito blocos estão completos, com o mesmo perfil aprovado. Os MP3s passaram por decodificação integral; pico e amostras saturadas em `audio/quality.json` e `audio/mix-quality.json`. Não se declara escuta humana integral.
 
 A referência à espera de cota acima descreve o histórico: o último anexo resolveu os dois trechos pendentes antes do horário inicialmente previsto. Nenhum novo pedido de cobrança foi ativado.
+
+## Exportação final
+
+[Vídeo completo](exports/07%20-%20E%20se%20uma%20aranha%20aprendesse%20sua%20rotina.mp4) · [Prévia final](exports/07%20-%20E%20se%20uma%20aranha%20aprendesse%20sua%20rotina%20-%20Preview%201min.mp4)
+
+Confira hashes, duração, quadros e CTAs em `qa/export-validation.json`.
