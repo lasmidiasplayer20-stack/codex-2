@@ -26,7 +26,7 @@ Preservar o perfil vocal aprovado. A aprovação já dada não precisa ser pedid
 ## Organização canônica
 
 - `AiTrends/projetos/NN-slug/`: roteiro, configuração, `story/`, `scenes/`, `input/`, `audio/`, `exports/` e `qa/` daquele episódio.
-- `AiTrends/youtube/NN - Título/`: `capa.jpg`, `titulo.txt`, `descricao.txt`, `tags.txt` com vírgulas e `metadata.json`.
+- `AiTrends/youtube/NN - Título/`: `capa.jpg` e um único arquivo **`YOUTUBE`**, sem extensão, com seções TÍTULO, DESCRIÇÃO e TAGS (tags separadas por vírgulas). Esse é o formato solicitado a partir do episódio 06; preservar os pacotes antigos.
 - `AiTrends/skill/`: este guia, scripts compartilhados e cópias atribuídas das referências do kit.
 - Referência atual: `../projetos/05-imortal/`, com amostra Puck + mix discreta aprovada. Anteriores: `../projetos/04-quanto-tempo-resta/` (áudio reprovado/cintilação relatada), `../projetos/03-10x-mais-rapido/` e `../projetos/02-quantas-mentiras/`.
 - Os antigos pacotes em `Animação/youtube/` continuam preservados. Novos pacotes ficam em `AiTrends/youtube/`.
@@ -78,9 +78,17 @@ Inspecione as imagens reais, incluindo poses de contato, antes do render longo. 
 
 O render produz vídeo silencioso. Música e SFX são sintetizados em Python; misture com a Puck tratada, mantendo clareza e sem saturação. Faça MP4 completo e prévia de cerca de um minuto **a partir do arquivo final**, ambos em 1920×1080/24 fps. Verifique codecs, duração, contagem de quadros e decodificação completa com FFmpeg `-xerror`. Confirme imagens do próprio MP4 final, não somente do player. Registre cobertura real da análise de áudio; não afirme escuta humana ou ASR completo se não ocorreu.
 
+## Capas — padrão visual pedido pelo usuário
+
+O usuário mandou refazer a capa do episódio 05 no estilo da imagem “QUEM ESTÁ MENTINDO?” e pediu manter esse estilo. Referência própria atual: `../youtube/05 - E se você fosse imortal/capa.jpg`. Leia [youtube-cover-style.md](references/youtube-cover-style.md).
+
+Priorizar ilustração rica, iluminação cinematográfica neon, contornos fortes, rosto expressivo grande e texto curto em branco/amarelo com borda preta. Preservar identidade e cores de nossos personagens. Adaptar composição, fundo e elementos à premissa; não repetir os contadores de mentira ou a roupa amarela de outro canal. A capa simplificada procedural anterior do 05 fica como histórico, não como estilo a repetir.
+
 ## Canal e entrega
 
 Canal: **Então**. CTAs visuais por código perto de 45 s, no meio e no encerramento, legíveis e sem cobrir rostos. Clique/sino discretos; CTA falado no encerramento se fizer sentido no roteiro. Nunca inclua o nome ou o CTA do canal de referência.
+
+**Formato de metadados pedido pelo usuário:** reunir título, descrição e tags em um único arquivo chamado `YOUTUBE` (sem extensão), na subpasta YouTube do episódio. Não criar novos `titulo.txt`, `descricao.txt` e `tags.txt` separados. A capa fica ao lado.
 
 Prepare capa própria 16:9 (1280×720, JPEG abaixo de 2 MB), título complementar, descrição com capítulos e tags separadas por vírgulas em `AiTrends/youtube/`. Capa não precisa ser frame do vídeo, mas deve representar a premissa. Preserve originalidade de composição e não copie marcas.
 

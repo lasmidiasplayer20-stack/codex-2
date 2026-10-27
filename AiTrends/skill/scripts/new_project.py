@@ -16,6 +16,6 @@ def main():
   candidates=[d for d in directory.iterdir()if re.match(r'^\d+-',d.name)and (d/'scenes/rig.js').is_file()and (d/'scenes/world.js').is_file()];example=max(candidates,key=lambda d:int(re.match(r'^(\d+)-',d.name).group(1)))/'scenes'
   for f in ['rig.js','world.js']:shutil.copyfile(example/f,root/'scenes'/f)
  folder_title=re.sub(r'[\\/:*?"<>|]','-',cfg['title']);youtube=BASE/'youtube'/folder_title;youtube.mkdir(parents=True,exist_ok=False)
- for name in ['titulo.txt','descricao.txt','tags.txt']:(youtube/name).write_text('')
+ (youtube/'YOUTUBE').write_text('TÍTULO\n\nDESCRIÇÃO\n\nTAGS\n')
  print(root);print(youtube)
 if __name__=='__main__':main()

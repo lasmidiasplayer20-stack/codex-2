@@ -38,3 +38,7 @@ O render é silencioso. Usar `audio/mix.mp3` existente para montar o MP4. O expo
 O [pacote YouTube](../../youtube/05%20-%20E%20se%20voc%C3%AA%20fosse%20imortal/) reúne capa, título, descrição/capítulos e tags. Não houve upload no YouTube.
 
 Assets: roteiro, personagens, geometria, fotografia e sons próprios. Rig derivado do código próprio do episódio 04, com postura estendida, cabeça mais arredondada e transições de apoio. Motor/fontes aiTrends mantêm suas licenças originais. Referência externa foi guardada em área privada, sem redistribuição de frames, fala ou música. Verificação externa das páginas científicas foi bloqueada por 403 e está registrada em `qa/research-status.md`; não se declara pesquisa consultada com sucesso.
+
+## Feedback posterior à entrega
+
+O usuário informou “a voz ficou ok” e relatou algumas articulações toscas. Voz aceita; animação não aprovada integralmente. Esse feedback e a exigência de efeitos Python estão em [qa/FEEDBACK-USUARIO.md](qa/FEEDBACK-USUARIO.md) e na skill. Os arquivos entregues foram preservados.

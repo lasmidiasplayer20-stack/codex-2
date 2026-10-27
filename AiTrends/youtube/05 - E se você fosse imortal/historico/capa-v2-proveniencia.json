@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "method": "image generation tool, redesigned from user-provided style reference and previous original thumbnail",
+  "source_generated_file": "exec-3c5c6a9a-8b98-442a-a8fc-60f0615fc86e.png",
+  "delivered_format": "JPEG",
+  "delivered_dimensions": [
+    1280,
+    720
+  ],
+  "sha256": "7e11c641b5c99934a9132d9dcf0470eb2d0d239f1f64a03835e0188e659c9810",
+  "video_or_audio_regenerated": false,
+  "user_request": "Refazer a última capa no estilo da referência e procurar manter esse estilo."
+}
