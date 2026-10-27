@@ -1,0 +1,157 @@
+{
+  "method": "Same mild treatment as approved sample; only sustained gaps >1.2 seconds shortened to ~0.65 seconds; no tempo or pitch change.",
+  "approved_by": "user",
+  "approval": "Voice profile accepted by user after episode05; same voice/model requested for06",
+  "natural_seconds": 558.1666666666666,
+  "initial_target_seconds": 510,
+  "timing_deviation_reason": "Preserve natural approved reading instead of speeding speech.",
+  "parts": [
+    {
+      "source": "block-01.wav",
+      "beats": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "raw_seconds": 77.29095833333334,
+      "treated_seconds": 71.77095833333334,
+      "removed_long_gaps": 3,
+      "seconds_removed": 5.519999999999996,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-02.wav",
+      "beats": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "raw_seconds": 56.85095833333333,
+      "treated_seconds": 56.82175,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.029208333333329506,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-03.wav",
+      "beats": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "raw_seconds": 73.41095833333334,
+      "treated_seconds": 73.16325,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.24770833333333542,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-04.wav",
+      "beats": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "raw_seconds": 78.57095833333334,
+      "treated_seconds": 73.60404166666666,
+      "removed_long_gaps": 3,
+      "seconds_removed": 4.966916666666677,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-05.wav",
+      "beats": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "raw_seconds": 68.37095833333333,
+      "treated_seconds": 68.17979166666667,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.1911666666666605,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-06.wav",
+      "beats": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "raw_seconds": 74.21095833333334,
+      "treated_seconds": 73.98995833333333,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.22100000000000364,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-07.wav",
+      "beats": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "raw_seconds": 73.57095833333334,
+      "treated_seconds": 73.43004166666667,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.14091666666666924,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-08.wav",
+      "beats": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "raw_seconds": 66.21095833333334,
+      "treated_seconds": 66.07525,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.13570833333334065,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    }
+  ],
+  "successful_audio_blocks": 8,
+  "known_http429_before_daily_reset": 2,
+  "same_episode_cached_blocks_reused": 2,
+  "new_full_voice_editorial_approval": false,
+  "models": [
+    "gemini-2.5-flash-preview-tts"
+  ],
+  "human_listening_full_episode": false,
+  "independent_ASR": false,
+  "peak_dbfs": -2.8909687995910645,
+  "clipped_samples": 0
+}

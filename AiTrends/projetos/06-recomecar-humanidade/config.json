@@ -4,12 +4,66 @@
   "resolution": "1080p",
   "fps": 24,
   "style": "entaoSpeed",
-  "duration": 510.0,
+  "duration": 558.1666666666666,
   "voiceover": "audio/narracao.mp3",
   "script": "input/narracao.txt",
   "captions": false,
   "bars": "none",
   "fadeIn": 0.25,
   "fadeOut": 0.9,
-  "fast3D": false
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      43,
+      51
+    ],
+    [
+      273.50166666666667,
+      281.50166666666667
+    ],
+    [
+      544.1666666666666,
+      557.1666666666666
+    ]
+  ],
+  "qaTimes": [
+    2,
+    38,
+    75,
+    112,
+    148,
+    185,
+    222,
+    259,
+    295,
+    332,
+    369,
+    406,
+    442,
+    479,
+    516,
+    553
+  ],
+  "qaStills": [
+    [
+      "cta-45s",
+      46
+    ],
+    [
+      "cta-intermediario",
+      277
+    ],
+    [
+      "cta-final",
+      551
+    ],
+    [
+      "contato-caixas",
+      92
+    ],
+    [
+      "passarela",
+      433
+    ]
+  ]
 }

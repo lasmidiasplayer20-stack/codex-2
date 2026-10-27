@@ -1,18 +1,12 @@
 # 06 — Duas pessoas podem recomeçar a humanidade?
 
-**Pré-produção e prévia inicial prontas; voz restante aguardando cota.** História original em português, alvo inicial de 8min30s, horizontal 1920×1080/24 fps, 1.203 palavras, 32 sequências e 164 planos. A duração final acompanhará a leitura natural, sem acelerar a Puck.
+**Vídeo completo exportado e validado automaticamente.** História original em português, alvo inicial de 8min30s, horizontal 1920×1080/24 fps, 1.203 palavras, 32 sequências e 164 planos. A duração final acompanhará a leitura natural, sem acelerar a Puck.
 
 [Prévia inicial de 1 minuto](exports/06%20-%20Previa%20inicial%201min.mp4) · [Roteiro](ROTEIRO.md) · [Capa e YOUTUBE](../../youtube/06%20-%20Duas%20Pessoas%20Podem%20Recome%C3%A7ar%20a%20Humanidade/)
 
-<!-- CURRENT_STATUS_START -->
 ## Estado atual
 
-Dois blocos Puck estão gerados e guardados em cache; faltam seis. A API confirmou limite diário gratuito de **10 chamadas desse modelo** e indicou nova tentativa após aproximadamente 07h UTC / 04h de Brasília. O usuário escolheu **“Aguardar a mesma voz/modelo”**. Não trocar timbre/modelo, não habilitar cobrança e não repetir chamadas antes da liberação. Perfil aceito após o episódio 05, registrado em `audio/voice-profile.json`.
-
-A prévia inicial usa os trechos existentes, tratados levemente e com pausas prolongadas encurtadas. Só os primeiros oito beats têm áudio e tempos baseados em geração real; o restante da temporização é provisório. O arquivo completo ainda não foi exportado.
-
-A rotina `scripts/resume_after_quota.py` permite aguardar a liberação no ambiente ativo, verificar que a fonte não mudou, gerar somente os blocos faltantes, tratar/mixar localmente, renderizar e validar os MP4s e publicar no GitHub. Para diante de nova cota/erro ou alteração da fonte; não entra em loop de geração. Estado da execução em diretório privado de trabalho, sem chaves no Git. Não representa um agendador externo durável se o ambiente for encerrado.
-<!-- CURRENT_STATUS_END -->
+Os oito blocos da mesma Puck estão completos. A fila concluiu render e validação técnica; o episódio completo está disponível nos links abaixo. Avaliação editorial do usuário continua pendente.
 
 ## Direção e articulações
 
@@ -39,3 +33,9 @@ Roteiro autoral explica gargalo, deriva, parentesco e um modelo recessivo condic
 ## Licenças e arte
 
 Geometria, rig, textos e sons próprios; o motor e fontes aiTrends mantêm as licenças do kit. Capa nova gerada com ferramenta de imagem seguindo o padrão neon aprovado do Então; o vídeo permanece produzido por código. Metadados reunidos no arquivo `YOUTUBE`, como solicitado. Nenhum upload para o YouTube.
+
+## Entrega completa após liberação da cota
+
+Duração natural: 558.167 s, 1920×1080/24 fps, 13396 quadros. Narração completa em oito blocos da mesma Puck/modelo, sem troca de timbre e sem aceleração. Decodificação integral do filme e da prévia passou. Fonte, hashes e tempos dos CTAs em `qa/export-validation.json`. A inspeção visual descrita neste projeto foi feita nos pilotos/planos antes da fila; não se declara escuta humana integral ou reprodução humana do MP4 final automático.
+
+[Vídeo completo](exports/06%20-%20Duas%20Pessoas%20Podem%20Recome%C3%A7ar%20a%20Humanidade.mp4) · [Prévia final de 1 minuto](exports/06%20-%20Duas%20Pessoas%20Podem%20Recome%C3%A7ar%20a%20Humanidade%20-%20Preview%201min.mp4)

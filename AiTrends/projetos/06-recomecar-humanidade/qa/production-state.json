@@ -1,18 +1,20 @@
 {
-  "status": "preflight_and_initial_preview_ready_waiting_daily_voice_reset",
-  "voice_profile": "Puck / gemini-2.5-flash-preview-tts",
-  "voice_blocks_cached": 2,
-  "remaining_blocks": 6,
-  "voice_blocker": "Free Tier daily generate_content limit 10 for this model, confirmed HTTP429",
-  "user_choice": "Aguardar a mesma voz/modelo",
-  "not_before_utc": "2026-10-27T07:03:00Z",
-  "not_before_brasilia": "04:03",
-  "automatic_provider_retries_before_reset": 0,
-  "model_fallback": false,
-  "joint_motion_approval": false,
-  "reference_video_seconds": 418.493243,
-  "target_duration_seconds": 510,
-  "final_duration_seconds": null,
-  "full_video_generated": false,
-  "initial_preview": "exports/06 - Previa inicial 1min.mp4"
+  "status": "exported_automatic_technical_validation",
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice_blocks_cached": 8,
+  "voice_blocker": null,
+  "final_duration_seconds": 558.1666666666666,
+  "full_video_generated": true,
+  "final_video_sha256": "92c2aa66165204af873e170b62b19bb94b6e278e7ea6e0bc91a1f4194ff06f23",
+  "native_resolution": [
+    1920,
+    1080
+  ],
+  "full_decode_passed": true,
+  "preview_decode_passed": true,
+  "final_human_audio_review": false,
+  "final_human_mp4_playback": false,
+  "editorial_approval": "pending_user",
+  "preflight": "All164 plan sheets plus native motion samples reviewed before queue; final export decoded automatically."
 }
