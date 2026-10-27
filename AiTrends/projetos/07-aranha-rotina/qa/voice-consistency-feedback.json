@@ -1,0 +1,9 @@
+{
+  "user_feedback": "No final ficou meio diferente; usuário supõe relação com geração em momentos distintos.",
+  "cause_confirmed": false,
+  "decision": "Prosseguir com o áudio atual e finalizar o vídeo; não gastar novas chamadas em tentativas de voz.",
+  "scope": "Aceitação de seguir com esta versão, não aprovação geral da consistência da voz.",
+  "new_voice_generations_authorized_for_this_feedback": false,
+  "audio_unchanged": true,
+  "render_unchanged": true
+}
