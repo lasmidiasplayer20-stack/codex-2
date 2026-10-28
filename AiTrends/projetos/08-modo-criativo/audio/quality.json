@@ -1,0 +1,104 @@
+{
+  "method": "Same mild treatment as approved sample; only sustained gaps >1.2 seconds shortened to ~0.65 seconds; no tempo or pitch change.",
+  "approved_by": "user",
+  "approval": "Voice profile accepted by user after episode05; same voice/model requested for08",
+  "natural_seconds": 509.0833333333333,
+  "initial_target_seconds": 510,
+  "timing_deviation_reason": "Preserve natural approved reading instead of speeding speech.",
+  "parts": [
+    {
+      "source": "block-01.wav",
+      "beats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "raw_seconds": 112.41095833333334,
+      "treated_seconds": 112.41095833333334,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.0,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-02.wav",
+      "beats": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "raw_seconds": 136.05095833333334,
+      "treated_seconds": 136.03075,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.020208333333329165,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-03.wav",
+      "beats": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "raw_seconds": 133.13095833333333,
+      "treated_seconds": 130.430375,
+      "removed_long_gaps": 4,
+      "seconds_removed": 2.700583333333327,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    },
+    {
+      "source": "block-04.wav",
+      "beats": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "raw_seconds": 129.69095833333333,
+      "treated_seconds": 129.69095833333333,
+      "removed_long_gaps": 0,
+      "seconds_removed": 0.0,
+      "model": "gemini-2.5-flash-preview-tts",
+      "voice": "Puck",
+      "speed_change": false,
+      "boundaries": "Long paragraph gaps near text proportions; not ASR word alignment."
+    }
+  ],
+  "successful_audio_blocks": 4,
+  "same_episode_cached_blocks_reused": 0,
+  "new_full_voice_editorial_approval": false,
+  "models": [
+    "gemini-2.5-flash-preview-tts"
+  ],
+  "human_listening_full_episode": false,
+  "independent_ASR": false,
+  "peak_dbfs": -2.907994031906128,
+  "clipped_samples": 0
+}

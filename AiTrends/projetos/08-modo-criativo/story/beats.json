@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "start": 0,
+    "end": 12.71078,
+    "action": "menu",
+    "set": "plaza",
+    "text": "Você estende a mão e aparece um menu no ar. Qualquer objeto escolhido pode existir de verdade: comida, ferramentas, uma casa. Nico encontra a opção mais perigosa: modo criativo. E aperta confirmar."
+  },
+  {
+    "id": 2,
+    "start": 12.71078,
+    "end": 25.42156,
+    "action": "cadeira",
+    "set": "plaza",
+    "text": "A primeira criação é uma cadeira. Lia confere as pernas e pede que Nico coloque aquilo no chão antes de comemorar. Ele obedece. Imaginar uma coisa foi quase o mesmo que construí-la."
+  },
+  {
+    "id": 3,
+    "start": 25.42156,
+    "end": 39.72119,
+    "action": "copia",
+    "set": "plaza",
+    "text": "Depois vem um copo. Nico cria outro, e mais outro. A mesa fica cheia antes que terminem a água. Lia abre caminho entre as descobertas dele. Criar sem limite não oferece espaço infinito para guardar tudo."
+  },
+  {
+    "id": 4,
+    "start": 39.72119,
+    "end": 55.21245,
+    "action": "voo",
+    "set": "city",
+    "text": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar."
+  },
+  {
+    "id": 5,
+    "start": 55.21245,
+    "end": 67.52602,
+    "action": "rua",
+    "set": "city",
+    "text": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?"
+  },
+  {
+    "id": 6,
+    "start": 67.52602,
+    "end": 83.01728,
+    "action": "limites",
+    "set": "plaza",
+    "text": "Lia escreve três condições: não editar pessoas, não transformar ninguém em figurante e não experimentar sem avisar. Nico acha exagero. Ela aponta a cadeira que ainda bloqueia a passagem. Uma liberdade enorme também ocupa o caminho de outras pessoas."
+  },
+  {
+    "id": 7,
+    "start": 83.01728,
+    "end": 95.72806,
+    "action": "abrigo",
+    "set": "workshop",
+    "text": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder."
+  },
+  {
+    "id": 8,
+    "start": 95.72806,
+    "end": 112.57096,
+    "action": "ponte",
+    "set": "island",
+    "text": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir."
+  },
+  {
+    "id": 9,
+    "start": 112.57096,
+    "end": 127.83082,
+    "action": "teste",
+    "set": "island",
+    "text": "Nico atravessa primeiro. Lia acompanha, olhando os apoios. O objeto saiu de um menu, mas virou parte de um mundo compartilhado. Esta é uma criação fantástica, não um projeto de engenharia para a vida real."
+  },
+  {
+    "id": 10,
+    "start": 127.83082,
+    "end": 146.14265,
+    "action": "jardim",
+    "set": "garden",
+    "text": "Na praça, uma moradora pede sombra. Nico prepara uma árvore gigantesca. Lia mostra o tamanho das raízes imaginadas e o espaço das casas. Ele diminui a árvore, muda a posição e deixa uma faixa livre. Agora a solução cabe junto das pessoas."
+  },
+  {
+    "id": 11,
+    "start": 146.14265,
+    "end": 160.96651,
+    "action": "ferramentas",
+    "set": "workshop",
+    "text": "Nico oferece ferramentas a quem cuida do jardim. A pessoa escolhe uma pá pequena. Ele tinha preparado uma máquina enorme. O pedido era alcançar o canteiro sem estragar as mudas. Escutar resolveu o problema."
+  },
+  {
+    "id": 12,
+    "start": 160.96651,
+    "end": 178.40635,
+    "action": "ouro",
+    "set": "plaza",
+    "text": "Mas a curiosidade volta. Nico cria um cubo dourado. Depois uma pilha inteira. Por alguns segundos, riqueza parece só uma escolha de material. Lia pergunta o que mudaria se qualquer quantidade de ouro pudesse aparecer sem esforço, em qualquer esquina."
+  },
+  {
+    "id": 13,
+    "start": 178.40635,
+    "end": 193.66621,
+    "action": "valor",
+    "set": "plaza",
+    "text": "Nessa hipótese, criar ouro sem limite mudaria as regras das trocas. Isso não apaga necessidades, acordos ou conflitos. Criar objetos não oferece automaticamente uma organização justa para distribuí-los. Nem tudo que importa cabe num inventário."
+  },
+  {
+    "id": 14,
+    "start": 193.66621,
+    "end": 211.10605,
+    "action": "comida",
+    "set": "garden",
+    "text": "Então Nico troca o brilho por comida. Caixas aparecem ao lado do jardim. Todo mundo precisa comer, certo? Lia pede água, conservação e um lugar para organizar a entrega. A quantidade cresce depressa. O cuidado necessário para usar aquilo também."
+  },
+  {
+    "id": 15,
+    "start": 211.10605,
+    "end": 229.85388,
+    "action": "multidao",
+    "set": "plaza",
+    "text": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita."
+  },
+  {
+    "id": 16,
+    "start": 229.85388,
+    "end": 248.76171,
+    "action": "alto",
+    "set": "city",
+    "text": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua."
+  },
+  {
+    "id": 17,
+    "start": 248.76171,
+    "end": 267.45531,
+    "action": "sombra",
+    "set": "garden",
+    "text": "Lia leva Nico até o canteiro. As flores estão debaixo da nova torre. Ele tenta mover o prédio inteiro para o lado. A sombra muda, mas a passagem desaparece. Pela primeira vez, uma solução instantânea encontra um problema que não cabe num único gesto."
+  },
+  {
+    "id": 18,
+    "start": 267.45531,
+    "end": 281.84067,
+    "action": "desfazer",
+    "set": "workshop",
+    "text": "Nico encontra o botão de desfazer. A última peça volta ao inventário. Mas Lia lembra da passagem bloqueada. Desfazer um objeto não apaga o tempo dos outros nem recupera automaticamente a confiança."
+  },
+  {
+    "id": 19,
+    "start": 281.84067,
+    "end": 296.17067,
+    "action": "protegido",
+    "set": "city",
+    "text": "Outra vantagem imaginada: ficar protegido de quedas. Nico sobe e pousa tranquilo. A proteção pertence a ele. Uma peça esquecida no alto ainda pode atrapalhar quem não recebeu o mesmo poder."
+  },
+  {
+    "id": 20,
+    "start": 296.17067,
+    "end": 314.12067,
+    "action": "blocos",
+    "set": "workshop",
+    "text": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos."
+  },
+  {
+    "id": 21,
+    "start": 314.12067,
+    "end": 331.21067,
+    "action": "consertar",
+    "set": "workshop",
+    "text": "Agora ele reduz a pressa. Marca a área, abaixa cada peça e devolve o excesso ao inventário. Lia confere o caminho livre. A cena termina com menos objetos do que começou. Usar um poder também pode significar decidir o que não criar."
+  },
+  {
+    "id": 22,
+    "start": 331.21067,
+    "end": 346.05342,
+    "action": "fuga",
+    "set": "space",
+    "text": "Cansado das discussões, Nico sobe além dos telhados. A cidade vira um círculo luminoso. Ele cria uma ilha suspensa e escolhe uma cadeira. É possível ter uma vista enorme e continuar sem companhia."
+  },
+  {
+    "id": 23,
+    "start": 346.05342,
+    "end": 364.74703,
+    "action": "ilha",
+    "set": "space",
+    "text": "Na ilha, surge uma casa perfeita, depois um jardim perfeito. Nada precisa de espera. Nico termina a última construção e fica olhando. O problema já não é conseguir um objeto. É escolher uma razão para continuar quando todo resultado parece chegar antes da experiência."
+  },
+  {
+    "id": 24,
+    "start": 364.74703,
+    "end": 379.35208,
+    "action": "sentido",
+    "set": "space",
+    "text": "Isso não significa que sofrimento seja necessário. Nico perdeu o prazer de participar das pequenas escolhas. O menu produz coisas. Não pode decidir por ele o que vale a pena viver com outras pessoas."
+  },
+  {
+    "id": 25,
+    "start": 379.35208,
+    "end": 397.24049,
+    "action": "volta",
+    "set": "city",
+    "text": "Ele retorna à praça e encontra Lia consertando uma mesa. Nico oferece uma mesa pronta. Ela entrega uma peça e pede ajuda para encaixar. Ele segura uma ponta, ela ajusta a outra. Não foi a solução mais rápida. Foi uma coisa que fizeram juntos."
+  },
+  {
+    "id": 26,
+    "start": 397.24049,
+    "end": 415.1289,
+    "action": "regras",
+    "set": "plaza",
+    "text": "Os dois abrem um caderno. Antes de criar, ouvir o pedido. Antes de colocar, reservar o espaço. Antes de repetir, verificar quem será afetado. Nada disso desliga a fantasia. Só transforma o poder de uma pessoa numa conversa em que outras pessoas também escolhem."
+  },
+  {
+    "id": 27,
+    "start": 415.1289,
+    "end": 427.7321,
+    "action": "maquete",
+    "set": "island",
+    "text": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro."
+  },
+  {
+    "id": 28,
+    "start": 427.7321,
+    "end": 443.99429,
+    "action": "mutirao",
+    "set": "workshop",
+    "text": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns."
+  },
+  {
+    "id": 29,
+    "start": 443.99429,
+    "end": 458.2237,
+    "action": "cidade",
+    "set": "city",
+    "text": "A cidade muda sem virar uma pilha de desejos particulares. Surgem sombra e caminhos livres. Não é uma utopia garantida por um botão. É um acordo revisto por quem mora ali, inclusive quando Nico discorda."
+  },
+  {
+    "id": 30,
+    "start": 458.2237,
+    "end": 476.51866,
+    "action": "escolha",
+    "set": "plaza",
+    "text": "No menu, ele deixa algumas opções desligadas. Criar sem perguntar, editar pessoas e preencher todo espaço vazio não entram no plano. Uma opção disponível não precisa ser uma opção escolhida. Nico ainda pode fazer quase tudo. Agora sabe por que deixa algumas coisas de fora."
+  },
+  {
+    "id": 31,
+    "start": 476.51866,
+    "end": 493.59396,
+    "action": "cadeirafinal",
+    "set": "plaza",
+    "text": "Voltamos à primeira cadeira. Lia se senta, Nico deixa o menu de lado e observa a praça funcionando. O objeto mais simples continua útil porque tem um lugar e alguém que quer usá-lo. O extraordinário finalmente aprendeu a caber dentro do cotidiano."
+  },
+  {
+    "id": 32,
+    "start": 493.59396,
+    "end": 509.0833333333333,
+    "action": "final",
+    "set": "plaza",
+    "text": "Se você tivesse modo criativo por um dia, qual seria sua primeira criação? Qual regra colocaria para não transformar sua liberdade no problema de outra pessoa? Conta nos comentários e inscreva-se no Então. Imaginar também é escolher consequências."
+  }
+]

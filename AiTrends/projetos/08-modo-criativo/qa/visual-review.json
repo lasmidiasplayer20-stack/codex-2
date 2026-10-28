@@ -1,0 +1,32 @@
+{
+  "sampled_shots": 169,
+  "plan_sheets_reviewed": 8,
+  "numeric_player_errors": 0,
+  "numeric_bad_faces": 0,
+  "numeric_bad_ground_contacts": 0,
+  "native_pilots": [
+    {
+      "name": "vertical_takeoff",
+      "seconds": 16,
+      "frames": 384
+    },
+    {
+      "name": "horizontal_flight",
+      "seconds": 12.2916666667,
+      "frames": 295
+    },
+    {
+      "name": "bridge_walk",
+      "frames": 365
+    },
+    {
+      "name": "joint_object_handling",
+      "seconds": 9,
+      "frames": 216
+    }
+  ],
+  "native_pilot_full_decodes_passed": true,
+  "consecutive_frames_reviewed": true,
+  "final_source_minor_fixes": "Prop centres, reachable joint plank, small spade, stable ground-height interpolation, no airborne walk, head compensation, broad shadow/camera insert framing.",
+  "coverage_limitations": "Sampled stills and motion strips, not human continuous playback of every frame or full human listening. No user approval of whole animation claimed."
+}

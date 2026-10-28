@@ -1,0 +1,876 @@
+{
+  "method": "Python NumPy procedural Foley; same action fractions and cubic travel easing as film.js",
+  "events": [
+    {
+      "beat": 1,
+      "action": "menu",
+      "fraction": 0.2,
+      "time": 2.54216,
+      "kind": "spawn",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.6
+    },
+    {
+      "beat": 2,
+      "action": "cadeira",
+      "fraction": 0.2,
+      "time": 15.25294,
+      "kind": "spawn",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.6
+    },
+    {
+      "beat": 2,
+      "action": "cadeira",
+      "fraction": 0.65,
+      "time": 20.97279,
+      "kind": "chair",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.55
+    },
+    {
+      "beat": 3,
+      "action": "copia",
+      "fraction": 0.15,
+      "time": 27.5665,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 3,
+      "action": "copia",
+      "fraction": 0.35,
+      "time": 30.42643,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 3,
+      "action": "copia",
+      "fraction": 0.65,
+      "time": 34.71632,
+      "kind": "glass",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.28
+    },
+    {
+      "beat": 4,
+      "action": "voo",
+      "fraction": 0.06455252832887708,
+      "time": 40.72119,
+      "kind": "air",
+      "gain_db": -29.12,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "beat": 5,
+      "action": "rua",
+      "fraction": 0.08121121656838752,
+      "time": 56.21245,
+      "kind": "air",
+      "gain_db": -29.12,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "beat": 6,
+      "action": "limites",
+      "fraction": 0.25,
+      "time": 71.39884,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 7,
+      "action": "abrigo",
+      "fraction": 0.12,
+      "time": 84.54257,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 7,
+      "action": "abrigo",
+      "fraction": 0.236,
+      "time": 86.01702,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 7,
+      "action": "abrigo",
+      "fraction": 0.352,
+      "time": 87.49147,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 7,
+      "action": "abrigo",
+      "fraction": 0.46799999999999997,
+      "time": 88.96593,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 7,
+      "action": "abrigo",
+      "fraction": 0.584,
+      "time": 90.44038,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.12,
+      "time": 97.74921,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.16142857142857142,
+      "time": 98.44699,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.20285714285714285,
+      "time": 99.14476,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.24428571428571427,
+      "time": 99.84254,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.2857142857142857,
+      "time": 100.54032,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.3271428571428571,
+      "time": 101.23809,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.36857142857142855,
+      "time": 101.93587,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.41,
+      "time": 102.63365,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.4514285714285714,
+      "time": 103.33143,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.4928571428571428,
+      "time": 104.0292,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.5342857142857143,
+      "time": 104.72698,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.5757142857142856,
+      "time": 105.42476,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.617142857142857,
+      "time": 106.12254,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 8,
+      "action": "ponte",
+      "fraction": 0.6585714285714285,
+      "time": 106.82031,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.08496646082665174,
+      "time": 113.86754,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.10705103253056666,
+      "time": 114.20454,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.12254284161777973,
+      "time": 114.44095,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.13487584929824176,
+      "time": 114.62915,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.14529060428782228,
+      "time": 114.78807,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.15439430566817416,
+      "time": 114.927,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.16253499240511077,
+      "time": 115.05122,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.16993292165330345,
+      "time": 115.16411,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.17673736066749157,
+      "time": 115.26795,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.1830546906941736,
+      "time": 115.36435,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.1889637172446111,
+      "time": 115.45452,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.19452463569523595,
+      "time": 115.53938,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.19989163920690828,
+      "time": 115.62128,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.20552664356285807,
+      "time": 115.70727,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.2115220472604176,
+      "time": 115.79876,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.21794167045964494,
+      "time": 115.89672,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.22486959687189007,
+      "time": 116.00244,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.23242023631662134,
+      "time": 116.11766,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.24075576301803656,
+      "time": 116.24486,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.2501187471363438,
+      "time": 116.38774,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.2608998555994136,
+      "time": 116.55226,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.27380065034800705,
+      "time": 116.74912,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.29032808659090814,
+      "time": 117.00133,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": 0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 9,
+      "action": "teste",
+      "fraction": 0.3151699433037951,
+      "time": 117.38041,
+      "kind": "foot_wood",
+      "gain_db": -24.44,
+      "pan": -0.17,
+      "duration": 0.16
+    },
+    {
+      "beat": 11,
+      "action": "ferramentas",
+      "fraction": 0.2,
+      "time": 149.10742,
+      "kind": "tool",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.15
+    },
+    {
+      "beat": 11,
+      "action": "ferramentas",
+      "fraction": 0.7,
+      "time": 156.51935,
+      "kind": "tool",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.15
+    },
+    {
+      "beat": 12,
+      "action": "ouro",
+      "fraction": 0.1,
+      "time": 162.71049,
+      "kind": "spawn",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.6
+    },
+    {
+      "beat": 12,
+      "action": "ouro",
+      "fraction": 0.4,
+      "time": 167.94245,
+      "kind": "spawn",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.6
+    },
+    {
+      "beat": 13,
+      "action": "valor",
+      "fraction": 0.35,
+      "time": 183.7473,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 14,
+      "action": "comida",
+      "fraction": 0.2,
+      "time": 197.15418,
+      "kind": "assemble",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 14,
+      "action": "comida",
+      "fraction": 0.55,
+      "time": 203.25812,
+      "kind": "assemble",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 15,
+      "action": "multidao",
+      "fraction": 0.35,
+      "time": 217.66779,
+      "kind": "phone",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.11
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.12,
+      "time": 232.12282,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.18444444444444444,
+      "time": 233.34132,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.24888888888888888,
+      "time": 234.55983,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.3133333333333333,
+      "time": 235.77833,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.37777777777777777,
+      "time": 236.99684,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.4422222222222222,
+      "time": 238.21534,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.5066666666666666,
+      "time": 239.43385,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": -0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.5711111111111111,
+      "time": 240.65235,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.0,
+      "duration": 0.19
+    },
+    {
+      "beat": 16,
+      "action": "alto",
+      "fraction": 0.6355555555555555,
+      "time": 241.87086,
+      "kind": "assemble",
+      "gain_db": -25.19,
+      "pan": 0.22,
+      "duration": 0.19
+    },
+    {
+      "beat": 18,
+      "action": "desfazer",
+      "fraction": 0.35,
+      "time": 272.49019,
+      "kind": "undo",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.45
+    },
+    {
+      "beat": 19,
+      "action": "protegido",
+      "fraction": 0.06978367062107474,
+      "time": 282.84067,
+      "kind": "air",
+      "gain_db": -29.12,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "beat": 20,
+      "action": "blocos",
+      "fraction": 0.35,
+      "time": 302.45317,
+      "kind": "air",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "beat": 20,
+      "action": "blocos",
+      "fraction": 0.6,
+      "time": 306.94067,
+      "kind": "assemble",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 21,
+      "action": "consertar",
+      "fraction": 0.2,
+      "time": 317.53867,
+      "kind": "assemble",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 21,
+      "action": "consertar",
+      "fraction": 0.5,
+      "time": 322.66567,
+      "kind": "assemble",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 21,
+      "action": "consertar",
+      "fraction": 0.8,
+      "time": 327.79267,
+      "kind": "undo",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.45
+    },
+    {
+      "beat": 22,
+      "action": "fuga",
+      "fraction": 0.06737295986255905,
+      "time": 332.21067,
+      "kind": "air",
+      "gain_db": -29.12,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "beat": 23,
+      "action": "ilha",
+      "fraction": 0.25,
+      "time": 350.72682,
+      "kind": "spawn",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.6
+    },
+    {
+      "beat": 25,
+      "action": "volta",
+      "fraction": 0.7,
+      "time": 391.87397,
+      "kind": "wood",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 26,
+      "action": "regras",
+      "fraction": 0.25,
+      "time": 401.71259,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 26,
+      "action": "regras",
+      "fraction": 0.6,
+      "time": 407.97354,
+      "kind": "paper",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.35
+    },
+    {
+      "beat": 27,
+      "action": "maquete",
+      "fraction": 0.3,
+      "time": 418.90986,
+      "kind": "spawn",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.6
+    },
+    {
+      "beat": 28,
+      "action": "mutirao",
+      "fraction": 0.2,
+      "time": 430.98454,
+      "kind": "tool",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.15
+    },
+    {
+      "beat": 28,
+      "action": "mutirao",
+      "fraction": 0.7,
+      "time": 439.11563,
+      "kind": "wood",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.19
+    },
+    {
+      "beat": 29,
+      "action": "cidade",
+      "fraction": 0.07027698267180424,
+      "time": 444.99429,
+      "kind": "air",
+      "gain_db": -29.12,
+      "pan": 0,
+      "duration": 2.5
+    },
+    {
+      "beat": 30,
+      "action": "escolha",
+      "fraction": 0.4,
+      "time": 465.54168,
+      "kind": "switch",
+      "gain_db": -26.94,
+      "pan": 0,
+      "duration": 0.055
+    },
+    {
+      "beat": 31,
+      "action": "cadeirafinal",
+      "fraction": 0.4,
+      "time": 483.34878,
+      "kind": "chair",
+      "gain_db": -21.94,
+      "pan": 0,
+      "duration": 0.55
+    }
+  ],
+  "provisional_after_beat": null
+}

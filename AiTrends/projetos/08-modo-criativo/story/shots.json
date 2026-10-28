@@ -1,0 +1,3218 @@
+{
+  "title": "E se você tivesse modo criativo na vida real?",
+  "duration": 509.0833333333333,
+  "shots": [
+    {
+      "id": "s001",
+      "start": 0.0,
+      "end": 2.54216,
+      "line": "Você estende a mão e aparece um menu no ar. Qualquer objeto escolhido pode existir de verdade: comida, ferramentas, uma casa. Nico encontra a opção mais perigosa: modo criativo. E aperta confirmar.",
+      "scene": "menu: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s002",
+      "start": 2.54216,
+      "end": 5.08432,
+      "line": "Você estende a mão e aparece um menu no ar. Qualquer objeto escolhido pode existir de verdade: comida, ferramentas, uma casa. Nico encontra a opção mais perigosa: modo criativo. E aperta confirmar.",
+      "scene": "menu: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s003",
+      "start": 5.08432,
+      "end": 7.62647,
+      "line": "Você estende a mão e aparece um menu no ar. Qualquer objeto escolhido pode existir de verdade: comida, ferramentas, uma casa. Nico encontra a opção mais perigosa: modo criativo. E aperta confirmar.",
+      "scene": "menu: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s004",
+      "start": 7.62647,
+      "end": 10.16862,
+      "line": "Você estende a mão e aparece um menu no ar. Qualquer objeto escolhido pode existir de verdade: comida, ferramentas, uma casa. Nico encontra a opção mais perigosa: modo criativo. E aperta confirmar.",
+      "scene": "menu: menu; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 3,
+        "cam": "menu"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s005",
+      "start": 10.16862,
+      "end": 12.71078,
+      "line": "Você estende a mão e aparece um menu no ar. Qualquer objeto escolhido pode existir de verdade: comida, ferramentas, uma casa. Nico encontra a opção mais perigosa: modo criativo. E aperta confirmar.",
+      "scene": "menu: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 0,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s006",
+      "start": 12.71078,
+      "end": 15.25294,
+      "line": "A primeira criação é uma cadeira. Lia confere as pernas e pede que Nico coloque aquilo no chão antes de comemorar. Ele obedece. Imaginar uma coisa foi quase o mesmo que construí-la.",
+      "scene": "cadeira: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s007",
+      "start": 15.25294,
+      "end": 17.79509,
+      "line": "A primeira criação é uma cadeira. Lia confere as pernas e pede que Nico coloque aquilo no chão antes de comemorar. Ele obedece. Imaginar uma coisa foi quase o mesmo que construí-la.",
+      "scene": "cadeira: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s008",
+      "start": 17.79509,
+      "end": 20.33725,
+      "line": "A primeira criação é uma cadeira. Lia confere as pernas e pede que Nico coloque aquilo no chão antes de comemorar. Ele obedece. Imaginar uma coisa foi quase o mesmo que construí-la.",
+      "scene": "cadeira: feet; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 2,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s009",
+      "start": 20.33725,
+      "end": 22.8794,
+      "line": "A primeira criação é uma cadeira. Lia confere as pernas e pede que Nico coloque aquilo no chão antes de comemorar. Ele obedece. Imaginar uma coisa foi quase o mesmo que construí-la.",
+      "scene": "cadeira: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s010",
+      "start": 22.8794,
+      "end": 25.42156,
+      "line": "A primeira criação é uma cadeira. Lia confere as pernas e pede que Nico coloque aquilo no chão antes de comemorar. Ele obedece. Imaginar uma coisa foi quase o mesmo que construí-la.",
+      "scene": "cadeira: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 1,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s011",
+      "start": 25.42156,
+      "end": 28.28149,
+      "line": "Depois vem um copo. Nico cria outro, e mais outro. A mesa fica cheia antes que terminem a água. Lia abre caminho entre as descobertas dele. Criar sem limite não oferece espaço infinito para guardar tudo.",
+      "scene": "copia: over; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 0,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s012",
+      "start": 28.28149,
+      "end": 31.14141,
+      "line": "Depois vem um copo. Nico cria outro, e mais outro. A mesa fica cheia antes que terminem a água. Lia abre caminho entre as descobertas dele. Criar sem limite não oferece espaço infinito para guardar tudo.",
+      "scene": "copia: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s013",
+      "start": 31.14141,
+      "end": 34.00134,
+      "line": "Depois vem um copo. Nico cria outro, e mais outro. A mesa fica cheia antes que terminem a água. Lia abre caminho entre as descobertas dele. Criar sem limite não oferece espaço infinito para guardar tudo.",
+      "scene": "copia: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s014",
+      "start": 34.00134,
+      "end": 36.86126,
+      "line": "Depois vem um copo. Nico cria outro, e mais outro. A mesa fica cheia antes que terminem a água. Lia abre caminho entre as descobertas dele. Criar sem limite não oferece espaço infinito para guardar tudo.",
+      "scene": "copia: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s015",
+      "start": 36.86126,
+      "end": 39.72119,
+      "line": "Depois vem um copo. Nico cria outro, e mais outro. A mesa fica cheia antes que terminem a água. Lia abre caminho entre as descobertas dele. Criar sem limite não oferece espaço infinito para guardar tudo.",
+      "scene": "copia: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 2,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s016",
+      "start": 39.72119,
+      "end": 42.30307,
+      "line": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar.",
+      "scene": "voo: low; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 0,
+        "cam": "low"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s017",
+      "start": 42.30307,
+      "end": 44.88495,
+      "line": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar.",
+      "scene": "voo: feet; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 1,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s018",
+      "start": 44.88495,
+      "end": 47.46682,
+      "line": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar.",
+      "scene": "voo: rise; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 2,
+        "cam": "rise"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s019",
+      "start": 47.46682,
+      "end": 50.04869,
+      "line": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar.",
+      "scene": "voo: fly; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 3,
+        "cam": "fly"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s020",
+      "start": 50.04869,
+      "end": 52.63057,
+      "line": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar.",
+      "scene": "voo: close; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s021",
+      "start": 52.63057,
+      "end": 55.21245,
+      "line": "Então Nico descobre o botão de voar. Os pés deixam a praça, devagar. O banco fica pequeno, o telhado se aproxima e o medo chega atrasado. Nesta hipótese fantástica, ele pode escolher a direção do próprio corpo no ar.",
+      "scene": "voo: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 3,
+        "part": 5,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s022",
+      "start": 55.21245,
+      "end": 57.26471,
+      "line": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?",
+      "scene": "rua: fly; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 0,
+        "cam": "fly"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s023",
+      "start": 57.26471,
+      "end": 59.31697,
+      "line": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?",
+      "scene": "rua: street; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 1,
+        "cam": "street"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s024",
+      "start": 59.31697,
+      "end": 61.36924,
+      "line": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?",
+      "scene": "rua: track; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s025",
+      "start": 61.36924,
+      "end": 63.4215,
+      "line": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?",
+      "scene": "rua: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 3,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s026",
+      "start": 63.4215,
+      "end": 65.47376,
+      "line": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?",
+      "scene": "rua: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s027",
+      "start": 65.47376,
+      "end": 67.52602,
+      "line": "Lá em cima, a cidade parece uma maquete. Nico passa entre prédios e acompanha uma avenida. De repente, a pergunta muda: o que fazer quando nada parece difícil demais para tentar?",
+      "scene": "rua: close; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 4,
+        "part": 5,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s028",
+      "start": 67.52602,
+      "end": 70.62428,
+      "line": "Lia escreve três condições: não editar pessoas, não transformar ninguém em figurante e não experimentar sem avisar. Nico acha exagero. Ela aponta a cadeira que ainda bloqueia a passagem. Uma liberdade enorme também ocupa o caminho de outras pessoas.",
+      "scene": "limites: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s029",
+      "start": 70.62428,
+      "end": 73.72252,
+      "line": "Lia escreve três condições: não editar pessoas, não transformar ninguém em figurante e não experimentar sem avisar. Nico acha exagero. Ela aponta a cadeira que ainda bloqueia a passagem. Uma liberdade enorme também ocupa o caminho de outras pessoas.",
+      "scene": "limites: over; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s030",
+      "start": 73.72252,
+      "end": 76.82078,
+      "line": "Lia escreve três condições: não editar pessoas, não transformar ninguém em figurante e não experimentar sem avisar. Nico acha exagero. Ela aponta a cadeira que ainda bloqueia a passagem. Uma liberdade enorme também ocupa o caminho de outras pessoas.",
+      "scene": "limites: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s031",
+      "start": 76.82078,
+      "end": 79.91902,
+      "line": "Lia escreve três condições: não editar pessoas, não transformar ninguém em figurante e não experimentar sem avisar. Nico acha exagero. Ela aponta a cadeira que ainda bloqueia a passagem. Uma liberdade enorme também ocupa o caminho de outras pessoas.",
+      "scene": "limites: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s032",
+      "start": 79.91902,
+      "end": 83.01728,
+      "line": "Lia escreve três condições: não editar pessoas, não transformar ninguém em figurante e não experimentar sem avisar. Nico acha exagero. Ela aponta a cadeira que ainda bloqueia a passagem. Uma liberdade enorme também ocupa o caminho de outras pessoas.",
+      "scene": "limites: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 5,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s033",
+      "start": 83.01728,
+      "end": 85.13574,
+      "line": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder.",
+      "scene": "abrigo: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s034",
+      "start": 85.13574,
+      "end": 87.2542,
+      "line": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder.",
+      "scene": "abrigo: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s035",
+      "start": 87.2542,
+      "end": 89.37267,
+      "line": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder.",
+      "scene": "abrigo: build; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 2,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s036",
+      "start": 89.37267,
+      "end": 91.49114,
+      "line": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder.",
+      "scene": "abrigo: low; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 3,
+        "cam": "low"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s037",
+      "start": 91.49114,
+      "end": 93.6096,
+      "line": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder.",
+      "scene": "abrigo: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s038",
+      "start": 93.6096,
+      "end": 95.72806,
+      "line": "O primeiro pedido é um abrigo para a praça. Nico escolhe madeira. Lia marca o espaço antes. A cobertura surge sem fechar a calçada. Criar melhor exigiu uma decisão, não mais poder.",
+      "scene": "abrigo: two; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 6,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s039",
+      "start": 95.72806,
+      "end": 98.53521,
+      "line": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir.",
+      "scene": "ponte: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s040",
+      "start": 98.53521,
+      "end": 101.34236,
+      "line": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir.",
+      "scene": "ponte: over; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s041",
+      "start": 101.34236,
+      "end": 104.14951,
+      "line": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir.",
+      "scene": "ponte: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s042",
+      "start": 104.14951,
+      "end": 106.95666,
+      "line": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir.",
+      "scene": "ponte: build; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 3,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s043",
+      "start": 106.95666,
+      "end": 109.76381,
+      "line": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir.",
+      "scene": "ponte: track; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 4,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s044",
+      "start": 109.76381,
+      "end": 112.57096,
+      "line": "Depois aparece uma passagem interrompida. Nico quer colocar uma ponte inteira de uma vez. Lia pede que ele observe as duas margens. Eles ajustam o comprimento, conferem a altura e deixam espaço para a água. A ponte surge onde realmente precisava existir.",
+      "scene": "ponte: two; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 7,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s045",
+      "start": 112.57096,
+      "end": 115.62293,
+      "line": "Nico atravessa primeiro. Lia acompanha, olhando os apoios. O objeto saiu de um menu, mas virou parte de um mundo compartilhado. Esta é uma criação fantástica, não um projeto de engenharia para a vida real.",
+      "scene": "teste: feet; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 0,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s046",
+      "start": 115.62293,
+      "end": 118.6749,
+      "line": "Nico atravessa primeiro. Lia acompanha, olhando os apoios. O objeto saiu de um menu, mas virou parte de um mundo compartilhado. Esta é uma criação fantástica, não um projeto de engenharia para a vida real.",
+      "scene": "teste: track; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s047",
+      "start": 118.6749,
+      "end": 121.72688,
+      "line": "Nico atravessa primeiro. Lia acompanha, olhando os apoios. O objeto saiu de um menu, mas virou parte de um mundo compartilhado. Esta é uma criação fantástica, não um projeto de engenharia para a vida real.",
+      "scene": "teste: low; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 2,
+        "cam": "low"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s048",
+      "start": 121.72688,
+      "end": 124.77885,
+      "line": "Nico atravessa primeiro. Lia acompanha, olhando os apoios. O objeto saiu de um menu, mas virou parte de um mundo compartilhado. Esta é uma criação fantástica, não um projeto de engenharia para a vida real.",
+      "scene": "teste: over; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 3,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s049",
+      "start": 124.77885,
+      "end": 127.83082,
+      "line": "Nico atravessa primeiro. Lia acompanha, olhando os apoios. O objeto saiu de um menu, mas virou parte de um mundo compartilhado. Esta é uma criação fantástica, não um projeto de engenharia para a vida real.",
+      "scene": "teste: two; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 8,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s050",
+      "start": 127.83082,
+      "end": 131.49319,
+      "line": "Na praça, uma moradora pede sombra. Nico prepara uma árvore gigantesca. Lia mostra o tamanho das raízes imaginadas e o espaço das casas. Ele diminui a árvore, muda a posição e deixa uma faixa livre. Agora a solução cabe junto das pessoas.",
+      "scene": "jardim: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s051",
+      "start": 131.49319,
+      "end": 135.15555,
+      "line": "Na praça, uma moradora pede sombra. Nico prepara uma árvore gigantesca. Lia mostra o tamanho das raízes imaginadas e o espaço das casas. Ele diminui a árvore, muda a posição e deixa uma faixa livre. Agora a solução cabe junto das pessoas.",
+      "scene": "jardim: build; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 1,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s052",
+      "start": 135.15555,
+      "end": 138.81792,
+      "line": "Na praça, uma moradora pede sombra. Nico prepara uma árvore gigantesca. Lia mostra o tamanho das raízes imaginadas e o espaço das casas. Ele diminui a árvore, muda a posição e deixa uma faixa livre. Agora a solução cabe junto das pessoas.",
+      "scene": "jardim: ground; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 2,
+        "cam": "ground"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s053",
+      "start": 138.81792,
+      "end": 142.48028,
+      "line": "Na praça, uma moradora pede sombra. Nico prepara uma árvore gigantesca. Lia mostra o tamanho das raízes imaginadas e o espaço das casas. Ele diminui a árvore, muda a posição e deixa uma faixa livre. Agora a solução cabe junto das pessoas.",
+      "scene": "jardim: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s054",
+      "start": 142.48028,
+      "end": 146.14265,
+      "line": "Na praça, uma moradora pede sombra. Nico prepara uma árvore gigantesca. Lia mostra o tamanho das raízes imaginadas e o espaço das casas. Ele diminui a árvore, muda a posição e deixa uma faixa livre. Agora a solução cabe junto das pessoas.",
+      "scene": "jardim: two; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 9,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s055",
+      "start": 146.14265,
+      "end": 149.10743,
+      "line": "Nico oferece ferramentas a quem cuida do jardim. A pessoa escolhe uma pá pequena. Ele tinha preparado uma máquina enorme. O pedido era alcançar o canteiro sem estragar as mudas. Escutar resolveu o problema.",
+      "scene": "ferramentas: two; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s056",
+      "start": 149.10743,
+      "end": 152.0722,
+      "line": "Nico oferece ferramentas a quem cuida do jardim. A pessoa escolhe uma pá pequena. Ele tinha preparado uma máquina enorme. O pedido era alcançar o canteiro sem estragar as mudas. Escutar resolveu o problema.",
+      "scene": "ferramentas: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 1,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s057",
+      "start": 152.0722,
+      "end": 155.03696,
+      "line": "Nico oferece ferramentas a quem cuida do jardim. A pessoa escolhe uma pá pequena. Ele tinha preparado uma máquina enorme. O pedido era alcançar o canteiro sem estragar as mudas. Escutar resolveu o problema.",
+      "scene": "ferramentas: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 2,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s058",
+      "start": 155.03696,
+      "end": 158.00174,
+      "line": "Nico oferece ferramentas a quem cuida do jardim. A pessoa escolhe uma pá pequena. Ele tinha preparado uma máquina enorme. O pedido era alcançar o canteiro sem estragar as mudas. Escutar resolveu o problema.",
+      "scene": "ferramentas: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s059",
+      "start": 158.00174,
+      "end": 160.96651,
+      "line": "Nico oferece ferramentas a quem cuida do jardim. A pessoa escolhe uma pá pequena. Ele tinha preparado uma máquina enorme. O pedido era alcançar o canteiro sem estragar as mudas. Escutar resolveu o problema.",
+      "scene": "ferramentas: close; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 10,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s060",
+      "start": 160.96651,
+      "end": 164.45448,
+      "line": "Mas a curiosidade volta. Nico cria um cubo dourado. Depois uma pilha inteira. Por alguns segundos, riqueza parece só uma escolha de material. Lia pergunta o que mudaria se qualquer quantidade de ouro pudesse aparecer sem esforço, em qualquer esquina.",
+      "scene": "ouro: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 0,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s061",
+      "start": 164.45448,
+      "end": 167.94245,
+      "line": "Mas a curiosidade volta. Nico cria um cubo dourado. Depois uma pilha inteira. Por alguns segundos, riqueza parece só uma escolha de material. Lia pergunta o que mudaria se qualquer quantidade de ouro pudesse aparecer sem esforço, em qualquer esquina.",
+      "scene": "ouro: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s062",
+      "start": 167.94245,
+      "end": 171.43041,
+      "line": "Mas a curiosidade volta. Nico cria um cubo dourado. Depois uma pilha inteira. Por alguns segundos, riqueza parece só uma escolha de material. Lia pergunta o que mudaria se qualquer quantidade de ouro pudesse aparecer sem esforço, em qualquer esquina.",
+      "scene": "ouro: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s063",
+      "start": 171.43041,
+      "end": 174.91839,
+      "line": "Mas a curiosidade volta. Nico cria um cubo dourado. Depois uma pilha inteira. Por alguns segundos, riqueza parece só uma escolha de material. Lia pergunta o que mudaria se qualquer quantidade de ouro pudesse aparecer sem esforço, em qualquer esquina.",
+      "scene": "ouro: over; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 3,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s064",
+      "start": 174.91839,
+      "end": 178.40635,
+      "line": "Mas a curiosidade volta. Nico cria um cubo dourado. Depois uma pilha inteira. Por alguns segundos, riqueza parece só uma escolha de material. Lia pergunta o que mudaria se qualquer quantidade de ouro pudesse aparecer sem esforço, em qualquer esquina.",
+      "scene": "ouro: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 11,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s065",
+      "start": 178.40635,
+      "end": 181.45832,
+      "line": "Nessa hipótese, criar ouro sem limite mudaria as regras das trocas. Isso não apaga necessidades, acordos ou conflitos. Criar objetos não oferece automaticamente uma organização justa para distribuí-los. Nem tudo que importa cabe num inventário.",
+      "scene": "valor: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s066",
+      "start": 181.45832,
+      "end": 184.5103,
+      "line": "Nessa hipótese, criar ouro sem limite mudaria as regras das trocas. Isso não apaga necessidades, acordos ou conflitos. Criar objetos não oferece automaticamente uma organização justa para distribuí-los. Nem tudo que importa cabe num inventário.",
+      "scene": "valor: over; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s067",
+      "start": 184.5103,
+      "end": 187.56226,
+      "line": "Nessa hipótese, criar ouro sem limite mudaria as regras das trocas. Isso não apaga necessidades, acordos ou conflitos. Criar objetos não oferece automaticamente uma organização justa para distribuí-los. Nem tudo que importa cabe num inventário.",
+      "scene": "valor: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s068",
+      "start": 187.56226,
+      "end": 190.61423,
+      "line": "Nessa hipótese, criar ouro sem limite mudaria as regras das trocas. Isso não apaga necessidades, acordos ou conflitos. Criar objetos não oferece automaticamente uma organização justa para distribuí-los. Nem tudo que importa cabe num inventário.",
+      "scene": "valor: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s069",
+      "start": 190.61423,
+      "end": 193.66621,
+      "line": "Nessa hipótese, criar ouro sem limite mudaria as regras das trocas. Isso não apaga necessidades, acordos ou conflitos. Criar objetos não oferece automaticamente uma organização justa para distribuí-los. Nem tudo que importa cabe num inventário.",
+      "scene": "valor: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 12,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s070",
+      "start": 193.66621,
+      "end": 197.15418,
+      "line": "Então Nico troca o brilho por comida. Caixas aparecem ao lado do jardim. Todo mundo precisa comer, certo? Lia pede água, conservação e um lugar para organizar a entrega. A quantidade cresce depressa. O cuidado necessário para usar aquilo também.",
+      "scene": "comida: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s071",
+      "start": 197.15418,
+      "end": 200.64214,
+      "line": "Então Nico troca o brilho por comida. Caixas aparecem ao lado do jardim. Todo mundo precisa comer, certo? Lia pede água, conservação e um lugar para organizar a entrega. A quantidade cresce depressa. O cuidado necessário para usar aquilo também.",
+      "scene": "comida: build; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 1,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s072",
+      "start": 200.64214,
+      "end": 204.13012,
+      "line": "Então Nico troca o brilho por comida. Caixas aparecem ao lado do jardim. Todo mundo precisa comer, certo? Lia pede água, conservação e um lugar para organizar a entrega. A quantidade cresce depressa. O cuidado necessário para usar aquilo também.",
+      "scene": "comida: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s073",
+      "start": 204.13012,
+      "end": 207.61808,
+      "line": "Então Nico troca o brilho por comida. Caixas aparecem ao lado do jardim. Todo mundo precisa comer, certo? Lia pede água, conservação e um lugar para organizar a entrega. A quantidade cresce depressa. O cuidado necessário para usar aquilo também.",
+      "scene": "comida: track; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s074",
+      "start": 207.61808,
+      "end": 211.10605,
+      "line": "Então Nico troca o brilho por comida. Caixas aparecem ao lado do jardim. Todo mundo precisa comer, certo? Lia pede água, conservação e um lugar para organizar a entrega. A quantidade cresce depressa. O cuidado necessário para usar aquilo também.",
+      "scene": "comida: two; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 13,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s075",
+      "start": 211.10605,
+      "end": 214.23069,
+      "line": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita.",
+      "scene": "multidao: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s076",
+      "start": 214.23069,
+      "end": 217.35533,
+      "line": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita.",
+      "scene": "multidao: track; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s077",
+      "start": 217.35533,
+      "end": 220.47997,
+      "line": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita.",
+      "scene": "multidao: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s078",
+      "start": 220.47997,
+      "end": 223.6046,
+      "line": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita.",
+      "scene": "multidao: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s079",
+      "start": 223.6046,
+      "end": 226.72924,
+      "line": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita.",
+      "scene": "multidao: over; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s080",
+      "start": 226.72924,
+      "end": 229.85388,
+      "line": "Logo chegam pedidos diferentes: uma casa, um parque, uma oficina, silêncio. Nico tenta atender todos ao mesmo tempo. O menu se enche. Cada criação resolve uma coisa e pode mudar outra. Ele continua tendo duas mãos e uma atenção que não ficou infinita.",
+      "scene": "multidao: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 14,
+        "part": 5,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s081",
+      "start": 229.85388,
+      "end": 233.00519,
+      "line": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua.",
+      "scene": "alto: rise; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 0,
+        "cam": "rise"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s082",
+      "start": 233.00519,
+      "end": 236.15649,
+      "line": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua.",
+      "scene": "alto: build; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 1,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s083",
+      "start": 236.15649,
+      "end": 239.30779,
+      "line": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua.",
+      "scene": "alto: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s084",
+      "start": 239.30779,
+      "end": 242.4591,
+      "line": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua.",
+      "scene": "alto: street; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 3,
+        "cam": "street"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s085",
+      "start": 242.4591,
+      "end": 245.6104,
+      "line": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua.",
+      "scene": "alto: low; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 4,
+        "cam": "low"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s086",
+      "start": 245.6104,
+      "end": 248.76171,
+      "line": "Para ganhar espaço, Nico começa a empilhar construções. Um andar, outro, mais outro. Do alto, tudo parece eficiente. Lá embaixo, o banco perde o sol e o jardim fica espremido. A vista bonita escondia o ponto de vista de quem continuava na rua.",
+      "scene": "alto: close; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 15,
+        "part": 5,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s087",
+      "start": 248.76171,
+      "end": 252.50042,
+      "line": "Lia leva Nico até o canteiro. As flores estão debaixo da nova torre. Ele tenta mover o prédio inteiro para o lado. A sombra muda, mas a passagem desaparece. Pela primeira vez, uma solução instantânea encontra um problema que não cabe num único gesto.",
+      "scene": "sombra: ground; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 0,
+        "cam": "ground"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s088",
+      "start": 252.50042,
+      "end": 256.23915,
+      "line": "Lia leva Nico até o canteiro. As flores estão debaixo da nova torre. Ele tenta mover o prédio inteiro para o lado. A sombra muda, mas a passagem desaparece. Pela primeira vez, uma solução instantânea encontra um problema que não cabe num único gesto.",
+      "scene": "sombra: two; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 1,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s089",
+      "start": 256.23915,
+      "end": 259.97787,
+      "line": "Lia leva Nico até o canteiro. As flores estão debaixo da nova torre. Ele tenta mover o prédio inteiro para o lado. A sombra muda, mas a passagem desaparece. Pela primeira vez, uma solução instantânea encontra um problema que não cabe num único gesto.",
+      "scene": "sombra: over; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 2,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s090",
+      "start": 259.97787,
+      "end": 263.71659,
+      "line": "Lia leva Nico até o canteiro. As flores estão debaixo da nova torre. Ele tenta mover o prédio inteiro para o lado. A sombra muda, mas a passagem desaparece. Pela primeira vez, uma solução instantânea encontra um problema que não cabe num único gesto.",
+      "scene": "sombra: build; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 3,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s091",
+      "start": 263.71659,
+      "end": 267.45531,
+      "line": "Lia leva Nico até o canteiro. As flores estão debaixo da nova torre. Ele tenta mover o prédio inteiro para o lado. A sombra muda, mas a passagem desaparece. Pela primeira vez, uma solução instantânea encontra um problema que não cabe num único gesto.",
+      "scene": "sombra: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 16,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s092",
+      "start": 267.45531,
+      "end": 270.33238,
+      "line": "Nico encontra o botão de desfazer. A última peça volta ao inventário. Mas Lia lembra da passagem bloqueada. Desfazer um objeto não apaga o tempo dos outros nem recupera automaticamente a confiança.",
+      "scene": "desfazer: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 0,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s093",
+      "start": 270.33238,
+      "end": 273.20945,
+      "line": "Nico encontra o botão de desfazer. A última peça volta ao inventário. Mas Lia lembra da passagem bloqueada. Desfazer um objeto não apaga o tempo dos outros nem recupera automaticamente a confiança.",
+      "scene": "desfazer: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s094",
+      "start": 273.20945,
+      "end": 276.08652,
+      "line": "Nico encontra o botão de desfazer. A última peça volta ao inventário. Mas Lia lembra da passagem bloqueada. Desfazer um objeto não apaga o tempo dos outros nem recupera automaticamente a confiança.",
+      "scene": "desfazer: close; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 2,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s095",
+      "start": 276.08652,
+      "end": 278.9636,
+      "line": "Nico encontra o botão de desfazer. A última peça volta ao inventário. Mas Lia lembra da passagem bloqueada. Desfazer um objeto não apaga o tempo dos outros nem recupera automaticamente a confiança.",
+      "scene": "desfazer: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 3,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s096",
+      "start": 278.9636,
+      "end": 281.84067,
+      "line": "Nico encontra o botão de desfazer. A última peça volta ao inventário. Mas Lia lembra da passagem bloqueada. Desfazer um objeto não apaga o tempo dos outros nem recupera automaticamente a confiança.",
+      "scene": "desfazer: two; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 17,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s097",
+      "start": 281.84067,
+      "end": 284.70667,
+      "line": "Outra vantagem imaginada: ficar protegido de quedas. Nico sobe e pousa tranquilo. A proteção pertence a ele. Uma peça esquecida no alto ainda pode atrapalhar quem não recebeu o mesmo poder.",
+      "scene": "protegido: rise; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 0,
+        "cam": "rise"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s098",
+      "start": 284.70667,
+      "end": 287.57267,
+      "line": "Outra vantagem imaginada: ficar protegido de quedas. Nico sobe e pousa tranquilo. A proteção pertence a ele. Uma peça esquecida no alto ainda pode atrapalhar quem não recebeu o mesmo poder.",
+      "scene": "protegido: fly; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 1,
+        "cam": "fly"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s099",
+      "start": 287.57267,
+      "end": 290.43867,
+      "line": "Outra vantagem imaginada: ficar protegido de quedas. Nico sobe e pousa tranquilo. A proteção pertence a ele. Uma peça esquecida no alto ainda pode atrapalhar quem não recebeu o mesmo poder.",
+      "scene": "protegido: low; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 2,
+        "cam": "low"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s100",
+      "start": 290.43867,
+      "end": 293.30467,
+      "line": "Outra vantagem imaginada: ficar protegido de quedas. Nico sobe e pousa tranquilo. A proteção pertence a ele. Uma peça esquecida no alto ainda pode atrapalhar quem não recebeu o mesmo poder.",
+      "scene": "protegido: feet; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 3,
+        "cam": "feet"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s101",
+      "start": 293.30467,
+      "end": 296.17067,
+      "line": "Outra vantagem imaginada: ficar protegido de quedas. Nico sobe e pousa tranquilo. A proteção pertence a ele. Uma peça esquecida no alto ainda pode atrapalhar quem não recebeu o mesmo poder.",
+      "scene": "protegido: close; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 18,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s102",
+      "start": 296.17067,
+      "end": 299.16234,
+      "line": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos.",
+      "scene": "blocos: low; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 0,
+        "cam": "low"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s103",
+      "start": 299.16234,
+      "end": 302.15401,
+      "line": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos.",
+      "scene": "blocos: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 1,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s104",
+      "start": 302.15401,
+      "end": 305.14567,
+      "line": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos.",
+      "scene": "blocos: track; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 2,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s105",
+      "start": 305.14567,
+      "end": 308.13734,
+      "line": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos.",
+      "scene": "blocos: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 3,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s106",
+      "start": 308.13734,
+      "end": 311.129,
+      "line": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos.",
+      "scene": "blocos: over; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 4,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s107",
+      "start": 311.129,
+      "end": 314.12067,
+      "line": "Um conjunto de blocos começa a cair perto da obra. Nico os segura no ar antes de atingir o chão. Lia afasta a circulação. Não é uma competição para provar coragem. O susto revela a diferença entre se sentir invencível e tornar o espaço seguro para todos.",
+      "scene": "blocos: two; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 19,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s108",
+      "start": 314.12067,
+      "end": 317.53867,
+      "line": "Agora ele reduz a pressa. Marca a área, abaixa cada peça e devolve o excesso ao inventário. Lia confere o caminho livre. A cena termina com menos objetos do que começou. Usar um poder também pode significar decidir o que não criar.",
+      "scene": "consertar: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 0,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s109",
+      "start": 317.53867,
+      "end": 320.95667,
+      "line": "Agora ele reduz a pressa. Marca a área, abaixa cada peça e devolve o excesso ao inventário. Lia confere o caminho livre. A cena termina com menos objetos do que começou. Usar um poder também pode significar decidir o que não criar.",
+      "scene": "consertar: build; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 1,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s110",
+      "start": 320.95667,
+      "end": 324.37467,
+      "line": "Agora ele reduz a pressa. Marca a área, abaixa cada peça e devolve o excesso ao inventário. Lia confere o caminho livre. A cena termina com menos objetos do que começou. Usar um poder também pode significar decidir o que não criar.",
+      "scene": "consertar: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s111",
+      "start": 324.37467,
+      "end": 327.79267,
+      "line": "Agora ele reduz a pressa. Marca a área, abaixa cada peça e devolve o excesso ao inventário. Lia confere o caminho livre. A cena termina com menos objetos do que começou. Usar um poder também pode significar decidir o que não criar.",
+      "scene": "consertar: track; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 3,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s112",
+      "start": 327.79267,
+      "end": 331.21067,
+      "line": "Agora ele reduz a pressa. Marca a área, abaixa cada peça e devolve o excesso ao inventário. Lia confere o caminho livre. A cena termina com menos objetos do que começou. Usar um poder também pode significar decidir o que não criar.",
+      "scene": "consertar: two; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 20,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s113",
+      "start": 331.21067,
+      "end": 334.17922,
+      "line": "Cansado das discussões, Nico sobe além dos telhados. A cidade vira um círculo luminoso. Ele cria uma ilha suspensa e escolhe uma cadeira. É possível ter uma vista enorme e continuar sem companhia.",
+      "scene": "fuga: rise; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 0,
+        "cam": "rise"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s114",
+      "start": 334.17922,
+      "end": 337.14777,
+      "line": "Cansado das discussões, Nico sobe além dos telhados. A cidade vira um círculo luminoso. Ele cria uma ilha suspensa e escolhe uma cadeira. É possível ter uma vista enorme e continuar sem companhia.",
+      "scene": "fuga: fly; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 1,
+        "cam": "fly"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s115",
+      "start": 337.14777,
+      "end": 340.11632,
+      "line": "Cansado das discussões, Nico sobe além dos telhados. A cidade vira um círculo luminoso. Ele cria uma ilha suspensa e escolhe uma cadeira. É possível ter uma vista enorme e continuar sem companhia.",
+      "scene": "fuga: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s116",
+      "start": 340.11632,
+      "end": 343.08488,
+      "line": "Cansado das discussões, Nico sobe além dos telhados. A cidade vira um círculo luminoso. Ele cria uma ilha suspensa e escolhe uma cadeira. É possível ter uma vista enorme e continuar sem companhia.",
+      "scene": "fuga: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 3,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s117",
+      "start": 343.08488,
+      "end": 346.05342,
+      "line": "Cansado das discussões, Nico sobe além dos telhados. A cidade vira um círculo luminoso. Ele cria uma ilha suspensa e escolhe uma cadeira. É possível ter uma vista enorme e continuar sem companhia.",
+      "scene": "fuga: close; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 21,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s118",
+      "start": 346.05342,
+      "end": 349.79215,
+      "line": "Na ilha, surge uma casa perfeita, depois um jardim perfeito. Nada precisa de espera. Nico termina a última construção e fica olhando. O problema já não é conseguir um objeto. É escolher uma razão para continuar quando todo resultado parece chegar antes da experiência.",
+      "scene": "ilha: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s119",
+      "start": 349.79215,
+      "end": 353.53087,
+      "line": "Na ilha, surge uma casa perfeita, depois um jardim perfeito. Nada precisa de espera. Nico termina a última construção e fica olhando. O problema já não é conseguir um objeto. É escolher uma razão para continuar quando todo resultado parece chegar antes da experiência.",
+      "scene": "ilha: build; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 1,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s120",
+      "start": 353.53087,
+      "end": 357.26959,
+      "line": "Na ilha, surge uma casa perfeita, depois um jardim perfeito. Nada precisa de espera. Nico termina a última construção e fica olhando. O problema já não é conseguir um objeto. É escolher uma razão para continuar quando todo resultado parece chegar antes da experiência.",
+      "scene": "ilha: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s121",
+      "start": 357.26959,
+      "end": 361.00831,
+      "line": "Na ilha, surge uma casa perfeita, depois um jardim perfeito. Nada precisa de espera. Nico termina a última construção e fica olhando. O problema já não é conseguir um objeto. É escolher uma razão para continuar quando todo resultado parece chegar antes da experiência.",
+      "scene": "ilha: two; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s122",
+      "start": 361.00831,
+      "end": 364.74703,
+      "line": "Na ilha, surge uma casa perfeita, depois um jardim perfeito. Nada precisa de espera. Nico termina a última construção e fica olhando. O problema já não é conseguir um objeto. É escolher uma razão para continuar quando todo resultado parece chegar antes da experiência.",
+      "scene": "ilha: close; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 22,
+        "part": 4,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s123",
+      "start": 364.74703,
+      "end": 367.66804,
+      "line": "Isso não significa que sofrimento seja necessário. Nico perdeu o prazer de participar das pequenas escolhas. O menu produz coisas. Não pode decidir por ele o que vale a pena viver com outras pessoas.",
+      "scene": "sentido: close; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 0,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s124",
+      "start": 367.66804,
+      "end": 370.58905,
+      "line": "Isso não significa que sofrimento seja necessário. Nico perdeu o prazer de participar das pequenas escolhas. O menu produz coisas. Não pode decidir por ele o que vale a pena viver com outras pessoas.",
+      "scene": "sentido: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 1,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s125",
+      "start": 370.58905,
+      "end": 373.51006,
+      "line": "Isso não significa que sofrimento seja necessário. Nico perdeu o prazer de participar das pequenas escolhas. O menu produz coisas. Não pode decidir por ele o que vale a pena viver com outras pessoas.",
+      "scene": "sentido: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s126",
+      "start": 373.51006,
+      "end": 376.43107,
+      "line": "Isso não significa que sofrimento seja necessário. Nico perdeu o prazer de participar das pequenas escolhas. O menu produz coisas. Não pode decidir por ele o que vale a pena viver com outras pessoas.",
+      "scene": "sentido: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s127",
+      "start": 376.43107,
+      "end": 379.35208,
+      "line": "Isso não significa que sofrimento seja necessário. Nico perdeu o prazer de participar das pequenas escolhas. O menu produz coisas. Não pode decidir por ele o que vale a pena viver com outras pessoas.",
+      "scene": "sentido: reveal; preparação, contato e consequência preservados entre cortes",
+      "set": "space",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 23,
+        "part": 4,
+        "cam": "reveal"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s128",
+      "start": 379.35208,
+      "end": 382.92976,
+      "line": "Ele retorna à praça e encontra Lia consertando uma mesa. Nico oferece uma mesa pronta. Ela entrega uma peça e pede ajuda para encaixar. Ele segura uma ponta, ela ajusta a outra. Não foi a solução mais rápida. Foi uma coisa que fizeram juntos.",
+      "scene": "volta: fly; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 0,
+        "cam": "fly"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s129",
+      "start": 382.92976,
+      "end": 386.50744,
+      "line": "Ele retorna à praça e encontra Lia consertando uma mesa. Nico oferece uma mesa pronta. Ela entrega uma peça e pede ajuda para encaixar. Ele segura uma ponta, ela ajusta a outra. Não foi a solução mais rápida. Foi uma coisa que fizeram juntos.",
+      "scene": "volta: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 1,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s130",
+      "start": 386.50744,
+      "end": 390.08512,
+      "line": "Ele retorna à praça e encontra Lia consertando uma mesa. Nico oferece uma mesa pronta. Ela entrega uma peça e pede ajuda para encaixar. Ele segura uma ponta, ela ajusta a outra. Não foi a solução mais rápida. Foi uma coisa que fizeram juntos.",
+      "scene": "volta: two; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 2,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s131",
+      "start": 390.08512,
+      "end": 393.6628,
+      "line": "Ele retorna à praça e encontra Lia consertando uma mesa. Nico oferece uma mesa pronta. Ela entrega uma peça e pede ajuda para encaixar. Ele segura uma ponta, ela ajusta a outra. Não foi a solução mais rápida. Foi uma coisa que fizeram juntos.",
+      "scene": "volta: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 3,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s132",
+      "start": 393.6628,
+      "end": 397.24049,
+      "line": "Ele retorna à praça e encontra Lia consertando uma mesa. Nico oferece uma mesa pronta. Ela entrega uma peça e pede ajuda para encaixar. Ele segura uma ponta, ela ajusta a outra. Não foi a solução mais rápida. Foi uma coisa que fizeram juntos.",
+      "scene": "volta: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 24,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s133",
+      "start": 397.24049,
+      "end": 400.81817,
+      "line": "Os dois abrem um caderno. Antes de criar, ouvir o pedido. Antes de colocar, reservar o espaço. Antes de repetir, verificar quem será afetado. Nada disso desliga a fantasia. Só transforma o poder de uma pessoa numa conversa em que outras pessoas também escolhem.",
+      "scene": "regras: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s134",
+      "start": 400.81817,
+      "end": 404.39586,
+      "line": "Os dois abrem um caderno. Antes de criar, ouvir o pedido. Antes de colocar, reservar o espaço. Antes de repetir, verificar quem será afetado. Nada disso desliga a fantasia. Só transforma o poder de uma pessoa numa conversa em que outras pessoas também escolhem.",
+      "scene": "regras: over; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s135",
+      "start": 404.39586,
+      "end": 407.97353,
+      "line": "Os dois abrem um caderno. Antes de criar, ouvir o pedido. Antes de colocar, reservar o espaço. Antes de repetir, verificar quem será afetado. Nada disso desliga a fantasia. Só transforma o poder de uma pessoa numa conversa em que outras pessoas também escolhem.",
+      "scene": "regras: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s136",
+      "start": 407.97353,
+      "end": 411.55122,
+      "line": "Os dois abrem um caderno. Antes de criar, ouvir o pedido. Antes de colocar, reservar o espaço. Antes de repetir, verificar quem será afetado. Nada disso desliga a fantasia. Só transforma o poder de uma pessoa numa conversa em que outras pessoas também escolhem.",
+      "scene": "regras: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s137",
+      "start": 411.55122,
+      "end": 415.1289,
+      "line": "Os dois abrem um caderno. Antes de criar, ouvir o pedido. Antes de colocar, reservar o espaço. Antes de repetir, verificar quem será afetado. Nada disso desliga a fantasia. Só transforma o poder de uma pessoa numa conversa em que outras pessoas também escolhem.",
+      "scene": "regras: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 25,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s138",
+      "start": 415.1289,
+      "end": 417.22943,
+      "line": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro.",
+      "scene": "maquete: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s139",
+      "start": 417.22943,
+      "end": 419.32997,
+      "line": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro.",
+      "scene": "maquete: over; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 1,
+        "cam": "over"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s140",
+      "start": 419.32997,
+      "end": 421.4305,
+      "line": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro.",
+      "scene": "maquete: build; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 2,
+        "cam": "build"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s141",
+      "start": 421.4305,
+      "end": 423.53103,
+      "line": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro.",
+      "scene": "maquete: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s142",
+      "start": 423.53103,
+      "end": 425.63157,
+      "line": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro.",
+      "scene": "maquete: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s143",
+      "start": 425.63157,
+      "end": 427.7321,
+      "line": "Nico trabalha numa maquete flutuante. Testa a sombra, muda uma rua e aproxima uma árvore. Lia aponta uma passagem estreita. Um erro pequeno pode aparecer antes de ocupar o bairro inteiro.",
+      "scene": "maquete: two; preparação, contato e consequência preservados entre cortes",
+      "set": "island",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 26,
+        "part": 5,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s144",
+      "start": 427.7321,
+      "end": 430.44246,
+      "line": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns.",
+      "scene": "mutirao: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s145",
+      "start": 430.44246,
+      "end": 433.15283,
+      "line": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns.",
+      "scene": "mutirao: track; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 1,
+        "cam": "track"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s146",
+      "start": 433.15283,
+      "end": 435.86319,
+      "line": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns.",
+      "scene": "mutirao: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s147",
+      "start": 435.86319,
+      "end": 438.57356,
+      "line": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns.",
+      "scene": "mutirao: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 3,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s148",
+      "start": 438.57356,
+      "end": 441.28393,
+      "line": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns.",
+      "scene": "mutirao: two; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 4,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s149",
+      "start": 441.28393,
+      "end": 443.99429,
+      "line": "Na obra seguinte, cada pessoa assume uma tarefa. Nico cria só as peças combinadas. Uma amiga organiza as ferramentas; outra indica o apoio que falta. Os objetos ainda surgem de maneira impossível. A cooperação continua dependendo de gestos muito comuns.",
+      "scene": "mutirao: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "workshop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 27,
+        "part": 5,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s150",
+      "start": 443.99429,
+      "end": 446.84018,
+      "line": "A cidade muda sem virar uma pilha de desejos particulares. Surgem sombra e caminhos livres. Não é uma utopia garantida por um botão. É um acordo revisto por quem mora ali, inclusive quando Nico discorda.",
+      "scene": "cidade: street; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 0,
+        "cam": "street"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s151",
+      "start": 446.84018,
+      "end": 449.68606,
+      "line": "A cidade muda sem virar uma pilha de desejos particulares. Surgem sombra e caminhos livres. Não é uma utopia garantida por um botão. É um acordo revisto por quem mora ali, inclusive quando Nico discorda.",
+      "scene": "cidade: fly; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 1,
+        "cam": "fly"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s152",
+      "start": 449.68606,
+      "end": 452.53193,
+      "line": "A cidade muda sem virar uma pilha de desejos particulares. Surgem sombra e caminhos livres. Não é uma utopia garantida por um botão. É um acordo revisto por quem mora ali, inclusive quando Nico discorda.",
+      "scene": "cidade: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 2,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s153",
+      "start": 452.53193,
+      "end": 455.37781,
+      "line": "A cidade muda sem virar uma pilha de desejos particulares. Surgem sombra e caminhos livres. Não é uma utopia garantida por um botão. É um acordo revisto por quem mora ali, inclusive quando Nico discorda.",
+      "scene": "cidade: ground; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 3,
+        "cam": "ground"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s154",
+      "start": 455.37781,
+      "end": 458.2237,
+      "line": "A cidade muda sem virar uma pilha de desejos particulares. Surgem sombra e caminhos livres. Não é uma utopia garantida por um botão. É um acordo revisto por quem mora ali, inclusive quando Nico discorda.",
+      "scene": "cidade: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "city",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 28,
+        "part": 4,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s155",
+      "start": 458.2237,
+      "end": 461.88269,
+      "line": "No menu, ele deixa algumas opções desligadas. Criar sem perguntar, editar pessoas e preencher todo espaço vazio não entram no plano. Uma opção disponível não precisa ser uma opção escolhida. Nico ainda pode fazer quase tudo. Agora sabe por que deixa algumas coisas de fora.",
+      "scene": "escolha: menu; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 0,
+        "cam": "menu"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s156",
+      "start": 461.88269,
+      "end": 465.54169,
+      "line": "No menu, ele deixa algumas opções desligadas. Criar sem perguntar, editar pessoas e preencher todo espaço vazio não entram no plano. Uma opção disponível não precisa ser uma opção escolhida. Nico ainda pode fazer quase tudo. Agora sabe por que deixa algumas coisas de fora.",
+      "scene": "escolha: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s157",
+      "start": 465.54169,
+      "end": 469.20067,
+      "line": "No menu, ele deixa algumas opções desligadas. Criar sem perguntar, editar pessoas e preencher todo espaço vazio não entram no plano. Uma opção disponível não precisa ser uma opção escolhida. Nico ainda pode fazer quase tudo. Agora sabe por que deixa algumas coisas de fora.",
+      "scene": "escolha: hand; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 2,
+        "cam": "hand"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s158",
+      "start": 469.20067,
+      "end": 472.85966,
+      "line": "No menu, ele deixa algumas opções desligadas. Criar sem perguntar, editar pessoas e preencher todo espaço vazio não entram no plano. Uma opção disponível não precisa ser uma opção escolhida. Nico ainda pode fazer quase tudo. Agora sabe por que deixa algumas coisas de fora.",
+      "scene": "escolha: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 3,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s159",
+      "start": 472.85966,
+      "end": 476.51866,
+      "line": "No menu, ele deixa algumas opções desligadas. Criar sem perguntar, editar pessoas e preencher todo espaço vazio não entram no plano. Uma opção disponível não precisa ser uma opção escolhida. Nico ainda pode fazer quase tudo. Agora sabe por que deixa algumas coisas de fora.",
+      "scene": "escolha: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 29,
+        "part": 4,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s160",
+      "start": 476.51866,
+      "end": 479.93372,
+      "line": "Voltamos à primeira cadeira. Lia se senta, Nico deixa o menu de lado e observa a praça funcionando. O objeto mais simples continua útil porque tem um lugar e alguém que quer usá-lo. O extraordinário finalmente aprendeu a caber dentro do cotidiano.",
+      "scene": "cadeirafinal: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 0,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s161",
+      "start": 479.93372,
+      "end": 483.34878,
+      "line": "Voltamos à primeira cadeira. Lia se senta, Nico deixa o menu de lado e observa a praça funcionando. O objeto mais simples continua útil porque tem um lugar e alguém que quer usá-lo. O extraordinário finalmente aprendeu a caber dentro do cotidiano.",
+      "scene": "cadeirafinal: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 1,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s162",
+      "start": 483.34878,
+      "end": 486.76385,
+      "line": "Voltamos à primeira cadeira. Lia se senta, Nico deixa o menu de lado e observa a praça funcionando. O objeto mais simples continua útil porque tem um lugar e alguém que quer usá-lo. O extraordinário finalmente aprendeu a caber dentro do cotidiano.",
+      "scene": "cadeirafinal: detail; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 2,
+        "cam": "detail"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s163",
+      "start": 486.76385,
+      "end": 490.1789,
+      "line": "Voltamos à primeira cadeira. Lia se senta, Nico deixa o menu de lado e observa a praça funcionando. O objeto mais simples continua útil porque tem um lugar e alguém que quer usá-lo. O extraordinário finalmente aprendeu a caber dentro do cotidiano.",
+      "scene": "cadeirafinal: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 3,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s164",
+      "start": 490.1789,
+      "end": 493.59396,
+      "line": "Voltamos à primeira cadeira. Lia se senta, Nico deixa o menu de lado e observa a praça funcionando. O objeto mais simples continua útil porque tem um lugar e alguém que quer usá-lo. O extraordinário finalmente aprendeu a caber dentro do cotidiano.",
+      "scene": "cadeirafinal: orbit; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 30,
+        "part": 4,
+        "cam": "orbit"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s165",
+      "start": 493.59396,
+      "end": 496.69184,
+      "line": "Se você tivesse modo criativo por um dia, qual seria sua primeira criação? Qual regra colocaria para não transformar sua liberdade no problema de outra pessoa? Conta nos comentários e inscreva-se no Então. Imaginar também é escolher consequências.",
+      "scene": "final: two; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 0,
+        "cam": "two"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s166",
+      "start": 496.69184,
+      "end": 499.78971,
+      "line": "Se você tivesse modo criativo por um dia, qual seria sua primeira criação? Qual regra colocaria para não transformar sua liberdade no problema de outra pessoa? Conta nos comentários e inscreva-se no Então. Imaginar também é escolher consequências.",
+      "scene": "final: close; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 1,
+        "cam": "close"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s167",
+      "start": 499.78971,
+      "end": 502.88759,
+      "line": "Se você tivesse modo criativo por um dia, qual seria sua primeira criação? Qual regra colocaria para não transformar sua liberdade no problema de outra pessoa? Conta nos comentários e inscreva-se no Então. Imaginar também é escolher consequências.",
+      "scene": "final: reverse; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 2,
+        "cam": "reverse"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s168",
+      "start": 502.88759,
+      "end": 505.98546,
+      "line": "Se você tivesse modo criativo por um dia, qual seria sua primeira criação? Qual regra colocaria para não transformar sua liberdade no problema de outra pessoa? Conta nos comentários e inscreva-se no Então. Imaginar também é escolher consequências.",
+      "scene": "final: wide; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 3,
+        "cam": "wide"
+      },
+      "sfx": []
+    },
+    {
+      "id": "s169",
+      "start": 505.98546,
+      "end": 509.0833333333333,
+      "line": "Se você tivesse modo criativo por um dia, qual seria sua primeira criação? Qual regra colocaria para não transformar sua liberdade no problema de outra pessoa? Conta nos comentários e inscreva-se no Então. Imaginar também é escolher consequências.",
+      "scene": "final: reveal; preparação, contato e consequência preservados entre cortes",
+      "set": "plaza",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "beat": 31,
+        "part": 4,
+        "cam": "reveal"
+      },
+      "sfx": []
+    }
+  ],
+  "timing_status": "generated_block_boundaries_and_paragraph_gaps_not_ASR"
+}

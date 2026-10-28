@@ -1,0 +1,69 @@
+{
+  "title": "08 - E se você tivesse Modo Criativo na vida real",
+  "aspect": "16:9",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 509.0833333333333,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0.25,
+  "fadeOut": 0.9,
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      43,
+      51
+    ],
+    [
+      249.45083333333332,
+      257.4508333333333
+    ],
+    [
+      495.0833333333333,
+      508.0833333333333
+    ]
+  ],
+  "qaTimes": [
+    2,
+    35,
+    68,
+    102,
+    135,
+    169,
+    202,
+    236,
+    269,
+    303,
+    336,
+    370,
+    403,
+    437,
+    470,
+    504
+  ],
+  "qaStills": [
+    [
+      "cta-45s",
+      46
+    ],
+    [
+      "cta-intermediario",
+      253
+    ],
+    [
+      "cta-final",
+      502
+    ],
+    [
+      "ponte",
+      105
+    ],
+    [
+      "voo",
+      62
+    ]
+  ]
+}

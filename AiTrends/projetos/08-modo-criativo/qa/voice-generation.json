@@ -1,0 +1,18 @@
+{
+  "blocks": 4,
+  "beats_per_block": 8,
+  "same_session": true,
+  "same_credential": true,
+  "same_model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "exact_text_and_cache_matches": true,
+  "new_generations": 4,
+  "repeated_generations": 0,
+  "natural_seconds": 509.0833333333333,
+  "maximum_seconds": 600,
+  "model_switch": false,
+  "billing_activation": false,
+  "human_full_listening": false,
+  "independent_ASR": false,
+  "reason_for_larger_groups": "Reduce transitions and cross-session variation after episode07 feedback; not a guarantee of identical timbre."
+}

@@ -148,3 +148,11 @@ No teste de uma segunda credencial fornecida pelo usuário para o07, um sexto bl
 O usuário percebeu que a voz ficou diferente no final e supôs que a geração em momentos distintos contribuiu; a causa não foi confirmada. Pediu prosseguir com o vídeo porque não quer esperar múltiplas correções. **Finalizar o07 com a voz atual, sem novas chamadas ou amostras e sem reiniciar o render.** Essa decisão não aprova a consistência geral do áudio. Registro em `../projetos/07-aranha-rotina/qa/voice-consistency-feedback.json`.
 
 Para os próximos episódios, planejar cota antes do lote e preferir gerar os blocos na mesma sessão, com modelo, voz e direção idênticos. Isso reduz uma variável, mas não garante timbre idêntico entre chamadas. Preservar os bons trechos e conferir transições localmente, comparando final/início de blocos; só ajustar ganho, pausas e mix quando necessário. Não disparar ciclos de regeneração para perseguir uma voz perfeita.
+
+## Episódio08 — modo criativo, duração e continuidade
+
+Referência original `../projetos/08-modo-criativo/`:169planos, câmera de voo/orbita, cidade miniatura, macros de criação e transferência, ilha/ponte e plataforma celeste, com nossos Nico/Lia. A referência de10min49s foi condensada para narração de509,083s; limite explícito do usuário:10min. Orçar palavras antes da API e verificar duração real antes do render, sem acelerar a voz para caber.
+
+Após variação percebida no final do07, usamos a mesma Puck/modelo/direção em quatro blocos maiores na mesma sessão/credencial, em vez de oito blocos separados. Sem regenerações. Isso reduz transições, mas não comprova timbre idêntico nem substitui a avaliação do usuário. Registrar limites da revisão. Não criar nova rodada de voz só para ajustar mix.
+
+Voo: compensar inclinação da cabeça, manter braços alcançáveis, não usar marcha no ar e projetar sombra no apoio correto. Ponte: interpolar altura de apoio, não saltar a raiz. Props: câmera mira no centro útil do objeto, não no pé do grupo; seguradas e entregas usam mãos após IK. Maquetes/construções devem alterar peças, não apenas trocar textos. Manter Foley Python e pacote YouTube único no padrão já aprovado.

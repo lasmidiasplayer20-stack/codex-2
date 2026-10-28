@@ -1,0 +1,11 @@
+{
+  "source_sha256": "81bee9b4bb123f8d3f526e7a3da6b2afe73340fd3bd596d73ab5df0c67606a17",
+  "voice_complete": true,
+  "native_dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "maximum_seconds": 600,
+  "actual_seconds": 509.0833333333333
+}

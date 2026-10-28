@@ -1,0 +1,35 @@
+{
+  "drive_file_id": "164H_A4dffRAabJ2A0ARMBX9I3WGC38Mf",
+  "seconds": 648.858413,
+  "sample_interval_seconds": 28,
+  "consecutive_ranges_seconds": [
+    [
+      45,
+      49
+    ],
+    [
+      132,
+      136
+    ],
+    [
+      260,
+      264
+    ],
+    [
+      390,
+      394
+    ],
+    [
+      520,
+      524
+    ],
+    [
+      600,
+      604
+    ]
+  ],
+  "all_six_motion_strips_opened": true,
+  "reference_audio_full_listened": false,
+  "reference_ASR": false,
+  "reference_assets_in_export": false
+}
