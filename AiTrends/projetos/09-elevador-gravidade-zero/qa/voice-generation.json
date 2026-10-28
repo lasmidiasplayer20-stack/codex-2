@@ -1,0 +1,10 @@
+{
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "successful_calls": 1,
+  "groups": 1,
+  "raw_seconds": 50.610958,
+  "speed_changed": false,
+  "full_human_listening": false,
+  "note": "Environment credential rejected401, same-model request with previously authorized attachment credential succeeded; no key stored."
+}

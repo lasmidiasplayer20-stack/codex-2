@@ -1,0 +1,17 @@
+{
+  "sha256": "39afa7edb932f3d07d9b636de98f7ade370e03e93dd771b3b7ac1d4eadc1c9b9",
+  "files": [
+    "config.json",
+    "runtime-style.json",
+    "story/shots.json",
+    "scenes/film.js",
+    "scenes/rig.js"
+  ],
+  "fps": 24,
+  "frames": 1440,
+  "seconds": 60,
+  "resolution": [
+    1080,
+    1920
+  ]
+}

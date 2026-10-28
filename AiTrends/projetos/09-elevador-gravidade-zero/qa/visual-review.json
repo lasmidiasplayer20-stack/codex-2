@@ -1,0 +1,19 @@
+{
+  "reviewed": "Initial 19-shot contact sheets and consecutive frames from native12s pilot38-50, then numerical hand-grip correction",
+  "pilot_seconds": 12,
+  "pilot_resolution": [
+    1080,
+    1920
+  ],
+  "pilot_frames": 288,
+  "msaa": true,
+  "issues_corrected": [
+    "Missing stage render adapter",
+    "Phone insert initially edge-on",
+    "Hand grip used wrong side of Lia rig",
+    "Root roll affected exact hand contact"
+  ],
+  "latest_numeric_audit": "57 samples across19shots, zero renderer/nonfinite/contact failures",
+  "limitations": "Sampled visual review, not every frame played in real time. Full human listening and independent ASR not performed.",
+  "final_review": "Opened contact sheet extracted from complete final MP4 (16 distributed frames) and six sequential handhold/landing frames50-59s."
+}

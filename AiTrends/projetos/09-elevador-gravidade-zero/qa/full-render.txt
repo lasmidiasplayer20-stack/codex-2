@@ -1,0 +1,33 @@
+Rendering frames 0-1440 (60.0 s) with 2 worker(s)…
+  48/1440 frames  11.17 fps  elapsed 0m04s  eta 2m05s
+  96/1440 frames  12.13 fps  elapsed 0m08s  eta 1m51s
+  144/1440 frames  11.57 fps  elapsed 0m12s  eta 1m52s
+  192/1440 frames  11.38 fps  elapsed 0m17s  eta 1m50s
+  240/1440 frames  10.85 fps  elapsed 0m22s  eta 1m51s
+  288/1440 frames  10.48 fps  elapsed 0m27s  eta 1m50s
+  336/1440 frames  10.18 fps  elapsed 0m33s  eta 1m48s
+  384/1440 frames  9.93 fps  elapsed 0m39s  eta 1m46s
+  432/1440 frames  9.79 fps  elapsed 0m44s  eta 1m43s
+  480/1440 frames  9.72 fps  elapsed 0m49s  eta 1m39s
+  528/1440 frames  9.68 fps  elapsed 0m55s  eta 1m34s
+  576/1440 frames  9.59 fps  elapsed 1m00s  eta 1m30s
+  624/1440 frames  9.54 fps  elapsed 1m05s  eta 1m26s
+  672/1440 frames  9.48 fps  elapsed 1m11s  eta 1m21s
+  720/1440 frames  9.46 fps  elapsed 1m16s  eta 1m16s
+  768/1440 frames  9.45 fps  elapsed 1m21s  eta 1m11s
+  816/1440 frames  9.45 fps  elapsed 1m26s  eta 1m06s
+  864/1440 frames  9.54 fps  elapsed 1m31s  eta 1m00s
+  912/1440 frames  9.60 fps  elapsed 1m35s  eta 0m55s
+  960/1440 frames  9.66 fps  elapsed 1m39s  eta 0m50s
+  1008/1440 frames  9.70 fps  elapsed 1m44s  eta 0m45s
+  1056/1440 frames  9.72 fps  elapsed 1m49s  eta 0m40s
+  1104/1440 frames  9.80 fps  elapsed 1m53s  eta 0m34s
+  1152/1440 frames  9.84 fps  elapsed 1m57s  eta 0m29s
+  1200/1440 frames  9.83 fps  elapsed 2m02s  eta 0m24s
+  1248/1440 frames  9.83 fps  elapsed 2m07s  eta 0m20s
+  1296/1440 frames  9.81 fps  elapsed 2m12s  eta 0m15s
+  1344/1440 frames  9.90 fps  elapsed 2m16s  eta 0m10s
+  1392/1440 frames  9.96 fps  elapsed 2m20s  eta 0m05s
+  1440/1440 frames  9.91 fps  elapsed 2m25s  eta 0m00s
+
+Done: /workspace/elevator-private/full-silent.mp4  (2m26s)

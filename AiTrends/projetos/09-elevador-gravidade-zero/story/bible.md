@@ -1,0 +1,1 @@
+Nico verde-menta, Lia violeta; rig original do Então reutilizado do08 com IK de dois segmentos. Cenário novo: cabine aberta em corte, poço, cabos e contrapeso. Luz estável, MSAA ativo. Sem imagens externas ou Blender. Referência de gramática visual: short elevador da pasta fornecida; nenhum frame/voz/asset reutilizado.

@@ -162,3 +162,11 @@ Voo: compensar inclinação da cabeça, manter braços alcançáveis, não usar 
 Mesmo com Puck no mesmo modelo/sessão, o usuário percebeu no final som alto, áspero e sintético, lembrando megafone. Não tratar ausência de amostras saturadas como prova de boa sonoridade. A causa perceptiva exata não foi confirmada. Corrigimos localmente, sem novas chamadas: equalização suave de médios/agudos por bloco, ganho estático mais baixo e último bloco discretamente mais baixo, sem acrescentar compressão ou alterar tempo/tom. Referências em `../projetos/08-modo-criativo/scripts/remix_voice.py` e `audio/remix-quality.json`. Não declarar que todo caráter sintético foi eliminado ou que essa revisão foi aprovada pelo usuário sem avaliação.
 
 Futuras revisões de mix devem reaproveitar a voz. Preservar a fonte anterior em área privada, verificar verdadeiros picos/níveis/aspereza entre blocos e manter folga para codecs. Trocar áudio na montagem final sem reiniciar render de imagens quando o tempo não mudou. Evitar compressão extra ou normalização dinâmica que façam a voz bombear para cima e para baixo.
+
+## Shorts — episódio09, gravidade no elevador
+
+Referência reutilizável: `../projetos/09-elevador-gravidade-zero/`. Short próprio vertical1080×1920,24fps, exatamente60s/1440quadros. Não usar o exportador horizontal sem adaptar as verificações. Um short de60s já serve como prévia de um minuto; não exigir duplicata idêntica. Orçar fala abaixo do minuto, preservar velocidade/tom e distribuir pequenos intervalos em pausas reais, com ações visuais; não deixar um grande vazio no fim. Perfil Puck/modelo mantido, uma única geração e mix com ganho estático/folga, sem compressor adicional.
+
+Gramática adaptada das referências: corte de cabine para poço, mecanismo por dentro, escala geral/detalhe, objetos soltos e reações. Não copiar personagens ou roteiro. Ao agarrar o mesmo objeto, usar a mão correta de cada ator, calcular alvos em espaço local e verificar a distância entre as palmas após IK/rotação. Separar hipótese fantástica de gravidade nula e ausência de peso aparente em queda livre.
+
+**Correção explícita do usuário para Shorts:** capa também vertical9:16/1080×1920. Não aplicar o padrão horizontal1280×720 dos vídeos longos a um short. Manter capa e export coerentes com o formato pedido.

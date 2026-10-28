@@ -1,0 +1,40 @@
+{
+  "title": "09 - E se a gravidade sumisse dentro do elevador",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 60,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.3,
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      43,
+      47
+    ],
+    [
+      56,
+      60
+    ]
+  ],
+  "qaTimes": [
+    1,
+    5,
+    9,
+    14,
+    19,
+    24,
+    29,
+    34,
+    39,
+    44,
+    49,
+    54,
+    58
+  ]
+}

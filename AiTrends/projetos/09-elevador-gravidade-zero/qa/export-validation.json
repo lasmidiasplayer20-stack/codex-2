@@ -1,0 +1,16 @@
+{
+  "seconds": 60,
+  "fps": 24,
+  "frames": 1440,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "full_decode_passed": true,
+  "audio_codec": "aac",
+  "bytes": 9162855,
+  "sha256": "32cacd0466c6c93889ad5aaec850593399cf9ee1ec7639806ed87f58b533fe9b",
+  "source_sha256": "39afa7edb932f3d07d9b636de98f7ade370e03e93dd771b3b7ac1d4eadc1c9b9",
+  "preview": "The complete 60-second short itself; no duplicate file",
+  "audio_review": "Signal measurements and preserved source text, no full human listening or ASR claim."
+}

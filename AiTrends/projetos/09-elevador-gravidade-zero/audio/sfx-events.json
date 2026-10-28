@@ -1,0 +1,52 @@
+[
+  {
+    "seconds": 3.7,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.18
+  },
+  {
+    "seconds": 4.0,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.18
+  },
+  {
+    "seconds": 6.3,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 9.2,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 18.4,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 22.8,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 42.4,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 45.5,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 51,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 57.9,
+    "kind": "button / lift / float / cloth / handle",
+    "duration": 0.45
+  }
+]

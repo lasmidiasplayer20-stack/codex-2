@@ -1,0 +1,291 @@
+{
+  "title": "09 - E se a gravidade sumisse dentro do elevador",
+  "duration": 60,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.6666666666666665,
+      "line": "",
+      "scene": "hook",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.6666666666666665,
+      "end": 6.333333333333333,
+      "line": "",
+      "scene": "button",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "button"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.333333333333333,
+      "end": 8.583333333333334,
+      "line": "",
+      "scene": "feet",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "feet"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.583333333333334,
+      "end": 10.625,
+      "line": "",
+      "scene": "phone",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "phone"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 10.625,
+      "end": 16.0,
+      "line": "",
+      "scene": "float",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "float"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.0,
+      "end": 20.333333333333332,
+      "line": "",
+      "scene": "cable",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "cable"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 20.333333333333332,
+      "end": 22.75,
+      "line": "",
+      "scene": "shaft",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "shaft"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 22.75,
+      "end": 24.333333333333332,
+      "line": "",
+      "scene": "pulley",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pulley"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 24.333333333333332,
+      "end": 27.958333333333332,
+      "line": "",
+      "scene": "float",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "float"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 27.958333333333332,
+      "end": 32.083333333333336,
+      "line": "",
+      "scene": "fall",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "fall"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 32.083333333333336,
+      "end": 34.583333333333336,
+      "line": "",
+      "scene": "gravity",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "gravity"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 34.583333333333336,
+      "end": 37.791666666666664,
+      "line": "",
+      "scene": "button",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "button"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 37.791666666666664,
+      "end": 42.916666666666664,
+      "line": "",
+      "scene": "pedal",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pedal"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 42.916666666666664,
+      "end": 45.541666666666664,
+      "line": "",
+      "scene": "wall",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wall"
+      }
+    },
+    {
+      "id": "s15",
+      "start": 45.541666666666664,
+      "end": 47.458333333333336,
+      "line": "",
+      "scene": "push",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "push"
+      }
+    },
+    {
+      "id": "s16",
+      "start": 47.458333333333336,
+      "end": 49.333333333333336,
+      "line": "",
+      "scene": "drift",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "drift"
+      }
+    },
+    {
+      "id": "s17",
+      "start": 49.333333333333336,
+      "end": 51.791666666666664,
+      "line": "",
+      "scene": "handle",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "handle"
+      }
+    },
+    {
+      "id": "s18",
+      "start": 51.791666666666664,
+      "end": 55.583333333333336,
+      "line": "",
+      "scene": "hold",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hold"
+      }
+    },
+    {
+      "id": "s19",
+      "start": 55.583333333333336,
+      "end": 60,
+      "line": "",
+      "scene": "end",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}

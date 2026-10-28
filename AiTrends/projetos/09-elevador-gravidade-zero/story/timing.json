@@ -1,0 +1,81 @@
+{
+  "alignment": "Estimated clause boundaries on waveform pauses, not ASR",
+  "raw_to_timeline_insertions": [
+    {
+      "raw_time": 3.830875,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 5.714041666666667,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 7.537166666666667,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 9.158,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 14.109458333333333,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 16.926583333333333,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 18.311708333333332,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 21.200416666666666,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 24.404166666666665,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 27.694416666666665,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 30.219666666666665,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 33.027166666666666,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 35.396166666666666,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 37.30891666666667,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 39.544583333333335,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 42.963375,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 44.967166666666664,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 46.272666666666666,
+      "insert_seconds": 0.4125811403508772
+    },
+    {
+      "raw_time": 47.90808333333333,
+      "insert_seconds": 0.4125811403508772
+    }
+  ]
+}
