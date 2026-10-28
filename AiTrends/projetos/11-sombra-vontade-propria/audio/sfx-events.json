@@ -1,0 +1,117 @@
+[
+  {
+    "seconds": 4.733333333333333,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 5.333333333333333,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 17.441666666666666,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 20.01666666666667,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 44.06666666666666,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 56.291666666666664,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 56.99166666666667,
+    "kind": "sneaker / pavement",
+    "duration": 0.13
+  },
+  {
+    "seconds": 8.633333333333335,
+    "kind": "sleeve gesture",
+    "duration": 0.3
+  },
+  {
+    "seconds": 33.375,
+    "kind": "shadow knock",
+    "duration": 0.1
+  },
+  {
+    "seconds": 34.5,
+    "kind": "shadow knock",
+    "duration": 0.1
+  },
+  {
+    "seconds": 35.625,
+    "kind": "shadow knock",
+    "duration": 0.1
+  },
+  {
+    "seconds": 41.34166666666666,
+    "kind": "ceramic scraping ledge",
+    "duration": 0.5
+  },
+  {
+    "seconds": 46.24666666666666,
+    "kind": "cartoon ceramic impact",
+    "duration": 0.5
+  },
+  {
+    "seconds": 46.24666666666666,
+    "kind": "small ceramic fragment",
+    "duration": 0.2
+  },
+  {
+    "seconds": 46.31666666666666,
+    "kind": "small ceramic fragment",
+    "duration": 0.2
+  },
+  {
+    "seconds": 46.38666666666666,
+    "kind": "small ceramic fragment",
+    "duration": 0.2
+  },
+  {
+    "seconds": 46.45666666666666,
+    "kind": "small ceramic fragment",
+    "duration": 0.2
+  },
+  {
+    "seconds": 44.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 46.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 48.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 54.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 56.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 58.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  }
+]

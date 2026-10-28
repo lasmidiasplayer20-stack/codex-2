@@ -1,0 +1,5 @@
+from pathlib import Path
+import json
+P=Path(__file__).resolve().parents[1];ins=json.loads((P/'audio/quality.json').read_text())['pause_insertions'];mp=lambda t:t+.25+sum(i['insert_seconds']for i in ins if i['raw_time']<t)
+raw=[0,4.075,5.75,7.412,8.66,11.246,15.474,17.516,19.107,20.841,24.729,26.572,29.106,32.189,34.925,36.219,38.484,40.676,43.125,45.575,48.999,51.571]
+names=['hook','left','right','wave','cross','argument','stamp','escape','lia','alert','point','look','knock','insist','window','slide','jump','crash','thanks','lead','end'];bounds=[0]+[round(mp(t)*24)/24 for t in raw[1:-1]]+[60];old=json.loads((P/'story/shots.json').read_text());old['shots']=[{'id':f's{i+1:02}','start':bounds[i],'end':bounds[i+1],'line':'','scene':cam,'bars':'none','in':{'type':'cut','dur':0},'params':{'cam':cam}}for i,cam in enumerate(names)];(P/'story/shots.json').write_text(json.dumps(old,ensure_ascii=False,indent=2));(P/'story/timing.json').write_text(json.dumps({'method':'Estimated phrase boundaries on waveform gaps, no ASR claim','pause_insertions':ins},indent=2));print([(x['params']['cam'],round(x['start'],2),round(x['end'],2))for x in old['shots']])

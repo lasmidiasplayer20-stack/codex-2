@@ -1,0 +1,19 @@
+{
+  "reviewed": "21-shot sheets;12 sampled consecutive frames from14s native pilot39-53, and provided CTA/key test",
+  "pilot_resolution": [
+    1080,
+    1920
+  ],
+  "pilot_frames": 336,
+  "msaa": true,
+  "numeric_checks": "63 samples with zero nonfinite/render/projection/collision errors",
+  "issues_corrected": [
+    "Reaction insert occluded by Lia",
+    "Shadow cropped in wave shot",
+    "Planter visible without facade in shadow inserts",
+    "Stamping action too far from silhouette"
+  ],
+  "user_steering": "More vivid colorful environment implemented before full render",
+  "limitations": "Sampled visual review; no full human listening or independent ASR claim.",
+  "final_review": "Opened actual final-MP4 distributed contact sheet, consecutive shadow-divergence sequence and four CTA-on-scene frames45/48/55/58.5s. Chroma rectangle removed; CTA clear of faces and footer. Bright colorful street confirmed."
+}

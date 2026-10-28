@@ -1,0 +1,9 @@
+{
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "successful_calls": 1,
+  "raw_seconds": 51.570958,
+  "same_accepted_profile": true,
+  "speed_change": false,
+  "human_full_listening": false
+}

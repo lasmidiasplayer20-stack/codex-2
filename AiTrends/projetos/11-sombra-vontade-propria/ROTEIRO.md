@@ -1,0 +1,5 @@
+# E se sua sombra tivesse vontade própria?
+
+E se sua sombra tivesse vontade própria? Nico vira à esquerda. Ela vai à direita. Ele acena, mas a sombra cruza os braços. Nesta fantasia, até o chão virou palco de uma discussão! Nico tenta pisar nela. A danada escapa. Lia acha graça. Só que, de repente, a sombra para de brincar. Aponta para a janela. Nico olha para trás e não vê nada. A sombra insiste. Bate no chão, estica o braço e aponta de novo. Lá em cima, um vaso começa a escorregar. Nico salta para trás. O vaso cai bem onde ele estava! Ele agradece à própria sombra. Finalmente fizeram as pazes? Quase. Agora é ela quem escolhe o caminho de volta.
+
+Short60s, vertical. Fantasia explícita: a silhueta tem agência e se move independentemente. Sem apresentar isso como comportamento físico real de sombras. Vaso cai sem atingir ninguém; cerâmica cartoon.

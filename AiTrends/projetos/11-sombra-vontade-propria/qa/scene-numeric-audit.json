@@ -1,0 +1,1018 @@
+{
+  "sampled_frames": 63,
+  "errors": [],
+  "nonfinite": 0,
+  "shadow_projection_failures": 0,
+  "planter_collision_failures": 0,
+  "records": [
+    {
+      "seconds": 0.6499999999999999,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06638386319377604,
+      "impact": false,
+      "nx": -0.2,
+      "sx": -0.1,
+      "planter_clearance": 0.95,
+      "camera": [
+        0.7,
+        6.5,
+        11.927884615384615
+      ]
+    },
+    {
+      "seconds": 2.1666666666666665,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06625049969202051,
+      "impact": false,
+      "nx": -0.2,
+      "sx": -0.1,
+      "planter_clearance": 0.95,
+      "camera": [
+        0.7,
+        6.5,
+        11.75
+      ]
+    },
+    {
+      "seconds": 3.683333333333333,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06629521619255385,
+      "impact": false,
+      "nx": -0.2,
+      "sx": -0.1,
+      "planter_clearance": 0.95,
+      "camera": [
+        0.7,
+        6.5,
+        11.576923076923077
+      ]
+    },
+    {
+      "seconds": 4.633333333333333,
+      "cam": "left",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06639599651701819,
+      "impact": false,
+      "nx": -0.2130262586805556,
+      "sx": -0.09798403139467593,
+      "planter_clearance": 0.9630262586805556,
+      "camera": [
+        0.8,
+        7.8,
+        9
+      ]
+    },
+    {
+      "seconds": 5.333333333333333,
+      "cam": "left",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06633364857332716,
+      "impact": false,
+      "nx": -0.7250000000000001,
+      "sx": -0.01875000000000006,
+      "planter_clearance": 1.475,
+      "camera": [
+        0.8,
+        7.8,
+        9
+      ]
+    },
+    {
+      "seconds": 6.033333333333333,
+      "cam": "left",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06623281202999101,
+      "impact": false,
+      "nx": -1.2305555555555556,
+      "sx": 0.27615740740740724,
+      "planter_clearance": 1.9805555555555556,
+      "camera": [
+        0.8,
+        7.8,
+        9
+      ]
+    },
+    {
+      "seconds": 6.633333333333333,
+      "cam": "right",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620739971041922,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 0.7949196144386573,
+      "planter_clearance": 2,
+      "camera": [
+        0.8,
+        7.8,
+        9
+      ]
+    },
+    {
+      "seconds": 7.333333333333334,
+      "cam": "right",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06629044427145628,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.11875,
+      "planter_clearance": 2,
+      "camera": [
+        0.8,
+        7.8,
+        9
+      ]
+    },
+    {
+      "seconds": 8.033333333333333,
+      "cam": "right",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06638247953422621,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.1969907407407405,
+      "planter_clearance": 2,
+      "camera": [
+        0.8,
+        7.8,
+        9
+      ]
+    },
+    {
+      "seconds": 8.564583333333333,
+      "cam": "wave",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.0663890206518688,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        0.3675675675675672,
+        6.5,
+        10
+      ]
+    },
+    {
+      "seconds": 9.104166666666668,
+      "cam": "wave",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06632526339723029,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        0.5432432432432434,
+        6.5,
+        10
+      ]
+    },
+    {
+      "seconds": 9.64375,
+      "cam": "wave",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.0662415559887084,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        0.7189189189189189,
+        6.5,
+        10
+      ]
+    },
+    {
+      "seconds": 10.2625,
+      "cam": "cross",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620502471211011,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        1.5,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 11.166666666666668,
+      "cam": "cross",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06631280435965836,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        1.5,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 12.070833333333333,
+      "cam": "cross",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06639587770565669,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        1.5,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 13.145833333333334,
+      "cam": "argument",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06626967848704086,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        0.37272727272727263,
+        6.5,
+        10
+      ]
+    },
+    {
+      "seconds": 14.75,
+      "cam": "argument",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06629445992172343,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        0.5499999999999999,
+        6.5,
+        10
+      ]
+    },
+    {
+      "seconds": 16.354166666666668,
+      "cam": "argument",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06634666943958642,
+      "impact": false,
+      "nx": -1.25,
+      "sx": 1.2,
+      "planter_clearance": 2,
+      "camera": [
+        0.7227272727272724,
+        6.5,
+        10
+      ]
+    },
+    {
+      "seconds": 17.397916666666667,
+      "cam": "stamp",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620850683325305,
+      "impact": false,
+      "nx": -1.1137391236124412,
+      "sx": 1.2,
+      "planter_clearance": 1.8637391236124412,
+      "camera": [
+        -0.1137391236124412,
+        2,
+        3.7
+      ]
+    },
+    {
+      "seconds": 18.229166666666668,
+      "cam": "stamp",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06625722966202685,
+      "impact": false,
+      "nx": 0.789994572762462,
+      "sx": 1.2,
+      "planter_clearance": 0.03999457276246199,
+      "camera": [
+        1.789994572762462,
+        2,
+        3.7
+      ]
+    },
+    {
+      "seconds": 19.06041666666667,
+      "cam": "stamp",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06637836095061914,
+      "impact": false,
+      "nx": 0.7999999999999998,
+      "sx": 1.4975944015162561,
+      "planter_clearance": 0.04999999999999982,
+      "camera": [
+        1.7999999999999998,
+        2,
+        3.7
+      ]
+    },
+    {
+      "seconds": 19.704166666666666,
+      "cam": "escape",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06590504983983324,
+      "impact": false,
+      "nx": 0.8,
+      "sx": 1.9521739130434783,
+      "planter_clearance": 0.050000000000000044,
+      "camera": [
+        1.2,
+        5.5,
+        7
+      ]
+    },
+    {
+      "seconds": 20.375,
+      "cam": "escape",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06580869823091502,
+      "impact": false,
+      "nx": 0.8,
+      "sx": 2.0999999999999996,
+      "planter_clearance": 0.050000000000000044,
+      "camera": [
+        1.2,
+        5.5,
+        7
+      ]
+    },
+    {
+      "seconds": 21.045833333333334,
+      "cam": "escape",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06582215389323802,
+      "impact": false,
+      "nx": 0.8,
+      "sx": 2.239130434782609,
+      "planter_clearance": 0.050000000000000044,
+      "camera": [
+        1.2,
+        5.5,
+        7
+      ]
+    },
+    {
+      "seconds": 21.63958333333333,
+      "cam": "lia",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.0662226667032357,
+      "impact": false,
+      "nx": -0.35,
+      "sx": 1.2,
+      "planter_clearance": 1.1,
+      "camera": [
+        2.65,
+        1.9485555586029752,
+        3.675
+      ]
+    },
+    {
+      "seconds": 22.354166666666664,
+      "cam": "lia",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06632537990897257,
+      "impact": false,
+      "nx": -0.35,
+      "sx": 1.2,
+      "planter_clearance": 1.1,
+      "camera": [
+        2.65,
+        1.9571149924143807,
+        3.675
+      ]
+    },
+    {
+      "seconds": 23.06875,
+      "cam": "lia",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06639552922576017,
+      "impact": false,
+      "nx": -0.35,
+      "sx": 1.2,
+      "planter_clearance": 1.1,
+      "camera": [
+        2.65,
+        1.9629607688133475,
+        3.675
+      ]
+    },
+    {
+      "seconds": 24.00625,
+      "cam": "alert",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06630390655270559,
+      "impact": false,
+      "nx": 0.7999383057272028,
+      "sx": 0.55,
+      "planter_clearance": 0.049938305727202814,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 25.479166666666664,
+      "cam": "alert",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06623792555015012,
+      "impact": false,
+      "nx": 0.7977150269334345,
+      "sx": 0.55,
+      "planter_clearance": 0.047715026933434546,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 26.95208333333333,
+      "cam": "alert",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.0663939851644315,
+      "impact": false,
+      "nx": 0.7887739273239639,
+      "sx": 0.55,
+      "planter_clearance": 0.0387739273239639,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 27.958333333333332,
+      "cam": "point",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06626214977178743,
+      "impact": false,
+      "nx": 0.7756696067872109,
+      "sx": 0.55,
+      "planter_clearance": 0.025669606787210864,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 28.833333333333332,
+      "cam": "point",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620893338754694,
+      "impact": false,
+      "nx": 0.7637751155099585,
+      "sx": 0.55,
+      "planter_clearance": 0.013775115509958469,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 29.708333333333332,
+      "cam": "point",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06632269673697466,
+      "impact": false,
+      "nx": 0.7562699660946557,
+      "sx": 0.55,
+      "planter_clearance": 0.006269966094655688,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 30.464583333333334,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06639584347644188,
+      "impact": false,
+      "nx": 0.7525702839435491,
+      "sx": 0.55,
+      "planter_clearance": 0.0025702839435490787,
+      "camera": [
+        2.477570283943549,
+        2.0329869563701566,
+        2.8
+      ]
+    },
+    {
+      "seconds": 31.354166666666664,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06631343496490866,
+      "impact": false,
+      "nx": 0.7505445730610084,
+      "sx": 0.55,
+      "planter_clearance": 0.0005445730610084132,
+      "camera": [
+        2.4755445730610086,
+        2.026119580409055,
+        2.8
+      ]
+    },
+    {
+      "seconds": 32.24375,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620639210274065,
+      "impact": false,
+      "nx": 0.7500182797845325,
+      "sx": 0.55,
+      "planter_clearance": 0.00001827978453250445,
+      "camera": [
+        2.4750182797845324,
+        2.017199341895055,
+        2.8
+      ]
+    },
+    {
+      "seconds": 33.1875,
+      "cam": "knock",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06628420010774831,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 34.5,
+      "cam": "knock",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06638280345858912,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 35.8125,
+      "cam": "knock",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06621215748284902,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 36.83125,
+      "cam": "insist",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06627291495275128,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 37.89583333333333,
+      "cam": "insist",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06639598898400535,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 38.96041666666667,
+      "cam": "insist",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06627571747474206,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        0.8500000000000001,
+        6.2,
+        3.5
+      ]
+    },
+    {
+      "seconds": 39.66041666666666,
+      "cam": "window",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620558108916194,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        -1.5,
+        4.445,
+        5
+      ]
+    },
+    {
+      "seconds": 40.229166666666664,
+      "cam": "window",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06623380290895167,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        -1.5,
+        4.445,
+        5
+      ]
+    },
+    {
+      "seconds": 40.797916666666666,
+      "cam": "window",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06632196014128915,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        -1.5,
+        4.445,
+        5
+      ]
+    },
+    {
+      "seconds": 41.43541666666666,
+      "cam": "slide",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06639232732295355,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        -1.5040816326530613,
+        4.445,
+        5
+      ]
+    },
+    {
+      "seconds": 42.354166666666664,
+      "cam": "slide",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06632744813556132,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        -1.666798241930519,
+        4.445,
+        5
+      ]
+    },
+    {
+      "seconds": 43.27291666666667,
+      "cam": "slide",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06620835683120302,
+      "impact": false,
+      "nx": 0.75,
+      "sx": 0.55,
+      "planter_clearance": 0,
+      "camera": [
+        -1.844401052602111,
+        4.445,
+        5
+      ]
+    },
+    {
+      "seconds": 44.041666666666664,
+      "cam": "jump",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06625168511996946,
+      "impact": false,
+      "nx": 0.72705,
+      "sx": 0.5311,
+      "planter_clearance": 0.022950000000000026,
+      "camera": [
+        -2.1,
+        2.5,
+        7
+      ]
+    },
+    {
+      "seconds": 44.916666666666664,
+      "cam": "jump",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06637864842702956,
+      "impact": false,
+      "nx": -0.09999999999999998,
+      "sx": -0.1499999999999999,
+      "planter_clearance": 0.85,
+      "camera": [
+        -2.1,
+        2.5,
+        7
+      ]
+    },
+    {
+      "seconds": 45.791666666666664,
+      "cam": "jump",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06636140198426956,
+      "impact": false,
+      "nx": -0.9270499999999999,
+      "sx": -0.8311,
+      "planter_clearance": 1.67705,
+      "camera": [
+        -2.1,
+        2.5,
+        7
+      ]
+    },
+    {
+      "seconds": 46.58541666666667,
+      "cam": "crash",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06624176079511786,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.8499999999999999,
+      "planter_clearance": 1.7,
+      "camera": [
+        -0.7,
+        2,
+        4.3
+      ]
+    },
+    {
+      "seconds": 47.5625,
+      "cam": "crash",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06622721107013187,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.8499999999999999,
+      "planter_clearance": 1.7,
+      "camera": [
+        -0.7,
+        2,
+        4.3
+      ]
+    },
+    {
+      "seconds": 48.53958333333333,
+      "cam": "crash",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.0663667318095944,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.8499999999999999,
+      "planter_clearance": 1.7,
+      "camera": [
+        -0.7,
+        2,
+        4.3
+      ]
+    },
+    {
+      "seconds": 49.37083333333334,
+      "cam": "thanks",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06637844007447354,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.8499999999999999,
+      "planter_clearance": 1.7,
+      "camera": [
+        0.7,
+        5,
+        8
+      ]
+    },
+    {
+      "seconds": 50.333333333333336,
+      "cam": "thanks",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06623500897163725,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.8499999999999999,
+      "planter_clearance": 1.7,
+      "camera": [
+        0.7,
+        5,
+        8
+      ]
+    },
+    {
+      "seconds": 51.295833333333334,
+      "cam": "thanks",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06623325646179648,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.8499999999999999,
+      "planter_clearance": 1.7,
+      "camera": [
+        0.7,
+        5,
+        8
+      ]
+    },
+    {
+      "seconds": 52.32083333333333,
+      "cam": "lead",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06637702656588426,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.85,
+      "planter_clearance": 1.7,
+      "camera": [
+        1.55,
+        6,
+        9
+      ]
+    },
+    {
+      "seconds": 53.75,
+      "cam": "lead",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06627450361946466,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.85,
+      "planter_clearance": 1.7,
+      "camera": [
+        1.55,
+        6,
+        9
+      ]
+    },
+    {
+      "seconds": 55.17916666666667,
+      "cam": "lead",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06625699893112252,
+      "impact": true,
+      "nx": -0.95,
+      "sx": -0.85,
+      "planter_clearance": 1.7,
+      "camera": [
+        1.55,
+        6,
+        9
+      ]
+    },
+    {
+      "seconds": 56.422916666666666,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06634496627683842,
+      "impact": true,
+      "nx": -0.9650684120465766,
+      "sx": -0.8742404889444928,
+      "planter_clearance": 1.7150684120465765,
+      "camera": [
+        1.5349315879534235,
+        6,
+        9
+      ]
+    },
+    {
+      "seconds": 57.89583333333333,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06562291027199559,
+      "impact": true,
+      "nx": -1.5080893350583966,
+      "sx": -1.7477958868330727,
+      "planter_clearance": 2.2580893350583966,
+      "camera": [
+        0.9919106649416034,
+        6,
+        9
+      ]
+    },
+    {
+      "seconds": 59.36875,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "shadow_head_height": 0.06631841296640943,
+      "impact": true,
+      "nx": -2.081712528668807,
+      "sx": -2.670581024380254,
+      "planter_clearance": 2.831712528668807,
+      "camera": [
+        0.41828747133119304,
+        6,
+        9
+      ]
+    }
+  ],
+  "limitations": "Three positions per shot, not full motion/perceptual verification."
+}

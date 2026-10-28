@@ -1,0 +1,37 @@
+{
+  "seconds": 60,
+  "fps": 24,
+  "frames": 1440,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "full_decode_passed": true,
+  "audio_codec": "aac",
+  "bytes": 11643102,
+  "sha256": "90f8c600f3f2e0dfa9eecf3b1198c60c3873408cda5f42dea3f6e0813b9b6282",
+  "source_sha256": "ed7c15295c7c8f448d0e6f94e76e722c5941c994ff20770e5e72f3ab450e1ed3",
+  "preview": "The complete 60-second short itself; no duplicate file",
+  "audio_review": "Signal measurements and preserved source text, no full human listening or ASR claim.",
+  "cta": {
+    "asset": "assets/cta-green.mp4",
+    "intervals": [
+      [
+        43,
+        50
+      ],
+      [
+        53,
+        60
+      ]
+    ],
+    "overlay_width": 650,
+    "position": [
+      60,
+      1490
+    ],
+    "chroma_key": true,
+    "despill": true,
+    "original_asset_audio_mixed": false
+  }
+}
