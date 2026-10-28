@@ -1,7 +1,7 @@
 # 08 — E se você tivesse Modo Criativo na vida real? / Então
 
 <!-- CURRENT_STATUS_START -->
-**Narração completa de8min29s; pré-produção visual pronta e pilotos nativos conferidos.** Quatro blocos Puck da mesma sessão/modelo/credencial, tratamento leve e87 eventos de Foley Python. O filme completo ainda não foi exportado. O render completo está sendo iniciado com fonte congelada, sem novas gerações de voz.
+**Completo: 8min29s, 1920×1080/24fps, abaixo de10min.** Puck em quatro blocos da mesma sessão/modelo, sem aceleração, Foley Python e prévia final de1min. Decodificação integral validada; não se declara escuta humana integral nem aprovação editorial.
 <!-- CURRENT_STATUS_END -->
 
 História original de Nico/Lia sobre criar objetos e aprender a compartilhar o espaço. Um menu, cadeira e copos; voo entre prédios; abrigo e ponte; jardim; ouro/comida; excesso de construção; desfazer; ilha suspensa; retorno e cooperação. Fantasia declarada, sem apresentar ponte ou poderes como instrução científica/engenharia real.
@@ -41,3 +41,9 @@ Licenças do motor aiTrends e fontes do kit preservadas; não se ampliam direito
 O usuário percebeu aspereza/volume projetado no final (“megafone”). Foi aplicada revisão local, sem nova geração: cortes suaves em1750/2800Hz, redução de agudos em4800Hz por bloco, filtro em10kHz e ganho estático mais baixo, com o último bloco discretamente mais baixo. Não foi acrescentada compressão. Picos da mixPCM em−4,49dBFS, sem amostras saturadas; isso é verificação técnica, não avaliação humana integral do timbre. Duração e amostras da timeline permanecem idênticas, sem refazer cenas.
 
 `audio/remix-quality.json` detalha a revisão. `scripts/remix_voice.py --work DIRETORIO_PRIVADO` aplica essa etapa depois do tratamento/Foley, usando os blocos locais já existentes. Nenhuma API é chamada. Voz e mix anteriores foram preservadas na área privada para comparação.
+
+## Exportação final
+
+[Vídeo completo](exports/08%20-%20E%20se%20voc%C3%AA%20tivesse%20Modo%20Criativo%20na%20vida%20real.mp4) · [Prévia final de1min](exports/08%20-%20E%20se%20voc%C3%AA%20tivesse%20Modo%20Criativo%20na%20vida%20real%20-%20Preview%201min.mp4)
+
+Validações, quadros, codecs, duração, hash e CTAs em `qa/export-validation.json`.

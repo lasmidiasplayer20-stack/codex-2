@@ -1,0 +1,9 @@
+{
+  "local_remix_version": 2,
+  "integrated_lufs": -17.0,
+  "true_peak_dbfs": -4.8,
+  "reference_mix_lufs": -17.0,
+  "softened_mix_matches_final_export": true,
+  "measurement": "FFmpeg ebur128 over full MP4 encoded audio",
+  "human_full_listening": false
+}

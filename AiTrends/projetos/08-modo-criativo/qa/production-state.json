@@ -1,17 +1,14 @@
 {
-  "status": "native_full_render_prepared",
-  "full_video_generated": false,
-  "voice_complete": true,
+  "status": "complete_export_technical_checks_passed",
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
   "voice_blocks": 4,
-  "voice_model": "gemini-2.5-flash-preview-tts",
-  "natural_seconds": 509.0833333333333,
+  "final_seconds": 509.0833333333333,
   "maximum_seconds": 600,
-  "native_resolution": [
-    1920,
-    1080
-  ],
-  "fps": 24,
-  "render_frames": 12218,
-  "render_requires_live_environment": true,
-  "full_human_listening": false
+  "full_video_generated": true,
+  "full_decode_passed": true,
+  "final_sha256": "e5fe844a9a42e570882c45469a23a429af2f2370444912aeb1110662b9a0d4f7",
+  "final_human_listening": false,
+  "independent_full_ASR": false,
+  "user_editorial_approval": false
 }
