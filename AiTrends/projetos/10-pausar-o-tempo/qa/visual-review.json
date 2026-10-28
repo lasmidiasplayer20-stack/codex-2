@@ -1,0 +1,12 @@
+{
+  "reviewed": "20-shot contact sheets and12 consecutive sampled frames from14s native pilot44-58. Corrected initial wide framing and close-up foreground occlusion.",
+  "pilot_resolution": [
+    1080,
+    1920
+  ],
+  "pilot_frames": 336,
+  "msaa": true,
+  "numeric_checks": "60 positions across20shots; fixed prop transforms during pause and palm contact on rescue",
+  "limitations": "Sampled visual review; no full human listening/independent ASR claim.",
+  "final_review": "Opened distributed final-MP4 contact sheet, rescue/return sequence and frozen-orbit sequence. Detected foreground crown obstruction, replaced93 native frames only, reassembled and validated full60s MP4, reopened corrected orbit sequence."
+}

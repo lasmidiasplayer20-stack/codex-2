@@ -1,0 +1,20 @@
+{
+  "reason": "Foreground tree crown occluded characters near end of orbit; hide crowns for that shot only",
+  "original_source_sha256": "66341c9295cdc922e092432af046278020ff65ceca3b03ad1bc60d10e952c360",
+  "current_source_sha256": "2ed5e3d422933b2bae1008a5e605589b8f321fba1b897b09bf073e77ad39cc67",
+  "frames": [
+    443,
+    536
+  ],
+  "interval_seconds": [
+    18.458333333333332,
+    22.333333333333332
+  ],
+  "replacement_frames": 93,
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "full_image_render_repeated": false,
+  "assembly": "Frame-accurate trim/concat of original native render and93-frame native replacement; encode H264 without upscaling"
+}

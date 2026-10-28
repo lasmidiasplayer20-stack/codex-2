@@ -1,0 +1,1 @@
+Nico mint/Lia violet, original rig. New park/café. Freeze every object/environment motion and Lia while Nico moves; deterministic seed for drops, stable lights/no strobe. Narrative10s pause enlarged on screen, explicitly labeled. Reanimate ball, droplets and cup with continuous global state on release; cup ends on table, never intersects characters.

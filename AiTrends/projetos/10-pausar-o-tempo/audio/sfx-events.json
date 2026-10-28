@@ -1,0 +1,82 @@
+[
+  {
+    "seconds": 4.625,
+    "kind": "watch click / timer / release",
+    "duration": 0.18
+  },
+  {
+    "seconds": 41.833333333333336,
+    "kind": "watch click / timer / release",
+    "duration": 0.18
+  },
+  {
+    "seconds": 52.708333333333336,
+    "kind": "watch click / timer / release",
+    "duration": 0.18
+  },
+  {
+    "seconds": 22.73333333333333,
+    "kind": "soft sneaker contact",
+    "duration": 0.13
+  },
+  {
+    "seconds": 23.433333333333334,
+    "kind": "soft sneaker contact",
+    "duration": 0.13
+  },
+  {
+    "seconds": 26.2,
+    "kind": "soft sneaker contact",
+    "duration": 0.13
+  },
+  {
+    "seconds": 49.733333333333334,
+    "kind": "soft sneaker contact",
+    "duration": 0.13
+  },
+  {
+    "seconds": 50.333333333333336,
+    "kind": "soft sneaker contact",
+    "duration": 0.13
+  },
+  {
+    "seconds": 30.625,
+    "kind": "sleeve brushing cup",
+    "duration": 0.3
+  },
+  {
+    "seconds": 49.93333333333334,
+    "kind": "cloth during rescue",
+    "duration": 0.4
+  },
+  {
+    "seconds": 53.358333333333334,
+    "kind": "water splash on Nico",
+    "duration": 0.7
+  },
+  {
+    "seconds": 10.366666666666665,
+    "kind": "suspended droplet sparkle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 10.646666666666665,
+    "kind": "suspended droplet sparkle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 10.926666666666666,
+    "kind": "suspended droplet sparkle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 11.206666666666665,
+    "kind": "suspended droplet sparkle",
+    "duration": 0.45
+  },
+  {
+    "seconds": 11.486666666666665,
+    "kind": "suspended droplet sparkle",
+    "duration": 0.45
+  }
+]

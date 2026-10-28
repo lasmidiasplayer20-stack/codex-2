@@ -170,3 +170,9 @@ Referência reutilizável: `../projetos/09-elevador-gravidade-zero/`. Short pró
 Gramática adaptada das referências: corte de cabine para poço, mecanismo por dentro, escala geral/detalhe, objetos soltos e reações. Não copiar personagens ou roteiro. Ao agarrar o mesmo objeto, usar a mão correta de cada ator, calcular alvos em espaço local e verificar a distância entre as palmas após IK/rotação. Separar hipótese fantástica de gravidade nula e ausência de peso aparente em queda livre.
 
 **Correção explícita do usuário para Shorts:** capa também vertical9:16/1080×1920. Não aplicar o padrão horizontal1280×720 dos vídeos longos a um short. Manter capa e export coerentes com o formato pedido.
+
+## Short10 — pausa temporal
+
+`../projetos/10-pausar-o-tempo/`:20planos, pausa fictícia de10segundos ampliada em câmera lenta para um short60s. Fixar tempo de animação da pessoa congelada (incluindo piscar/respiração do rig), objetos e gotas; a câmera e o protagonista continuam. Reinicializar também rotações de objetos em cada draw para garantir render determinístico ao voltar a um instante anterior. Retomar estado por tempo global, não reiniciar a queda em cada corte.
+
+Foley Python específico (relógio, tênis, tecido, água, ambiente que cessa/retorna), mesma Puck em uma chamada, ganho estático e EQ suaves. Capa vertical9:16. Distinguir fantasia com regras próprias de explicação física real. Revisar enquadramento geral vertical para não cortar personagem lateral e esconder props não relacionados em inserts do relógio.

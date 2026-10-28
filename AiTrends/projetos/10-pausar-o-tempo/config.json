@@ -1,0 +1,42 @@
+{
+  "title": "10 - E se voc\u00ea pudesse pausar o tempo",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 60,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.3,
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      43,
+      47
+    ],
+    [
+      56,
+      60
+    ]
+  ],
+  "qaTimes": [
+    1,
+    5,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    33,
+    38,
+    43,
+    47,
+    51,
+    55,
+    58
+  ]
+}

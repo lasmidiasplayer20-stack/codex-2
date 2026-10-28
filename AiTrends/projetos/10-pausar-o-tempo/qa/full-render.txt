@@ -1,0 +1,35 @@
+Rendering frames 0-1440 (60.0 s) with 2 worker(s)…
+  48/1440 frames  6.41 fps  elapsed 0m07s  eta 3m37s
+  96/1440 frames  6.77 fps  elapsed 0m14s  eta 3m19s
+  144/1440 frames  7.01 fps  elapsed 0m21s  eta 3m05s
+  192/1440 frames  7.11 fps  elapsed 0m27s  eta 2m55s
+  240/1440 frames  7.11 fps  elapsed 0m34s  eta 2m49s
+  288/1440 frames  7.21 fps  elapsed 0m40s  eta 2m40s
+  336/1440 frames  7.31 fps  elapsed 0m46s  eta 2m31s
+  384/1440 frames  7.33 fps  elapsed 0m52s  eta 2m24s
+  432/1440 frames  7.33 fps  elapsed 0m59s  eta 2m18s
+  480/1440 frames  7.32 fps  elapsed 1m06s  eta 2m11s
+  528/1440 frames  7.31 fps  elapsed 1m12s  eta 2m05s
+  576/1440 frames  7.33 fps  elapsed 1m19s  eta 1m58s
+  624/1440 frames  7.35 fps  elapsed 1m25s  eta 1m51s
+  672/1440 frames  7.36 fps  elapsed 1m31s  eta 1m44s
+  720/1440 frames  7.36 fps  elapsed 1m38s  eta 1m38s
+  768/1440 frames  7.36 fps  elapsed 1m44s  eta 1m31s
+  816/1440 frames  7.32 fps  elapsed 1m51s  eta 1m25s
+  864/1440 frames  7.26 fps  elapsed 1m59s  eta 1m19s
+  912/1440 frames  7.20 fps  elapsed 2m07s  eta 1m13s
+  960/1440 frames  7.15 fps  elapsed 2m14s  eta 1m07s
+  1008/1440 frames  7.12 fps  elapsed 2m22s  eta 1m01s
+  1056/1440 frames  7.08 fps  elapsed 2m29s  eta 0m54s
+  1104/1440 frames  7.05 fps  elapsed 2m37s  eta 0m48s
+  1152/1440 frames  7.05 fps  elapsed 2m43s  eta 0m41s
+  1200/1440 frames  7.01 fps  elapsed 2m51s  eta 0m34s
+  1248/1440 frames  6.99 fps  elapsed 2m59s  eta 0m27s
+  1296/1440 frames  6.98 fps  elapsed 3m06s  eta 0m21s
+  1344/1440 frames  6.96 fps  elapsed 3m13s  eta 0m14s
+  1392/1440 frames  6.93 fps  elapsed 3m21s  eta 0m07s
+  1440/1440 frames  6.90 fps  elapsed 3m29s  eta 0m00s
+
+Done: /workspace/time-private/full-silent.mp4  (3m29s)
+
+Native orbit replacement completed: frames443–535 inclusive,93 native1080×1920frames; rest reused.
