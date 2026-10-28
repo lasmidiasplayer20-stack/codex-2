@@ -188,3 +188,9 @@ O usuário forneceu e pediu usar o CTA verde da pasta Drive. Asset reutilizável
 `../projetos/12-nuvem-particular/`: rua colorida, nuvem própria, chuva fina instanciada, guarda-chuva e jardim que muda gradualmente. Gotas cobertas pelo dossel devem ser bloqueadas; varetas e tecido fecham no mesmo grupo. Poças ficam ancoradas no cenário, sem seguir a raiz do personagem. Em mudanças de direção, relacionar fase da marcha à distância acumulada e suavizar o giro.
 
 **Pedido mais recente do usuário para CTA:** maior e mais centralizado, aos15s e perto do final. Configuração atual de referência em vertical1080×1920: janela900px, x90/y1440,15–22s e53–60s, usando o mesmo asset verde com chroma key/despill. Esta preferência substitui a composição pequena à esquerda usada no11, salvo novo pedido. Conferir cenas reais do MP4 final para manter rostos e ação principal livres. Continuar com Puck/modelo aceitos, mix sem bombeamento e Foley Python.
+
+### Correção de direção da chuva — feedback do usuário no12
+
+A primeira entrega do12 tinha fase de partículas que aumentava a altura: chuva subindo. Inverter a fase vertical e orientar o traço conforme a trajetória de queda. Não confiar só em stills ou amostras espaçadas: verificar quadros consecutivos e o sinal do deslocamento vertical de cada gota, separando o salto de reposição do chão para o topo. Evidência corrigida: `../projetos/12-nuvem-particular/qa/rain-direction-validation.json` e `chuva-queda-consecutiva.jpg`. Reutilizar narração/mix/CTA, sem novas chamadas para corrigir uma animação.
+
+No12, a checagem independente de pixels também distinguiu o erro: deslocamento dominante−62px/quadro na versão anterior e+60px/quadro no piloto corrigido (eixo vertical de imagem cresce para baixo). `scripts/audit_rain_pixels.py` mede máscara de chuva em tomada estacionária; ajustar ROI/tempo antes de aplicar a outro projeto ou câmera em movimento.

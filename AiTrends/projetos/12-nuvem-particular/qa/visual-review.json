@@ -14,7 +14,9 @@
     "Umbrella needed to block covered rain paths before side shower"
   ],
   "user_steering": "CTA enlarged and centered at15s and53s",
-  "limitations": "Sampled visual review; no full human listening or independent ASR claim.",
+  "limitations": "Sampled visual/pixel review; no full human listening or independent ASR claim.",
   "additional_review": "Native80-frame run/turn pilot inspected at six consecutive moments; after review, ground puddles anchored to world rather than following Nico.",
-  "final_review": "Opened actual final-MP4 distributed contact sheet, four CTA-on-scene frames16.5/20/54.5/57s and six consecutive run frames9.4\u201312.2s. CTA larger900px centered atx90, no green background, faces clear; puddles remain in world coordinates."
+  "final_review": "Opened actual final-MP4 distributed contact sheet, four CTA-on-scene frames16.5/20/54.5/57s and six consecutive run frames9.4\u201312.2s. CTA larger900px centered atx90, no green background, faces clear; puddles remain in world coordinates.",
+  "user_report_after_first_delivery": "Rain rising: previous spaced-frame review did not establish motion direction.",
+  "rain_direction_fix_review": "Actual final MP4 pixel correlation at six consecutive frames detects+60px downward shift; original had\u221262px upward. Scene-matrix check338downward steps/22respawns/0unexpected. Full final sheet reopened, audio PCM unchanged."
 }

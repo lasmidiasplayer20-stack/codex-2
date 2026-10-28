@@ -1,0 +1,15 @@
+{
+  "best_vertical_pixel_shift": 60,
+  "best_horizontal_pixel_shift": 0,
+  "peak_match_score": 41393.000000000015,
+  "downward_best_score": 41393.000000000015,
+  "upward_best_score": 5415.000000000002,
+  "dynamic_rain_mask_pixels": 63828,
+  "direction": "down",
+  "note": "Pixel y increases down. Cyan rain mask correlation across5 consecutive frame pairs; static background removed.",
+  "seconds": [
+    5.0,
+    5.208333333333333
+  ],
+  "scope": "Episode12 stationary rain shot only; mask/ROI not a general camera-motion detector."
+}

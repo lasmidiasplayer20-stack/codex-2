@@ -8,9 +8,9 @@
   "upscaled": false,
   "full_decode_passed": true,
   "audio_codec": "aac",
-  "bytes": 15498628,
-  "sha256": "317ca47c5142405bc4be2e925641cf612c7deec29152fd218355bbf711096be1",
-  "source_sha256": "e701e8ac43df38124b4a2f78d6f8642fcf39d360a93d7b11ef666219df5ec14b",
+  "bytes": 15542378,
+  "sha256": "63844965d76f74123628f6e6774e6df8b475be01cd5f3c8fa3e3aba5cf947b34",
+  "source_sha256": "b10bf41badf72d1e40a2c1a1a85af8e2c8587b31929f8e48aa8e5cf7b1556282",
   "preview": "The complete 60-second short itself; no duplicate file",
   "audio_review": "Signal measurements and preserved source text, no full human listening or ASR claim.",
   "cta": {

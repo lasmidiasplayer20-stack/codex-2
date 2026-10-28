@@ -25,3 +25,7 @@ Rodar python3 AiTrends/studio.py doctor; dependências locais do estúdio. Reuti
 Render nativo: node AiTrends/skill/scripts/render.mjs --project CAMINHO_ABSOLUTO --scale 1 --workers 2 --format jpeg --out PASTA_PRIVADA/full-silent.mp4; salvar log em full-render.log. Montagem/QA: scripts/finish.py --work PASTA_PRIVADA, com mix.wav e CTA. Exige fonte congelada; verifica60s/1440 quadros/1080×1920, decode completo, picos e equivalência de nível da mix. Para remontar sem API, decodificar mix.mp3 em WAV.
 
 WAVs/build privados fora do Git. Capa vertical gerada separadamente; não entra como imagem na animação. Não publicado no YouTube.
+
+## Correção após feedback: direção da chuva
+
+A primeira entrega tinha gotas subindo por uma fase vertical invertida. Corrigimos a queda de cima para baixo e a inclinação dos traços. O MP4 foi reexportado em60s/1080×1920, reaproveitando exatamente o áudio anterior e o mesmo CTA. A checagem de pixels em quadros consecutivos do MP4 corrigido confirmou queda; evidências em qa/rain-pixel-validation.json e qa/chuva-queda-consecutiva.jpg. Nenhuma nova chamada de voz.
