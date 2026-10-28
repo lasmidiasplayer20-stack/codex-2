@@ -1,0 +1,8 @@
+{
+  "source": "mix.mp3 after local remix version2",
+  "integrated_lufs": -17.0,
+  "true_peak_dbfs": -4.8,
+  "full_decode_passed": true,
+  "measurement": "FFmpeg ebur128 true peak over complete encoded MP3",
+  "human_full_listening": false
+}

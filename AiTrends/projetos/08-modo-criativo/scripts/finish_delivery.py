@@ -1,10 +1,12 @@
 """Finalize metadata only after validated native export; never claim human full listening."""
 from pathlib import Path
-import json,re
+import json,re,subprocess
 from urllib.parse import quote
 P=Path(__file__).resolve().parents[1]
 def main():
  r=json.loads((P/'qa/export-validation.json').read_text());assert r['full_decode_passed']and r['native_render']and not r['upscaled']and r['seconds']<=600
+ if(P/'audio/remix-encoded-validation.json').exists():
+  ref=json.loads((P/'audio/remix-encoded-validation.json').read_text());title=json.loads((P/'config.json').read_text())['title'];video=P/'exports'/(title+'.mp4');check=subprocess.run(['ffmpeg','-hide_banner','-nostats','-i',str(video),'-af','ebur128=peak=true','-f','null','-'],capture_output=True,text=True,check=True);summary=check.stderr[check.stderr.rfind('Summary:'):];lufs=float(re.findall(r'I:\s*(-?[\d.]+) LUFS',summary)[-1]);peak=float(re.findall(r'Peak:\s*(-?[\d.]+) dBFS',summary)[-1]);assert abs(lufs-ref['integrated_lufs'])<.7 and peak<-2,'Final mux must contain softened mix with headroom.';(P/'qa/final-audio-validation.json').write_text(json.dumps({'local_remix_version':2,'integrated_lufs':lufs,'true_peak_dbfs':peak,'reference_mix_lufs':ref['integrated_lufs'],'softened_mix_matches_final_export':True,'measurement':'FFmpeg ebur128 over full MP4 encoded audio','human_full_listening':False},indent=2)+'\n')
  m,s=divmod(round(r['seconds']),60);state={'status':'complete_export_technical_checks_passed','voice':'Puck','model':'gemini-2.5-flash-preview-tts','voice_blocks':4,'final_seconds':r['seconds'],'maximum_seconds':600,'full_video_generated':True,'full_decode_passed':True,'final_sha256':r['sha256'],'final_human_listening':False,'independent_full_ASR':False,'user_editorial_approval':False};(P/'qa/production-state.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
  txt=(P/'README.md').read_text();txt=re.sub(r'<!-- CURRENT_STATUS_START -->.*?<!-- CURRENT_STATUS_END -->',f'<!-- CURRENT_STATUS_START -->\n**Completo: {m}min{s:02}s, 1920×1080/24fps, abaixo de10min.** Puck em quatro blocos da mesma sessão/modelo, sem aceleração, Foley Python e prévia final de1min. Decodificação integral validada; não se declara escuta humana integral nem aprovação editorial.\n<!-- CURRENT_STATUS_END -->',txt,flags=re.S);title=json.loads((P/'config.json').read_text())['title'];txt+='\n## Exportação final\n\n[Vídeo completo](exports/'+quote(title+'.mp4')+') · [Prévia final de1min](exports/'+quote(title+' - Preview 1min.mp4')+')\n\nValidações, quadros, codecs, duração, hash e CTAs em `qa/export-validation.json`.\n';(P/'README.md').write_text(txt);print('DELIVERY_METADATA_COMPLETE',r['sha256'],flush=True)
 if __name__=='__main__':main()
