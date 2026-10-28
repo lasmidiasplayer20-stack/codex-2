@@ -35,3 +35,9 @@ Foley reproduzível em `scripts/sound.py`, com87 eventos de materialização, mo
 [Pacote YouTube](../../youtube/08%20-%20E%20se%20voc%C3%AA%20tivesse%20Modo%20Criativo%20na%20vida%20real/): capa neon1280×720 e arquivo único`YOUTUBE` com título, descrição/capítulos e tags. Nenhum upload ao YouTube. CTAs do Então por código perto45s, no meio e no encerramento.
 
 Licenças do motor aiTrends e fontes do kit preservadas; não se ampliam direitos sobre o pacote fornecido. Geometria, elenco, roteiro e Foley próprios; capa gerada pela ferramenta de imagem conforme padrão aprovado. O anexo informa premissa aérea/gesto de poder, adaptados para nosso elenco e história.
+
+## Revisão da mix — feedback do usuário
+
+O usuário percebeu aspereza/volume projetado no final (“megafone”). Foi aplicada revisão local, sem nova geração: cortes suaves em1750/2800Hz, redução de agudos em4800Hz por bloco, filtro em10kHz e ganho estático mais baixo, com o último bloco discretamente mais baixo. Não foi acrescentada compressão. Picos da mixPCM em−4,49dBFS, sem amostras saturadas; isso é verificação técnica, não avaliação humana integral do timbre. Duração e amostras da timeline permanecem idênticas, sem refazer cenas.
+
+`audio/remix-quality.json` detalha a revisão. `scripts/remix_voice.py --work DIRETORIO_PRIVADO` aplica essa etapa depois do tratamento/Foley, usando os blocos locais já existentes. Nenhuma API é chamada. Voz e mix anteriores foram preservadas na área privada para comparação.

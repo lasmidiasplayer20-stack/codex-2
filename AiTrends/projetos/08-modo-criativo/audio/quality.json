@@ -99,6 +99,83 @@
   ],
   "human_listening_full_episode": false,
   "independent_ASR": false,
-  "peak_dbfs": -2.907994031906128,
-  "clipped_samples": 0
+  "peak_dbfs": -4.502963066101074,
+  "clipped_samples": 0,
+  "local_remix": {
+    "reason": "User reports loud/harsh/megaphone-like synthetic sound toward end. Exact perceptual cause not confirmed.",
+    "method": "Gentle broad mid/high EQ and per-block static gain/true-peak headroom; last block slightly quieter. No added compression, no time/pitch changes, no new voice API.",
+    "version": 2,
+    "blocks": [
+      {
+        "block": 1,
+        "high_shelf_gain_db": -2.5,
+        "high_shelf_hz": 4800,
+        "bell_cuts_db": {
+          "1750Hz": -1.2,
+          "2800Hz": -0.8
+        },
+        "lowpass_hz": 10000,
+        "static_gain_db": -1.45,
+        "eq_input_integrated_lufs": -18.5,
+        "eq_input_true_peak_dbfs": -3.05,
+        "target_lufs": -19.5,
+        "samples_unchanged": true
+      },
+      {
+        "block": 2,
+        "high_shelf_gain_db": -1.0,
+        "high_shelf_hz": 4800,
+        "bell_cuts_db": {
+          "1750Hz": -1.2,
+          "2800Hz": -0.8
+        },
+        "lowpass_hz": 10000,
+        "static_gain_db": -2.0,
+        "eq_input_integrated_lufs": -17.5,
+        "eq_input_true_peak_dbfs": -2.98,
+        "target_lufs": -19.5,
+        "samples_unchanged": true
+      },
+      {
+        "block": 3,
+        "high_shelf_gain_db": -2.5,
+        "high_shelf_hz": 4800,
+        "bell_cuts_db": {
+          "1750Hz": -1.2,
+          "2800Hz": -0.8
+        },
+        "lowpass_hz": 10000,
+        "static_gain_db": -1.87,
+        "eq_input_integrated_lufs": -17.63,
+        "eq_input_true_peak_dbfs": -3.05,
+        "target_lufs": -19.5,
+        "samples_unchanged": true
+      },
+      {
+        "block": 4,
+        "high_shelf_gain_db": -3.5,
+        "high_shelf_hz": 4800,
+        "bell_cuts_db": {
+          "1750Hz": -1.2,
+          "2800Hz": -0.8
+        },
+        "lowpass_hz": 10000,
+        "static_gain_db": -2.12,
+        "eq_input_integrated_lufs": -18.08,
+        "eq_input_true_peak_dbfs": -3.06,
+        "target_lufs": -20.2,
+        "samples_unchanged": true
+      }
+    ],
+    "seconds": 509.0833333333333,
+    "source_clipped_samples": 0,
+    "new_voice_peak_dbfs": -4.502963066101074,
+    "new_mix_peak_dbfs": -4.493353366851807,
+    "clipped_samples": 0,
+    "sfx_gain_relative_to_prior": 0.9,
+    "new_voice_generation_calls": 0,
+    "video_frames_unchanged": true,
+    "human_full_listening": false,
+    "claim_to_remove_all_synthetic_timbre": false
+  }
 }

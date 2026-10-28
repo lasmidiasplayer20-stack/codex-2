@@ -1,8 +1,9 @@
 {
-  "peak_dbfs": -2.912407159805298,
+  "peak_dbfs": -4.493353366851807,
   "clipped_samples": 0,
   "sfx_events": 87,
   "voice_seconds": 509.0833333333333,
   "voice_model": "gemini-2.5-flash-preview-tts",
-  "human_full_listening": false
+  "human_full_listening": false,
+  "local_remix_version": 2
 }

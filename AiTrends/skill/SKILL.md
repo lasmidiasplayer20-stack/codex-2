@@ -156,3 +156,9 @@ Referência original `../projetos/08-modo-criativo/`:169planos, câmera de voo/o
 Após variação percebida no final do07, usamos a mesma Puck/modelo/direção em quatro blocos maiores na mesma sessão/credencial, em vez de oito blocos separados. Sem regenerações. Isso reduz transições, mas não comprova timbre idêntico nem substitui a avaliação do usuário. Registrar limites da revisão. Não criar nova rodada de voz só para ajustar mix.
 
 Voo: compensar inclinação da cabeça, manter braços alcançáveis, não usar marcha no ar e projetar sombra no apoio correto. Ponte: interpolar altura de apoio, não saltar a raiz. Props: câmera mira no centro útil do objeto, não no pé do grupo; seguradas e entregas usam mãos após IK. Maquetes/construções devem alterar peças, não apenas trocar textos. Manter Foley Python e pacote YouTube único no padrão já aprovado.
+
+## Episódio08 — feedback de aspereza/megafone e revisão de mix
+
+Mesmo com Puck no mesmo modelo/sessão, o usuário percebeu no final som alto, áspero e sintético, lembrando megafone. Não tratar ausência de amostras saturadas como prova de boa sonoridade. A causa perceptiva exata não foi confirmada. Corrigimos localmente, sem novas chamadas: equalização suave de médios/agudos por bloco, ganho estático mais baixo e último bloco discretamente mais baixo, sem acrescentar compressão ou alterar tempo/tom. Referências em `../projetos/08-modo-criativo/scripts/remix_voice.py` e `audio/remix-quality.json`. Não declarar que todo caráter sintético foi eliminado ou que essa revisão foi aprovada pelo usuário sem avaliação.
+
+Futuras revisões de mix devem reaproveitar a voz. Preservar a fonte anterior em área privada, verificar verdadeiros picos/níveis/aspereza entre blocos e manter folga para codecs. Trocar áudio na montagem final sem reiniciar render de imagens quando o tempo não mudou. Evitar compressão extra ou normalização dinâmica que façam a voz bombear para cima e para baixo.
