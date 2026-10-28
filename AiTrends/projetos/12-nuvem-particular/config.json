@@ -1,0 +1,43 @@
+{
+  "title": "12 - E se uma nuvem seguisse s\u00f3 voc\u00ea",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 60,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.3,
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      15,
+      22
+    ],
+    [
+      53,
+      60
+    ]
+  ],
+  "qaTimes": [
+    1,
+    5,
+    8,
+    11,
+    14,
+    17,
+    20,
+    23,
+    27,
+    31,
+    35,
+    39,
+    43,
+    47,
+    53,
+    58
+  ]
+}

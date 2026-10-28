@@ -1,0 +1,306 @@
+{
+  "title": "12 - E se uma nuvem seguisse só você",
+  "duration": 60,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.4166666666666665,
+      "line": "",
+      "scene": "hook",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.4166666666666665,
+      "end": 7.125,
+      "line": "",
+      "scene": "rain",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rain"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.125,
+      "end": 9.166666666666666,
+      "line": "",
+      "scene": "only",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "only"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.166666666666666,
+      "end": 12.5,
+      "line": "",
+      "scene": "run",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "run"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.5,
+      "end": 15.0,
+      "line": "",
+      "scene": "stop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "stop"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 15.0,
+      "end": 17.625,
+      "line": "",
+      "scene": "umbrella",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "umbrella"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 17.625,
+      "end": 19.791666666666668,
+      "line": "",
+      "scene": "side",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "side"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 19.791666666666668,
+      "end": 21.25,
+      "line": "",
+      "scene": "shoes",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "shoes"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 21.25,
+      "end": 23.75,
+      "line": "",
+      "scene": "lia",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "lia"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 23.75,
+      "end": 26.125,
+      "line": "",
+      "scene": "garden",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "garden"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 26.125,
+      "end": 29.041666666666668,
+      "line": "",
+      "scene": "idea",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "idea"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 29.041666666666668,
+      "end": 31.0,
+      "line": "",
+      "scene": "close",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "close"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 31.0,
+      "end": 35.208333333333336,
+      "line": "",
+      "scene": "enter",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "enter"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 35.208333333333336,
+      "end": 40.458333333333336,
+      "line": "",
+      "scene": "walk",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "walk"
+      }
+    },
+    {
+      "id": "s15",
+      "start": 40.458333333333336,
+      "end": 42.541666666666664,
+      "line": "",
+      "scene": "soil",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "soil"
+      }
+    },
+    {
+      "id": "s16",
+      "start": 42.541666666666664,
+      "end": 44.791666666666664,
+      "line": "",
+      "scene": "flowers",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "flowers"
+      }
+    },
+    {
+      "id": "s17",
+      "start": 44.791666666666664,
+      "end": 50.208333333333336,
+      "line": "",
+      "scene": "wet",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wet"
+      }
+    },
+    {
+      "id": "s18",
+      "start": 50.208333333333336,
+      "end": 54.458333333333336,
+      "line": "",
+      "scene": "smile",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "smile"
+      }
+    },
+    {
+      "id": "s19",
+      "start": 54.458333333333336,
+      "end": 56.708333333333336,
+      "line": "",
+      "scene": "rainbow",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rainbow"
+      }
+    },
+    {
+      "id": "s20",
+      "start": 56.708333333333336,
+      "end": 60,
+      "line": "",
+      "scene": "end",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}

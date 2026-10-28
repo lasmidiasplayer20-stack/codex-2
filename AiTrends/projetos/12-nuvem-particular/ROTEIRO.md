@@ -1,0 +1,5 @@
+# E se uma nuvem seguisse só você?
+
+E se uma nuvem seguisse só você? Nico pisa na rua e começa a chover. Só nele! Ele corre, para, muda de lado. A nuvem acompanha tudo. Nico abre um guarda-chuva. Ela escorrega para o lado e molha os tênis. Lia ri, mas aponta para um jardim seco. E se essa chuva pudesse ajudar? Nico fecha o guarda-chuva e entra no jardim. A nuvem vai junto. Ele caminha devagar, levando água até cada planta. A terra escurece. As flores se levantam. Nico termina encharcado, mas o jardim ganhou vida. Nesta fantasia, a nuvem finalmente abre um sorriso. E deixa um arco-íris pequenininho sobre a cabeça dele.
+
+Short60s, vertical. Nuvem que segue uma pessoa, sorri e produz arco-íris personalizado é fantasia. Flores recuperam postura como estilização, sem ensinar botânica instantânea. Final otimista: chuva direcionada ao jardim.

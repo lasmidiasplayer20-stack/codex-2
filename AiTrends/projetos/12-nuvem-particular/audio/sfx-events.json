@@ -1,0 +1,197 @@
+[
+  {
+    "seconds": 3.4166666666666665,
+    "kind": "soft procedural rain bed",
+    "duration": 51.04166666666667
+  },
+  {
+    "seconds": 9.366666666666665,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 9.766666666666666,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 10.166666666666666,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 10.566666666666666,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 10.966666666666667,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 11.366666666666667,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 11.766666666666666,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 12.166666666666668,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 31.2,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 31.9,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 32.6,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 33.3,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 34.0,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 34.7,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 35.40833333333334,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 36.108333333333334,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 36.80833333333334,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 37.50833333333333,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 38.208333333333336,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 38.90833333333334,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 39.608333333333334,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 40.30833333333334,
+    "kind": "wet sneaker / pavement",
+    "duration": 0.11
+  },
+  {
+    "seconds": 15.5,
+    "kind": "umbrella unfolding cloth",
+    "duration": 0.4
+  },
+  {
+    "seconds": 29.541666666666668,
+    "kind": "umbrella closing cloth",
+    "duration": 0.4
+  },
+  {
+    "seconds": 19.941666666666666,
+    "kind": "small water drip",
+    "duration": 0.08
+  },
+  {
+    "seconds": 20.191666666666666,
+    "kind": "small water drip",
+    "duration": 0.08
+  },
+  {
+    "seconds": 20.441666666666666,
+    "kind": "small water drip",
+    "duration": 0.08
+  },
+  {
+    "seconds": 20.691666666666666,
+    "kind": "small water drip",
+    "duration": 0.08
+  },
+  {
+    "seconds": 20.941666666666666,
+    "kind": "small water drip",
+    "duration": 0.08
+  },
+  {
+    "seconds": 54.65833333333334,
+    "kind": "tiny rainbow chime",
+    "duration": 0.6
+  },
+  {
+    "seconds": 54.888333333333335,
+    "kind": "tiny rainbow chime",
+    "duration": 0.6
+  },
+  {
+    "seconds": 55.11833333333334,
+    "kind": "tiny rainbow chime",
+    "duration": 0.6
+  },
+  {
+    "seconds": 16.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 18.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 20.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 54.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 56.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 58.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  }
+]

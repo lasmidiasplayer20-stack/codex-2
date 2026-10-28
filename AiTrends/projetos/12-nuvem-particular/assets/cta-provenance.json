@@ -1,0 +1,36 @@
+{
+  "source": "User-provided video in shared Drive folder",
+  "drive_id": "1y_93AfzB4nxtvFvMZpZUpM2U3_12zFJ8",
+  "source_title": "Anima\u00e7\u00f5es inscreva-se chroma key e deixe o like",
+  "selected_seconds": [
+    4.7,
+    11.7
+  ],
+  "crop": [
+    60,
+    260,
+    1800,
+    600
+  ],
+  "asset": "cta-green.mp4",
+  "seconds": 7,
+  "audio": "Source audio omitted; quiet Python click/bell Foley used instead",
+  "overlay_width": 900,
+  "position": [
+    90,
+    1440
+  ],
+  "intervals": [
+    [
+      15,
+      22
+    ],
+    [
+      53,
+      60
+    ]
+  ],
+  "key": "formatRGBA, colorkey0x00ff00/similarity0.35/blend0.10, despillGreen, scale900px",
+  "notes": "Only provided excerpt retained; no claimed source-license audit. Do not copy title cards or other unrelated CTA variants.",
+  "user_steering": "Larger and horizontally centered; start15s and near ending. Overrides episode11 small lower-left layout."
+}

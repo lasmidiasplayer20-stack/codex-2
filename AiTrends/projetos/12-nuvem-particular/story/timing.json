@@ -1,0 +1,81 @@
+{
+  "method": "Estimated phrase boundaries from sustained waveform gaps, no ASR claim",
+  "pause_insertions": [
+    {
+      "raw_time": 3.183666666666667,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 6.512125,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 7.789833333333333,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 11.127625,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 13.224708333333334,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 15.495,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 18.756958333333333,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 19.962875,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 22.4795,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 25.41433333333333,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 29.1145,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 30.805625,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 32.688625,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 35.312625,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 37.02916666666667,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 38.884625,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 41.195166666666665,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 43.189458333333334,
+      "insert_seconds": 0.3767916666666667
+    },
+    {
+      "raw_time": 47.42691666666666,
+      "insert_seconds": 0.3767916666666667
+    }
+  ]
+}

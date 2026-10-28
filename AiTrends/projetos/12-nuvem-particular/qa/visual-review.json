@@ -1,0 +1,20 @@
+{
+  "reviewed": "20-shot initial sheet, consecutive14s native umbrella/rain pilot14-28 and7 corrected garden/folding/finale stills",
+  "pilot_resolution": [
+    1080,
+    1920
+  ],
+  "pilot_frames": 336,
+  "msaa": true,
+  "numeric_checks": "60 positions, zero nonfinite/render/umbrella grip errors",
+  "issues_corrected": [
+    "Umbrella ribs remained wide while cloth folded",
+    "Entry camera framed protagonist too close to edge",
+    "Dry plants needed visibly muted drooping posture",
+    "Umbrella needed to block covered rain paths before side shower"
+  ],
+  "user_steering": "CTA enlarged and centered at15s and53s",
+  "limitations": "Sampled visual review; no full human listening or independent ASR claim.",
+  "additional_review": "Native80-frame run/turn pilot inspected at six consecutive moments; after review, ground puddles anchored to world rather than following Nico.",
+  "final_review": "Opened actual final-MP4 distributed contact sheet, four CTA-on-scene frames16.5/20/54.5/57s and six consecutive run frames9.4\u201312.2s. CTA larger900px centered atx90, no green background, faces clear; puddles remain in world coordinates."
+}

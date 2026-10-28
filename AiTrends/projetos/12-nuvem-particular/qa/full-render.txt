@@ -1,0 +1,33 @@
+Rendering frames 0-1440 (60.0 s) with 2 worker(s)…
+  48/1440 frames  4.35 fps  elapsed 0m11s  eta 5m20s
+  96/1440 frames  4.77 fps  elapsed 0m20s  eta 4m42s
+  144/1440 frames  4.97 fps  elapsed 0m29s  eta 4m21s
+  192/1440 frames  5.09 fps  elapsed 0m38s  eta 4m05s
+  240/1440 frames  5.17 fps  elapsed 0m46s  eta 3m52s
+  288/1440 frames  5.25 fps  elapsed 0m55s  eta 3m39s
+  336/1440 frames  5.30 fps  elapsed 1m03s  eta 3m28s
+  384/1440 frames  5.34 fps  elapsed 1m12s  eta 3m18s
+  432/1440 frames  5.37 fps  elapsed 1m20s  eta 3m08s
+  480/1440 frames  5.37 fps  elapsed 1m29s  eta 2m59s
+  528/1440 frames  5.36 fps  elapsed 1m38s  eta 2m50s
+  576/1440 frames  5.32 fps  elapsed 1m48s  eta 2m42s
+  624/1440 frames  5.29 fps  elapsed 1m58s  eta 2m34s
+  672/1440 frames  5.23 fps  elapsed 2m08s  eta 2m27s
+  720/1440 frames  5.18 fps  elapsed 2m19s  eta 2m19s
+  768/1440 frames  5.18 fps  elapsed 2m28s  eta 2m10s
+  816/1440 frames  5.16 fps  elapsed 2m38s  eta 2m01s
+  864/1440 frames  5.14 fps  elapsed 2m48s  eta 1m52s
+  912/1440 frames  5.13 fps  elapsed 2m58s  eta 1m43s
+  960/1440 frames  5.13 fps  elapsed 3m07s  eta 1m34s
+  1008/1440 frames  5.14 fps  elapsed 3m16s  eta 1m24s
+  1056/1440 frames  5.15 fps  elapsed 3m25s  eta 1m15s
+  1104/1440 frames  5.16 fps  elapsed 3m34s  eta 1m05s
+  1152/1440 frames  5.17 fps  elapsed 3m43s  eta 0m56s
+  1200/1440 frames  5.16 fps  elapsed 3m53s  eta 0m47s
+  1248/1440 frames  5.15 fps  elapsed 4m02s  eta 0m37s
+  1296/1440 frames  5.16 fps  elapsed 4m11s  eta 0m28s
+  1344/1440 frames  5.14 fps  elapsed 4m22s  eta 0m19s
+  1392/1440 frames  5.13 fps  elapsed 4m31s  eta 0m09s
+  1440/1440 frames  5.10 fps  elapsed 4m43s  eta 0m00s
+
+Done: /workspace/cloud-private/full-silent.mp4  (4m43s)

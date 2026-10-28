@@ -1,0 +1,18 @@
+{
+  "sha256": "e701e8ac43df38124b4a2f78d6f8642fcf39d360a93d7b11ef666219df5ec14b",
+  "files": [
+    "config.json",
+    "runtime-style.json",
+    "story/shots.json",
+    "scenes/film.js",
+    "scenes/rig.js",
+    "assets/cta-green.mp4"
+  ],
+  "fps": 24,
+  "frames": 1440,
+  "seconds": 60,
+  "resolution": [
+    1080,
+    1920
+  ]
+}
