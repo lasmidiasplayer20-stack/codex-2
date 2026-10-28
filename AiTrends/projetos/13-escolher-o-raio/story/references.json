@@ -1,0 +1,16 @@
+{
+  "originality": "Original what-if story based on thumbnail topics supplied by user; no source video watched or copied.",
+  "sources_for_reader": [
+    {
+      "url": "https://www.weather.gov/safety/lightning-rods",
+      "topic": "Protection path and rod does not attract all nearby lightning",
+      "live_access": "Blocked by proxy HTTP403; no claim of current page consultation"
+    },
+    {
+      "url": "https://www.weather.gov/safety/lightning",
+      "topic": "Safe shelter and 30-minute rule",
+      "live_access": "Not fetched in this production"
+    }
+  ],
+  "technical_scope": "Conceptual simplified illustration, not installation guidance, electrical design or guaranteed immunity. Power to choose lightning is explicitly fictional."
+}

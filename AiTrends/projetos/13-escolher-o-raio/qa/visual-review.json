@@ -1,0 +1,25 @@
+{
+  "reviewed_actual_final_export": true,
+  "contact_sheet": "filme-completo.jpg",
+  "actual_export_review_frames": 24,
+  "cta_review": "cta-final.jpg",
+  "movement_review": "movimento-personagens.jpg",
+  "rain_consecutive_frames": "chuva-quadros-consecutivos.jpg",
+  "numeric_scene_frames": 72,
+  "numeric_rain_downward": 477,
+  "numeric_rain_top_respawns": 23,
+  "numeric_rain_unexpected": 0,
+  "observations": [
+    "Actual final CTA keyed without green rectangle and away from faces at sampled instants",
+    "Underground conductor/soil cutaway is visible after hiding occluding terrain",
+    "Ending shows our characters inside a room, away from closed window",
+    "Nico translates during walking segments; leg poses change across sampled frames",
+    "Illustrative lightning is sustained, no alternating exposure flashes in source"
+  ],
+  "limits": [
+    "No complete human listening or independent ASR",
+    "Approximate narration alignment via word-position estimates and waveform gaps",
+    "Perceptual review uses representative/consecutive images and two native ten-second pilots, not full human playback approval"
+  ],
+  "approved_by_user": false
+}

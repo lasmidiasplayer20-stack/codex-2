@@ -1,0 +1,462 @@
+{
+  "title": "13 - E se você escolhesse onde o raio cai",
+  "duration": 90,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.0416666666666665,
+      "line": "",
+      "scene": "intro",
+      "bars": "none",
+      "params": {
+        "cam": "intro",
+        "label": [
+          "E SE VOCÊ ESCOLHESSE",
+          "ONDE O RAIO CAI?"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.0416666666666665,
+      "end": 6.375,
+      "line": "",
+      "scene": "power",
+      "bars": "none",
+      "params": {
+        "cam": "power",
+        "label": [
+          "UM PODER",
+          "NA TEMPESTADE"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.375,
+      "end": 9.583333333333334,
+      "line": "",
+      "scene": "tree",
+      "bars": "none",
+      "params": {
+        "cam": "tree",
+        "label": [
+          "UMA ÁRVORE?",
+          "NÃO É ABRIGO!"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.583333333333334,
+      "end": 14.666666666666666,
+      "line": "",
+      "scene": "lia",
+      "bars": "none",
+      "params": {
+        "cam": "lia",
+        "label": [
+          "LIA INTERROMPE",
+          "ISSO É FANTASIA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s05",
+      "start": 14.666666666666666,
+      "end": 17.041666666666668,
+      "line": "",
+      "scene": "roof",
+      "bars": "none",
+      "params": {
+        "cam": "roof",
+        "label": [
+          "E O TELHADO?",
+          "PÉSSIMA IDEIA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s06",
+      "start": 17.041666666666668,
+      "end": 23.541666666666668,
+      "line": "",
+      "scene": "risk",
+      "bars": "none",
+      "params": {
+        "cam": "risk",
+        "label": [
+          "SEM PROTEÇÃO",
+          "HÁ RISCO DE INCÊNDIO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s07",
+      "start": 23.541666666666668,
+      "end": 26.958333333333332,
+      "line": "",
+      "scene": "overview",
+      "bars": "none",
+      "params": {
+        "cam": "overview",
+        "label": [
+          "UM SISTEMA",
+          "DE PROTEÇÃO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s08",
+      "start": 26.958333333333332,
+      "end": 30.0,
+      "line": "",
+      "scene": "rod",
+      "bars": "none",
+      "params": {
+        "cam": "rod",
+        "label": [
+          "CAPTAÇÃO",
+          "NO ALTO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s09",
+      "start": 30.0,
+      "end": 31.875,
+      "line": "",
+      "scene": "metal",
+      "bars": "none",
+      "params": {
+        "cam": "metal",
+        "label": [
+          "METAL",
+          "NÃO É MAGIA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s10",
+      "start": 31.875,
+      "end": 37.583333333333336,
+      "line": "",
+      "scene": "myth",
+      "bars": "none",
+      "params": {
+        "cam": "myth",
+        "label": [
+          "NÃO PUXA TODOS",
+          "OS RAIOS DO BAIRRO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s11",
+      "start": 37.583333333333336,
+      "end": 40.333333333333336,
+      "line": "",
+      "scene": "catch",
+      "bars": "none",
+      "params": {
+        "cam": "catch",
+        "label": [
+          "SE ATINGIR",
+          "O SISTEMA…"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s12",
+      "start": 40.333333333333336,
+      "end": 42.416666666666664,
+      "line": "",
+      "scene": "cable",
+      "bars": "none",
+      "params": {
+        "cam": "cable",
+        "label": [
+          "CONDUTORES",
+          "LEVAM A CORRENTE"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s13",
+      "start": 42.416666666666664,
+      "end": 44.125,
+      "line": "",
+      "scene": "earth",
+      "bars": "none",
+      "params": {
+        "cam": "earth",
+        "label": [
+          "ATERRAMENTO",
+          "CONEXÃO COM O SOLO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s14",
+      "start": 44.125,
+      "end": 45.958333333333336,
+      "line": "",
+      "scene": "spread",
+      "bars": "none",
+      "params": {
+        "cam": "spread",
+        "label": [
+          "A CORRENTE",
+          "SE ESPALHA NO SOLO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s15",
+      "start": 45.958333333333336,
+      "end": 50.25,
+      "line": "",
+      "scene": "route",
+      "bars": "none",
+      "params": {
+        "cam": "route",
+        "label": [
+          "CAPTAÇÃO → DESCIDA",
+          "→ ATERRAMENTO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s16",
+      "start": 50.25,
+      "end": 54.583333333333336,
+      "line": "",
+      "scene": "surge",
+      "bars": "none",
+      "params": {
+        "cam": "surge",
+        "label": [
+          "SURTOS PODEM VIR",
+          "PELA REDE"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s17",
+      "start": 54.583333333333336,
+      "end": 59.791666666666664,
+      "line": "",
+      "scene": "shield",
+      "bars": "none",
+      "params": {
+        "cam": "shield",
+        "label": [
+          "PROTEÇÃO",
+          "CONTRA SURTOS"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s18",
+      "start": 59.791666666666664,
+      "end": 62.791666666666664,
+      "line": "",
+      "scene": "system",
+      "bars": "none",
+      "params": {
+        "cam": "system",
+        "label": [
+          "PROJETO COMPLETO",
+          "NÃO UMA HASTE AVULSA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s19",
+      "start": 62.791666666666664,
+      "end": 65.83333333333333,
+      "line": "",
+      "scene": "choice",
+      "bars": "none",
+      "params": {
+        "cam": "choice",
+        "label": [
+          "NICO MUDA",
+          "DE IDEIA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s20",
+      "start": 65.83333333333333,
+      "end": 67.58333333333333,
+      "line": "",
+      "scene": "enter",
+      "bars": "none",
+      "params": {
+        "cam": "enter",
+        "label": [
+          "OS DOIS",
+          "ENTRAM EM SEGURANÇA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s21",
+      "start": 67.58333333333333,
+      "end": 71.04166666666667,
+      "line": "",
+      "scene": "safe",
+      "bars": "none",
+      "params": {
+        "cam": "safe",
+        "label": [
+          "CHEGA DE",
+          "BRINCAR DE ALVO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s22",
+      "start": 71.04166666666667,
+      "end": 74.45833333333333,
+      "line": "",
+      "scene": "lia2",
+      "bars": "none",
+      "params": {
+        "cam": "lia2",
+        "label": [
+          "OUVIU TROVÃO?",
+          "PROCURE ABRIGO"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s23",
+      "start": 74.45833333333333,
+      "end": 80.95833333333333,
+      "line": "",
+      "scene": "wait",
+      "bars": "none",
+      "params": {
+        "cam": "wait",
+        "label": [
+          "ANTES DE VOLTAR",
+          "À ÁREA EXTERNA"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    },
+    {
+      "id": "s24",
+      "start": 80.95833333333333,
+      "end": 90,
+      "line": "",
+      "scene": "end",
+      "bars": "none",
+      "params": {
+        "cam": "end",
+        "label": [
+          "O PODER É INVENTADO",
+          "A PROTEÇÃO É REAL"
+        ]
+      },
+      "in": {
+        "type": "cut",
+        "dur": 0
+      }
+    }
+  ]
+}

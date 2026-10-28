@@ -194,3 +194,14 @@ O usuário forneceu e pediu usar o CTA verde da pasta Drive. Asset reutilizável
 A primeira entrega do12 tinha fase de partículas que aumentava a altura: chuva subindo. Inverter a fase vertical e orientar o traço conforme a trajetória de queda. Não confiar só em stills ou amostras espaçadas: verificar quadros consecutivos e o sinal do deslocamento vertical de cada gota, separando o salto de reposição do chão para o topo. Evidência corrigida: `../projetos/12-nuvem-particular/qa/rain-direction-validation.json` e `chuva-queda-consecutiva.jpg`. Reutilizar narração/mix/CTA, sem novas chamadas para corrigir uma animação.
 
 No12, a checagem independente de pixels também distinguiu o erro: deslocamento dominante−62px/quadro na versão anterior e+60px/quadro no piloto corrigido (eixo vertical de imagem cresce para baixo). `scripts/audit_rain_pixels.py` mede máscara de chuva em tomada estacionária; ajustar ROI/tempo antes de aplicar a outro projeto ou câmera em movimento.
+
+
+## Short13 — para-raios,90segundos e consistência de voz
+
+Pedido explícito do usuário: permitir90segundos neste episódio, preservar CTA em vídeo e corrigir diferenças percebidas entre trechos da narração. Referência `../projetos/13-escolher-o-raio/`: preferir uma única geração de fala para uma duração curta, mesma Puck/modelo/direção aceitos. Isso elimina emendas de chamadas distintas, mas não garante timbre perfeitamente constante; não declarar aprovação sem retorno do usuário. Ganho estático/EQ suave, sem acelerar voz ou acrescentar compressão para perseguir volume. Reaproveitar fonte para revisões de mix.
+
+Duração excepcional90s =2160quadros/24fps, vertical1080×1920; não retornar automaticamente ao alvo60s neste projeto. CTA fornecido900px centralizado emx90/y1440,15–22s e81–88s. Pacote YouTube com capa9:16 e arquivo únicoYOUTUBE. Foley Python continua obrigatório.
+
+Diagramas subterrâneos: ocultar piso/terreno que encobre o assunto, mantendo um corte de solo atrás dos condutores. Rodas de partículas em anéis devem representar propagação ilustrativa, não escala física. Diferenciar poder fictício de segurança real. Não apresentar haste solta como sistema completo, não afirmar que puxa todos os raios e não sugerir árvores como abrigo. Conferir que o encerramento realmente mostre personagens dentro do abrigo, afastados da janela. Sem estrobos: descarga ilustrada estável, iluminação/exposição constantes.
+
+No13, uma única chamada ainda apresentou subida gradual de volume: diferença6,28dB entre medianas RMS de janelas ativas. Corrigimos localmente com curva lenta de ganho pré-calculada, resultando0,70dB na mesma comparação. Evidência em `../projetos/13-escolher-o-raio/audio/consistency-check.json`. Portanto, uma única chamada reduz emendas, mas não substitui checagem de nível ao longo do áudio. Preservar dinâmica de sílabas/frases, evitar AGC rápido e não confundir uniformidade medida com naturalidade de timbre comprovada.

@@ -1,0 +1,10 @@
+{
+  "seconds": 60,
+  "frames": 1440,
+  "width": 1080,
+  "height": 1920,
+  "full_decode_passed": true,
+  "source": "First60seconds of final90s MP4, transcoded to exact frame duration",
+  "bytes": 16692293,
+  "sha256": "b44ae1f1fcf4c8c1e89e9c6e7ab5a57dc578a6f563de6721a37f16c1d4160fc5"
+}

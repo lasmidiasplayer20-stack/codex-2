@@ -1,0 +1,52 @@
+{
+  "generation_groups": 1,
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "approximate_active_voice_window_spread_db": 0.6997153506608207,
+  "windows": [
+    {
+      "start": 0,
+      "end": 20,
+      "active_100ms_rms_median_dbfs": -21.995905055147432,
+      "sample_peak_dbfs": -4.500292425884415
+    },
+    {
+      "start": 20,
+      "end": 40,
+      "active_100ms_rms_median_dbfs": -21.857869089474473,
+      "sample_peak_dbfs": -4.705629394978537
+    },
+    {
+      "start": 40,
+      "end": 60,
+      "active_100ms_rms_median_dbfs": -22.231812931978865,
+      "sample_peak_dbfs": -5.1549473316612096
+    },
+    {
+      "start": 60,
+      "end": 80,
+      "active_100ms_rms_median_dbfs": -21.722544771195476,
+      "sample_peak_dbfs": -6.215206290787149
+    },
+    {
+      "start": 80,
+      "end": 90,
+      "active_100ms_rms_median_dbfs": -21.532097581318045,
+      "sample_peak_dbfs": -7.406936036266726
+    }
+  ],
+  "no_inter_call_joins": true,
+  "source_preserved": true,
+  "dynamic_normalization": false,
+  "compression_added": false,
+  "limitations": "RMS comparisons do not establish identical timbre, semantic correctness or perceived naturalness. No complete human listening or ASR performed.",
+  "before_fixed_gain_automation_spread_db": 6.2766079069371585,
+  "fixed_slow_gain_automation": true,
+  "before_window_medians_dbfs": [
+    -24.874766061624065,
+    -23.537494326354892,
+    -21.882225139237697,
+    -19.78459750436543,
+    -18.598158154686907
+  ]
+}

@@ -1,0 +1,11 @@
+# Narração — episódio13
+
+E se você pudesse escolher onde o raio cai? Nico ganha esse poder numa tempestade. Aponta para uma árvore... mas Lia interrompe: isso é fantasia, não um lugar seguro!
+Ele escolhe o telhado. Péssima ideia. Sem proteção adequada, a descarga pode atravessar a construção e provocar um incêndio.
+Então Lia revela um sistema de proteção. Lá em cima, uma haste metálica. Mas ela não funciona sozinha, nem é um ímã que puxa todos os raios do bairro.
+Se a descarga atingir o sistema, condutores levam a corrente até o aterramento, onde ela se espalha pelo solo. A câmera acompanha esse caminho: captação, descida, terra.
+Só que a eletricidade também pode entrar pela rede. Por isso, o projeto inclui outras medidas, como proteção contra surtos. Uma haste isolada não resolve tudo.
+Nico desiste de brincar de alvo. Os dois entram num prédio fechado e se afastam da janela. Se você ouve trovões, procure abrigo adequado. Espere trinta minutos depois do último trovão para voltar às atividades ao ar livre.
+O poder de escolher o raio é inventado. A escolha de se proteger é bem real.
+
+Direção e plano visual próprios em `story/shots.json`. Hipótese fictícia; explicação simplificada.

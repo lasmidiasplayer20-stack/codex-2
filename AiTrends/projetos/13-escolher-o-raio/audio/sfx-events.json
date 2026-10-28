@@ -1,0 +1,132 @@
+[
+  {
+    "seconds": 2,
+    "kind": "distant soft thunder",
+    "duration": 2.2
+  },
+  {
+    "seconds": 8,
+    "kind": "distant soft thunder",
+    "duration": 2.2
+  },
+  {
+    "seconds": 14,
+    "kind": "distant soft thunder",
+    "duration": 2.2
+  },
+  {
+    "seconds": 36,
+    "kind": "distant soft thunder",
+    "duration": 2.2
+  },
+  {
+    "seconds": 39,
+    "kind": "current tracing chime",
+    "duration": 0.32
+  },
+  {
+    "seconds": 43,
+    "kind": "current tracing chime",
+    "duration": 0.32
+  },
+  {
+    "seconds": 47,
+    "kind": "current tracing chime",
+    "duration": 0.32
+  },
+  {
+    "seconds": 50,
+    "kind": "current tracing chime",
+    "duration": 0.32
+  },
+  {
+    "seconds": 3.4,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 4.0,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 4.6,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 5.2,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 15.0,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 15.6,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 16.2,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 66.0,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 66.5,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 67.0,
+    "kind": "sneaker on pavement",
+    "duration": 0.1
+  },
+  {
+    "seconds": 67.5,
+    "kind": "door latch",
+    "duration": 0.22
+  },
+  {
+    "seconds": 16.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 18.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 20.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 82.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 84.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 86.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 0,
+    "duration": 67,
+    "kind": "soft rain ambience"
+  }
+]
