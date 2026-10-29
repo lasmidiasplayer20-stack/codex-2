@@ -1,0 +1,738 @@
+{
+  "sampled_frames": 56,
+  "errors": [],
+  "nonfinite": 0,
+  "prop_contact_failures": 0,
+  "max_lid_contact_m": 0,
+  "records": [
+    {
+      "seconds": 0.525,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        4.805141548869494,
+        7.493227513227513,
+        12.277545876837054
+      ]
+    },
+    {
+      "seconds": 1.8375,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        5.322248496808271,
+        7.166141485400745,
+        11.840567468787093
+      ]
+    },
+    {
+      "seconds": 3.4125,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        7.142331147607056,
+        5.897142857142857,
+        9.776821547863392
+      ]
+    },
+    {
+      "seconds": 4.7250000000000005,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        7.582295747431482,
+        5.548610621203214,
+        9.116540635312171
+      ]
+    },
+    {
+      "seconds": 5.470833333333333,
+      "cam": "carry",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": 0,
+      "camera": [
+        0.008161099431073937,
+        2.900134339085285,
+        7.596843031495798
+      ]
+    },
+    {
+      "seconds": 6.022916666666666,
+      "cam": "carry",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": 0,
+      "camera": [
+        0.38076425505618744,
+        2.906267724363065,
+        7.452708477467977
+      ]
+    },
+    {
+      "seconds": 6.685416666666667,
+      "cam": "carry",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": 0,
+      "camera": [
+        1.9821841520181098,
+        2.932628545712232,
+        6.833229175762542
+      ]
+    },
+    {
+      "seconds": 7.2375,
+      "cam": "carry",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": 0,
+      "camera": [
+        2.415897620183104,
+        2.939767862060627,
+        6.66545524157526
+      ]
+    },
+    {
+      "seconds": 7.591666666666667,
+      "cam": "fort",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        7.6942012470793255,
+        23.0001318359375,
+        20.16573851251146
+      ]
+    },
+    {
+      "seconds": 7.925,
+      "cam": "fort",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        8.797940195545047,
+        23.0064990234375,
+        19.20027780790031
+      ]
+    },
+    {
+      "seconds": 8.325,
+      "cam": "fort",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        12.541777536313225,
+        23.0315625,
+        14.284874075247922
+      ]
+    },
+    {
+      "seconds": 8.658333333333333,
+      "cam": "fort",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        13.509039230192798,
+        23.0396875,
+        12.363552691488675
+      ]
+    },
+    {
+      "seconds": 9.1,
+      "cam": "company",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.4997291374647108,
+        2.9001354312676444,
+        2.299525990563244
+      ]
+    },
+    {
+      "seconds": 9.870833333333334,
+      "cam": "company",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.4876611454405464,
+        2.9061694272797265,
+        2.278407004520956
+      ]
+    },
+    {
+      "seconds": 10.795833333333334,
+      "cam": "company",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.433879533295165,
+        2.933060233352417,
+        2.184289183266539
+      ]
+    },
+    {
+      "seconds": 11.566666666666666,
+      "cam": "company",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.4204043195862042,
+        2.939797840206898,
+        2.160707559275857
+      ]
+    },
+    {
+      "seconds": 12.370833333333334,
+      "cam": "needs",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        4.000252747663573,
+        5.000126373831787,
+        7.9995576915887465
+      ]
+    },
+    {
+      "seconds": 13.610416666666666,
+      "cam": "needs",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        4.01308761962521,
+        5.006543809812605,
+        7.977096665655882
+      ]
+    },
+    {
+      "seconds": 15.097916666666666,
+      "cam": "needs",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        4.065931202930999,
+        5.0329656014654995,
+        7.884620394870751
+      ]
+    },
+    {
+      "seconds": 16.3375,
+      "cam": "needs",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        4.079671864791393,
+        5.039835932395697,
+        7.8605742366150615
+      ]
+    },
+    {
+      "seconds": 17.141666666666666,
+      "cam": "region",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.00027086253529,
+        8.500135431267644,
+        6.999525990563244
+      ]
+    },
+    {
+      "seconds": 17.9125,
+      "cam": "region",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.01233885455945,
+        8.506169427279726,
+        6.978407004520956
+      ]
+    },
+    {
+      "seconds": 18.8375,
+      "cam": "region",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.06612046670484,
+        8.533060233352417,
+        6.884289183266539
+      ]
+    },
+    {
+      "seconds": 19.608333333333334,
+      "cam": "region",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.079595680413796,
+        8.539797840206898,
+        6.860707559275857
+      ]
+    },
+    {
+      "seconds": 20.183333333333334,
+      "cam": "village",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.993671875,
+        3.6001318359375003,
+        5.99953857421875
+      ]
+    },
+    {
+      "seconds": 20.85,
+      "cam": "village",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.688046875,
+        3.6064990234375,
+        5.97725341796875
+      ]
+    },
+    {
+      "seconds": 21.65,
+      "cam": "village",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        34.436455078125,
+        3.6325738525390627,
+        5.885991516113282
+      ]
+    },
+    {
+      "seconds": 22.316666666666666,
+      "cam": "village",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        34.090048828125,
+        3.6397906494140626,
+        5.860732727050781
+      ]
+    },
+    {
+      "seconds": 23.075,
+      "cam": "contact",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.00025922806129,
+        8.500129614030646,
+        6.999546350892739
+      ]
+    },
+    {
+      "seconds": 24.304166666666667,
+      "cam": "contact",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.0134231834803,
+        8.50671159174015,
+        6.97650942890948
+      ]
+    },
+    {
+      "seconds": 25.779166666666665,
+      "cam": "contact",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.06557048188958,
+        8.53278524094479,
+        6.885251656693235
+      ]
+    },
+    {
+      "seconds": 27.008333333333333,
+      "cam": "contact",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        35.07966345147264,
+        8.539831725736322,
+        6.860588959922874
+      ]
+    },
+    {
+      "seconds": 27.854166666666668,
+      "cam": "water",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -3.5997332139222475,
+        2.6001333930388766,
+        -7.900466875636067
+      ]
+    },
+    {
+      "seconds": 28.739583333333332,
+      "cam": "water",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -3.587291707714228,
+        2.6063541461428863,
+        -7.922239511500101
+      ]
+    },
+    {
+      "seconds": 29.802083333333336,
+      "cam": "water",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -3.534068797069001,
+        2.6329656014654996,
+        -8.01537960512925
+      ]
+    },
+    {
+      "seconds": 30.6875,
+      "cam": "water",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -3.5203798575208634,
+        2.6398100712395687,
+        -8.039335249338489
+      ]
+    },
+    {
+      "seconds": 31.354166666666668,
+      "cam": "hammer",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -0.5997398281481481,
+        2.400130085925926,
+        4.99954469925926
+      ]
+    },
+    {
+      "seconds": 32.135416666666664,
+      "cam": "hammer",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -0.5866682785185185,
+        2.4066658607407407,
+        4.976669487407407
+      ]
+    },
+    {
+      "seconds": 33.072916666666664,
+      "cam": "hammer",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -0.5349299200000001,
+        2.43253504,
+        4.88612736
+      ]
+    },
+    {
+      "seconds": 33.854166666666664,
+      "cam": "hammer",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -0.5203883614814815,
+        2.4398058192592593,
+        4.860679632592593
+      ]
+    },
+    {
+      "seconds": 34.34166666666666,
+      "cam": "wall",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.4997235719684698,
+        3.3001382140157647,
+        5.999516250944822
+      ]
+    },
+    {
+      "seconds": 34.77916666666666,
+      "cam": "wall",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.488148148148148,
+        3.305925925925926,
+        5.979259259259259
+      ]
+    },
+    {
+      "seconds": 35.30416666666667,
+      "cam": "wall",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.4345772594752186,
+        3.3327113702623903,
+        5.8855102040816325
+      ]
+    },
+    {
+      "seconds": 35.74166666666667,
+      "cam": "wall",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        -1.420539898499082,
+        3.339730050750459,
+        5.860944822373393
+      ]
+    },
+    {
+      "seconds": 36.3125,
+      "cam": "barrel",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        4.000272086309958,
+        2.7001360431549792,
+        4.499523848957574
+      ]
+    },
+    {
+      "seconds": 37.30208333333333,
+      "cam": "barrel",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        4.013412847353842,
+        2.706706423676921,
+        4.476527517130777
+      ]
+    },
+    {
+      "seconds": 38.489583333333336,
+      "cam": "barrel",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        4.065330479661759,
+        2.7326652398308795,
+        4.385671660591923
+      ]
+    },
+    {
+      "seconds": 39.479166666666664,
+      "cam": "barrel",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        4.079626767750401,
+        2.739813383875201,
+        4.360653156436799
+      ]
+    },
+    {
+      "seconds": 40.09583333333333,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        3.0232686781705707,
+        2.2025200426990024,
+        3.199529813201502
+      ]
+    },
+    {
+      "seconds": 40.64791666666667,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        3.03553544872613,
+        2.2148476106655144,
+        3.1780629647292735
+      ]
+    },
+    {
+      "seconds": 41.31041666666667,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        3.0882570914244645,
+        2.2486872034138714,
+        3.085800090007188
+      ]
+    },
+    {
+      "seconds": 41.862500000000004,
+      "cam": "look",
+      "errors": [],
+      "finite": true,
+      "lid_contact": 0,
+      "wood_contact": null,
+      "camera": [
+        3.1025357241212546,
+        2.2560368109801,
+        3.0608124827878047
+      ]
+    },
+    {
+      "seconds": 42.875,
+      "cam": "ships",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        0.02031999999999957,
+        6.194115912674246,
+        -7.012560000000001
+      ]
+    },
+    {
+      "seconds": 44.85416666666667,
+      "cam": "ships",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        0.851715806968946,
+        6.21122550487055,
+        -7.526454258638284
+      ]
+    },
+    {
+      "seconds": 47.22916666666667,
+      "cam": "ships",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        4.1889802945035735,
+        6.211717985723328,
+        -9.589251599358507
+      ]
+    },
+    {
+      "seconds": 49.208333333333336,
+      "cam": "ships",
+      "errors": [],
+      "finite": true,
+      "lid_contact": null,
+      "wood_contact": null,
+      "camera": [
+        5.05968,
+        6.19611013873485,
+        -10.12744
+      ]
+    }
+  ],
+  "limits": "Numerical integration check, not historical validation or full perceptual review."
+}

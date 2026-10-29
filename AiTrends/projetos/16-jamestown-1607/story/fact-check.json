@@ -1,0 +1,104 @@
+{
+  "sources": [
+    {
+      "id": "NPS1",
+      "title": "A Short History of Jamestown",
+      "url": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+      "actually_read": true,
+      "page_updated": "2022-09-16"
+    },
+    {
+      "id": "NPS2",
+      "title": "The First Residents of Jamestown",
+      "url": "https://www.nps.gov/jame/learn/historyculture/the-first-residents-of-jamestown.htm",
+      "actually_read": true
+    },
+    {
+      "id": "NPS3",
+      "title": "Pocahontas: Her Life and Legend",
+      "url": "https://www.nps.gov/jame/learn/historyculture/pocahontas-her-life-and-legend.htm",
+      "actually_read": true,
+      "scope": "General Powhatan context and mat-covered houses/food production; disputed biography is not dramatized"
+    },
+    {
+      "id": "OS1",
+      "title": "OpenStax U.S. History — English Settlements in America",
+      "repository": "https://github.com/openstax/osbooks-us-history",
+      "commit": "c05b860a035ff59a2ca1fd44339ef86694e09b57",
+      "file": "modules/m49996/index.cnxml",
+      "actually_read": true,
+      "method": "Official publisher text read via git/show"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "English settlement at Jamestown dates to1607; arrival inMay, fiction set inJune",
+      "sources": [
+        "NPS1",
+        "OS1"
+      ]
+    },
+    {
+      "claim": "Virginia Company financed venture with expectation of profit",
+      "sources": [
+        "NPS1",
+        "OS1"
+      ]
+    },
+    {
+      "claim": "Fort was triangular, completedJune15,1607",
+      "sources": [
+        "NPS1"
+      ]
+    },
+    {
+      "claim": "Region was part of Indigenous Powhatan world, not an empty continent; assistance and conflict both characterized relationships",
+      "sources": [
+        "NPS1",
+        "NPS3",
+        "OS1"
+      ]
+    },
+    {
+      "claim": "River water contributed to health problems, among several factors",
+      "sources": [
+        "NPS1"
+      ],
+      "phrasing": "conditional podia trazer doenças; not a diagnosis or sole-cause claim"
+    },
+    {
+      "claim": "Carpenters and other trades present in first cohort",
+      "sources": [
+        "NPS2"
+      ],
+      "limit": "Does not authenticate the invented Nico or his particular workday"
+    },
+    {
+      "claim": "Christopher Newport departed forEngland onJune22,1607",
+      "sources": [
+        "NPS1"
+      ],
+      "visual": "Final shot labelled days later; one symbolic departing ship, not all3 ships departing together"
+    }
+  ],
+  "dramatization": [
+    "Nico identity, his gestures, wall, grain level in barrel, expressions and chronology of his imagined day are invented narrative, identified on screen",
+    "Interior fort buildings and exact arrangement are interpretive, not archaeological survey",
+    "Ship proportions, hull/rigging and symbolic vessel motion are illustrative, not authenticated replicas of named ships",
+    "Schematic Powhatan village/markers are not a geographic map or exact settlement locations",
+    "Period-inspired doublet/breeches/hose/cap preserve character identity; colors and individual garments are not documented portraits"
+  ],
+  "anachronisms_avoided": [
+    "No modern hoodie zipper, modern trainers, UnitedStates flag, electric tools or tobacco plantation in1607",
+    "No English woman presented as member of originalMay1607 cohort",
+    "No1609-1610starving-time scenes presented asJune1607",
+    "No invented quotations, Indigenous thoughts, Pocahontas romance or claimed eyewitness diary"
+  ],
+  "access_limits": [
+    {
+      "url": "https://historicjamestowne.org/history/history-of-jamestown/",
+      "status": "Blocked403evenescalated; not used as a read source"
+    }
+  ],
+  "ending": "Open supplies/departure thread, no spoken part2, no promise about a specific next event"
+}

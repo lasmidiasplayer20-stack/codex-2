@@ -1,0 +1,5 @@
+# Jamestown —50segundos
+
+Imagine acordar em Jamestown, em junho de mil seiscentos e sete. Nico carrega madeira para um forte triangular. A Companhia da Virgínia espera lucro, mas ali o urgente é conseguir abrigo, comida e água. E aquele território não estava vazio: ali já viviam povos indígenas. O encontro entre ingleses e indígenas envolveu aproximações e conflitos. Beber do rio também podia trazer doenças. Ao anoitecer, Nico termina uma parede. Parece uma vitória. Até ele olhar os barris de comida. Madeira não mata a fome. E os navios que trouxeram os colonos não vão ficar ali para sempre.
+
+Nico é fictício. Trabalho/gestos/barril são dramatizações. Contexto verificado em `story/fact-check.json`. A última tomada avança para22dejunho; nenhuma fala anuncia uma parte2.

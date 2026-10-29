@@ -1,0 +1,102 @@
+[
+  {
+    "seconds": 5.37,
+    "kind": "soft leather shoe on earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 5.85,
+    "kind": "soft leather shoe on earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 6.329999999999999,
+    "kind": "soft leather shoe on earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 6.809999999999999,
+    "kind": "soft leather shoe on earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 7.289999999999998,
+    "kind": "soft leather shoe on earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 31.565265441666668,
+    "kind": "wood impact / hand tool",
+    "duration": 0.055
+  },
+  {
+    "seconds": 31.565265441666668,
+    "kind": "damped timber body",
+    "duration": 0.08
+  },
+  {
+    "seconds": 32.61246299166667,
+    "kind": "wood impact / hand tool",
+    "duration": 0.055
+  },
+  {
+    "seconds": 32.61246299166667,
+    "kind": "damped timber body",
+    "duration": 0.08
+  },
+  {
+    "seconds": 33.65966054166667,
+    "kind": "wood impact / hand tool",
+    "duration": 0.055
+  },
+  {
+    "seconds": 33.65966054166667,
+    "kind": "damped timber body",
+    "duration": 0.08
+  },
+  {
+    "seconds": 36.096666666666664,
+    "kind": "wooden barrel lid creak",
+    "duration": 0.4
+  },
+  {
+    "seconds": 27.7,
+    "kind": "bucket water movement",
+    "duration": 0.4
+  },
+  {
+    "seconds": 0,
+    "duration": 50,
+    "kind": "subtle river / wind ambience, Python filtered noise"
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 43,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 45,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 47.8,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]

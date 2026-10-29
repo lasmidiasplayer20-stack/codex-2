@@ -1,0 +1,28 @@
+Rendering frames 0-1200 (50.0 s) with 2 worker(s)…
+  48/1200 frames  5.75 fps  elapsed 0m08s  eta 3m20s
+  96/1200 frames  6.08 fps  elapsed 0m16s  eta 3m02s
+  144/1200 frames  6.03 fps  elapsed 0m24s  eta 2m55s
+  192/1200 frames  5.98 fps  elapsed 0m32s  eta 2m49s
+  240/1200 frames  5.94 fps  elapsed 0m40s  eta 2m42s
+  288/1200 frames  5.69 fps  elapsed 0m51s  eta 2m40s
+  336/1200 frames  5.57 fps  elapsed 1m00s  eta 2m35s
+  384/1200 frames  5.51 fps  elapsed 1m10s  eta 2m28s
+  432/1200 frames  5.46 fps  elapsed 1m19s  eta 2m21s
+  480/1200 frames  5.39 fps  elapsed 1m29s  eta 2m14s
+  528/1200 frames  5.29 fps  elapsed 1m40s  eta 2m07s
+  576/1200 frames  5.21 fps  elapsed 1m51s  eta 1m60s
+  624/1200 frames  5.15 fps  elapsed 2m01s  eta 1m52s
+  672/1200 frames  5.10 fps  elapsed 2m12s  eta 1m43s
+  720/1200 frames  5.05 fps  elapsed 2m23s  eta 1m35s
+  768/1200 frames  5.02 fps  elapsed 2m33s  eta 1m26s
+  816/1200 frames  5.09 fps  elapsed 2m40s  eta 1m15s
+  864/1200 frames  5.17 fps  elapsed 2m47s  eta 1m05s
+  912/1200 frames  5.27 fps  elapsed 2m53s  eta 0m55s
+  960/1200 frames  5.37 fps  elapsed 2m59s  eta 0m45s
+  1008/1200 frames  5.48 fps  elapsed 3m04s  eta 0m35s
+  1056/1200 frames  5.57 fps  elapsed 3m10s  eta 0m26s
+  1104/1200 frames  5.65 fps  elapsed 3m15s  eta 0m17s
+  1152/1200 frames  5.70 fps  elapsed 3m22s  eta 0m08s
+  1200/1200 frames  5.75 fps  elapsed 3m29s  eta 0m00s
+
+Done: /workspace/jamestown-private/full-silent.mp4  (3m29s)

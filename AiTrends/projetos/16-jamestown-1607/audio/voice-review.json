@@ -1,0 +1,24 @@
+{
+  "user_feedback_on_previous": "senti que ficou meio ruim o ultimo",
+  "reference_episode": "15-enxergar-a-inercia",
+  "cause": "Undetermined; prior level measurements did not establish naturalness",
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "generation_calls": 1,
+  "raw_seconds": 43.45095833333333,
+  "source_clipped_samples": 0,
+  "processing": "Gentler55Hz highpass/10500Hz lowpass,8% broad-mid reduction, one static gain; no gain automation was needed for this source, no compressor",
+  "measured_source_window_spread_db": 0.8338932310442715,
+  "slow_gain_automation_db": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "speed_change": false,
+  "pitch_change": false,
+  "largest_original_gap": 0.717167,
+  "inserted_per_gap": 0.3922339743589742,
+  "limits": "Not a complete human listening/transcription review or user approval. No claim that all perceived synthetic quality is eliminated."
+}

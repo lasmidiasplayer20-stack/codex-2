@@ -1,0 +1,6 @@
+{
+  "feedback": "senti que ficou meio ruim o ultimo",
+  "applies_to": "Most recent delivered episode15; user also asks voice work onJamestown16",
+  "interpretation": "Quality complaint, not approval; no specific cause/timestamp supplied",
+  "action": "Do not treat episode15 metrics as approval. Preserve Puck, use gentler treatment and shorter concrete narration in16, one generation/cache, no automatic model switch or repeated paid trials."
+}

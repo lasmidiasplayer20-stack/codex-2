@@ -227,3 +227,12 @@ Mãos alcançáveis no volante/fecho, rodas giram pela distância real do carro,
 **Novo pedido: dois CTAs DIFERENTES do vídeo fornecido.** Variantes5/6 em `assets/cta-a.mp4` e `cta-b.mp4`, não repetir a variante1 dos episódios anteriores. Fonte57–64s e71,5–78,5s; composição15–22s e81–88s,900px centralizado. Usar duas entradas na montagem, chavear separadamente e inspecionar cada uma no MP4 final. Não incluir contagens/cartelas entre as variantes. Continuar voz Puck, curva de volume medida por episódio e Foley Python.
 
 Ao terminar esta entrega, o usuário pediu sugestões de episódios sobre história/fatos históricos. Para esses temas, separar personagem/reconstituição fictícia de fatos documentados e pesquisar antes de fixar datas, ações ou perspectivas culturais específicas.
+
+
+## Episódio16 — Jamestown,50segundos e nova reprovação de áudio
+
+Usuário reduziu explicitamente este Jamestown para cerca50s e disse que a voz do último15 ficou meio ruim. **Não tratar a entrega15 como áudio aprovado só porque passou em métricas.** Causa perceptiva não identificada; feedback em `../projetos/15-enxergar-a-inercia/qa/user-audio-feedback.json`. Preservar Puck/modelo, leitura curta concreta, tratamento menos invasivo e cache; não prometer naturalidade perfeita nem disparar novas gerações para correções de mix. No16 a fonte já veio estável0,83dB entre janelas, então usamos ganho estático sem automação adicional, EQ mais suave e nenhum compressor.
+
+Jamestown16 é short50s/1200quadros/24fps vertical1080×1920, não8min. CTA em vídeo duas variantes15–22s e42–49s; fullshort é sua própria prévia. Pedido de continuação nas entrelinhas: gancho de suprimentos/partida do navio, sem fala parte2 ou cartela continua.
+
+História: NPS e OpenStax realmente consultados; matriz de fatos em `../projetos/16-jamestown-1607/story/fact-check.json`. Nico fictício identificado, épocaJunho1607, forte triangular; último plano avança explicitamente para22junho(partida deNewport). Não confundir com fome1609–1610/tabaco comercial posterior ou mostrar todos os navios indo embora juntos. Fortes/aldeias/roupas/navios são esquemáticos, sem afirmar planta/escala arqueológica. Roupas por código adaptadas(gibão,calções,meias,barrete), sem zíper/tênis/hoodie. POV inglês não apaga os povosPowhatan já presentes; sem diálogos históricos inventados, romance ou estereótipos de outras regiões.

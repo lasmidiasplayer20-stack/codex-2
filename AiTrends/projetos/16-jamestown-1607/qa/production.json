@@ -1,0 +1,41 @@
+{
+  "user_final_seconds": 50,
+  "frames": 1200,
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "takes": 14,
+  "original_8min_proposal_superseded": true,
+  "voice_calls": 1,
+  "voice": "Puck",
+  "same_model": true,
+  "voice_source_seconds": 43.4509583333,
+  "treatment": "Gentler EQ, one static gain, no compressor/speed/pitch change; no slow gain automation needed",
+  "prior_episode_voice_disliked": true,
+  "prior_episode_approval_claimed": false,
+  "python_foley": true,
+  "cta_variants": [
+    "5",
+    "6"
+  ],
+  "cta_intervals": [
+    [
+      15,
+      22
+    ],
+    [
+      42,
+      49
+    ]
+  ],
+  "history_sources_read": [
+    "NPS1",
+    "NPS2",
+    "NPS3",
+    "OS1"
+  ],
+  "history_source_matrix": "story/fact-check.json",
+  "ending": "Implicit unresolved supplies/departure thread, not explicit part2 announcement",
+  "full_human_listening": false,
+  "independent_asr": false
+}

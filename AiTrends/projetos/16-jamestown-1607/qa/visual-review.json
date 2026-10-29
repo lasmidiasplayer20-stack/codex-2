@@ -1,0 +1,34 @@
+{
+  "reviewed_actual_final_export": true,
+  "final_mp4_sha256": "4420f5055a5572f8ff311bd514b5f8bff794723cd91ddd0d16cfebb5945656df",
+  "source_sha256": "28f679e51c679323100412ca898783eb7d64b7abacf10c11290a3ef3a3d7a5eb",
+  "contact_sheet": "filme-completo.jpg",
+  "sampled_final_frames": 15,
+  "motion_sheets": [
+    "carpintaria-movimento.jpg",
+    "barril-movimento.jpg",
+    "madeira-movimento.jpg"
+  ],
+  "cta_sheet": "cta-final.jpg",
+  "native_pilot_seconds": [
+    27,
+    42
+  ],
+  "numeric_samples": 56,
+  "prop_contact_failures": 0,
+  "observations": [
+    "Triangular palisade shown clearly from overhead, schematic label visible",
+    "Period-inspired buttoned doublet/breeches/cap, no modern zipper or trainers",
+    "Hand tracks barrel lid and carried wood; water bucket/hammer actions legible in native pilot",
+    "Indigenous territory identified, village schematic not exact geographic survey",
+    "Final dated flashforward shows one symbolic ship, not all arriving vessels departing together",
+    "Two different CTA variants keyed, no green rectangle at reviewed instants, faces visible",
+    "End leaves food/supplies unresolved; no part2 or continua in spoken text or video card"
+  ],
+  "limits": [
+    "Representative/consecutive images and native pilot, not full human playback approval",
+    "No full human listening or independent ASR; signal stability does not prove naturalness",
+    "Historical locations/scale/individual costume/props are stylized interpretations, not authenticated replicas"
+  ],
+  "user_approval": false
+}

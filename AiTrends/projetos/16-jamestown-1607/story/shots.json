@@ -1,0 +1,272 @@
+{
+  "title": "16 - Um dia em Jamestown - 1607",
+  "duration": 50,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 5.25,
+      "scene": "hook",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook",
+        "label": [
+          "JUNHO DE 1607",
+          "UM DIA EM JAMESTOWN"
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "start": 5.25,
+      "end": 7.458333333333333,
+      "scene": "carry",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "carry",
+        "label": [
+          "CARREGAR MADEIRA",
+          "ANTES DE QUALQUER LUCRO"
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.458333333333333,
+      "end": 8.791666666666666,
+      "scene": "fort",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "fort",
+        "label": [
+          "UM FORTE",
+          "TRIANGULAR"
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.791666666666666,
+      "end": 11.875,
+      "scene": "company",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "company",
+        "label": [
+          "A COMPANHIA DA VIRGÍNIA",
+          "ESPERAVA LUCRO"
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "start": 11.875,
+      "end": 16.833333333333332,
+      "scene": "needs",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "needs",
+        "label": [
+          "ABRIGO, COMIDA",
+          "E ÁGUA"
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.833333333333332,
+      "end": 19.916666666666668,
+      "scene": "region",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "region",
+        "label": [
+          "O TERRITÓRIO",
+          "NÃO ESTAVA VAZIO"
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "start": 19.916666666666668,
+      "end": 22.583333333333332,
+      "scene": "village",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "village",
+        "label": [
+          "POVOS DA ALIANÇA",
+          "POWHATAN"
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "start": 22.583333333333332,
+      "end": 27.5,
+      "scene": "contact",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "contact",
+        "label": [
+          "APROXIMAÇÕES",
+          "E CONFLITOS"
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "start": 27.5,
+      "end": 31.041666666666668,
+      "scene": "water",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "water",
+        "label": [
+          "ÁGUA DO RIO",
+          "PODIA TRAZER DOENÇAS"
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "start": 31.041666666666668,
+      "end": 34.166666666666664,
+      "scene": "hammer",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hammer",
+        "label": [
+          "AO ANOITECER",
+          "MAIS UMA PAREDE"
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "start": 34.166666666666664,
+      "end": 35.916666666666664,
+      "scene": "wall",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wall",
+        "label": [
+          "UMA PEQUENA",
+          "VITÓRIA"
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "start": 35.916666666666664,
+      "end": 39.875,
+      "scene": "barrel",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "barrel",
+        "label": [
+          "MAS MADEIRA",
+          "NÃO MATA A FOME"
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "start": 39.875,
+      "end": 42.083333333333336,
+      "scene": "look",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "look",
+        "label": [
+          "E OS",
+          "SUPRIMENTOS?"
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "start": 42.083333333333336,
+      "end": 50,
+      "scene": "ships",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "ships",
+        "label": [
+          "DIAS DEPOIS: 22 DE JUNHO",
+          "NEWPORT PARTE PARA A INGLATERRA"
+        ]
+      }
+    }
+  ]
+}

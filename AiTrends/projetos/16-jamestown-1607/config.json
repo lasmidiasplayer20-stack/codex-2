@@ -1,0 +1,44 @@
+{
+  "title": "16 - Um dia em Jamestown - 1607",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 50,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.3,
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      15,
+      22
+    ],
+    [
+      42,
+      49
+    ]
+  ],
+  "qaTimes": [
+    1,
+    4,
+    7,
+    10,
+    13,
+    16,
+    19,
+    22,
+    25,
+    28,
+    31,
+    34,
+    37,
+    40,
+    43,
+    46,
+    49
+  ]
+}
