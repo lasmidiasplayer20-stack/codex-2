@@ -236,3 +236,12 @@ Usuário reduziu explicitamente este Jamestown para cerca50s e disse que a voz d
 Jamestown16 é short50s/1200quadros/24fps vertical1080×1920, não8min. CTA em vídeo duas variantes15–22s e42–49s; fullshort é sua própria prévia. Pedido de continuação nas entrelinhas: gancho de suprimentos/partida do navio, sem fala parte2 ou cartela continua.
 
 História: NPS e OpenStax realmente consultados; matriz de fatos em `../projetos/16-jamestown-1607/story/fact-check.json`. Nico fictício identificado, épocaJunho1607, forte triangular; último plano avança explicitamente para22junho(partida deNewport). Não confundir com fome1609–1610/tabaco comercial posterior ou mostrar todos os navios indo embora juntos. Fortes/aldeias/roupas/navios são esquemáticos, sem afirmar planta/escala arqueológica. Roupas por código adaptadas(gibão,calções,meias,barrete), sem zíper/tênis/hoodie. POV inglês não apaga os povosPowhatan já presentes; sem diálogos históricos inventados, romance ou estereótipos de outras regiões.
+
+
+## Episódio17 — Jamestown parte2,90segundos
+
+Usuário elogiou16 e pediu parte2 com90s e dinamismo. Referência `../projetos/17-jamestown-parte-2/`:27takes com contato real tigela/mãos, remador sentado e duas mãos alinhadas ao remo, lâmina fora do casco, canoa deslocando sem reset entre cortes, cesto carregado e depois apoiado. Inspecionar sequências de quadros, além das amostras numéricas; não alegar movimento bom apenas por uma imagem. Novos enquadramentos próximos/baixos podem dividir takes longos sem regenerar voz.
+
+Manter Puck/modelo/direção16 e EQ leve; medir cada fonte. No17, uma chamada71,851s foi distribuída por90s ampliando21pausas existentes em0,7904s, sem acelerar ou mudar tom. Medição da subida lenta4,04dB justificou correção ampla limitada a3dB, não AGC rápido; resultado de janelas0,51dB não equivale a aprovação perceptiva. Foley Python obrigatório, mix discreta, dois CTAs variantes5/6 em15–22 e81–88s.
+
+Cronologia explícita: verão1607 após partida deNewport → meses depois/inverno1607–1608 com ajuda indígena → distinguir fome1609–1610. Personagens/canoa/rota/encontro/porção são dramatização, não documento. Povos indígenas com agência, comunidades e cultivo, sem converter ajuda coletiva em feito inventado de pessoa histórica nomeada. Não retratar doença curada instantaneamente pela comida. Capa deve manter todos os personagens na mesma família de cabeça preta estilizada, sem introduzir humano realista ao lado deNico. Pacote YouTube vertical e único arquivoYOUTUBE.

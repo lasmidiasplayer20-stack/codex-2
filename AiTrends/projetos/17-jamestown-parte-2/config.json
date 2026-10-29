@@ -1,0 +1,50 @@
+{
+  "title": "17 - Jamestown - Parte 2",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 90,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.3,
+  "fast3D": false,
+  "ctaSeconds": [
+    [
+      15,
+      22
+    ],
+    [
+      81,
+      88
+    ]
+  ],
+  "qaTimes": [
+    1,
+    5,
+    9,
+    13,
+    17,
+    21,
+    25,
+    29,
+    33,
+    37,
+    41,
+    45,
+    49,
+    53,
+    57,
+    61,
+    65,
+    69,
+    73,
+    77,
+    81,
+    85,
+    89
+  ]
+}

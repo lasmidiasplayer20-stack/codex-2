@@ -1,0 +1,519 @@
+{
+  "title": "17 - Jamestown - Parte 2",
+  "duration": 90,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 2.5416666666666665,
+      "scene": "depart",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "depart",
+        "label": [
+          "22 DE JUNHO DE 1607",
+          "NEWPORT PARTIU"
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.5416666666666665,
+      "end": 6.083333333333333,
+      "scene": "return",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "return",
+        "label": [
+          "JAMESTOWN",
+          "DEPOIS DA PARTIDA"
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.083333333333333,
+      "end": 8.333333333333334,
+      "scene": "wall",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wall",
+        "label": [
+          "AS PAREDES",
+          "NÃO RESOLVEM TUDO"
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.333333333333334,
+      "end": 14.583333333333334,
+      "scene": "date",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "date",
+        "label": [
+          "VERÃO",
+          "DE 1607"
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "start": 14.583333333333334,
+      "end": 21.166666666666668,
+      "scene": "water",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "water",
+        "label": [
+          "A ÁGUA DO RIO",
+          "PODIA SER IMPRÓPRIA"
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "start": 21.166666666666668,
+      "end": 23.625,
+      "scene": "unfit",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "unfit",
+        "label": [
+          "ÁGUA, DOENÇAS",
+          "E ABASTECIMENTO"
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "start": 23.625,
+      "end": 27.833333333333332,
+      "scene": "ill",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "ill",
+        "label": [
+          "DOENÇAS E",
+          "ESCASSEZ DE COMIDA"
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "start": 27.833333333333332,
+      "end": 32.0,
+      "scene": "store",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "store",
+        "label": [
+          "O QUE RESTA",
+          "NO DEPÓSITO"
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "start": 32.0,
+      "end": 35.791666666666664,
+      "scene": "urgency",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "urgency",
+        "label": [
+          "TRABALHAR",
+          "FICA MAIS DIFÍCIL"
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "start": 35.791666666666664,
+      "end": 39.125,
+      "scene": "portion",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "portion",
+        "label": [
+          "UMA PEQUENA",
+          "PORÇÃO"
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "start": 39.125,
+      "end": 40.708333333333336,
+      "scene": "carry",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "carry",
+        "label": [
+          "NICO LEVA",
+          "A TIGELA"
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "start": 40.708333333333336,
+      "end": 42.458333333333336,
+      "scene": "offer",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "offer",
+        "label": [
+          "UM GESTO",
+          "DE CUIDADO"
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "start": 42.458333333333336,
+      "end": 47.083333333333336,
+      "scene": "receive",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "receive",
+        "label": [
+          "CENA IMAGINADA",
+          "CRISE HISTÓRICA"
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "start": 47.083333333333336,
+      "end": 50.875,
+      "scene": "tools",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "tools",
+        "label": [
+          "ADOECER TAMBÉM",
+          "REDUZIA A FORÇA DE TRABALHO"
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "start": 50.875,
+      "end": 53.833333333333336,
+      "scene": "region",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "region",
+        "label": [
+          "O TERRITÓRIO",
+          "JÁ ERA HABITADO"
+        ]
+      }
+    },
+    {
+      "id": "s16",
+      "start": 53.833333333333336,
+      "end": 55.625,
+      "scene": "village",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "village",
+        "label": [
+          "COMUNIDADES",
+          "DA ALIANÇA POWHATAN"
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "start": 55.625,
+      "end": 57.25,
+      "scene": "decisions",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "decisions",
+        "label": [
+          "ALDEIAS, CULTIVOS",
+          "E DECISÕES PRÓPRIAS"
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "start": 57.25,
+      "end": 60.166666666666664,
+      "scene": "season",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "season",
+        "label": [
+          "MESES DEPOIS",
+          "INVERNO DE 1607–1608"
+        ]
+      }
+    },
+    {
+      "id": "s19",
+      "start": 60.166666666666664,
+      "end": 63.375,
+      "scene": "canoe",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "canoe",
+        "label": [
+          "AJUDA NO",
+          "ABASTECIMENTO"
+        ]
+      }
+    },
+    {
+      "id": "s20",
+      "start": 63.375,
+      "end": 65.875,
+      "scene": "paddle",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "paddle",
+        "label": [
+          "PARTICIPAÇÃO",
+          "FUNDAMENTAL"
+        ]
+      }
+    },
+    {
+      "id": "s21",
+      "start": 65.875,
+      "end": 66.91666666666667,
+      "scene": "shore",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "shore",
+        "label": [
+          "COMIDA",
+          "CHEGANDO"
+        ]
+      }
+    },
+    {
+      "id": "s22",
+      "start": 66.91666666666667,
+      "end": 68.91666666666667,
+      "scene": "basket",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "basket",
+        "label": [
+          "DO RIO",
+          "PARA O FORTE"
+        ]
+      }
+    },
+    {
+      "id": "s23",
+      "start": 68.91666666666667,
+      "end": 73.625,
+      "scene": "relation",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "relation",
+        "label": [
+          "APOIO, COMÉRCIO",
+          "E DISPUTAS"
+        ]
+      }
+    },
+    {
+      "id": "s24",
+      "start": 73.625,
+      "end": 77.5,
+      "scene": "rest",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rest",
+        "label": [
+          "AMANHÃ",
+          "TALVEZ HAJA TRABALHO"
+        ]
+      }
+    },
+    {
+      "id": "s25",
+      "start": 77.5,
+      "end": 81.16666666666667,
+      "scene": "depend",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "depend",
+        "label": [
+          "A SOBREVIVÊNCIA",
+          "EXIGE MAIS"
+        ]
+      }
+    },
+    {
+      "id": "s26",
+      "start": 81.16666666666667,
+      "end": 85.04166666666667,
+      "scene": "timeline",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "timeline",
+        "label": [
+          "INVERNOS",
+          "DIFERENTES"
+        ]
+      }
+    },
+    {
+      "id": "s27",
+      "start": 85.04166666666667,
+      "end": 90,
+      "scene": "end",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end",
+        "label": [
+          "SOBREVIVER EXIGE",
+          "MAIS QUE PAREDES"
+        ]
+      }
+    }
+  ]
+}

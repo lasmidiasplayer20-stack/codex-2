@@ -1,0 +1,147 @@
+[
+  {
+    "seconds": 2.7416666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 3.2416666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 3.7416666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 4.241666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 4.741666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 5.241666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 5.741666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 39.325,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 39.825,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 40.325,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 67.11666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 67.61666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 68.11666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 68.61666666666667,
+    "kind": "leather shoe / earth",
+    "duration": 0.1
+  },
+  {
+    "seconds": 36.19166666666666,
+    "kind": "wooden scoop and bowl",
+    "duration": 0.22
+  },
+  {
+    "seconds": 42.25833333333333,
+    "kind": "quiet wooden bowl contact",
+    "duration": 0.12
+  },
+  {
+    "seconds": 42.75833333333333,
+    "kind": "cloth movement",
+    "duration": 0.25
+  },
+  {
+    "seconds": 60.516666666666666,
+    "kind": "wooden paddle in river",
+    "duration": 0.3
+  },
+  {
+    "seconds": 62.17013648245614,
+    "kind": "wooden paddle in river",
+    "duration": 0.3
+  },
+  {
+    "seconds": 63.82360629824561,
+    "kind": "wooden paddle in river",
+    "duration": 0.3
+  },
+  {
+    "seconds": 65.47707611403507,
+    "kind": "wooden paddle in river",
+    "duration": 0.3
+  },
+  {
+    "seconds": 67.16666666666667,
+    "kind": "woven basket movement",
+    "duration": 0.3
+  },
+  {
+    "seconds": 0,
+    "duration": 90,
+    "kind": "river / wind bed, Python synthesis"
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 82,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 84,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 86.8,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]

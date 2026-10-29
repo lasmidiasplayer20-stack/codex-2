@@ -1,0 +1,81 @@
+{
+  "sources": [
+    {
+      "id": "nps-short",
+      "url": "https://www.nps.gov/jame/learn/historyculture/a-short-history-of-jamestown.htm",
+      "title": "NPS — A Short History of Jamestown",
+      "access": "Texto previamente obtido e relido neste episódio; cache privado, não consulta arqueológica."
+    },
+    {
+      "id": "nps-powhatan",
+      "url": "https://www.nps.gov/jame/learn/historyculture/pocahontas-her-life-and-legend.htm",
+      "title": "NPS — Pocahontas: Her Life and Legend",
+      "access": "Passagens de organização social e ajuda no inverno1607–08 relidas; artigo distingue relatos escritos e tradição oral. Não adaptamos biografia controversa."
+    },
+    {
+      "id": "nps-residents",
+      "url": "https://www.nps.gov/jame/learn/historyculture/the-first-residents-of-jamestown.htm",
+      "title": "NPS — The First Residents of Jamestown",
+      "access": "Texto em cache consultado para contexto da primeira expedição."
+    },
+    {
+      "id": "openstax",
+      "url": "https://github.com/openstax/osbooks-us-history",
+      "title": "OpenStax — U.S. History, English Settlements in America",
+      "commit": "c05b860a035ff59a2ca1fd44339ef86694e09b57",
+      "file": "modules/m49996/index.cnxml",
+      "access": "Fonte oficial via git previamente lida; contexto reaproveitado, não nova consulta HTTP."
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Newport partiu para a Inglaterra em22dejunho de1607.",
+      "source": [
+        "nps-short"
+      ],
+      "treatment": "Continuidade explícita do episódio16."
+    },
+    {
+      "claim": "Após a partida, doenças, escassez e problemas com a água atingiram os colonos.",
+      "source": [
+        "nps-short",
+        "openstax"
+      ],
+      "treatment": "Sem diagnóstico individual, quantidade de ração ou causa única. Não sugerimos que ferver elimina sal."
+    },
+    {
+      "claim": "A região já tinha povos e comunidades indígenas organizadas, cultivos e decisões políticas.",
+      "source": [
+        "nps-powhatan",
+        "openstax"
+      ],
+      "treatment": "Mapa/aldeia esquemáticos, sem localização arqueológica exata ou fala atribuída."
+    },
+    {
+      "claim": "A ajuda indígena no abastecimento foi fundamental no primeiro inverno1607–1608.",
+      "source": [
+        "nps-short",
+        "nps-powhatan"
+      ],
+      "treatment": "Salto temporal identificado. O remador, rota, encontro e cestos são uma cena inventada para ilustrar ajuda coletiva, não um episódio documentado."
+    },
+    {
+      "claim": "O Starving Time foi em1609–1610.",
+      "source": [
+        "nps-short",
+        "openstax"
+      ],
+      "treatment": "Encerramento distingue esta crise posterior do primeiro inverno."
+    }
+  ],
+  "fiction": [
+    "Nico, companheiro inglês e remador indígena são personagens fictícios.",
+    "Tigela, porção, entrega individual, canoeiro, percurso, posição da aldeia e figurinos são interpretações estilizadas.",
+    "Não há citações históricas, encontro específico documentado, romance de Pocahontas ou curas instantâneas.",
+    "Capa ilustrativa, não fotografia nem planta de reconstrução arqueológica."
+  ],
+  "limitations": [
+    "Página arqueológica Historic Jamestowne anteriormente bloqueada; não alegamos consulta.",
+    "Artigo NPS sobre Pocahontas apresenta tradições distintas; não tratamos biografia disputada como consenso."
+  ]
+}

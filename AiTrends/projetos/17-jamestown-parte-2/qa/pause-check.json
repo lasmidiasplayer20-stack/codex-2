@@ -1,0 +1,6 @@
+{
+  "method": "FFmpeg amplitude threshold -38dB/minimum0.2s, not word recognition",
+  "max_detected_silence_seconds": 1.66325,
+  "gaps_above_2_seconds": 0,
+  "source_preserved": true
+}

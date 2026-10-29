@@ -1,0 +1,157 @@
+{
+  "method": "Approximate word-position estimates snapped to waveform gaps. Minimum durations preserve gait/hand-off readability. No independent ASR.",
+  "raw_markers": [
+    [
+      "depart",
+      0
+    ],
+    [
+      "return",
+      2.13
+    ],
+    [
+      "wall",
+      4.25
+    ],
+    [
+      "date",
+      6.38
+    ],
+    [
+      "water",
+      11.1
+    ],
+    [
+      "unfit",
+      16.16
+    ],
+    [
+      "ill",
+      17.86
+    ],
+    [
+      "store",
+      21.26
+    ],
+    [
+      "portion",
+      27.63
+    ],
+    [
+      "carry",
+      30.19
+    ],
+    [
+      "offer",
+      31.2
+    ],
+    [
+      "receive",
+      32.74
+    ],
+    [
+      "tools",
+      36.56
+    ],
+    [
+      "region",
+      39.54
+    ],
+    [
+      "village",
+      42.52
+    ],
+    [
+      "decisions",
+      44.3
+    ],
+    [
+      "season",
+      45.92
+    ],
+    [
+      "canoe",
+      48.04
+    ],
+    [
+      "paddle",
+      50.5
+    ],
+    [
+      "shore",
+      52.72
+    ],
+    [
+      "basket",
+      54
+    ],
+    [
+      "relation",
+      55.27
+    ],
+    [
+      "rest",
+      59.95
+    ],
+    [
+      "timeline",
+      65.9
+    ],
+    [
+      "end",
+      69.0
+    ]
+  ],
+  "mapped_bounds": [
+    0,
+    2.5416666666666665,
+    6.083333333333333,
+    8.333333333333334,
+    14.583333333333334,
+    21.166666666666668,
+    23.625,
+    27.833333333333332,
+    35.791666666666664,
+    39.125,
+    40.708333333333336,
+    42.458333333333336,
+    47.083333333333336,
+    50.875,
+    53.833333333333336,
+    55.625,
+    57.25,
+    60.166666666666664,
+    63.375,
+    65.875,
+    66.91666666666667,
+    68.91666666666667,
+    73.625,
+    81.16666666666667,
+    85.04166666666667,
+    90
+  ],
+  "minimum_action_seconds": {
+    "carry": 1.6,
+    "offer": 1.5,
+    "receive": 1.5,
+    "canoe": 3.2,
+    "paddle": 2.5,
+    "basket": 2.0
+  },
+  "editorial_splits": [
+    {
+      "source": "store",
+      "added_take": "urgency",
+      "at": 32.0,
+      "reason": "Reação próxima para interromper tomada longa de mantimentos."
+    },
+    {
+      "source": "rest",
+      "added_take": "depend",
+      "at": 77.5,
+      "reason": "Ângulo baixo e reação antes do contraste cronológico."
+    }
+  ],
+  "final_take_count": 27,
+  "authoritative_timeline": "story/shots.json"
+}

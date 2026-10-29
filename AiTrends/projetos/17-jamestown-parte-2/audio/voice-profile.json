@@ -1,0 +1,11 @@
+{
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "direction": "Narre em português brasileiro, como um apresentador curioso conversando com uma pessoa. Voz Puck, calorosa, clara, com sorriso discreto no começo e curiosidade sincera no final. Ritmo confortável, sem pressa. Volume uniforme. Use pausas curtas e naturais entre as ideias. Não sussurre, não grite, não dramatize como trailer. Leia SOMENTE o texto após NARRAÇÃO, sem comentários nem instruções.",
+  "approval_source": "Puck/modelo historicamente aceitos; usuário elogiou16: muito bem, crie a parte2.",
+  "previous_episode": "16-jamestown-1607",
+  "new_model_authorized": false,
+  "generation_groups": 1,
+  "beats_per_group": 8,
+  "feedback": "Preservar direção e tratamento leve16; episódio17 ainda não avaliado pelo usuário."
+}

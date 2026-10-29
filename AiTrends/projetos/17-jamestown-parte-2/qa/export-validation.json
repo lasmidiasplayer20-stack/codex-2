@@ -1,0 +1,41 @@
+{
+  "seconds": 90,
+  "fps": 24,
+  "frames": 2160,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "full_decode_passed": true,
+  "audio_codec": "aac",
+  "bytes": 23002733,
+  "sha256": "af77c89f2b8c7bfd0df00abc5474a0b4cc98e78fcd17163fc6d74b181c1418ea",
+  "source_sha256": "91f4143eeb1ccc56a77d540da0928c82c5f063f019f6ee034afb504b48aa2c30",
+  "preview": "exports/preview-60s.mp4",
+  "audio_review": "Signal measurements and preserved source text, no full human listening or ASR claim.",
+  "cta": {
+    "assets": [
+      "assets/cta-a.mp4",
+      "assets/cta-b.mp4"
+    ],
+    "different_variants": true,
+    "intervals": [
+      [
+        15,
+        22
+      ],
+      [
+        81,
+        88
+      ]
+    ],
+    "overlay_width": 900,
+    "position": [
+      90,
+      1440
+    ],
+    "chroma_key": true,
+    "despill": true,
+    "original_asset_audio_mixed": false
+  }
+}
