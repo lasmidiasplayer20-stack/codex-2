@@ -1,0 +1,1431 @@
+[
+  {
+    "id": 0,
+    "start": 0,
+    "end": 3.0,
+    "sample": 0.8,
+    "related_motifs": [
+      {
+        "cam": "clock",
+        "observation": "Insert frontal do relógio7:00, fundo do quarto desfocado."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 1,
+    "start": 3.0,
+    "end": 6.416667,
+    "sample": 3.8,
+    "related_motifs": [
+      {
+        "cam": "wake",
+        "observation": "Plano médio3/4 do protagonista sentado na beira da cama."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 2,
+    "start": 6.416667,
+    "end": 11.166667,
+    "sample": 7.216667,
+    "related_motifs": [
+      {
+        "cam": "wake",
+        "observation": "Plano médio3/4 do protagonista sentado na beira da cama."
+      },
+      {
+        "cam": "street",
+        "observation": "Caminhada lateral à frente das fachadas; raiz se desloca."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 3,
+    "start": 11.166667,
+    "end": 15.583333,
+    "sample": 11.966667000000001,
+    "related_motifs": [
+      {
+        "cam": "street",
+        "observation": "Caminhada lateral à frente das fachadas; raiz se desloca."
+      },
+      {
+        "cam": "bump",
+        "observation": "Dois personagens convergem; braços levantam, café espalha; reação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 4,
+    "start": 15.583333,
+    "end": 18.791667,
+    "sample": 16.383333,
+    "related_motifs": [
+      {
+        "cam": "bump",
+        "observation": "Dois personagens convergem; braços levantam, café espalha; reação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 5,
+    "start": 18.791667,
+    "end": 21.166667,
+    "sample": 19.591667,
+    "related_motifs": [
+      {
+        "cam": "bump",
+        "observation": "Dois personagens convergem; braços levantam, café espalha; reação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 6,
+    "start": 21.166667,
+    "end": 22.75,
+    "sample": 21.966667,
+    "related_motifs": [
+      {
+        "cam": "bump",
+        "observation": "Dois personagens convergem; braços levantam, café espalha; reação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 7,
+    "start": 22.75,
+    "end": 25.041667,
+    "sample": 23.55,
+    "related_motifs": [
+      {
+        "cam": "reset",
+        "observation": "Retorno ao mesmo relógio7:00 como corte de repetição."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 8,
+    "start": 25.041667,
+    "end": 28.625,
+    "sample": 25.841667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 9,
+    "start": 28.625,
+    "end": 31.208333,
+    "sample": 29.425,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 10,
+    "start": 31.208333,
+    "end": 32.458333,
+    "sample": 32.008333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 11,
+    "start": 32.458333,
+    "end": 40.0,
+    "sample": 33.258333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 12,
+    "start": 40.0,
+    "end": 45.166667,
+    "sample": 40.8,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 13,
+    "start": 45.166667,
+    "end": 48.0,
+    "sample": 45.966666999999994,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 14,
+    "start": 48.0,
+    "end": 51.166667,
+    "sample": 48.8,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 15,
+    "start": 51.166667,
+    "end": 54.416667,
+    "sample": 51.966666999999994,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 16,
+    "start": 54.416667,
+    "end": 57.375,
+    "sample": 55.216666999999994,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 17,
+    "start": 57.375,
+    "end": 62.791667,
+    "sample": 58.175,
+    "related_motifs": [
+      {
+        "cam": "repeat",
+        "observation": "Retoma a mesma caminhada/encontro, agora com conhecimento."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 18,
+    "start": 62.791667,
+    "end": 65.958333,
+    "sample": 63.591666999999994,
+    "related_motifs": [
+      {
+        "cam": "repeat",
+        "observation": "Retoma a mesma caminhada/encontro, agora com conhecimento."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 19,
+    "start": 65.958333,
+    "end": 68.5,
+    "sample": 66.758333,
+    "related_motifs": [
+      {
+        "cam": "repeat",
+        "observation": "Retoma a mesma caminhada/encontro, agora com conhecimento."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 20,
+    "start": 68.5,
+    "end": 71.958333,
+    "sample": 69.3,
+    "related_motifs": [
+      {
+        "cam": "feet",
+        "observation": "Detalhe dos sapatos e café: o cotidiano previsível."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 21,
+    "start": 71.958333,
+    "end": 74.0,
+    "sample": 72.758333,
+    "related_motifs": [
+      {
+        "cam": "feet",
+        "observation": "Detalhe dos sapatos e café: o cotidiano previsível."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 22,
+    "start": 74.0,
+    "end": 83.291667,
+    "sample": 74.8,
+    "related_motifs": [
+      {
+        "cam": "dodge",
+        "observation": "Novo dia muda o comportamento do personagem diante da rotina."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 23,
+    "start": 83.291667,
+    "end": 87.291667,
+    "sample": 84.091667,
+    "related_motifs": [
+      {
+        "cam": "dodge",
+        "observation": "Novo dia muda o comportamento do personagem diante da rotina."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 24,
+    "start": 87.291667,
+    "end": 92.25,
+    "sample": 88.091667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 25,
+    "start": 92.25,
+    "end": 97.875,
+    "sample": 93.05,
+    "related_motifs": [
+      {
+        "cam": "midnight",
+        "observation": "Quarto noturno, relógio perto da meia-noite e reset."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 26,
+    "start": 97.875,
+    "end": 103.416667,
+    "sample": 98.675,
+    "related_motifs": [
+      {
+        "cam": "midnight",
+        "observation": "Quarto noturno, relógio perto da meia-noite e reset."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 27,
+    "start": 103.416667,
+    "end": 107.083333,
+    "sample": 104.216667,
+    "related_motifs": [
+      {
+        "cam": "midnight",
+        "observation": "Quarto noturno, relógio perto da meia-noite e reset."
+      },
+      {
+        "cam": "travel",
+        "observation": "Diagrama de deslocamento distante que não evita o reset."
+      },
+      {
+        "cam": "back",
+        "observation": "Volta involuntária à cama."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 28,
+    "start": 107.083333,
+    "end": 112.875,
+    "sample": 107.883333,
+    "related_motifs": [
+      {
+        "cam": "travel",
+        "observation": "Diagrama de deslocamento distante que não evita o reset."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 29,
+    "start": 112.875,
+    "end": 115.125,
+    "sample": 113.675,
+    "related_motifs": [
+      {
+        "cam": "travel",
+        "observation": "Diagrama de deslocamento distante que não evita o reset."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 30,
+    "start": 115.125,
+    "end": 118.208333,
+    "sample": 115.925,
+    "related_motifs": [
+      {
+        "cam": "travel",
+        "observation": "Diagrama de deslocamento distante que não evita o reset."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 31,
+    "start": 118.208333,
+    "end": 120.791667,
+    "sample": 119.008333,
+    "related_motifs": [
+      {
+        "cam": "travel",
+        "observation": "Diagrama de deslocamento distante que não evita o reset."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 32,
+    "start": 120.791667,
+    "end": 126.791667,
+    "sample": 121.591667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 33,
+    "start": 126.791667,
+    "end": 129.375,
+    "sample": 127.591667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 34,
+    "start": 129.375,
+    "end": 135.25,
+    "sample": 130.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 35,
+    "start": 135.25,
+    "end": 148.125,
+    "sample": 136.05,
+    "related_motifs": [
+      {
+        "cam": "rules",
+        "observation": "Cartelas: tudo se restaura e nada material acompanha."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 36,
+    "start": 148.125,
+    "end": 157.708333,
+    "sample": 148.925,
+    "related_motifs": [
+      {
+        "cam": "rules",
+        "observation": "Cartelas: tudo se restaura e nada material acompanha."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 37,
+    "start": 157.708333,
+    "end": 161.416667,
+    "sample": 158.50833300000002,
+    "related_motifs": [
+      {
+        "cam": "rules",
+        "observation": "Cartelas: tudo se restaura e nada material acompanha."
+      },
+      {
+        "cam": "memory",
+        "observation": "Ilustração da cabeça/memória sobrevivente."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 38,
+    "start": 161.416667,
+    "end": 183.25,
+    "sample": 162.216667,
+    "related_motifs": [
+      {
+        "cam": "memory",
+        "observation": "Ilustração da cabeça/memória sobrevivente."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 39,
+    "start": 183.25,
+    "end": 197.291667,
+    "sample": 184.05,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 40,
+    "start": 197.291667,
+    "end": 201.375,
+    "sample": 198.091667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 41,
+    "start": 201.375,
+    "end": 202.666667,
+    "sample": 202.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 42,
+    "start": 202.666667,
+    "end": 209.5,
+    "sample": 203.466667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 43,
+    "start": 209.5,
+    "end": 214.0,
+    "sample": 210.3,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 44,
+    "start": 214.0,
+    "end": 215.791667,
+    "sample": 214.8,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 45,
+    "start": 215.791667,
+    "end": 218.416667,
+    "sample": 216.591667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 46,
+    "start": 218.416667,
+    "end": 223.041667,
+    "sample": 219.216667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 47,
+    "start": 223.041667,
+    "end": 238.333333,
+    "sample": 223.841667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 48,
+    "start": 238.333333,
+    "end": 243.5,
+    "sample": 239.13333300000002,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 49,
+    "start": 243.5,
+    "end": 252.791667,
+    "sample": 244.3,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 50,
+    "start": 252.791667,
+    "end": 255.208333,
+    "sample": 253.591667,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 51,
+    "start": 255.208333,
+    "end": 259.708333,
+    "sample": 256.008333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 52,
+    "start": 259.708333,
+    "end": 263.375,
+    "sample": 260.508333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 53,
+    "start": 263.375,
+    "end": 268.958333,
+    "sample": 264.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 54,
+    "start": 268.958333,
+    "end": 274.375,
+    "sample": 269.758333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 55,
+    "start": 274.375,
+    "end": 280.708333,
+    "sample": 275.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 56,
+    "start": 280.708333,
+    "end": 290.083333,
+    "sample": 281.508333,
+    "related_motifs": [
+      {
+        "cam": "days",
+        "observation": "Calendários repetidos/contagens e consciência avançando."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 57,
+    "start": 290.083333,
+    "end": 309.916667,
+    "sample": 290.883333,
+    "related_motifs": [
+      {
+        "cam": "days",
+        "observation": "Calendários repetidos/contagens e consciência avançando."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 58,
+    "start": 309.916667,
+    "end": 319.333333,
+    "sample": 310.71666700000003,
+    "related_motifs": [
+      {
+        "cam": "days",
+        "observation": "Calendários repetidos/contagens e consciência avançando."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 59,
+    "start": 319.333333,
+    "end": 327.458333,
+    "sample": 320.133333,
+    "related_motifs": [
+      {
+        "cam": "days",
+        "observation": "Calendários repetidos/contagens e consciência avançando."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 60,
+    "start": 327.458333,
+    "end": 331.833333,
+    "sample": 328.258333,
+    "related_motifs": [
+      {
+        "cam": "dance",
+        "observation": "Aprendizado cumulativo e progresso."
+      },
+      {
+        "cam": "days",
+        "observation": "Calendários repetidos/contagens e consciência avançando."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 61,
+    "start": 331.833333,
+    "end": 336.041667,
+    "sample": 332.633333,
+    "related_motifs": [
+      {
+        "cam": "dance",
+        "observation": "Aprendizado cumulativo e progresso."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 62,
+    "start": 336.041667,
+    "end": 339.833333,
+    "sample": 336.84166700000003,
+    "related_motifs": [
+      {
+        "cam": "piano",
+        "observation": "Montagem de habilidades, piano/skate/cubo."
+      },
+      {
+        "cam": "dance",
+        "observation": "Aprendizado cumulativo e progresso."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 63,
+    "start": 339.833333,
+    "end": 347.25,
+    "sample": 340.633333,
+    "related_motifs": [
+      {
+        "cam": "piano",
+        "observation": "Montagem de habilidades, piano/skate/cubo."
+      },
+      {
+        "cam": "dance",
+        "observation": "Aprendizado cumulativo e progresso."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 64,
+    "start": 347.25,
+    "end": 352.583333,
+    "sample": 348.05,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 65,
+    "start": 352.583333,
+    "end": 363.0,
+    "sample": 353.383333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 66,
+    "start": 363.0,
+    "end": 368.208333,
+    "sample": 363.8,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 67,
+    "start": 368.208333,
+    "end": 372.416667,
+    "sample": 369.008333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 68,
+    "start": 372.416667,
+    "end": 377.291667,
+    "sample": 373.21666700000003,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 69,
+    "start": 377.291667,
+    "end": 382.041667,
+    "sample": 378.09166700000003,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 70,
+    "start": 382.041667,
+    "end": 390.208333,
+    "sample": 382.84166700000003,
+    "related_motifs": [
+      {
+        "cam": "bench",
+        "observation": "Plano de dois sentados: um conversa, o protagonista não acompanha."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 71,
+    "start": 390.208333,
+    "end": 394.333333,
+    "sample": 391.008333,
+    "related_motifs": [
+      {
+        "cam": "bench",
+        "observation": "Plano de dois sentados: um conversa, o protagonista não acompanha."
+      },
+      {
+        "cam": "secret",
+        "observation": "Contraplano por trás do banco, duas cabeças/costas no mesmo eixo."
+      },
+      {
+        "cam": "forgot",
+        "observation": "Reação próxima alterna rosto do amigo/protagonista."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 72,
+    "start": 394.333333,
+    "end": 397.875,
+    "sample": 395.133333,
+    "related_motifs": [
+      {
+        "cam": "secret",
+        "observation": "Contraplano por trás do banco, duas cabeças/costas no mesmo eixo."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 73,
+    "start": 397.875,
+    "end": 402.5,
+    "sample": 398.675,
+    "related_motifs": [
+      {
+        "cam": "secret",
+        "observation": "Contraplano por trás do banco, duas cabeças/costas no mesmo eixo."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 74,
+    "start": 402.5,
+    "end": 410.875,
+    "sample": 403.3,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 75,
+    "start": 410.875,
+    "end": 418.375,
+    "sample": 411.675,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 76,
+    "start": 418.375,
+    "end": 424.833333,
+    "sample": 419.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 77,
+    "start": 424.833333,
+    "end": 431.458333,
+    "sample": 425.633333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 78,
+    "start": 431.458333,
+    "end": 438.0,
+    "sample": 432.258333,
+    "related_motifs": [
+      {
+        "cam": "lonely",
+        "observation": "Escala visual de isolamento entre muitas pessoas."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 79,
+    "start": 438.0,
+    "end": 440.666667,
+    "sample": 438.8,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 80,
+    "start": 440.666667,
+    "end": 443.208333,
+    "sample": 441.46666700000003,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 81,
+    "start": 443.208333,
+    "end": 446.958333,
+    "sample": 444.008333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 82,
+    "start": 446.958333,
+    "end": 449.458333,
+    "sample": 447.758333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 83,
+    "start": 449.458333,
+    "end": 452.458333,
+    "sample": 450.258333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 84,
+    "start": 452.458333,
+    "end": 454.875,
+    "sample": 453.258333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 85,
+    "start": 454.875,
+    "end": 455.875,
+    "sample": 455.675,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 86,
+    "start": 455.875,
+    "end": 457.375,
+    "sample": 456.675,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 87,
+    "start": 457.375,
+    "end": 459.875,
+    "sample": 458.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 88,
+    "start": 459.875,
+    "end": 463.666667,
+    "sample": 460.675,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 89,
+    "start": 463.666667,
+    "end": 467.708333,
+    "sample": 464.46666700000003,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 90,
+    "start": 467.708333,
+    "end": 471.791667,
+    "sample": 468.508333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 91,
+    "start": 471.791667,
+    "end": 478.041667,
+    "sample": 472.59166700000003,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 92,
+    "start": 478.041667,
+    "end": 482.458333,
+    "sample": 478.84166700000003,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 93,
+    "start": 482.458333,
+    "end": 483.75,
+    "sample": 483.258333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 94,
+    "start": 483.75,
+    "end": 485.291667,
+    "sample": 484.55,
+    "related_motifs": [
+      {
+        "cam": "lia",
+        "observation": "Introdução da personagem de roxo e surpresa de reconhecimento."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 95,
+    "start": 485.291667,
+    "end": 486.875,
+    "sample": 486.09166700000003,
+    "related_motifs": [
+      {
+        "cam": "lia",
+        "observation": "Introdução da personagem de roxo e surpresa de reconhecimento."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 96,
+    "start": 486.875,
+    "end": 495.125,
+    "sample": 487.675,
+    "related_motifs": [
+      {
+        "cam": "lia",
+        "observation": "Introdução da personagem de roxo e surpresa de reconhecimento."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 97,
+    "start": 495.125,
+    "end": 498.625,
+    "sample": 495.925,
+    "related_motifs": [
+      {
+        "cam": "lia",
+        "observation": "Introdução da personagem de roxo e surpresa de reconhecimento."
+      },
+      {
+        "cam": "reaction",
+        "observation": "Close de surpresa do protagonista."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 98,
+    "start": 498.625,
+    "end": 501.208333,
+    "sample": 499.425,
+    "related_motifs": [
+      {
+        "cam": "reaction",
+        "observation": "Close de surpresa do protagonista."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 99,
+    "start": 501.208333,
+    "end": 510.666667,
+    "sample": 502.008333,
+    "related_motifs": [
+      {
+        "cam": "reaction",
+        "observation": "Close de surpresa do protagonista."
+      },
+      {
+        "cam": "reverse",
+        "observation": "Contraplano próximo da garota e nova informação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 100,
+    "start": 510.666667,
+    "end": 515.0,
+    "sample": 511.46666700000003,
+    "related_motifs": [
+      {
+        "cam": "reverse",
+        "observation": "Contraplano próximo da garota e nova informação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 101,
+    "start": 515.0,
+    "end": 519.333333,
+    "sample": 515.8,
+    "related_motifs": [
+      {
+        "cam": "reverse",
+        "observation": "Contraplano próximo da garota e nova informação."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 102,
+    "start": 519.333333,
+    "end": 528.958333,
+    "sample": 520.133333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 103,
+    "start": 528.958333,
+    "end": 534.833333,
+    "sample": 529.758333,
+    "related_motifs": [
+      {
+        "cam": "route",
+        "observation": "Caminhada da dupla por rua/mapa."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 104,
+    "start": 534.833333,
+    "end": 544.416667,
+    "sample": 535.633333,
+    "related_motifs": [
+      {
+        "cam": "route",
+        "observation": "Caminhada da dupla por rua/mapa."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 105,
+    "start": 544.416667,
+    "end": 549.833333,
+    "sample": 545.2166669999999,
+    "related_motifs": [
+      {
+        "cam": "route",
+        "observation": "Caminhada da dupla por rua/mapa."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 106,
+    "start": 549.833333,
+    "end": 553.0,
+    "sample": 550.633333,
+    "related_motifs": [
+      {
+        "cam": "route",
+        "observation": "Caminhada da dupla por rua/mapa."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 107,
+    "start": 553.0,
+    "end": 556.416667,
+    "sample": 553.8,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 108,
+    "start": 556.416667,
+    "end": 558.916667,
+    "sample": 557.2166669999999,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 109,
+    "start": 558.916667,
+    "end": 562.5,
+    "sample": 559.7166669999999,
+    "related_motifs": [
+      {
+        "cam": "food",
+        "observation": "Montagem compartilhada: cozinha/gesto com frigideira."
+      },
+      {
+        "cam": "cooking",
+        "observation": "Comida sobe da frigideira durante demonstração da garota."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 110,
+    "start": 562.5,
+    "end": 565.5,
+    "sample": 563.3,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 111,
+    "start": 565.5,
+    "end": 569.791667,
+    "sample": 566.3,
+    "related_motifs": [
+      {
+        "cam": "both",
+        "observation": "Os dois compartilham entendimento/sorrisos."
+      },
+      {
+        "cam": "sunset",
+        "observation": "Plano aberto da dupla diante da cidade à noite."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 112,
+    "start": 569.791667,
+    "end": 572.375,
+    "sample": 570.5916669999999,
+    "related_motifs": [
+      {
+        "cam": "sunset",
+        "observation": "Plano aberto da dupla diante da cidade à noite."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 113,
+    "start": 572.375,
+    "end": 574.375,
+    "sample": 573.175,
+    "related_motifs": [
+      {
+        "cam": "sunset",
+        "observation": "Plano aberto da dupla diante da cidade à noite."
+      },
+      {
+        "cam": "wait",
+        "observation": "Relógio/cidade/expressões antes da virada."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 114,
+    "start": 574.375,
+    "end": 576.333333,
+    "sample": 575.175,
+    "related_motifs": [
+      {
+        "cam": "wait",
+        "observation": "Relógio/cidade/expressões antes da virada."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 115,
+    "start": 576.333333,
+    "end": 579.166667,
+    "sample": 577.133333,
+    "related_motifs": [
+      {
+        "cam": "wait",
+        "observation": "Relógio/cidade/expressões antes da virada."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 116,
+    "start": 579.166667,
+    "end": 582.25,
+    "sample": 579.9666669999999,
+    "related_motifs": [
+      {
+        "cam": "wait",
+        "observation": "Relógio/cidade/expressões antes da virada."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 117,
+    "start": 582.25,
+    "end": 583.041667,
+    "sample": 582.8416669999999,
+    "related_motifs": [
+      {
+        "cam": "alarm",
+        "observation": "Volta ao insert7:00após noite."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 118,
+    "start": 583.041667,
+    "end": 585.041667,
+    "sample": 583.8416669999999,
+    "related_motifs": [
+      {
+        "cam": "alarm",
+        "observation": "Volta ao insert7:00após noite."
+      },
+      {
+        "cam": "phone",
+        "observation": "Protagonista pega telefone e insert revela terça-feira."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 119,
+    "start": 585.041667,
+    "end": 588.375,
+    "sample": 585.8416669999999,
+    "related_motifs": [
+      {
+        "cam": "phone",
+        "observation": "Protagonista pega telefone e insert revela terça-feira."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 120,
+    "start": 588.375,
+    "end": 591.166667,
+    "sample": 589.175,
+    "related_motifs": [
+      {
+        "cam": "phone",
+        "observation": "Protagonista pega telefone e insert revela terça-feira."
+      },
+      {
+        "cam": "tuesday",
+        "observation": "Terça-feira/data seguinte altera a regra."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 121,
+    "start": 591.166667,
+    "end": 594.375,
+    "sample": 591.9666669999999,
+    "related_motifs": [
+      {
+        "cam": "phone",
+        "observation": "Protagonista pega telefone e insert revela terça-feira."
+      },
+      {
+        "cam": "tuesday",
+        "observation": "Terça-feira/data seguinte altera a regra."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 122,
+    "start": 594.375,
+    "end": 597.5,
+    "sample": 595.175,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 123,
+    "start": 597.5,
+    "end": 600.958333,
+    "sample": 598.3,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 124,
+    "start": 600.958333,
+    "end": 605.25,
+    "sample": 601.758333,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 125,
+    "start": 605.25,
+    "end": 614.708333,
+    "sample": 606.05,
+    "related_motifs": [
+      {
+        "cam": "message",
+        "observation": "Celular de número desconhecido deixa gancho."
+      },
+      {
+        "cam": "end",
+        "observation": "Expressão do protagonista diante da comunicação inesperada."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 126,
+    "start": 614.708333,
+    "end": 634.291667,
+    "sample": 615.508333,
+    "related_motifs": [
+      {
+        "cam": "message",
+        "observation": "Celular de número desconhecido deixa gancho."
+      },
+      {
+        "cam": "end",
+        "observation": "Expressão do protagonista diante da comunicação inesperada."
+      }
+    ],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  },
+  {
+    "id": 127,
+    "start": 634.291667,
+    "end": 634.392381,
+    "sample": 634.192381,
+    "related_motifs": [],
+    "status": "Candidato de segmento por mudança de imagem; inclui fades/overlays, não corte humano confirmado."
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "seconds": 2.9,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 3.32,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 3.7399999999999998,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 4.16,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 10.066666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 10.486666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 10.906666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 11.326666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 11.746666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 12.166666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 4.65,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 5.07,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 5.49,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 5.91,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 6.33,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 6.75,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 12.733333333333334,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 13.153333333333334,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 13.573333333333334,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 13.993333333333334,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 14.316666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 14.736666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 15.156666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 15.576666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 15.996666666666666,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 16.416666666666664,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 70.81666666666668,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 71.23666666666668,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 71.65666666666668,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 72.07666666666668,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 72.49666666666668,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 72.91666666666669,
+    "kind": "rubber shoe on pavement",
+    "duration": 0.085
+  },
+  {
+    "seconds": 0.12,
+    "kind": "alarm double beep",
+    "duration": 0.13
+  },
+  {
+    "seconds": 0.35,
+    "kind": "alarm double beep",
+    "duration": 0.13
+  },
+  {
+    "seconds": 7.12,
+    "kind": "alarm double beep",
+    "duration": 0.13
+  },
+  {
+    "seconds": 7.35,
+    "kind": "alarm double beep",
+    "duration": 0.13
+  },
+  {
+    "seconds": 77.20333333333333,
+    "kind": "alarm double beep",
+    "duration": 0.13
+  },
+  {
+    "seconds": 77.43333333333332,
+    "kind": "alarm double beep",
+    "duration": 0.13
+  },
+  {
+    "seconds": 5.875,
+    "kind": "coffee splash",
+    "duration": 0.24
+  },
+  {
+    "seconds": 14.766666666666666,
+    "kind": "hoodie cloth movement",
+    "duration": 0.18
+  },
+  {
+    "seconds": 21.45,
+    "kind": "bedding fabric",
+    "duration": 0.3
+  },
+  {
+    "seconds": 28.725,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 29.025000000000002,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 29.325000000000003,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 29.625000000000004,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 29.925000000000004,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 30.225000000000005,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 30.525000000000006,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 30.825000000000006,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 31.125000000000007,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 31.425000000000008,
+    "kind": "soft keyboard note",
+    "duration": 0.28
+  },
+  {
+    "seconds": 45.325,
+    "kind": "wooden bench and cloth",
+    "duration": 0.2
+  },
+  {
+    "seconds": 66.78333333333333,
+    "kind": "wooden bench and cloth",
+    "duration": 0.2
+  },
+  {
+    "seconds": 76.40833333333333,
+    "kind": "wooden bench and cloth",
+    "duration": 0.2
+  },
+  {
+    "seconds": 74.575,
+    "kind": "pan and food sizzle",
+    "duration": 0.55
+  },
+  {
+    "seconds": 75.20875,
+    "kind": "pancake landing",
+    "duration": 0.1
+  },
+  {
+    "seconds": 83.76666666666667,
+    "kind": "phone notification",
+    "duration": 0.15
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 82,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 84,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 86.8,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 0,
+    "duration": 90,
+    "kind": "quiet air ambience, Python noise synthesis"
+  }
+]

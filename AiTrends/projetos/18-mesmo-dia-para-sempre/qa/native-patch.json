@@ -1,0 +1,23 @@
+{
+  "reason": "Native final MP4 showed a striped occluding band in wait take; reproducible in isolated native render. Camera moved slightly sideways/up; actual native rerender inspected clean. Exact renderer cause unconfirmed.",
+  "frames_replaced": [
+    1829,
+    1850
+  ],
+  "interval_seconds": [
+    76.20833333333333,
+    77.08333333333333
+  ],
+  "native_patch_frames": 21,
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "base_source_sha256": "85eb2bc3ad5b6d436cb5bc8d89413d36d68c7ff59c693b337811f1b7f3d4a1b4",
+  "final_source_sha256": "3de64f3d618d69b311b7ffc3ab521b504c25484821737a93b79804b595159928",
+  "audio_regenerated": false,
+  "other_visual_code_changes": false,
+  "base_video_sha256": "d2ab86d661e05e966ac24e784ca0c788db65b8254cdb041af1886b741cf9a8fd",
+  "patch_video_sha256": "fda0b9fa4436ab32dd1326a98b69365889e85b43d108ccd1cd3e60371ee1c804",
+  "assembly": "Decoded frame trim/concat at exact boundaries, full silent stream re-encoded; final mux verified separately."
+}

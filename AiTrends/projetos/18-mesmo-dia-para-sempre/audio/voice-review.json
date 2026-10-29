@@ -1,0 +1,17 @@
+{
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "requests": 2,
+  "first_request": "Environment credential401invalid; no generation",
+  "second_request": "Previously user-provided credential worked",
+  "raw_seconds": 77.21095833333334,
+  "raw_clipped_samples": 0,
+  "speed_change": false,
+  "pitch_change": false,
+  "dynamic_gain_automation": false,
+  "window_level_spread_db": 2.3237258041071414,
+  "human_full_listening": false,
+  "asr": false,
+  "note": "Source below3dBwindow threshold, static gain only.32natural pauses extended0.3512s; measures do not certify timbre/naturalness."
+}

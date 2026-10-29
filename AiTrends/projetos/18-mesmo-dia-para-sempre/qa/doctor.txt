@@ -1,0 +1,25 @@
+No broken requirements found.
+
+aiTrends 2D Studio — environment check
+
+  OK ffmpeg + ffprobe                           ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers
+  OK Node.js >= 18                              v24.19.0
+  OK npm packages (three, playwright, fonts)
+  OK Chromium for Playwright
+  OK python: numpy
+  OK python: scipy
+  OK python: faster-whisper
+  OK python >= 3.9                              3.12.14
+
+  Linux x86_64, 5 CPU threads, no NVIDIA GPU (CPU render / transcription — slower, works fine)
+
+All good. Whisper downloads its model (~150-500 MB) the first time tools/transcribe.py runs.
+numpy           ok
+Pillow          ok
+requests        ok
+skia-python     ok
+faster-whisper  ok
+ffmpeg          ok /usr/bin/ffmpeg
+workspace       /workspace/codex-2/AiTrends/2d-stick-animator
+AE bridge       run once per AE session: File > Scripts > Run Script File... > /workspace/codex-2/AiTrends/2d-stick-animator/kit/ae/ra_bridge.jsx
+caption font    install /workspace/codex-2/AiTrends/2d-stick-animator/kit/fonts/Anton-Regular.ttf in Windows (or have Burbank Big Condensed / Impact)

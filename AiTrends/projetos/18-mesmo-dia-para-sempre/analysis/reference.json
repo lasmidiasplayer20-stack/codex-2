@@ -1,0 +1,61 @@
+{
+  "user_provided_filename": "YTDown.com_YouTube_Media_HHCZwBQBt6g_What-If-You-Lived-the-Same-Day-Forever_002_720p.mp4",
+  "sha256": "a12c57fb53e764d432014c40f628fc95a35df80aff04f510320353f34cbab8d8",
+  "seconds": 634.392381,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "frames_approx": 15225,
+  "analysis": {
+    "scene_score_threshold": 0.12,
+    "detected_transition_samples": 187,
+    "filtered_segment_candidates": 128,
+    "mid_segment_frames_inspected": 128,
+    "periodic_samples_step_seconds": 6,
+    "periodic_frames_approx": 106,
+    "fine_action_sequences": {
+      "coffee": [
+        15.6,
+        18.4,
+        8
+      ],
+      "bench": [
+        384.2,
+        403,
+        8
+      ],
+      "lia": [
+        470,
+        490,
+        8
+      ],
+      "ending": [
+        558,
+        580,
+        8
+      ]
+    },
+    "note": "Quadros representativos e sequências espaçadas foram vistos; não se afirma inspeção humana dos15225quadros ou reprodução contínua integral."
+  },
+  "audio": {
+    "reference_audio_copied": false,
+    "reference_voice_copied": false,
+    "automatic_transcription": "Modelo local não disponível; download bloqueado por proxy403, inclusive fora da sandbox. Sem transcrição integral ou escuta humana declarada."
+  },
+  "adaptation": {
+    "seconds": 90,
+    "aspect": "9:16",
+    "takes": 34,
+    "own_characters": [
+      "Nico/teal",
+      "Lia/lavanda",
+      "Sol/laranja",
+      "amigo/azul"
+    ],
+    "original_narration": true,
+    "all_visuals_code": true,
+    "pixel_exact_replica": false,
+    "reason": "Redução de634spara90s, troca de elenco/cenários e formato horizontal para vertical exigem seleção, reenquadramento e retemporização. Movimento/câmeras reconstruídos por observação, não extração do projeto original."
+  },
+  "reference_file_published": false
+}

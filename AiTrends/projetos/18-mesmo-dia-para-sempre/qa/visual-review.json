@@ -1,0 +1,16 @@
+{
+  "reviewed_actual_final_mp4": true,
+  "sampled_all_34_takes": true,
+  "additional_sequences": [
+    "coffee",
+    "dodge",
+    "piano/pan contacts",
+    "two CTA variants",
+    "all21patchedwaitframes"
+  ],
+  "corrected_issue": "Occluding stripe in wait take; camera reframed and native21framepatch verified in final file.",
+  "human_full_listening": false,
+  "human_continuous_full_playback": false,
+  "asr": false,
+  "limits": "Visual frame/sequence inspection and numerical/audio signal checks; not claim of exact source lens recovery or full perceptual approval."
+}

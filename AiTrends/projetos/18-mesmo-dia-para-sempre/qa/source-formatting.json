@@ -1,0 +1,6 @@
+{
+  "rendered_source_sha256": "3de64f3d618d69b311b7ffc3ab521b504c25484821737a93b79804b595159928",
+  "published_source_sha256": "bf709ff2db685ed6ddb7a13b6d8a553975a08f41f5629aab9adf2eb9440f61ea",
+  "change": "Removed trailing whitespace from two blank JS lines; non-whitespace bytes identical; no behavior change or rerender.",
+  "non_whitespace_identical": true
+}

@@ -1,0 +1,516 @@
+{
+  "title": "18 - Mesmo dia para sempre",
+  "duration": 90,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 1.5416666666666667,
+      "scene": "clock",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "clock"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 1.5416666666666667,
+      "end": 2.75,
+      "scene": "wake",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wake"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 2.75,
+      "end": 4.5,
+      "scene": "street",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "street"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 4.5,
+      "end": 7.0,
+      "scene": "bump",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "bump"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 7.0,
+      "end": 9.916666666666666,
+      "scene": "reset",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "reset"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 9.916666666666666,
+      "end": 12.583333333333334,
+      "scene": "repeat",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "repeat"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 12.583333333333334,
+      "end": 14.166666666666666,
+      "scene": "feet",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "feet"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 14.166666666666666,
+      "end": 16.708333333333332,
+      "scene": "dodge",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "dodge"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 16.708333333333332,
+      "end": 18.416666666666668,
+      "scene": "midnight",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "midnight"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 18.416666666666668,
+      "end": 21.25,
+      "scene": "travel",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "travel"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 21.25,
+      "end": 23.75,
+      "scene": "back",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "back"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 23.75,
+      "end": 26.708333333333332,
+      "scene": "rules",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rules"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 26.708333333333332,
+      "end": 28.625,
+      "scene": "memory",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "memory"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 28.625,
+      "end": 31.708333333333332,
+      "scene": "piano",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "piano"
+      }
+    },
+    {
+      "id": "s15",
+      "start": 31.708333333333332,
+      "end": 35.083333333333336,
+      "scene": "dance",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "dance"
+      }
+    },
+    {
+      "id": "s16",
+      "start": 35.083333333333336,
+      "end": 40.958333333333336,
+      "scene": "days",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "days"
+      }
+    },
+    {
+      "id": "s17",
+      "start": 40.958333333333336,
+      "end": 45.125,
+      "scene": "bench",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "bench"
+      }
+    },
+    {
+      "id": "s18",
+      "start": 45.125,
+      "end": 47.791666666666664,
+      "scene": "secret",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "secret"
+      }
+    },
+    {
+      "id": "s19",
+      "start": 47.791666666666664,
+      "end": 51.291666666666664,
+      "scene": "forgot",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "forgot"
+      }
+    },
+    {
+      "id": "s20",
+      "start": 51.291666666666664,
+      "end": 54.958333333333336,
+      "scene": "lonely",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "lonely"
+      }
+    },
+    {
+      "id": "s21",
+      "start": 54.958333333333336,
+      "end": 60.958333333333336,
+      "scene": "lia",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "lia"
+      }
+    },
+    {
+      "id": "s22",
+      "start": 60.958333333333336,
+      "end": 62.666666666666664,
+      "scene": "reaction",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "reaction"
+      }
+    },
+    {
+      "id": "s23",
+      "start": 62.666666666666664,
+      "end": 66.58333333333333,
+      "scene": "reverse",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "reverse"
+      }
+    },
+    {
+      "id": "s24",
+      "start": 66.58333333333333,
+      "end": 70.66666666666667,
+      "scene": "both",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "both"
+      }
+    },
+    {
+      "id": "s25",
+      "start": 70.66666666666667,
+      "end": 73.29166666666667,
+      "scene": "route",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "route"
+      }
+    },
+    {
+      "id": "s26",
+      "start": 73.29166666666667,
+      "end": 74.375,
+      "scene": "food",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "food"
+      }
+    },
+    {
+      "id": "s27",
+      "start": 74.375,
+      "end": 75.33333333333333,
+      "scene": "cooking",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "cooking"
+      }
+    },
+    {
+      "id": "s28",
+      "start": 75.33333333333333,
+      "end": 76.20833333333333,
+      "scene": "sunset",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "sunset"
+      }
+    },
+    {
+      "id": "s29",
+      "start": 76.20833333333333,
+      "end": 77.08333333333333,
+      "scene": "wait",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wait"
+      }
+    },
+    {
+      "id": "s30",
+      "start": 77.08333333333333,
+      "end": 78.70833333333333,
+      "scene": "alarm",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "alarm"
+      }
+    },
+    {
+      "id": "s31",
+      "start": 78.70833333333333,
+      "end": 80.70833333333333,
+      "scene": "phone",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "phone"
+      }
+    },
+    {
+      "id": "s32",
+      "start": 80.70833333333333,
+      "end": 83.66666666666667,
+      "scene": "tuesday",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "tuesday"
+      }
+    },
+    {
+      "id": "s33",
+      "start": 83.66666666666667,
+      "end": 85.75,
+      "scene": "message",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "message"
+      }
+    },
+    {
+      "id": "s34",
+      "start": 85.75,
+      "end": 90,
+      "scene": "end",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}

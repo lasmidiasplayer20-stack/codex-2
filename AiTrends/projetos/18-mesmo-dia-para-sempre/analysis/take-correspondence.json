@@ -1,0 +1,546 @@
+[
+  {
+    "take": "s01",
+    "cam": "clock",
+    "output_seconds": [
+      0,
+      1.5416666666666667
+    ],
+    "reference_seconds": [
+      0,
+      3
+    ],
+    "observed_reference": "Insert frontal do relógio7:00, fundo do quarto desfocado.",
+    "reconstruction": "Relógio ocupa centro; aproximação lenta, texto legível.",
+    "continuity_and_limits": "Mesmo insert no começo e recomeços; fonte de luz constante.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s02",
+    "cam": "wake",
+    "output_seconds": [
+      1.5416666666666667,
+      2.75
+    ],
+    "reference_seconds": [
+      3,
+      6.42
+    ],
+    "observed_reference": "Plano médio3/4 do protagonista sentado na beira da cama.",
+    "reconstruction": "Nico sentado, quadril no colchão; braços sobem e cabeça reage.",
+    "continuity_and_limits": "Reconstruir personagem e quarto; não usar frame original.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s03",
+    "cam": "street",
+    "output_seconds": [
+      2.75,
+      4.5
+    ],
+    "reference_seconds": [
+      6.42,
+      15.58
+    ],
+    "observed_reference": "Caminhada lateral à frente das fachadas; raiz se desloca.",
+    "reconstruction": "Tracking paralelo com fachada como paralaxe, passada pela distância.",
+    "continuity_and_limits": "Evitar corrida estacionária e zoom como único movimento.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s04",
+    "cam": "bump",
+    "output_seconds": [
+      4.5,
+      7.0
+    ],
+    "reference_seconds": [
+      15.58,
+      22.75
+    ],
+    "observed_reference": "Dois personagens convergem; braços levantam, café espalha; reação.",
+    "reconstruction": "Geral abre para a aproximação e aproxima até plano de dois; mãos chegam ao copo.",
+    "continuity_and_limits": "Interromper avanço antes de atravessar corpos; respingos caem e deixam mancha.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s05",
+    "cam": "reset",
+    "output_seconds": [
+      7.0,
+      9.916666666666666
+    ],
+    "reference_seconds": [
+      22.75,
+      25.04
+    ],
+    "observed_reference": "Retorno ao mesmo relógio7:00 como corte de repetição.",
+    "reconstruction": "Reutilizar câmera/prop do insert inicial.",
+    "continuity_and_limits": "Mudança de ação/padrão cria reconhecimento, sem flash branco.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s06",
+    "cam": "repeat",
+    "output_seconds": [
+      9.916666666666666,
+      12.583333333333334
+    ],
+    "reference_seconds": [
+      62.79,
+      68.5
+    ],
+    "observed_reference": "Retoma a mesma caminhada/encontro, agora com conhecimento.",
+    "reconstruction": "Mesma rua, mesma direção, Nico atento; outros pedestres em camadas.",
+    "continuity_and_limits": "Manter referências de espaço entre cortes.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s07",
+    "cam": "feet",
+    "output_seconds": [
+      12.583333333333334,
+      14.166666666666666
+    ],
+    "reference_seconds": [
+      68.5,
+      71.96
+    ],
+    "observed_reference": "Detalhe dos sapatos e café: o cotidiano previsível.",
+    "reconstruction": "Close baixo nos pés durante deslocamento real.",
+    "continuity_and_limits": "Manter fase da marcha entre o plano médio e o insert.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s08",
+    "cam": "dodge",
+    "output_seconds": [
+      14.166666666666666,
+      16.708333333333332
+    ],
+    "reference_seconds": [
+      74,
+      84.79
+    ],
+    "observed_reference": "Novo dia muda o comportamento do personagem diante da rotina.",
+    "reconstruction": "Nico faz arco lateral, sem colidir, câmera segue; copo permanece com Sol.",
+    "continuity_and_limits": "Condensa várias repetições em uma ação clara.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s09",
+    "cam": "midnight",
+    "output_seconds": [
+      16.708333333333332,
+      18.416666666666668
+    ],
+    "reference_seconds": [
+      92.25,
+      103.42
+    ],
+    "observed_reference": "Quarto noturno, relógio perto da meia-noite e reset.",
+    "reconstruction": "Insert23:59 avançando a0:00, janela escura.",
+    "continuity_and_limits": "O original mostra11:58; versão usa formato24h, regra ficcional.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s10",
+    "cam": "travel",
+    "output_seconds": [
+      18.416666666666668,
+      21.25
+    ],
+    "reference_seconds": [
+      107.08,
+      118.21
+    ],
+    "observed_reference": "Diagrama de deslocamento distante que não evita o reset.",
+    "reconstruction": "Substituir mapa por carro3D em estrada, rodas/raiz movendo.",
+    "continuity_and_limits": "Distância/velocidade sem números inventados; depois corte para cama.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s11",
+    "cam": "back",
+    "output_seconds": [
+      21.25,
+      23.75
+    ],
+    "reference_seconds": [
+      103.42,
+      107.08
+    ],
+    "observed_reference": "Volta involuntária à cama.",
+    "reconstruction": "Repete3/4 sentado com reação de frustração.",
+    "continuity_and_limits": "Mapa/viagem são condensados, não preservam ordem literal de cada fala.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s12",
+    "cam": "rules",
+    "output_seconds": [
+      23.75,
+      26.708333333333332
+    ],
+    "reference_seconds": [
+      135.25,
+      157.71
+    ],
+    "observed_reference": "Cartelas: tudo se restaura e nada material acompanha.",
+    "reconstruction": "Lista progressiva dinheiro/objetos/mensagens; rua continua ao fundo.",
+    "continuity_and_limits": "São regras da nossa ficção, não afirmação científica.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s13",
+    "cam": "memory",
+    "output_seconds": [
+      26.708333333333332,
+      28.625
+    ],
+    "reference_seconds": [
+      157.71,
+      161.42
+    ],
+    "observed_reference": "Ilustração da cabeça/memória sobrevivente.",
+    "reconstruction": "Nico aproxima mão da face, close no reconhecimento.",
+    "continuity_and_limits": "Gesto adaptado ao quadril sentado, não alvo de mão de personagem em pé.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s14",
+    "cam": "piano",
+    "output_seconds": [
+      28.625,
+      31.708333333333332
+    ],
+    "reference_seconds": [
+      339.83,
+      347.25
+    ],
+    "observed_reference": "Montagem de habilidades, piano/skate/cubo.",
+    "reconstruction": "Over-shoulder de Nico tocando teclado; duas mãos chegam à superfície das teclas.",
+    "continuity_and_limits": "Uma habilidade em3D substitui montagem de três painéis.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s15",
+    "cam": "dance",
+    "output_seconds": [
+      31.708333333333332,
+      35.083333333333336
+    ],
+    "reference_seconds": [
+      331.83,
+      347.25
+    ],
+    "observed_reference": "Aprendizado cumulativo e progresso.",
+    "reconstruction": "Dança pequena ao lado do teclado, pés fora do banco, câmera segue.",
+    "continuity_and_limits": "Não declarar horas universais de maestria.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s16",
+    "cam": "days",
+    "output_seconds": [
+      35.083333333333336,
+      40.958333333333336
+    ],
+    "reference_seconds": [
+      290.08,
+      331.83
+    ],
+    "observed_reference": "Calendários repetidos/contagens e consciência avançando.",
+    "reconstruction": "Contador1→300animado; rótulo de mesmo dia, várias manhãs subjetivas.",
+    "continuity_and_limits": "300é elemento da ficção, não tempo real decorrido para todos.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s17",
+    "cam": "bench",
+    "output_seconds": [
+      40.958333333333336,
+      45.125
+    ],
+    "reference_seconds": [
+      384.04,
+      390.21
+    ],
+    "observed_reference": "Plano de dois sentados: um conversa, o protagonista não acompanha.",
+    "reconstruction": "Geral médio do banco, Nico e amigo; luz mais fria.",
+    "continuity_and_limits": "Pés no chão e quadril na altura do assento.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s18",
+    "cam": "secret",
+    "output_seconds": [
+      45.125,
+      47.791666666666664
+    ],
+    "reference_seconds": [
+      394.33,
+      397.88
+    ],
+    "observed_reference": "Contraplano por trás do banco, duas cabeças/costas no mesmo eixo.",
+    "reconstruction": "Câmera atrás e acima do encosto, vendo os dois; gesto de Nico.",
+    "continuity_and_limits": "Preserva eixo espacial, sem colocar câmera dentro do banco.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s19",
+    "cam": "forgot",
+    "output_seconds": [
+      47.791666666666664,
+      51.291666666666664
+    ],
+    "reference_seconds": [
+      390.21,
+      394.33
+    ],
+    "observed_reference": "Reação próxima alterna rosto do amigo/protagonista.",
+    "reconstruction": "Close do amigo que não compartilha a memória.",
+    "continuity_and_limits": "Explicar esquecimento na narração, não inventar falas de roteiro original.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s20",
+    "cam": "lonely",
+    "output_seconds": [
+      51.291666666666664,
+      54.958333333333336
+    ],
+    "reference_seconds": [
+      431.46,
+      438.0
+    ],
+    "observed_reference": "Escala visual de isolamento entre muitas pessoas.",
+    "reconstruction": "Recuo/elevação sobre Nico sozinho no banco.",
+    "continuity_and_limits": "Condensa multidão/solidão; omite comparação médica com cigarros sem verificação.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s21",
+    "cam": "lia",
+    "output_seconds": [
+      54.958333333333336,
+      60.958333333333336
+    ],
+    "reference_seconds": [
+      485.29,
+      498.62
+    ],
+    "observed_reference": "Introdução da personagem de roxo e surpresa de reconhecimento.",
+    "reconstruction": "Plano de dois na rua: Lia roxa muda o padrão, Nico reage.",
+    "continuity_and_limits": "Lia é personagem próprio; não usar nome/costume do outro canal.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s22",
+    "cam": "reaction",
+    "output_seconds": [
+      60.958333333333336,
+      62.666666666666664
+    ],
+    "reference_seconds": [
+      498.62,
+      501.21
+    ],
+    "observed_reference": "Close de surpresa do protagonista.",
+    "reconstruction": "Aproximação frontal de Nico, corpo contido, expressão surpresa.",
+    "continuity_and_limits": "Contraste com repetição de gestos anteriores.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s23",
+    "cam": "reverse",
+    "output_seconds": [
+      62.666666666666664,
+      66.58333333333333
+    ],
+    "reference_seconds": [
+      501.21,
+      519.33
+    ],
+    "observed_reference": "Contraplano próximo da garota e nova informação.",
+    "reconstruction": "Close de Lia; pequeno gesto, roupa/luz identificáveis.",
+    "continuity_and_limits": "Não expor informação científica ou estatística não checada.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s24",
+    "cam": "both",
+    "output_seconds": [
+      66.58333333333333,
+      70.66666666666667
+    ],
+    "reference_seconds": [
+      565.5,
+      569.79
+    ],
+    "observed_reference": "Os dois compartilham entendimento/sorrisos.",
+    "reconstruction": "Reencontro no banco em plano de dois com pequena órbita.",
+    "continuity_and_limits": "Banco reaproveitado muda significado: primeiro isolamento, depois companhia.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s25",
+    "cam": "route",
+    "output_seconds": [
+      70.66666666666667,
+      73.29166666666667
+    ],
+    "reference_seconds": [
+      534.38,
+      553.0
+    ],
+    "observed_reference": "Caminhada da dupla por rua/mapa.",
+    "reconstruction": "Tracking dos dois deslocando juntos, composição em profundidade.",
+    "continuity_and_limits": "Sem reiniciar passada a cada corte.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s26",
+    "cam": "food",
+    "output_seconds": [
+      73.29166666666667,
+      74.375
+    ],
+    "reference_seconds": [
+      558.92,
+      562.5
+    ],
+    "observed_reference": "Montagem compartilhada: cozinha/gesto com frigideira.",
+    "reconstruction": "Plano frontal da mesa com refeição e ambos os rostos.",
+    "continuity_and_limits": "Cenário em corte para a parede não ocultar os personagens.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s27",
+    "cam": "cooking",
+    "output_seconds": [
+      74.375,
+      75.33333333333333
+    ],
+    "reference_seconds": [
+      558.92,
+      562.5
+    ],
+    "observed_reference": "Comida sobe da frigideira durante demonstração da garota.",
+    "reconstruction": "Nico segura cabo; grupo da frigideira gira em torno do grip e panqueca faz arco lateral.",
+    "continuity_and_limits": "Troca quem executa a ação; trajetória desenhada para não cruzar o rosto.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s28",
+    "cam": "sunset",
+    "output_seconds": [
+      75.33333333333333,
+      76.20833333333333
+    ],
+    "reference_seconds": [
+      569.79,
+      572.38
+    ],
+    "observed_reference": "Plano aberto da dupla diante da cidade à noite.",
+    "reconstruction": "Geral do banco e cidade com janelas, cores de entardecer.",
+    "continuity_and_limits": "Formato vertical exige reenquadrar horizonte/dupla.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s29",
+    "cam": "wait",
+    "output_seconds": [
+      76.20833333333333,
+      77.08333333333333
+    ],
+    "reference_seconds": [
+      572.38,
+      582.25
+    ],
+    "observed_reference": "Relógio/cidade/expressões antes da virada.",
+    "reconstruction": "Dois rostos e23:59, breve espera conjunta.",
+    "continuity_and_limits": "Evitar suspense parado longo no corte90s.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s30",
+    "cam": "alarm",
+    "output_seconds": [
+      77.08333333333333,
+      78.70833333333333
+    ],
+    "reference_seconds": [
+      583.04,
+      585.04
+    ],
+    "observed_reference": "Volta ao insert7:00após noite.",
+    "reconstruction": "Mesmo relógio e câmera do começo.",
+    "continuity_and_limits": "Padrão continua até a data do celular mudar.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s31",
+    "cam": "phone",
+    "output_seconds": [
+      78.70833333333333,
+      80.70833333333333
+    ],
+    "reference_seconds": [
+      585.04,
+      591.17
+    ],
+    "observed_reference": "Protagonista pega telefone e insert revela terça-feira.",
+    "reconstruction": "Insert vertical de celular em quadro central.",
+    "continuity_and_limits": "Textura respeita proporção do aparelho, texto sem deformação horizontal.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s32",
+    "cam": "tuesday",
+    "output_seconds": [
+      80.70833333333333,
+      83.66666666666667
+    ],
+    "reference_seconds": [
+      588.38,
+      591.17
+    ],
+    "observed_reference": "Terça-feira/data seguinte altera a regra.",
+    "reconstruction": "Segurar a informaçãoTERÇA-FEIRAlegível.",
+    "continuity_and_limits": "Confirmação narrativa antes da última dúvida.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s33",
+    "cam": "message",
+    "output_seconds": [
+      83.66666666666667,
+      85.75
+    ],
+    "reference_seconds": [
+      605.25,
+      614.71
+    ],
+    "observed_reference": "Celular de número desconhecido deixa gancho.",
+    "reconstruction": "Novo insert com mensagem curta e notificação discreta.",
+    "continuity_and_limits": "Mensagem escrita para a nossa versão, não transcrição do original.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  },
+  {
+    "take": "s34",
+    "cam": "end",
+    "output_seconds": [
+      85.75,
+      90
+    ],
+    "reference_seconds": [
+      605.25,
+      614.71
+    ],
+    "observed_reference": "Expressão do protagonista diante da comunicação inesperada.",
+    "reconstruction": "Close de Nico com aparelho abaixo do rosto, reação final.",
+    "continuity_and_limits": "Omitir CTA/marca do canal de referência; usar dois CTAs do usuário.",
+    "lens": "Enquadramento reconstruído visualmente; lente e transformações reais do original não são recuperáveis do MP4."
+  }
+]
