@@ -1,0 +1,43 @@
+{
+  "seconds": 90,
+  "native_width": 1080,
+  "native_height": 1920,
+  "fps": 24,
+  "takes": 24,
+  "voice_calls": 1,
+  "voice_model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "raw_voice_seconds": 84.85095833333334,
+  "measured_volume_curve": true,
+  "python_foley": true,
+  "cta_different_variants": true,
+  "cta_source_variants": [
+    "5",
+    "6"
+  ],
+  "cta_intervals": [
+    [
+      15,
+      22
+    ],
+    [
+      81,
+      88
+    ]
+  ],
+  "verified_physics_source": "Official publisher OpenStax source read through Git",
+  "nhtsa_live_access": "Blocked HTTP403, documented",
+  "native_pilots": [
+    [
+      10,
+      22
+    ],
+    [
+      59,
+      69
+    ]
+  ],
+  "complete_human_listening": false,
+  "independent_asr": false,
+  "new_billing_enabled": false
+}

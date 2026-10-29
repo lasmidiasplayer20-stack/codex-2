@@ -1,0 +1,462 @@
+{
+  "title": "15 - E se você pudesse enxergar a inércia",
+  "duration": 90,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.6666666666666665,
+      "scene": "hook",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook",
+        "label": [
+          "E SE VOCÊ ENXERGASSE",
+          "A INÉRCIA?"
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.6666666666666665,
+      "end": 5.333333333333333,
+      "scene": "enter",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "enter",
+        "label": [
+          "PISTA FECHADA",
+          "TESTE CONTROLADO"
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.333333333333333,
+      "end": 10.0,
+      "scene": "click",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "click",
+        "label": [
+          "PRIMEIRO",
+          "AFIVELAR O CINTO"
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "start": 10.0,
+      "end": 11.375,
+      "scene": "drive",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "drive",
+        "label": [
+          "LIA DIRIGE",
+          "DEVAGAR"
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "start": 11.375,
+      "end": 16.5,
+      "scene": "brake",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "brake",
+        "label": [
+          "O CARRO FREIA…",
+          "O MOVIMENTO CONTINUA"
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.5,
+      "end": 21.75,
+      "scene": "ghost",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "ghost",
+        "label": [
+          "SILHUETA IMAGINÁRIA",
+          "TENDÊNCIA DO MOVIMENTO"
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "start": 21.75,
+      "end": 25.916666666666668,
+      "scene": "real",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "real",
+        "label": [
+          "NICO ESTÁ",
+          "PRESO PELO CINTO"
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "start": 25.916666666666668,
+      "end": 30.166666666666668,
+      "scene": "together",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "together",
+        "label": [
+          "ANTES DA FREADA",
+          "CARRO E NICO SE MOVEM"
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "start": 30.166666666666668,
+      "end": 32.541666666666664,
+      "scene": "wheel",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wheel",
+        "label": [
+          "O FREIO",
+          "DESACELERA O CARRO"
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "start": 32.541666666666664,
+      "end": 37.208333333333336,
+      "scene": "body",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "body",
+        "label": [
+          "O CORPO TAMBÉM",
+          "PRECISA DESACELERAR"
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "start": 37.208333333333336,
+      "end": 44.541666666666664,
+      "scene": "inertia",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "inertia",
+        "label": [
+          "INÉRCIA NÃO É",
+          "UMA FORÇA EXTRA"
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "start": 44.541666666666664,
+      "end": 47.708333333333336,
+      "scene": "belt",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "belt",
+        "label": [
+          "O CINTO APLICA",
+          "A FORÇA AO CORPO"
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "start": 47.708333333333336,
+      "end": 53.708333333333336,
+      "scene": "fit",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "fit",
+        "label": [
+          "OMBRO E PEITO",
+          "FAIXA BAIXA NO QUADRIL"
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "start": 53.708333333333336,
+      "end": 59.291666666666664,
+      "scene": "wrong",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "wrong",
+        "label": [
+          "NÃO ATRÁS DAS COSTAS",
+          "NEM DEBAIXO DO BRAÇO"
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "start": 59.291666666666664,
+      "end": 62.125,
+      "scene": "reel",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "reel",
+        "label": [
+          "A FITA",
+          "PODE TRAVAR"
+        ]
+      }
+    },
+    {
+      "id": "s16",
+      "start": 62.125,
+      "end": 65.875,
+      "scene": "pawl",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pawl",
+        "label": [
+          "O MECANISMO",
+          "BLOQUEIA A SAÍDA"
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "start": 65.875,
+      "end": 69.20833333333333,
+      "scene": "vary",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "vary",
+        "label": [
+          "O PROJETO",
+          "VARIA POR VEÍCULO"
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "start": 69.20833333333333,
+      "end": 73.29166666666667,
+      "scene": "bag",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "bag",
+        "label": [
+          "UMA MOCHILA",
+          "SOLTA"
+        ]
+      }
+    },
+    {
+      "id": "s19",
+      "start": 73.29166666666667,
+      "end": 75.33333333333333,
+      "scene": "slide",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "slide",
+        "label": [
+          "NA FREADA",
+          "ELA DESLIZA"
+        ]
+      }
+    },
+    {
+      "id": "s20",
+      "start": 75.33333333333333,
+      "end": 77.08333333333333,
+      "scene": "secure",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "secure",
+        "label": [
+          "AGORA",
+          "PRESA CORRETAMENTE"
+        ]
+      }
+    },
+    {
+      "id": "s21",
+      "start": 77.08333333333333,
+      "end": 78.20833333333333,
+      "scene": "repeat",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "repeat",
+        "label": [
+          "OUTRO TESTE",
+          "MOCHILA NO LUGAR"
+        ]
+      }
+    },
+    {
+      "id": "s22",
+      "start": 78.20833333333333,
+      "end": 80.58333333333333,
+      "scene": "objects",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "objects",
+        "label": [
+          "OBJETOS TAMBÉM",
+          "VIAJAM SEGUROS"
+        ]
+      }
+    },
+    {
+      "id": "s23",
+      "start": 80.58333333333333,
+      "end": 85.375,
+      "scene": "understood",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "understood",
+        "label": [
+          "NICO",
+          "ENTENDEU"
+        ]
+      }
+    },
+    {
+      "id": "s24",
+      "start": 85.375,
+      "end": 90,
+      "scene": "end",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end",
+        "label": [
+          "O CINTO AJUDA VOCÊ",
+          "A PARAR JUNTO"
+        ]
+      }
+    }
+  ]
+}

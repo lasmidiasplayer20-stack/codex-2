@@ -1,0 +1,35 @@
+{
+  "user_request": "Suggest history/factual historical topics after delivering episode15. No next episode authorized yet.",
+  "source_checked": {
+    "publisher": "OpenStax",
+    "book": "U.S. History",
+    "repository": "https://github.com/openstax/osbooks-us-history",
+    "commit": "c05b860a035ff59a2ca1fd44339ef86694e09b57",
+    "modules": [
+      "m49996/index.cnxml",
+      "m50022/index.cnxml"
+    ],
+    "access": "Actual read-only git/show of publisher text"
+  },
+  "ideas": [
+    {
+      "title": "Um dia em Jamestown,1607",
+      "basis": "Founding of Jamestown in1607 verified in English Settlements in America section summary",
+      "approach": "Fictional protagonist amid documented English colonial arrival; contextualize Indigenous peoples already living there and distinguish viewpoints",
+      "further_research": "Specific daily routines, material culture, dates of encounters and Indigenous sources before scripting"
+    },
+    {
+      "title": "Uma noite a bordo do Mayflower,1620",
+      "basis": "Mayflower, Plymouth1620 and signed compact treated in English Settlements in America",
+      "approach": "Life aboard ship and arrival without modern props; fictional person, documented voyage",
+      "further_research": "Vessel layout, chronology and passenger accounts before specific scene claims"
+    },
+    {
+      "title": "Boston,1773: quando o chá virou protesto",
+      "basis": "Tea Act1773, destruction of tea and contemporary disagreement discussed in The Destruction of the Tea and the Coercive Acts",
+      "approach": "A dockside observer sees the protest; avoid false claim that every colonist supported it",
+      "further_research": "Primary accounts and precise chronology; do not present invented dialogue as real quotation"
+    }
+  ],
+  "recommendation": "Jamestown1607 best matches original request for a person living through English arrival in America. Research before producing; these are topic proposals, not complete scripts."
+}

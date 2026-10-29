@@ -1,0 +1,34 @@
+{
+  "final_mp4_sha256": "6f4b9daf9d50d0ba3c33786b3680be74808e8bcaa5348b38088bf1ecb9919eb2",
+  "source_sha256": "008aabbef884b3a33eb16ea9b60f25df729e0397f16c9622ef31abde20dcc73e",
+  "reviewed_actual_final_export": true,
+  "full_sheet": "filme-completo.jpg",
+  "sampled_final_frames": 25,
+  "movement_sheets": [
+    "freada-movimento.jpg",
+    "mochila-movimento.jpg",
+    "catraca-travamento.jpg"
+  ],
+  "cta_sheet": "cta-final.jpg",
+  "different_cta_variants_verified": true,
+  "cta_source_variants": [
+    "5",
+    "6"
+  ],
+  "observations": [
+    "Nico and Lia remain restrained during driving; ghost is an explicitly labelled visual overlay",
+    "Ghost moves toward vehicle front while vehicle slows",
+    "Driver hands remain on steering-wheel plane, buckle hand reaches latch",
+    "Free bag advances in passenger compartment; restrained bag stays at its attachment location",
+    "No foreground tree blocks the reviewed main actions after layout revision",
+    "Both new CTA variants keyed without green rectangle, distinct animation styles, faces visible at sampled instants"
+  ],
+  "physics_reference": "OpenStax official publisher text actually read; source trace in story/references.json",
+  "no_measured_real_world_force_or_speed_claims": true,
+  "limits": [
+    "No complete human listening or independent ASR",
+    "Approximate alignment via script word positions and waveform gaps",
+    "Sampled/consecutive images plus native motion pilots, not full human playback or engineering certification"
+  ],
+  "approved_by_user": false
+}

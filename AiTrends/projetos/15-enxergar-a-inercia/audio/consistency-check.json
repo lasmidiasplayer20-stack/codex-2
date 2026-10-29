@@ -1,0 +1,52 @@
+{
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "generation_calls": 1,
+  "raw_seconds": 84.85095833333334,
+  "source_clipped_samples": 0,
+  "fixed_slow_gain_curve": {
+    "seconds": [
+      0,
+      9,
+      27,
+      45,
+      63,
+      81,
+      90
+    ],
+    "db": [
+      3.7372796260274157,
+      3.7372796260274157,
+      0.7556716291358789,
+      0.0,
+      -1.1969641077786797,
+      -1.7487001772806767,
+      -1.7487001772806767
+    ],
+    "reason": "Measure this episode only; broad fixed gain compensation when spread exceeds2.5dB",
+    "before_active_window_dbfs": [
+      -19.010706987429494,
+      -16.029098990537957,
+      -15.273427361402078,
+      -14.076463253623398,
+      -13.524727184121401
+    ],
+    "after_active_window_dbfs": [
+      -15.662804046167743,
+      -15.005105111419564,
+      -15.075385463417437,
+      -14.983897425592899,
+      -15.220327804771374
+    ],
+    "before_spread_db": 5.485979803308092,
+    "after_spread_db": 0.6789066205748444
+  },
+  "speed_change": false,
+  "pitch_change": false,
+  "extra_compressor": false,
+  "largest_detected_source_gap": 2.916583,
+  "added_per_gap": 0.1439616666666666,
+  "human_full_listening": false,
+  "independent_asr": false,
+  "limits": "Level/timing checks do not prove identical timbre or naturalness. No claim of user approval of full episode."
+}

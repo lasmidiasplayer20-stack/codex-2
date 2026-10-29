@@ -1,0 +1,91 @@
+[
+  {
+    "seconds": 3.8666666666666667,
+    "kind": "sneaker on test-track pavement",
+    "duration": 0.09
+  },
+  {
+    "seconds": 4.346666666666667,
+    "kind": "sneaker on test-track pavement",
+    "duration": 0.09
+  },
+  {
+    "seconds": 4.826666666666666,
+    "kind": "sneaker on test-track pavement",
+    "duration": 0.09
+  },
+  {
+    "seconds": 5.306666666666667,
+    "kind": "sneaker on test-track pavement",
+    "duration": 0.09
+  },
+  {
+    "seconds": 9.066666666666666,
+    "kind": "seat belt buckle click",
+    "duration": 0.1
+  },
+  {
+    "seconds": 11.475,
+    "kind": "soft braking / tire friction",
+    "duration": 0.8
+  },
+  {
+    "seconds": 73.39166666666667,
+    "kind": "soft braking / tire friction",
+    "duration": 0.8
+  },
+  {
+    "seconds": 77.18333333333332,
+    "kind": "soft braking / tire friction",
+    "duration": 0.8
+  },
+  {
+    "seconds": 73.49166666666667,
+    "kind": "backpack cloth slide",
+    "duration": 0.8
+  },
+  {
+    "seconds": 75.58333333333333,
+    "kind": "cargo strap fastening",
+    "duration": 0.13
+  },
+  {
+    "seconds": 62.525,
+    "kind": "illustrative retractor lock click",
+    "duration": 0.09
+  },
+  {
+    "seconds": 10.0,
+    "kind": "quiet procedural rolling tire bed, three bounded passes"
+  },
+  {
+    "seconds": 16.4,
+    "kind": "CTA video variant click / subscribe / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "CTA video variant click / subscribe / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "CTA video variant click / subscribe / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 82,
+    "kind": "CTA video variant click / subscribe / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 84,
+    "kind": "CTA video variant click / subscribe / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 86.8,
+    "kind": "CTA video variant click / subscribe / bell",
+    "duration": 0.1
+  }
+]
