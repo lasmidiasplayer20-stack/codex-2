@@ -1,0 +1,26 @@
+{
+  "reason": "Pulling door requires backward gait; positive decreasing distance during opening, increasing during closing. Forward phase had foot sliding.",
+  "source_before": "ae65c261e18fd74ba4e138a0658ffac2a787cc571b19b35ec830cfe3320bd331",
+  "source_after": "e33fedc3d6aedd96b18295d2911676d53dfe3d48351a2011ae6760b95ac3406e",
+  "changed_expression": "dist=a*1.8 -> dist=(2-a)*1.8, only in holding branch",
+  "native_replacement_ranges": [
+    {
+      "name": "open",
+      "start_frame": 130,
+      "end_frame": 229,
+      "frames": 99,
+      "file": "/workspace/fridge-private/gait-open.mp4"
+    },
+    {
+      "name": "close",
+      "start_frame": 1766,
+      "end_frame": 1815,
+      "frames": 49,
+      "file": "/workspace/fridge-private/gait-close.mp4"
+    }
+  ],
+  "all_other_frames": "Reused from completed native render, no camera or scene changes outside these two shots",
+  "combined_seconds": 90,
+  "combined_frames": 2160,
+  "voice_regenerated": false
+}

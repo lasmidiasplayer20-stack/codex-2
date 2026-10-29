@@ -1,0 +1,42 @@
+{
+  "seconds": 90,
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "takes": 27,
+  "engine": "Code/Three.js via locally adapted aiTrends",
+  "characters": [
+    "Nico",
+    "Lia"
+  ],
+  "narration_calls": 1,
+  "same_voice_model": true,
+  "no_speed_or_pitch_change": true,
+  "voice_level_before_spread_db": 3.1988278930559773,
+  "voice_level_after_spread_db": 0.5985416952438491,
+  "python_foley": true,
+  "cta_video_intervals": [
+    [
+      15,
+      22
+    ],
+    [
+      81,
+      88
+    ]
+  ],
+  "native_pilots": [
+    {
+      "start": 3,
+      "end": 13
+    },
+    {
+      "start": 33,
+      "end": 43
+    }
+  ],
+  "new_paid_providers_or_billing_enabled": false,
+  "live_external_research": false,
+  "full_human_listening": false,
+  "independent_asr": false
+}

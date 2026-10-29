@@ -1,0 +1,1634 @@
+{
+  "rod_length_failures": 0,
+  "sampled_scene_frames": 108,
+  "errors": [],
+  "nonfinite": 0,
+  "contact_failures": 0,
+  "max_door_error_m": 9.155133597044475e-16,
+  "max_fan_error_m": 0,
+  "records": [
+    {
+      "seconds": 0.325,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.000231291828925,
+        4.000144557393078,
+        9.999566327820766
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 1.1375,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.013272644515248,
+        4.00829540282203,
+        9.97511379153391
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 2.1125000000000003,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.065197322948802,
+        4.040748326843001,
+        9.877755019470996
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 2.9250000000000003,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.079654748057115,
+        4.049784217535697,
+        9.85064734739291
+      ],
+      "door_open": 0,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 3.466666666666667,
+      "cam": "approach",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        2.9981508875739644,
+        3.000177799271734,
+        6.999466602184797
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 4.008333333333334,
+      "cam": "approach",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        2.9137278106508875,
+        3.00829540282203,
+        6.97511379153391
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 4.658333333333333,
+      "cam": "approach",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        2.58146449704142,
+        3.040243798361402,
+        6.8792686049157945
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 5.2,
+      "cam": "approach",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        2.4831952662721894,
+        3.0496927628584434,
+        6.85092171142467
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 5.829166666666667,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 1.1102230246251565e-16,
+      "fan": null,
+      "camera": [
+        2.998437265214125,
+        3.0001502629601804,
+        6.999549211119459
+      ],
+      "door_open": 0.0030052592036063125,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 6.860416666666667,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 2.7755575615628914e-16,
+      "fan": null,
+      "camera": [
+        2.9157452290479533,
+        3.0081014202838507,
+        6.975695739148448
+      ],
+      "door_open": 0.16202840567701288,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 8.097916666666666,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 4.742874840267547e-16,
+      "fan": null,
+      "camera": [
+        2.5719098133668075,
+        3.0411625179454993,
+        6.8765124461635025
+      ],
+      "door_open": 0.8232503589099858,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 9.129166666666666,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 3.3306690738754696e-16,
+      "fan": null,
+      "camera": [
+        2.4821436691164274,
+        3.049793877969574,
+        6.850618366091277
+      ],
+      "door_open": 0.9958775593914866,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 9.7,
+      "cam": "cold",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.019487249934102103,
+        2.069791111719257,
+        5.204659979399374
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 10.095833333333333,
+      "cam": "cold",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.006832343971133669,
+        2.0750827872873265,
+        5.180932030718808
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 10.570833333333333,
+      "cam": "cold",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.04435296000903827,
+        2.1085916972065064,
+        5.084959585755986
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 10.966666666666667,
+      "cam": "cold",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.05998206046099923,
+        2.123017854009,
+        5.055655022408559
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 11.279166666666667,
+      "cam": "idea",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.019474134963971823,
+        2.077282402123134,
+        5.20463538883038
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 11.664583333333333,
+      "cam": "idea",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.00872807846188901,
+        2.088153350866582,
+        5.184486532888974
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 12.127083333333333,
+      "cam": "idea",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.04647575941543318,
+        2.1241780624786077,
+        5.080979336868996
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 12.5125,
+      "cam": "idea",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.059950973124394125,
+        2.1301483854849645,
+        5.055713311164694
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 13.254166666666666,
+      "cam": "temp",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.100313239662517,
+        2.300195774789073,
+        4.999412675632781
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 14.722916666666666,
+      "cam": "temp",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.113430150530408,
+        2.308393844081505,
+        4.974818467755486
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 16.485416666666666,
+      "cam": "temp",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.1657307005048834,
+        2.341081687815552,
+        4.876754936553343
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 17.954166666666666,
+      "cam": "temp",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.179614728913632,
+        2.34975920557102,
+        4.85072238328694
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 18.596666666666668,
+      "cam": "confused",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.019505574918864402,
+        2.0764856530615825,
+        5.204694338745804
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 18.734166666666667,
+      "cam": "confused",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.010740235575013054,
+        2.083593775687245,
+        5.188259327476082
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 18.89916666666667,
+      "cam": "confused",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.04079216835408506,
+        2.117750795541709,
+        5.091636070109024
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 19.03666666666667,
+      "cam": "confused",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.058873811229116724,
+        2.1302606971906037,
+        5.057732989718339
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 19.640833333333333,
+      "cam": "explain",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.0002931120389285,
+        3.40018319502433,
+        8.99945041492701
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 21.01375,
+      "cam": "explain",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.013427655224831,
+        3.4083922845155197,
+        8.974823146453442
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 22.66125,
+      "cam": "explain",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.065489000693484,
+        3.4409306254334275,
+        8.877208123699717
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 24.034166666666664,
+      "cam": "explain",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        4.079616480143156,
+        3.4497603000894728,
+        8.850719099731581
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 25.041666666666664,
+      "cam": "back",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.77409335304176,
+        2.5002,
+        -3.5006
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 26.1875,
+      "cam": "back",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.5798677753439185,
+        2.508245229151014,
+        -3.524735687453043
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 27.5625,
+      "cam": "back",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.2515473805285183,
+        2.541086551465064,
+        -3.623259654395192
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 28.708333333333336,
+      "cam": "back",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.4723132021978339,
+        2.5498,
+        -3.6494
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 29.6125,
+      "cam": "evaporator",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.100261215320605,
+        2.7001632595753784,
+        2.3995102212738653
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 30.727083333333333,
+      "cam": "evaporator",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1132313396346087,
+        2.7082695872716305,
+        2.3751912381851086
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 32.06458333333333,
+      "cam": "evaporator",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1656665929277585,
+        2.7410416205798493,
+        2.276875138260453
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 33.17916666666667,
+      "cam": "evaporator",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1796523224082747,
+        2.749782701505172,
+        2.250651895484485
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 33.829166666666666,
+      "cam": "compressor",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.9501740771277274,
+        0.7501087982048296,
+        0.7996736053855112
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 34.33958333333333,
+      "cam": "compressor",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.9633631395081983,
+        0.7583519621926239,
+        0.7749441134221282
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 34.952083333333334,
+      "cam": "compressor",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.0141372217358413,
+        0.7900857635849008,
+        0.6797427092452977
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 35.4625,
+      "cam": "compressor",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.0296600056099074,
+        0.7997875035061922,
+        0.6506374894814235
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 35.84583333333333,
+      "cam": "piston",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.9502575873822431,
+        0.750160992113902,
+        0.7995170236582942
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 36.29375,
+      "cam": "piston",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.9635837096104743,
+        0.7584898185065465,
+        0.7745305444803605
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 36.83125,
+      "cam": "piston",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.013514407536443,
+        0.789696504710277,
+        0.6809104858691692
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 37.27916666666667,
+      "cam": "piston",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.0294968996440566,
+        0.7996855622775353,
+        0.6509433131673941
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 38.025000000000006,
+      "cam": "condenser",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.7746941045829296,
+        2.5001746800580094,
+        -3.500524040174028
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 39.44166666666667,
+      "cam": "condenser",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.57963295417862,
+        2.508254805490535,
+        -3.524764416471606
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 41.141666666666666,
+      "cam": "condenser",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.2546182121569839,
+        2.5412070018318746,
+        -3.623621005495624
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 42.55833333333334,
+      "cam": "condenser",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.471856497119555,
+        2.549781828821494,
+        -3.649345486464482
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 43.3875,
+      "cam": "expand",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1002764280315303,
+        1.5001727675197063,
+        -3.3005183025591185
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 44.04375,
+      "cam": "expand",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1136268781469083,
+        1.5085167988418178,
+        -3.3255503965254527
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 44.83125,
+      "cam": "expand",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1644291673165446,
+        1.5402682295728403,
+        -3.4208046887185204
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 45.4875,
+      "cam": "expand",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.1795610425240055,
+        1.5497256515775035,
+        -3.44917695473251
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 45.875,
+      "cam": "cycle",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.023119863200246244,
+        2.8002,
+        3.7993316002051998
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 46.1875,
+      "cam": "cycle",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.8493632769851023,
+        2.807407407407407,
+        3.684336102257682
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 46.5625,
+      "cam": "cycle",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.6117559538345514,
+        2.8401407407407406,
+        1.241570966265163
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 46.875,
+      "cam": "cycle",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.868479922121817,
+        2.8497999999999997,
+        0.14213927716469618
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 47.38333333333333,
+      "cam": "doorload",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.400299580833402,
+        3.5001872380208763,
+        6.999438285937371
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 48.34166666666667,
+      "cam": "doorload",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.4134659324402072,
+        3.5084162077751295,
+        6.974751376674612
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 49.49166666666667,
+      "cam": "doorload",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.465231774471932,
+        3.540769859044958,
+        6.877690422865127
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 50.45,
+      "cam": "doorload",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.4795890523547297,
+        3.5497431577217062,
+        6.850770526834881
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 51.17916666666667,
+      "cam": "arrows",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.4002865402676172,
+        3.5001790876672607,
+        6.999462736998218
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 52.04375,
+      "cam": "arrows",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.413649278490067,
+        3.5085307990562917,
+        6.974407602831124
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 53.08125,
+      "cam": "arrows",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.4648894780748773,
+        3.5405559237967985,
+        6.8783322286096045
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 53.94583333333333,
+      "cam": "arrows",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.479592015908022,
+        3.5497450099425136,
+        6.8507649701724596
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 54.8925,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.400292845330993,
+        3.5001830283318704,
+        6.999450915004388
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 56.39458333333333,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.413340257424973,
+        3.508337660890608,
+        6.974987017328175
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 58.19708333333333,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.4656760076598796,
+        3.541047504787425,
+        6.876857485637726
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 59.69916666666666,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.479625212618023,
+        3.5497657578862647,
+        6.850702726341206
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 60.67833333333333,
+      "cam": "saldo",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.100291299976242,
+        2.3001820624851512,
+        4.999453812544546
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 61.62416666666666,
+      "cam": "saldo",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.1124894864813735,
+        2.307805929050858,
+        4.976582212847425
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 62.759166666666665,
+      "cam": "saldo",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.165993089046218,
+        2.341245680653886,
+        4.876262958038342
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 63.705,
+      "cam": "saldo",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        3.179572543000678,
+        2.3497328393754238,
+        4.850801481873729
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 64.225,
+      "cam": "fan",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.5002198249542031,
+        3.2001373905963773,
+        8.39958782821087
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 64.57916666666667,
+      "cam": "fan",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.510836556075718,
+        3.206772847547324,
+        8.379681457358028
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 65.00416666666666,
+      "cam": "fan",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.5659312029309995,
+        3.241207001831875,
+        8.276378994504377
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 65.35833333333333,
+      "cam": "fan",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.5794789334418888,
+        3.2496743334011806,
+        8.250976999796459
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 65.61666666666667,
+      "cam": "push",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        1.5001166180758017,
+        3.2000728862973764,
+        8.399781341107872
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 65.90833333333333,
+      "cam": "push",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        1.5106268221574344,
+        3.2066417638483964,
+        8.380074708454812
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 66.25833333333334,
+      "cam": "push",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        1.565422740524781,
+        3.2408892128279883,
+        8.277332361516036
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 66.55000000000001,
+      "cam": "push",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        1.579606413994169,
+        3.249754008746356,
+        8.250737973760934
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 67.35833333333333,
+      "cam": "breeze",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.9188393842462317,
+        2.083017283169358,
+        4.65232813967439
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 69.0875,
+      "cam": "breeze",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.6315405124635594,
+        2.076066575850146,
+        4.760900387731794
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 71.1625,
+      "cam": "breeze",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.4860983635514632,
+        2.1240142749341424,
+        5.183263916458401
+      ],
+      "door_open": 1,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 72.89166666666667,
+      "cam": "breeze",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        -0.7876105700199553,
+        2.116953371172441,
+        5.297207482856379
+      ],
+      "door_open": 1,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 73.7875,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 9.155133597044475e-16,
+      "fan": null,
+      "camera": [
+        1.599738884308409,
+        3.70010879820483,
+        6.999673605385511
+      ],
+      "door_open": 0.9978240359034074,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 74.29791666666667,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 4.742874840267547e-16,
+      "fan": null,
+      "camera": [
+        1.5799552907377024,
+        3.708351962192624,
+        6.9749441134221275
+      ],
+      "door_open": 0.8329607561475181,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 74.91041666666666,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 2.2887833992611187e-16,
+      "fan": null,
+      "camera": [
+        1.5037941673962378,
+        3.740085763584901,
+        6.879742709245297
+      ],
+      "door_open": 0.19828472830198174,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 75.42083333333333,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 0,
+      "fan": null,
+      "camera": [
+        1.480509991585139,
+        3.7497875035061923,
+        6.850637489481423
+      ],
+      "door_open": 0.004249929876156688,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 75.80833333333334,
+      "cam": "food",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.8002404207362885,
+        2.0001502629601804,
+        3.2995492111194586
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 76.26666666666667,
+      "cam": "food",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.8126784372652143,
+        2.0079240232907587,
+        3.2762279301277233
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 76.81666666666666,
+      "cam": "food",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.8646130728775363,
+        2.04038317054846,
+        3.1788504883546196
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 77.27499999999999,
+      "cam": "food",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.8795304282494366,
+        2.0497065176558977,
+        3.150880447032306
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 77.75,
+      "cam": "rest",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.20032,
+        1.1002,
+        0.9994
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 78.47916666666666,
+      "cam": "rest",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.212897026239067,
+        1.108060641399417,
+        0.9758180758017494
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 79.35416666666667,
+      "cam": "rest",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.265422740524781,
+        1.1408892128279884,
+        0.8773323615160352
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 80.08333333333333,
+      "cam": "rest",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        1.27968,
+        1.1498000000000002,
+        0.8506
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 80.95416666666667,
+      "cam": "share",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        0.9969895357457628,
+        3.7001636121877306,
+        8.999509163436809
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 82.40208333333334,
+      "cam": "share",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        0.8484600533433823,
+        3.708235866666121,
+        8.975292400001639
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 84.13958333333333,
+      "cam": "share",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        0.24120988122291442,
+        3.7412385934117984,
+        8.876284219764605
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 85.5875,
+      "cam": "share",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": 0,
+      "camera": [
+        0.08375999722968915,
+        3.7497956523244738,
+        8.85061304302658
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 86.55000000000001,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.9965548204158791,
+        3.7001872380208765,
+        8.999438285937371
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 87.50833333333334,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.8451417769376192,
+        3.7084162077751297,
+        8.974751376674611
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 88.65833333333333,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.24983459357277954,
+        3.7407698590449576,
+        8.877690422865127
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 89.61666666666667,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "door": null,
+      "fan": null,
+      "camera": [
+        0.08472589792060511,
+        3.7497431577217064,
+        8.85077052683488
+      ],
+      "door_open": 0,
+      "rod_length": 0.3
+    }
+  ],
+  "limitations": "Numerical positions and grip checks. Not a full perceptual or body-collision audit.",
+  "source_sha256": "ae65c261e18fd74ba4e138a0658ffac2a787cc571b19b35ec830cfe3320bd331",
+  "post_review_change": "Only gait direction during open/close; final contacts rechecked separately in door-gait-contact-audit.json"
+}

@@ -1,0 +1,35 @@
+{
+  "final_mp4_sha256": "ea1091713edddeeac489d6e67a290b75aae9467f121177b6d15d9c46e1d039a5",
+  "source_sha256": "1aa8cb4fa6053918df1ac20dd8dd5ad5a5b5586645e6f5055a10c6fe5bbb3429",
+  "actual_final_export_frames_reviewed": true,
+  "full_contact_sheet": "filme-completo.jpg",
+  "sampled_final_frames": 27,
+  "movement_sheets": [
+    "porta-articulada.jpg",
+    "ventilador-movimento.jpg",
+    "compressor-quadros-consecutivos.jpg"
+  ],
+  "cta_sheet": "cta-final.jpg",
+  "original_numeric_scene_samples": 108,
+  "door_gait_final_contact_samples": 8,
+  "observations": [
+    "Hands follow door handle; backward gait while pulling, forward while closing",
+    "Fan moves with hands; head/air flow targets Nico",
+    "Visible compressor crank and piston, fixed connecting-rod length",
+    "Open/close door and final shared fan are visible in actual final MP4",
+    "Red thermometer column stays inside case after bounded local correction",
+    "CTA keyed without green rectangle and away from faces at sampled instants"
+  ],
+  "native_corrected_takes": [
+    "open",
+    "close",
+    "temp",
+    "saldo"
+  ],
+  "limits": [
+    "No complete human listening or independent ASR",
+    "Representative images/consecutive frames and native motion pilots, not full human playback approval",
+    "Approximate narration alignment from words and waveform gaps"
+  ],
+  "approved_by_user": false
+}

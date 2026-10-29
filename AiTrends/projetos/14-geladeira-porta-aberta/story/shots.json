@@ -1,0 +1,519 @@
+{
+  "title": "14 - E se você deixasse a geladeira aberta",
+  "duration": 90,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.25,
+      "scene": "hook",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook",
+        "label": [
+          "GELADEIRA ABERTA",
+          "REFRESCA A COZINHA?"
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.25,
+      "end": 5.416666666666667,
+      "scene": "approach",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "approach",
+        "label": [
+          "NICO TEVE",
+          "UMA IDEIA…"
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.416666666666667,
+      "end": 9.541666666666666,
+      "scene": "open",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "open",
+        "label": [
+          "ABRIU A PORTA",
+          "SAIU AR GELADINHO"
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.541666666666666,
+      "end": 11.125,
+      "scene": "cold",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "cold",
+        "label": [
+          "AR-CONDICIONADO",
+          "GRÁTIS?"
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "start": 11.125,
+      "end": 12.666666666666666,
+      "scene": "idea",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "idea",
+        "label": [
+          "SÓ QUE",
+          "NÃO!"
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "start": 12.666666666666666,
+      "end": 18.541666666666668,
+      "scene": "temp",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "temp",
+        "label": [
+          "A COZINHA",
+          "FICA MAIS QUENTE"
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "start": 18.541666666666668,
+      "end": 19.09166666666667,
+      "scene": "confused",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "confused",
+        "label": [
+          "COMO",
+          "ASSIM?!"
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "start": 19.09166666666667,
+      "end": 24.583333333333332,
+      "scene": "explain",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "explain",
+        "label": [
+          "NÃO FABRICA FRIO",
+          "TRANSPORTA CALOR"
+        ]
+      }
+    },
+    {
+      "scene": "back",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "back",
+        "label": [
+          "O CALOR VAI",
+          "PARA FORA"
+        ]
+      },
+      "id": "s09",
+      "start": 24.583333333333332,
+      "end": 29.166666666666668
+    },
+    {
+      "id": "s10",
+      "start": 29.166666666666668,
+      "end": 33.625,
+      "scene": "evaporator",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "evaporator",
+        "label": [
+          "EVAPORADOR",
+          "ABSORVE CALOR"
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "start": 33.625,
+      "end": 35.666666666666664,
+      "scene": "compressor",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "compressor",
+        "label": [
+          "COMPRESSOR",
+          "USA ELETRICIDADE"
+        ]
+      }
+    },
+    {
+      "id": "s12",
+      "start": 35.666666666666664,
+      "end": 37.458333333333336,
+      "scene": "piston",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "piston",
+        "label": [
+          "O VAPOR",
+          "É COMPRIMIDO"
+        ]
+      }
+    },
+    {
+      "id": "s13",
+      "start": 37.458333333333336,
+      "end": 43.125,
+      "scene": "condenser",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "condenser",
+        "label": [
+          "CONDENSADOR",
+          "LIBERA CALOR"
+        ]
+      }
+    },
+    {
+      "id": "s14",
+      "start": 43.125,
+      "end": 45.75,
+      "scene": "expand",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "expand",
+        "label": [
+          "A PRESSÃO DIMINUI",
+          "O CICLO RECOMEÇA"
+        ]
+      }
+    },
+    {
+      "id": "s15",
+      "start": 45.75,
+      "end": 47.0,
+      "scene": "cycle",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "cycle",
+        "label": [
+          "CALOR DE DENTRO",
+          "PARA FORA"
+        ]
+      }
+    },
+    {
+      "id": "s16",
+      "start": 47.0,
+      "end": 50.833333333333336,
+      "scene": "doorload",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "doorload",
+        "label": [
+          "PORTA ABERTA",
+          "ENTRA MAIS CALOR"
+        ]
+      }
+    },
+    {
+      "id": "s17",
+      "start": 50.833333333333336,
+      "end": 54.291666666666664,
+      "scene": "arrows",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "arrows",
+        "label": [
+          "RETIRA CALOR…",
+          "E DEVOLVE À COZINHA"
+        ]
+      }
+    },
+    {
+      "id": "s18",
+      "start": 54.291666666666664,
+      "end": 60.3,
+      "scene": "balance",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "balance",
+        "label": [
+          "CALOR RETIRADO",
+          "+ ENERGIA CONSUMIDA"
+        ]
+      }
+    },
+    {
+      "id": "s19",
+      "start": 60.3,
+      "end": 64.08333333333333,
+      "scene": "saldo",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "saldo",
+        "label": [
+          "O SALDO É",
+          "AQUECIMENTO!"
+        ]
+      }
+    },
+    {
+      "id": "s20",
+      "start": 64.08333333333333,
+      "end": 65.5,
+      "scene": "fan",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "fan",
+        "label": [
+          "E UM",
+          "VENTILADOR?"
+        ]
+      }
+    },
+    {
+      "id": "s21",
+      "start": 65.5,
+      "end": 66.66666666666667,
+      "scene": "push",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "push",
+        "label": [
+          "NICO TENTA",
+          "OUTRA VEZ"
+        ]
+      }
+    },
+    {
+      "id": "s22",
+      "start": 66.66666666666667,
+      "end": 73.58333333333333,
+      "scene": "breeze",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "breeze",
+        "label": [
+          "FRESCOR NA PELE",
+          "NÃO REMOVE O CALOR"
+        ]
+      }
+    },
+    {
+      "id": "s23",
+      "start": 73.58333333333333,
+      "end": 75.625,
+      "scene": "close",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "close",
+        "label": [
+          "FECHA A PORTA",
+          "ESSA É A IDEIA"
+        ]
+      }
+    },
+    {
+      "id": "s24",
+      "start": 75.625,
+      "end": 77.45833333333333,
+      "scene": "food",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "food",
+        "label": [
+          "ALIMENTOS",
+          "PROTEGIDOS"
+        ]
+      }
+    },
+    {
+      "id": "s25",
+      "start": 77.45833333333333,
+      "end": 80.375,
+      "scene": "rest",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rest",
+        "label": [
+          "O MOTOR DESCANSA",
+          "ENTRE CICLOS"
+        ]
+      }
+    },
+    {
+      "id": "s26",
+      "start": 80.375,
+      "end": 86.16666666666667,
+      "scene": "share",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "share",
+        "label": [
+          "O VENTILADOR",
+          "PERTO DELES"
+        ]
+      }
+    },
+    {
+      "id": "s27",
+      "start": 86.16666666666667,
+      "end": 90,
+      "scene": "end",
+      "line": "",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end",
+        "label": [
+          "GELADEIRA CONSERVA",
+          "NÃO CLIMATIZA!"
+        ]
+      }
+    }
+  ]
+}

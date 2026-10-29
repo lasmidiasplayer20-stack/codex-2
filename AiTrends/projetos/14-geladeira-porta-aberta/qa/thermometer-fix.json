@@ -1,0 +1,26 @@
+{
+  "reason": "Keep red thermometer column within its case; setting scale.y overwrote original mesh dimensions.",
+  "source_before": "e33fedc3d6aedd96b18295d2911676d53dfe3d48351a2011ae6760b95ac3406e",
+  "source_after": "1aa8cb4fa6053918df1ac20dd8dd5ad5a5b5586645e6f5055a10c6fe5bbb3429",
+  "changed_expression": "Column height .4+.8*phase -> .12+.24*phase, constant bottom at -.18m relative to case",
+  "native_replacement_ranges": [
+    {
+      "name": "temp",
+      "start_frame": 304,
+      "end_frame": 445,
+      "frames": 141,
+      "file": "/workspace/fridge-private/thermometer-temp.mp4"
+    },
+    {
+      "name": "saldo",
+      "start_frame": 1447,
+      "end_frame": 1538,
+      "frames": 91,
+      "file": "/workspace/fridge-private/thermometer-saldo.mp4"
+    }
+  ],
+  "all_other_frames": "Reused from completed native render, no camera or scene changes outside these two shots",
+  "combined_seconds": 90,
+  "combined_frames": 2160,
+  "voice_regenerated": false
+}

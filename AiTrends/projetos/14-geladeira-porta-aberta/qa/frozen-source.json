@@ -1,0 +1,10 @@
+{
+  "files": [
+    "runtime-style.json",
+    "config.json",
+    "story/shots.json",
+    "scenes/film.js",
+    "scenes/rig.js"
+  ],
+  "sha256": "1aa8cb4fa6053918df1ac20dd8dd5ad5a5b5586645e6f5055a10c6fe5bbb3429"
+}

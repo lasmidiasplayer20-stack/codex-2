@@ -1,0 +1,132 @@
+{
+  "rod_length_failures": 0,
+  "sampled_scene_frames": 8,
+  "errors": [],
+  "nonfinite": 0,
+  "contact_failures": 0,
+  "max_door_error_m": 9.155133597044475e-16,
+  "max_fan_error_m": 0,
+  "records": [
+    {
+      "seconds": 5.829166666666667,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 1.1102230246251565e-16,
+      "fan": null,
+      "camera": [
+        2.998437265214125,
+        3.0001502629601804,
+        6.999549211119459
+      ],
+      "door_open": 0.0030052592036063125,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 6.860416666666667,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 2.7755575615628914e-16,
+      "fan": null,
+      "camera": [
+        2.9157452290479533,
+        3.0081014202838507,
+        6.975695739148448
+      ],
+      "door_open": 0.16202840567701288,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 8.097916666666666,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 4.742874840267547e-16,
+      "fan": null,
+      "camera": [
+        2.5719098133668075,
+        3.0411625179454993,
+        6.8765124461635025
+      ],
+      "door_open": 0.8232503589099858,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 9.129166666666666,
+      "cam": "open",
+      "errors": [],
+      "finite": true,
+      "door": 3.3306690738754696e-16,
+      "fan": null,
+      "camera": [
+        2.4821436691164274,
+        3.049793877969574,
+        6.850618366091277
+      ],
+      "door_open": 0.9958775593914866,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 73.7875,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 9.155133597044475e-16,
+      "fan": null,
+      "camera": [
+        1.599738884308409,
+        3.70010879820483,
+        6.999673605385511
+      ],
+      "door_open": 0.9978240359034074,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 74.29791666666667,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 4.742874840267547e-16,
+      "fan": null,
+      "camera": [
+        1.5799552907377024,
+        3.708351962192624,
+        6.9749441134221275
+      ],
+      "door_open": 0.8329607561475181,
+      "rod_length": 0.3
+    },
+    {
+      "seconds": 74.91041666666666,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 2.2887833992611187e-16,
+      "fan": null,
+      "camera": [
+        1.5037941673962378,
+        3.740085763584901,
+        6.879742709245297
+      ],
+      "door_open": 0.19828472830198174,
+      "rod_length": 0.30000000000000004
+    },
+    {
+      "seconds": 75.42083333333333,
+      "cam": "close",
+      "errors": [],
+      "finite": true,
+      "door": 0,
+      "fan": null,
+      "camera": [
+        1.480509991585139,
+        3.7497875035061923,
+        6.850637489481423
+      ],
+      "door_open": 0.004249929876156688,
+      "rod_length": 0.3
+    }
+  ],
+  "limitations": "Numerical positions and grip checks. Not a full perceptual or body-collision audit."
+}

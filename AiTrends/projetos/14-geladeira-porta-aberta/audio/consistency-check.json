@@ -1,0 +1,53 @@
+{
+  "generation_calls": 1,
+  "same_approved_model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "raw_seconds": 83.45095833333333,
+  "before_window_spread_db": 3.1988278930559773,
+  "after_window_spread_db": 0.5985416952438491,
+  "fixed_slow_gain_curve": {
+    "seconds": [
+      0,
+      9,
+      27,
+      45,
+      63,
+      81,
+      90
+    ],
+    "db": [
+      0.06266744859232531,
+      0.06266744859232531,
+      1.158765814046376,
+      0.0,
+      -1.4780850103147998,
+      -2.0400620790096013,
+      -2.0400620790096013
+    ],
+    "reason": "Measure this episode only; broad fixed gain compensation when spread exceeds2.5dB",
+    "before_active_window_dbfs": [
+      -16.891505039567647,
+      -17.987603405021698,
+      -16.828837590975322,
+      -15.350752580660522,
+      -14.78877551196572
+    ],
+    "after_active_window_dbfs": [
+      -16.64877761816753,
+      -17.247319313411378,
+      -16.721753854417415,
+      -16.778348328975806,
+      -16.828837590975322
+    ],
+    "before_spread_db": 3.1988278930559773,
+    "after_spread_db": 0.5985416952438491
+  },
+  "speed_change": false,
+  "pitch_change": false,
+  "added_compressor": false,
+  "source_clipped_samples": 0,
+  "limitations": "Signal measurements do not establish identical timbre, correct words or full perceived naturalness. No complete human listening or independent ASR.",
+  "max_detected_source_silence_seconds": 0.658833,
+  "max_mapped_internal_silence_upper_bound_seconds": 0.8511038333333335,
+  "note_silence_bound": "At original -34dB threshold; excludes intentional lead/end pad, not a human speech assessment"
+}

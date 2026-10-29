@@ -1,0 +1,52 @@
+Rendering frames 0-2160 (90.0 s) with 2 worker(s)…
+  48/2160 frames  8.69 fps  elapsed 0m06s  eta 4m03s
+  96/2160 frames  8.78 fps  elapsed 0m11s  eta 3m55s
+  144/2160 frames  8.08 fps  elapsed 0m18s  eta 4m09s
+  192/2160 frames  7.72 fps  elapsed 0m25s  eta 4m15s
+  240/2160 frames  7.46 fps  elapsed 0m32s  eta 4m17s
+  288/2160 frames  7.31 fps  elapsed 0m39s  eta 4m16s
+  336/2160 frames  7.17 fps  elapsed 0m47s  eta 4m14s
+  384/2160 frames  7.09 fps  elapsed 0m54s  eta 4m10s
+  432/2160 frames  6.96 fps  elapsed 1m02s  eta 4m08s
+  480/2160 frames  7.14 fps  elapsed 1m07s  eta 3m55s
+  528/2160 frames  7.35 fps  elapsed 1m12s  eta 3m42s
+  576/2160 frames  7.52 fps  elapsed 1m17s  eta 3m31s
+  624/2160 frames  7.67 fps  elapsed 1m21s  eta 3m20s
+  672/2160 frames  7.79 fps  elapsed 1m26s  eta 3m11s
+  720/2160 frames  7.58 fps  elapsed 1m35s  eta 3m10s
+  768/2160 frames  7.42 fps  elapsed 1m44s  eta 3m08s
+  816/2160 frames  7.28 fps  elapsed 1m52s  eta 3m05s
+  864/2160 frames  7.16 fps  elapsed 2m01s  eta 3m01s
+  912/2160 frames  7.07 fps  elapsed 2m09s  eta 2m57s
+  960/2160 frames  7.00 fps  elapsed 2m17s  eta 2m52s
+  1008/2160 frames  6.97 fps  elapsed 2m25s  eta 2m45s
+  1056/2160 frames  6.95 fps  elapsed 2m32s  eta 2m39s
+  1104/2160 frames  6.92 fps  elapsed 2m40s  eta 2m33s
+  1152/2160 frames  6.90 fps  elapsed 2m47s  eta 2m26s
+  1200/2160 frames  6.87 fps  elapsed 2m55s  eta 2m20s
+  1248/2160 frames  6.84 fps  elapsed 3m02s  eta 2m13s
+  1296/2160 frames  6.88 fps  elapsed 3m08s  eta 2m06s
+  1344/2160 frames  6.92 fps  elapsed 3m14s  eta 1m58s
+  1392/2160 frames  6.96 fps  elapsed 3m20s  eta 1m50s
+  1440/2160 frames  6.97 fps  elapsed 3m26s  eta 1m43s
+  1488/2160 frames  6.92 fps  elapsed 3m35s  eta 1m37s
+  1536/2160 frames  6.87 fps  elapsed 3m44s  eta 1m31s
+  1584/2160 frames  6.93 fps  elapsed 3m49s  eta 1m23s
+  1632/2160 frames  6.99 fps  elapsed 3m54s  eta 1m16s
+  1680/2160 frames  7.02 fps  elapsed 3m59s  eta 1m08s
+  1728/2160 frames  7.04 fps  elapsed 4m06s  eta 1m01s
+  1776/2160 frames  7.08 fps  elapsed 4m11s  eta 0m54s
+  1824/2160 frames  7.13 fps  elapsed 4m16s  eta 0m47s
+  1872/2160 frames  7.15 fps  elapsed 4m22s  eta 0m40s
+  1920/2160 frames  7.16 fps  elapsed 4m28s  eta 0m34s
+  1968/2160 frames  7.18 fps  elapsed 4m34s  eta 0m27s
+  2016/2160 frames  7.19 fps  elapsed 4m40s  eta 0m20s
+  2064/2160 frames  7.22 fps  elapsed 4m46s  eta 0m13s
+  2112/2160 frames  7.26 fps  elapsed 4m51s  eta 0m07s
+  2160/2160 frames  7.23 fps  elapsed 4m59s  eta 0m00s
+
+Done: /workspace/fridge-private/full-silent.mp4  (4m60s)
+
+Door-gait correction: native open/close ranges replaced, exact2160frames validated. Source provenance in qa/door-gait-fix.json.
+
+Thermometer correction: native temp/saldo ranges replaced, exact2160frames validated. Source provenance in qa/thermometer-fix.json.

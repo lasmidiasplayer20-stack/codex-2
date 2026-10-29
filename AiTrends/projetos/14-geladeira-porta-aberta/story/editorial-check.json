@@ -1,0 +1,16 @@
+{
+  "original_story": true,
+  "inspiration": "Topic from user-provided thumbnails and prior agreed what-if adaptation; no reference video watched in this task",
+  "physics_checks": [
+    "Domestic refrigerator transfers heat from interior to same room, with additional electrical work released as heat",
+    "Evaporation absorbs heat; compressor compresses vapor using electricity; condensation releases heat; pressure reduction closes cycle",
+    "Open door increases thermal load, not room cooling",
+    "Fan gives perceived skin cooling, not removal of heat from the room",
+    "Motor may rest between cycles; actual inverter behavior varies"
+  ],
+  "illustration_limits": [
+    "Not engineering dimensions, measured temperatures or repair instructions",
+    "External visible rear coil is one representative layout, not every refrigerator model"
+  ],
+  "live_external_research": false
+}

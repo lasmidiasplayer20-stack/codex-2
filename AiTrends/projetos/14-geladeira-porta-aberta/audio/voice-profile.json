@@ -1,0 +1,10 @@
+{
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "direction": "Narre em português brasileiro, como um apresentador curioso conversando com uma pessoa. Voz Puck, calorosa, clara, com sorriso discreto no começo e curiosidade sincera no final. Ritmo confortável, sem pressa. Volume uniforme. Use pausas curtas e naturais entre as ideias. Não sussurre, não grite, não dramatize como trailer. Leia SOMENTE o texto após NARRAÇÃO, sem comentários nem instruções.",
+  "approval_source": "Same Puck/model and mild mix accepted previously; user requests audio APIs for episode08, careful consistency; no voice/model change.",
+  "previous_episode": "13-escolher-o-raio",
+  "new_model_authorized": false,
+  "generation_groups": 1,
+  "beats_per_group": 8
+}

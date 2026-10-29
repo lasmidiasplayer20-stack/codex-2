@@ -1,0 +1,237 @@
+[
+  {
+    "seconds": 3.43,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 3.91,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 4.390000000000001,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 4.87,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 5.35,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 5.596666666666667,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 6.076666666666666,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 6.556666666666666,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 7.036666666666665,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 7.516666666666665,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 7.996666666666664,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 8.476666666666663,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 8.956666666666663,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 9.436666666666664,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 65.68,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 66.16000000000001,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 66.64000000000001,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 73.76333333333334,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 74.24333333333334,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 74.72333333333334,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 75.20333333333335,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 80.555,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 81.03500000000001,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 81.51500000000001,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 81.99500000000002,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 82.47500000000002,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 82.95500000000003,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 83.43500000000003,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 83.91500000000003,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 84.39500000000004,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 84.87500000000004,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 85.35500000000005,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 85.83500000000005,
+    "kind": "sneaker on kitchen floor",
+    "duration": 0.09
+  },
+  {
+    "seconds": 5.566666666666667,
+    "kind": "fridge gasket release",
+    "duration": 0.24
+  },
+  {
+    "seconds": 75.375,
+    "kind": "fridge door seal / latch",
+    "duration": 0.2
+  },
+  {
+    "seconds": 29.316666666666666,
+    "kind": "soft refrigerant flow illustration",
+    "duration": 0.5
+  },
+  {
+    "seconds": 37.608333333333334,
+    "kind": "soft refrigerant flow illustration",
+    "duration": 0.5
+  },
+  {
+    "seconds": 43.275,
+    "kind": "soft refrigerant flow illustration",
+    "duration": 0.5
+  },
+  {
+    "seconds": 64.38333333333333,
+    "kind": "fan switch click",
+    "duration": 0.11
+  },
+  {
+    "seconds": 64.08333333333333,
+    "duration": 25.91666666666667,
+    "kind": "quiet fan air generated from filtered noise"
+  },
+  {
+    "seconds": 5.416666666666667,
+    "duration": 72.04166666666666,
+    "kind": "subtle compressor hum"
+  },
+  {
+    "seconds": 16.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 18.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 20.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 82.6,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 84.1,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  },
+  {
+    "seconds": 86.7,
+    "kind": "CTA click / subscribe / bell",
+    "duration": 0.11
+  }
+]
