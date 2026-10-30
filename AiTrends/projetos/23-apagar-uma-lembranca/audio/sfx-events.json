@@ -1,0 +1,192 @@
+[
+  {
+    "seconds": 15.433333333333334,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 15.853333333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.273333333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.693333333333335,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 17.113333333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 17.53333333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 17.953333333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 18.373333333333335,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 59.1,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 59.52,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 59.940000000000005,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 60.36000000000001,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 60.78000000000001,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 61.20000000000001,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 61.62000000000001,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 62.04000000000001,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 62.460000000000015,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 62.88000000000002,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 63.30000000000002,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 63.72000000000002,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 64.14000000000001,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 64.56000000000003,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 64.98000000000002,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 18.9,
+    "kind": "foot touches metal tray",
+    "duration": 0.12
+  },
+  {
+    "seconds": 20.566666666666666,
+    "kind": "paint splash",
+    "duration": 0.3
+  },
+  {
+    "seconds": 9.316666666666666,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 22.4,
+    "kind": "paper photo movement",
+    "duration": 0.14
+  },
+  {
+    "seconds": 36.983333333333334,
+    "kind": "cloth wipe on floor",
+    "duration": 0.8
+  },
+  {
+    "seconds": 44.19166666666666,
+    "kind": "metal tray handled",
+    "duration": 0.14
+  },
+  {
+    "seconds": 47.025,
+    "kind": "tray on floor",
+    "duration": 0.14
+  },
+  {
+    "seconds": 50.9,
+    "kind": "roller on wall",
+    "duration": 0.5
+  },
+  {
+    "seconds": 52.233333333333334,
+    "kind": "roller on wall",
+    "duration": 0.4
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 57.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 59.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 61.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]

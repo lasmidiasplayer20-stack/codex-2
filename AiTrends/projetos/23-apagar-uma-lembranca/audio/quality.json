@@ -1,0 +1,143 @@
+{
+  "seconds": 65,
+  "samples": 1560000,
+  "sample_rate": 24000,
+  "voice_gain_db": -3.0646528014902144,
+  "slow_gain_automation": {
+    "seconds": [
+      0,
+      10.5,
+      32.5,
+      54,
+      65
+    ],
+    "db": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reason": "Gentler treatment after negative feedback; broad static correction only if source spread exceeds2.5dB in this episode to reduce measured gradual end rise, max3dB",
+    "before_active_window_dbfs": [
+      -21.115710027709234,
+      -20.59350136569714,
+      -19.88076120138825
+    ],
+    "after_active_window_dbfs": [
+      -21.115710027709234,
+      -20.59350136569714,
+      -19.88076120138825
+    ],
+    "before_spread_db": 1.2349488263209842,
+    "after_spread_db": 1.2349488263209842
+  },
+  "voice_peak_dbfs": -3.0,
+  "mix_peak_dbfs": -3.001728632519714,
+  "speed_change": false,
+  "extra_compression": false,
+  "pause_insertions": [
+    {
+      "raw_time": 3.0559166666666666,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 6.89375,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 8.001166666666666,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 9.666958333333334,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 10.998083333333334,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 12.753041666666666,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 15.702333333333334,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 16.936916666666665,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 18.288708333333332,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 20.028166666666667,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 22.678291666666667,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 24.545083333333334,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 26.469625,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 28.100666666666665,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 29.901541666666667,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 31.364333333333335,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 32.689416666666666,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 35.906333333333336,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 37.093833333333336,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 39.463875,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 41.20375,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 43.475,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 44.52458333333333,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 46.670375,
+      "insert_seconds": 0.4639616666666669
+    },
+    {
+      "raw_time": 48.193416666666664,
+      "insert_seconds": 0.4639616666666669
+    }
+  ],
+  "human_listening": false,
+  "note": "Same Puck one call; short added gaps only inside detected silence, no removed speech. Timing approximate, not ASR."
+}

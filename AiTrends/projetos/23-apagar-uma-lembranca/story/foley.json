@@ -1,0 +1,67 @@
+[
+  {
+    "cam": "walk",
+    "kind": "steps"
+  },
+  {
+    "cam": "end",
+    "kind": "steps"
+  },
+  {
+    "cam": "toe",
+    "kind": "foot touches metal tray",
+    "duration": 0.12,
+    "low": 1300
+  },
+  {
+    "cam": "spill",
+    "kind": "paint splash",
+    "duration": 0.3,
+    "low": 2300
+  },
+  {
+    "cam": "erase",
+    "kind": "button",
+    "hz": 600,
+    "amp": 0.0025
+  },
+  {
+    "cam": "photo",
+    "kind": "paper photo movement",
+    "duration": 0.14,
+    "amp": 0.003
+  },
+  {
+    "cam": "clean",
+    "kind": "cloth wipe on floor",
+    "duration": 0.8,
+    "low": 2400,
+    "amp": 0.004
+  },
+  {
+    "cam": "pickTray",
+    "kind": "metal tray handled",
+    "duration": 0.14,
+    "low": 2800
+  },
+  {
+    "cam": "placeTray",
+    "kind": "tray on floor",
+    "duration": 0.14,
+    "low": 1300
+  },
+  {
+    "cam": "paint",
+    "kind": "roller on wall",
+    "duration": 0.5,
+    "low": 2200,
+    "amp": 0.004
+  },
+  {
+    "cam": "rollerClose",
+    "kind": "roller on wall",
+    "duration": 0.4,
+    "low": 2200,
+    "amp": 0.004
+  }
+]
