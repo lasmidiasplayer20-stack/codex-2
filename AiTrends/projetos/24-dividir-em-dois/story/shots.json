@@ -1,0 +1,341 @@
+{
+  "duration": 65,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.1666666666666665,
+      "scene": "hook",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.1666666666666665,
+      "end": 5.791666666666667,
+      "scene": "split",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "split"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.791666666666667,
+      "end": 8.916666666666666,
+      "scene": "jobs",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "jobs"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.916666666666666,
+      "end": 11.5,
+      "scene": "work",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "work"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 11.5,
+      "end": 13.541666666666666,
+      "scene": "play",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "play"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 13.541666666666666,
+      "end": 14.291666666666666,
+      "scene": "perfect",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "perfect"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 14.291666666666666,
+      "end": 18.333333333333332,
+      "scene": "swap",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "swap"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 18.333333333333332,
+      "end": 22.125,
+      "scene": "argue",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "argue"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 22.125,
+      "end": 24.75,
+      "scene": "shirtA",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "shirtA"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 24.75,
+      "end": 27.0,
+      "scene": "shirtB",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "shirtB"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 27.0,
+      "end": 30.0,
+      "scene": "memory",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "memory"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 30.0,
+      "end": 33.791666666666664,
+      "scene": "chair",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "chair"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 33.791666666666664,
+      "end": 36.833333333333336,
+      "scene": "lia",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "lia"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 36.833333333333336,
+      "end": 39.041666666666664,
+      "scene": "grip",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "grip"
+      }
+    },
+    {
+      "id": "s15",
+      "start": 39.041666666666664,
+      "end": 39.833333333333336,
+      "scene": "carry",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "carry"
+      }
+    },
+    {
+      "id": "s16",
+      "start": 39.833333333333336,
+      "end": 41.708333333333336,
+      "scene": "insert",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "insert"
+      }
+    },
+    {
+      "id": "s17",
+      "start": 41.708333333333336,
+      "end": 44.666666666666664,
+      "scene": "release",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "release"
+      }
+    },
+    {
+      "id": "s18",
+      "start": 44.666666666666664,
+      "end": 47.291666666666664,
+      "scene": "roles",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "roles"
+      }
+    },
+    {
+      "id": "s19",
+      "start": 47.291666666666664,
+      "end": 48.875,
+      "scene": "pause",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pause"
+      }
+    },
+    {
+      "id": "s20",
+      "start": 48.875,
+      "end": 51.875,
+      "scene": "touch",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "touch"
+      }
+    },
+    {
+      "id": "s21",
+      "start": 51.875,
+      "end": 54.875,
+      "scene": "merge",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "merge"
+      }
+    },
+    {
+      "id": "s22",
+      "start": 54.875,
+      "end": 57.125,
+      "scene": "shelf",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "shelf"
+      }
+    },
+    {
+      "id": "s23",
+      "start": 57.125,
+      "end": 58.708333333333336,
+      "scene": "rest",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rest"
+      }
+    },
+    {
+      "id": "s24",
+      "start": 58.708333333333336,
+      "end": 65,
+      "scene": "end",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}

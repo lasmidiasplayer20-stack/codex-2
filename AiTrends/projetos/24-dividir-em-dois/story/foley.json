@@ -1,0 +1,44 @@
+[
+  {
+    "cam": "swap",
+    "kind": "steps"
+  },
+  {
+    "cam": "carry",
+    "kind": "steps"
+  },
+  {
+    "cam": "roles",
+    "kind": "steps"
+  },
+  {
+    "cam": "play",
+    "kind": "ball bounce",
+    "duration": 0.14,
+    "low": 700
+  },
+  {
+    "cam": "grip",
+    "kind": "wood handled",
+    "duration": 0.16,
+    "low": 2000
+  },
+  {
+    "cam": "insert",
+    "kind": "wood slides on shelf",
+    "duration": 0.4,
+    "low": 1700
+  },
+  {
+    "cam": "chair",
+    "kind": "chair on floor",
+    "duration": 0.25,
+    "low": 1200
+  },
+  {
+    "cam": "touch",
+    "kind": "palm touch",
+    "duration": 0.12,
+    "low": 1700
+  }
+]

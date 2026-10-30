@@ -1,0 +1,35 @@
+Rendering frames 0-1560 (65.0 s) with 2 worker(s)…
+  48/1560 frames  7.12 fps  elapsed 0m07s  eta 3m32s
+  96/1560 frames  7.61 fps  elapsed 0m13s  eta 3m12s
+  144/1560 frames  7.76 fps  elapsed 0m19s  eta 3m02s
+  192/1560 frames  7.84 fps  elapsed 0m24s  eta 2m55s
+  240/1560 frames  7.78 fps  elapsed 0m31s  eta 2m50s
+  288/1560 frames  7.78 fps  elapsed 0m37s  eta 2m44s
+  336/1560 frames  7.85 fps  elapsed 0m43s  eta 2m36s
+  384/1560 frames  7.88 fps  elapsed 0m49s  eta 2m29s
+  432/1560 frames  7.82 fps  elapsed 0m55s  eta 2m24s
+  480/1560 frames  7.79 fps  elapsed 1m02s  eta 2m19s
+  528/1560 frames  7.82 fps  elapsed 1m08s  eta 2m12s
+  576/1560 frames  7.86 fps  elapsed 1m13s  eta 2m05s
+  624/1560 frames  7.93 fps  elapsed 1m19s  eta 1m58s
+  672/1560 frames  7.97 fps  elapsed 1m24s  eta 1m51s
+  720/1560 frames  7.98 fps  elapsed 1m30s  eta 1m45s
+  768/1560 frames  7.96 fps  elapsed 1m37s  eta 1m40s
+  816/1560 frames  7.93 fps  elapsed 1m43s  eta 1m34s
+  864/1560 frames  7.90 fps  elapsed 1m49s  eta 1m28s
+  912/1560 frames  7.90 fps  elapsed 1m55s  eta 1m22s
+  960/1560 frames  7.90 fps  elapsed 2m02s  eta 1m16s
+  1008/1560 frames  7.91 fps  elapsed 2m07s  eta 1m10s
+  1056/1560 frames  7.89 fps  elapsed 2m14s  eta 1m04s
+  1104/1560 frames  7.86 fps  elapsed 2m20s  eta 0m58s
+  1152/1560 frames  7.86 fps  elapsed 2m27s  eta 0m52s
+  1200/1560 frames  7.87 fps  elapsed 2m33s  eta 0m46s
+  1248/1560 frames  7.87 fps  elapsed 2m39s  eta 0m40s
+  1296/1560 frames  7.85 fps  elapsed 2m45s  eta 0m34s
+  1344/1560 frames  7.85 fps  elapsed 2m51s  eta 0m28s
+  1392/1560 frames  7.85 fps  elapsed 2m57s  eta 0m21s
+  1440/1560 frames  7.85 fps  elapsed 3m04s  eta 0m15s
+  1488/1560 frames  7.85 fps  elapsed 3m10s  eta 0m09s
+  1536/1560 frames  7.84 fps  elapsed 3m16s  eta 0m03s
+
+Done: /workspace/split-private/full-silent.mp4  (3m20s)

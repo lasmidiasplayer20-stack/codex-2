@@ -1,0 +1,152 @@
+[
+  {
+    "seconds": 14.391666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 14.811666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 15.231666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 15.651666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.071666666666665,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.491666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.911666666666665,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 17.331666666666663,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 17.751666666666665,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 18.171666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 39.141666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 39.56166666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 44.766666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 45.18666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 45.60666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 46.02666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 46.44666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 46.866666666666674,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 47.286666666666676,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 11.65,
+    "kind": "ball bounce",
+    "duration": 0.14
+  },
+  {
+    "seconds": 36.983333333333334,
+    "kind": "wood handled",
+    "duration": 0.16
+  },
+  {
+    "seconds": 39.983333333333334,
+    "kind": "wood slides on shelf",
+    "duration": 0.4
+  },
+  {
+    "seconds": 30.15,
+    "kind": "chair on floor",
+    "duration": 0.25
+  },
+  {
+    "seconds": 49.025,
+    "kind": "palm touch",
+    "duration": 0.12
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 57.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 59.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 61.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]
