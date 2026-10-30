@@ -1,0 +1,35 @@
+Rendering frames 0-1560 (65.0 s) with 2 worker(s)…
+  48/1560 frames  5.97 fps  elapsed 0m08s  eta 4m13s
+  96/1560 frames  6.42 fps  elapsed 0m15s  eta 3m48s
+  144/1560 frames  6.57 fps  elapsed 0m22s  eta 3m35s
+  192/1560 frames  6.67 fps  elapsed 0m29s  eta 3m25s
+  240/1560 frames  6.76 fps  elapsed 0m36s  eta 3m15s
+  288/1560 frames  6.80 fps  elapsed 0m42s  eta 3m07s
+  336/1560 frames  7.03 fps  elapsed 0m48s  eta 2m54s
+  384/1560 frames  7.10 fps  elapsed 0m54s  eta 2m46s
+  432/1560 frames  7.06 fps  elapsed 1m01s  eta 2m40s
+  480/1560 frames  7.06 fps  elapsed 1m08s  eta 2m33s
+  528/1560 frames  7.09 fps  elapsed 1m14s  eta 2m25s
+  576/1560 frames  7.10 fps  elapsed 1m21s  eta 2m19s
+  624/1560 frames  7.08 fps  elapsed 1m28s  eta 2m12s
+  672/1560 frames  7.06 fps  elapsed 1m35s  eta 2m06s
+  720/1560 frames  7.03 fps  elapsed 1m42s  eta 1m59s
+  768/1560 frames  7.02 fps  elapsed 1m49s  eta 1m53s
+  816/1560 frames  6.99 fps  elapsed 1m57s  eta 1m46s
+  864/1560 frames  6.98 fps  elapsed 2m04s  eta 1m40s
+  912/1560 frames  6.99 fps  elapsed 2m10s  eta 1m33s
+  960/1560 frames  7.07 fps  elapsed 2m16s  eta 1m25s
+  1008/1560 frames  7.14 fps  elapsed 2m21s  eta 1m17s
+  1056/1560 frames  7.21 fps  elapsed 2m26s  eta 1m10s
+  1104/1560 frames  7.27 fps  elapsed 2m32s  eta 1m03s
+  1152/1560 frames  7.31 fps  elapsed 2m38s  eta 0m56s
+  1200/1560 frames  7.35 fps  elapsed 2m43s  eta 0m49s
+  1248/1560 frames  7.39 fps  elapsed 2m49s  eta 0m42s
+  1296/1560 frames  7.43 fps  elapsed 2m54s  eta 0m36s
+  1344/1560 frames  7.47 fps  elapsed 3m00s  eta 0m29s
+  1392/1560 frames  7.49 fps  elapsed 3m06s  eta 0m22s
+  1440/1560 frames  7.52 fps  elapsed 3m11s  eta 0m16s
+  1488/1560 frames  7.55 fps  elapsed 3m17s  eta 0m10s
+  1536/1560 frames  7.58 fps  elapsed 3m23s  eta 0m03s
+
+Done: /workspace/luck-private/full-silent.mp4  (3m27s)

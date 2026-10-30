@@ -1,0 +1,737 @@
+{
+  "samples": 104,
+  "errors": [],
+  "nonfinite": 0,
+  "prop_contact_failures": 0,
+  "records": [
+    {
+      "seconds": 0.3458333333333334,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 1.2104166666666667,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 2.247916666666667,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 3.1125000000000003,
+      "cam": "hook",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 3.7375000000000003,
+      "cam": "coin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 4.435416666666667,
+      "cam": "coin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 5.272916666666667,
+      "cam": "coin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 5.970833333333333,
+      "cam": "coin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.329166666666667,
+      "cam": "basket",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.527083333333334,
+      "cam": "basket",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.764583333333333,
+      "cam": "basket",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.9625,
+      "cam": "basket",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.125,
+      "cam": "score",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.333333333333334,
+      "cam": "score",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.583333333333334,
+      "cam": "score",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.791666666666667,
+      "cam": "score",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 8.116666666666667,
+      "cam": "other",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 8.720833333333333,
+      "cam": "other",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 9.445833333333333,
+      "cam": "other",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.049999999999999,
+      "cam": "other",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.487499999999999,
+      "cam": "keys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.977083333333333,
+      "cam": "keys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 11.564583333333333,
+      "cam": "keys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 12.054166666666667,
+      "cam": "keys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 12.520833333333334,
+      "cam": "cup",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 13.197916666666666,
+      "cam": "cup",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 14.010416666666668,
+      "cam": "cup",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 14.6875,
+      "cam": "cup",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 15.058333333333334,
+      "cam": "coincidence",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 15.308333333333334,
+      "cam": "coincidence",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 15.608333333333334,
+      "cam": "coincidence",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 15.858333333333334,
+      "cam": "coincidence",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 16.079166666666666,
+      "cam": "prize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 16.38125,
+      "cam": "prize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 16.743750000000002,
+      "cam": "prize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 17.045833333333334,
+      "cam": "prize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 17.358333333333334,
+      "cam": "trip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 17.8375,
+      "cam": "trip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 18.4125,
+      "cam": "trip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 18.891666666666666,
+      "cam": "trip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 19.529166666666665,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 20.64375,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 21.98125,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 23.095833333333335,
+      "cam": "balance",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 23.90416666666667,
+      "cam": "thread",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 24.81041666666667,
+      "cam": "thread",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 25.897916666666667,
+      "cam": "thread",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 26.804166666666667,
+      "cam": "thread",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 27.645833333333336,
+      "cam": "transfer",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 28.84375,
+      "cam": "transfer",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 30.28125,
+      "cam": "transfer",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 31.479166666666664,
+      "cam": "transfer",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 32.141666666666666,
+      "cam": "test",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 32.6,
+      "cam": "test",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 33.15,
+      "cam": "test",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 33.608333333333334,
+      "cam": "test",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 34.06666666666666,
+      "cam": "slip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 34.75416666666666,
+      "cam": "slip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 35.579166666666666,
+      "cam": "slip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 36.266666666666666,
+      "cam": "slip",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 36.84583333333333,
+      "cam": "dropPrize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 37.60625,
+      "cam": "dropPrize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 38.51875,
+      "cam": "dropPrize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 39.27916666666667,
+      "cam": "dropPrize",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 39.65833333333334,
+      "cam": "catch",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 39.84583333333334,
+      "cam": "catch",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 40.07083333333333,
+      "cam": "catch",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 40.25833333333333,
+      "cam": "catch",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 40.520833333333336,
+      "cam": "weak",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 40.989583333333336,
+      "cam": "weak",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 41.552083333333336,
+      "cam": "weak",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 42.020833333333336,
+      "cam": "weak",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 42.641666666666666,
+      "cam": "returnCoin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 43.725,
+      "cam": "returnCoin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 45.025,
+      "cam": "returnCoin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 46.108333333333334,
+      "cam": "returnCoin",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 46.787499999999994,
+      "cam": "pickKeys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 47.40208333333333,
+      "cam": "pickKeys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 48.139583333333334,
+      "cam": "pickKeys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 48.75416666666666,
+      "cam": "pickKeys",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 49.166666666666664,
+      "cam": "release",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 49.583333333333336,
+      "cam": "release",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 50.08333333333333,
+      "cam": "release",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 50.5,
+      "cam": "release",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 50.912499999999994,
+      "cam": "lastShot",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 51.52708333333333,
+      "cam": "lastShot",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 52.264583333333334,
+      "cam": "lastShot",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 52.87916666666666,
+      "cam": "lastShot",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 53.2,
+      "cam": "miss",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 53.3875,
+      "cam": "miss",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 53.6125,
+      "cam": "miss",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 53.8,
+      "cam": "miss",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 54.075,
+      "cam": "pass",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 54.575,
+      "cam": "pass",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 55.175,
+      "cam": "pass",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 55.675,
+      "cam": "pass",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 56.175,
+      "cam": "laugh",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 56.925,
+      "cam": "laugh",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 57.825,
+      "cam": "laugh",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 58.575,
+      "cam": "laugh",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 59.4875,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 61.01875,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 62.85625,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 64.3875,
+      "cam": "end",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    }
+  ],
+  "limits": "Sampled integration/finite matrix/attached cup checks, not complete collision simulation or human perceptual approval."
+}

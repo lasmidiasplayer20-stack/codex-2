@@ -275,3 +275,10 @@ Pedido: salvar/carregar a vida → cada mentira vira realidade → roubar dez se
 Conferir também volume entre episódios: duplicar uma voz mono em dois canais altera a medida integrada estéreo. No21, mix inicial−17,1LUFS era mais alta que19(−19,0)e20(−19,9); recalibramos apenas ganho estático do mono para aproximar a saída estéreo de−19,5LUFS. Não presumir que um alvo mono idêntico garante mesmo volume do MP4. Sem compressor/API extra; medida final no QA.
 
 Pastas desta série: [19 — Salvar/carregar](../projetos/19-salvar-e-carregar-a-vida/), [20 — Mentiras](../projetos/20-mentiras-viram-realidade/), [21 — Dez segundos](../projetos/21-dez-segundos-do-futuro/). Cada uma guarda MP4 de80s, prévia60s, stems, script de áudio, cenas e QA; pacoteYouTube próprio com capa vertical e únicoYOUTUBE. Medidas finais da série:19−19,0LUFS,20−19,9LUFS,21−19,1LUFS; nenhuma geração adicional para corrigir câmera/efeitos/mix. Não tratar medidas como aprovação perceptiva do usuário.
+
+
+## Série22–24 — três episódios de65segundos
+
+Novo pedido: sorte emprestada → apagar lembrança → dividir-se em dois. Produção sequencial com pasta própria para projeto/MP4/prévia/pacoteYouTube;65s/1560quadros/24fps nativo1080×1920, dois CTAs15–22 e56–63s. Preservar Puck/modelo, fonte única por short, FoleyPython e volume final comparado em estéreo. Primeiro arquivo só deve ser anunciado concluído após validação/push, depois seguir ao próximo.
+
+22: Nico/verde-água eSol/laranja; ganhos e perdas em pares, seta e fluxo dourado deSolparaNico. A espessura/raio original de uma malha precisa entrar ao mudar sua escala: em contas de energia criadas com raio0,045, usar0,045×força, não substituir a escala por1. Folha nativa pegou a expansão indevida antes do filme completo. Deslocar pedestais para fora do corpo/pés; não deixar avatar atravessando caixa. Contato de resgate entre mãos verificado. Rig acrescenta inclinação de tronco para recolher chaves do chão, com cabeça/pescoço/ombros e zíper acompanhando o tronco, pernas e braços de dois segmentos fixos. Não simular alcance até o chão esticando braços.
