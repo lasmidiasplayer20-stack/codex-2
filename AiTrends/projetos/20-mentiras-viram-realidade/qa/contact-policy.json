@@ -1,0 +1,7 @@
+{
+  "scene": "rescue",
+  "palms_radius_m": 0.073,
+  "allowed_hand_center_distance_m": 0.05,
+  "reason": "Palms have volume; slight center offset during two-bone IK still gives overlapping contact. Audit checks no separation beyond5cm, not identical hand-center coordinates.",
+  "observed_max_before_tolerance_m": 0.0240010049460049
+}

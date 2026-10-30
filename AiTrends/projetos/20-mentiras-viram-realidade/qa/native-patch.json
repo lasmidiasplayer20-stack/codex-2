@@ -1,0 +1,17 @@
+{
+  "reason": "Reframe the calm take to show the dogs settling, matching narration rather than another face shot.",
+  "native_frames_replaced": [
+    1636,
+    1669
+  ],
+  "frame_count": 33,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "base_source_sha256": "b0f2013548a2a21c9d021761e7c28143d7521a8c0c9f5107ea97d1ad009975ff",
+  "final_source_sha256": "a351dee2daf982c202b6e0276512e93a5975e7b5dfebe19837f4490def33047a",
+  "base_silent_sha256": "b57381f4c056c9d5f66aedc227ee918e603a36b50c3d4ae99f82ea6c44640423",
+  "patch_sha256": "f5f3b867ccfe263e28127f153791ecfbf0e6b90c0ef6c2772e262bc813d3cf4d",
+  "audio_regenerated": false
+}

@@ -1,0 +1,467 @@
+{
+  "duration": 80,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 2.9166666666666665,
+      "scene": "hook",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.9166666666666665,
+      "end": 6.458333333333333,
+      "scene": "boast",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "boast"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.458333333333333,
+      "end": 7.208333333333333,
+      "scene": "pockets",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pockets"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 7.208333333333333,
+      "end": 9.25,
+      "scene": "coins",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "coins"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 9.25,
+      "end": 11.666666666666666,
+      "scene": "rich",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rich"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 11.666666666666666,
+      "end": 13.0,
+      "scene": "flyWord",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "flyWord"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 13.0,
+      "end": 15.208333333333334,
+      "scene": "lift",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "lift"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 15.208333333333334,
+      "end": 17.25,
+      "scene": "flight",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "flight"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 17.25,
+      "end": 18.791666666666668,
+      "scene": "orbit",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "orbit"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 18.791666666666668,
+      "end": 20.458333333333332,
+      "scene": "land",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "land"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 20.458333333333332,
+      "end": 21.291666666666668,
+      "scene": "lia",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "lia"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 21.291666666666668,
+      "end": 25.458333333333332,
+      "scene": "dogLie",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "dogLie"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 25.458333333333332,
+      "end": 27.458333333333332,
+      "scene": "dogs",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "dogs"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 27.458333333333332,
+      "end": 29.625,
+      "scene": "follow",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "follow"
+      }
+    },
+    {
+      "id": "s15",
+      "start": 29.625,
+      "end": 31.25,
+      "scene": "queue",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "queue"
+      }
+    },
+    {
+      "id": "s16",
+      "start": 31.25,
+      "end": 32.833333333333336,
+      "scene": "bench",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "bench"
+      }
+    },
+    {
+      "id": "s17",
+      "start": 32.833333333333336,
+      "end": 34.458333333333336,
+      "scene": "run",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "run"
+      }
+    },
+    {
+      "id": "s18",
+      "start": 34.458333333333336,
+      "end": 36.416666666666664,
+      "scene": "trip",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "trip"
+      }
+    },
+    {
+      "id": "s19",
+      "start": 36.416666666666664,
+      "end": 38.833333333333336,
+      "scene": "swallow",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "swallow"
+      }
+    },
+    {
+      "id": "s20",
+      "start": 38.833333333333336,
+      "end": 43.291666666666664,
+      "scene": "hole",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hole"
+      }
+    },
+    {
+      "id": "s21",
+      "start": 43.291666666666664,
+      "end": 46.083333333333336,
+      "scene": "rescue",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rescue"
+      }
+    },
+    {
+      "id": "s22",
+      "start": 46.083333333333336,
+      "end": 48.125,
+      "scene": "scared",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "scared"
+      }
+    },
+    {
+      "id": "s23",
+      "start": 48.125,
+      "end": 50.541666666666664,
+      "scene": "aloneLie",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "aloneLie"
+      }
+    },
+    {
+      "id": "s24",
+      "start": 50.541666666666664,
+      "end": 52.541666666666664,
+      "scene": "vanish",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "vanish"
+      }
+    },
+    {
+      "id": "s25",
+      "start": 52.541666666666664,
+      "end": 56.083333333333336,
+      "scene": "empty",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "empty"
+      }
+    },
+    {
+      "id": "s26",
+      "start": 56.083333333333336,
+      "end": 60.25,
+      "scene": "truth",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "truth"
+      }
+    },
+    {
+      "id": "s27",
+      "start": 60.25,
+      "end": 62.75,
+      "scene": "truthHelp",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "truthHelp"
+      }
+    },
+    {
+      "id": "s28",
+      "start": 62.75,
+      "end": 64.66666666666667,
+      "scene": "return",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "return"
+      }
+    },
+    {
+      "id": "s29",
+      "start": 64.66666666666667,
+      "end": 68.16666666666667,
+      "scene": "closeHole",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "closeHole"
+      }
+    },
+    {
+      "id": "s30",
+      "start": 68.16666666666667,
+      "end": 69.54166666666667,
+      "scene": "calm",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "calm"
+      }
+    },
+    {
+      "id": "s31",
+      "start": 69.54166666666667,
+      "end": 73.54166666666667,
+      "scene": "promise",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "promise"
+      }
+    },
+    {
+      "id": "s32",
+      "start": 73.54166666666667,
+      "end": 75.875,
+      "scene": "pause",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pause"
+      }
+    },
+    {
+      "id": "s33",
+      "start": 75.875,
+      "end": 80,
+      "scene": "end",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}

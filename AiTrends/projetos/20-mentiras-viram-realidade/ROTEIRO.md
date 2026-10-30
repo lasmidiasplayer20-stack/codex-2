@@ -1,0 +1,8 @@
+# 20 - Cada mentira vira realidade
+
+80segundos, 33takes.
+
+E se cada mentira sua virasse realidade? Nico diz que está cheio de dinheiro. Moedas começam a cair dos bolsos. Ele acha graça e inventa outra: eu consigo voar. Seus pés deixam o chão. Por alguns segundos, parece o melhor poder do mundo. Até tentar impressionar Lia. Nico diz que todos os cachorros da cidade adoram ele. Uma matilha aparece. Eles seguem cada passo, entram na fila e cercam o banco da praça. Nico foge, tropeça e reclama que o chão vai engolir ele. O piso se abre. Ele consegue agarrar a borda. Lia estende a mão e ajuda. Assustado, Nico tenta disfarçar: eu não preciso de ninguém. Lia começa a desaparecer. O sorriso acaba. Não adianta inventar outra vantagem. Ele precisa dizer o que estava escondendo: estou com medo. Eu preciso de ajuda. Lia reaparece. O chão fecha, as moedas param e os cachorros sentam. Nico quase promete que nunca mais vai mentir. Mas para no meio da frase. Melhor começar pela verdade de agora.
+
+
+Roteiro original em português. Regras do poder e acontecimentos são ficcionais. Temporização aproximada por texto/pausas, sem alegar alinhamento ASR.

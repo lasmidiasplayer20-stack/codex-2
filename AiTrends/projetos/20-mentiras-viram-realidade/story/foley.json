@@ -1,0 +1,81 @@
+[
+  {
+    "cam": "follow",
+    "kind": "steps",
+    "amp": 0.005
+  },
+  {
+    "cam": "queue",
+    "kind": "steps",
+    "amp": 0.005
+  },
+  {
+    "cam": "run",
+    "kind": "steps",
+    "amp": 0.005
+  },
+  {
+    "cam": "trip",
+    "kind": "steps",
+    "amp": 0.005
+  },
+  {
+    "cam": "pockets",
+    "kind": "coins clinking",
+    "duration": 0.3,
+    "low": 5000,
+    "amp": 0.004
+  },
+  {
+    "cam": "coins",
+    "kind": "coins on pavement",
+    "duration": 0.3,
+    "low": 4000,
+    "amp": 0.004
+  },
+  {
+    "cam": "lift",
+    "kind": "soft air movement",
+    "duration": 0.5,
+    "low": 2000,
+    "amp": 0.003
+  },
+  {
+    "cam": "dogs",
+    "kind": "dog paws",
+    "duration": 0.4,
+    "low": 1100
+  },
+  {
+    "cam": "swallow",
+    "kind": "fictional ground opening",
+    "duration": 0.4,
+    "low": 600,
+    "amp": 0.006
+  },
+  {
+    "cam": "rescue",
+    "kind": "cloth grip",
+    "duration": 0.25,
+    "low": 1700
+  },
+  {
+    "cam": "vanish",
+    "kind": "soft transition air",
+    "duration": 0.5,
+    "amp": 0.002
+  },
+  {
+    "cam": "return",
+    "kind": "button",
+    "amp": 0.002,
+    "hz": 530
+  },
+  {
+    "cam": "closeHole",
+    "kind": "ground closing",
+    "duration": 0.25,
+    "low": 700,
+    "amp": 0.003
+  }
+]
