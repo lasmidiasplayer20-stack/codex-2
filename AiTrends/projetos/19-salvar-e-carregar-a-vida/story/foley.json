@@ -1,0 +1,75 @@
+[
+  {
+    "cam": "walk",
+    "kind": "steps"
+  },
+  {
+    "cam": "trip",
+    "kind": "steps"
+  },
+  {
+    "cam": "approach",
+    "kind": "steps"
+  },
+  {
+    "cam": "spill",
+    "kind": "coffee splash",
+    "duration": 0.3
+  },
+  {
+    "cam": "miss",
+    "kind": "basketball bounce",
+    "low": 550
+  },
+  {
+    "cam": "score",
+    "kind": "basket net cloth"
+  },
+  {
+    "cam": "bike",
+    "kind": "bicycle tire / chain",
+    "duration": 0.6,
+    "amp": 0.003
+  },
+  {
+    "cam": "knock",
+    "kind": "wooden door knock",
+    "duration": 0.09
+  },
+  {
+    "cam": "open",
+    "kind": "wood hinge",
+    "duration": 0.4,
+    "amp": 0.003
+  },
+  {
+    "cam": "save",
+    "kind": "button",
+    "amp": 0.003
+  },
+  {
+    "cam": "load",
+    "kind": "button",
+    "amp": 0.003
+  },
+  {
+    "cam": "rewind",
+    "kind": "button",
+    "amp": 0.003
+  },
+  {
+    "cam": "retry",
+    "kind": "button",
+    "amp": 0.003
+  },
+  {
+    "cam": "wrong",
+    "kind": "button",
+    "amp": 0.003
+  },
+  {
+    "cam": "tap",
+    "kind": "button",
+    "amp": 0.003
+  }
+]

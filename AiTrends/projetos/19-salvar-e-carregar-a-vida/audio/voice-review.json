@@ -1,0 +1,40 @@
+{
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "raw_seconds": 68.41095833333334,
+  "raw_clipped_samples": 0,
+  "speed_change": false,
+  "pitch_change": false,
+  "gain_automation": {
+    "seconds": [
+      0,
+      13,
+      40,
+      67,
+      80
+    ],
+    "db": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reason": "Gentler treatment after negative feedback; broad static correction only if source spread exceeds3dB, max3dB",
+    "before_active_window_dbfs": [
+      -20.586027328220737,
+      -19.768319521757594,
+      -20.467938200016825
+    ],
+    "after_active_window_dbfs": [
+      -20.586027328220737,
+      -19.768319521757594,
+      -20.467938200016825
+    ],
+    "before_spread_db": 0.8177078064631438,
+    "after_spread_db": 0.8177078064631438
+  },
+  "human_full_listening": false,
+  "asr": false
+}

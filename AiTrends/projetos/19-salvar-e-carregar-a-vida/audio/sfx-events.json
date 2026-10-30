@@ -1,0 +1,157 @@
+[
+  {
+    "seconds": 7.766666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 8.186666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 8.60666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 9.026666666666669,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 9.446666666666669,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 9.86666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 10.286666666666672,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 10.725,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 11.145,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 65.80833333333332,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 66.22833333333332,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 66.64833333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 67.06833333333333,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 11.525,
+    "kind": "coffee splash",
+    "duration": 0.3
+  },
+  {
+    "seconds": 21.10833333333333,
+    "kind": "basketball bounce",
+    "duration": 0.15
+  },
+  {
+    "seconds": 23.85833333333333,
+    "kind": "basket net cloth",
+    "duration": 0.15
+  },
+  {
+    "seconds": 38.44166666666666,
+    "kind": "bicycle tire / chain",
+    "duration": 0.6
+  },
+  {
+    "seconds": 67.23333333333333,
+    "kind": "wooden door knock",
+    "duration": 0.09
+  },
+  {
+    "seconds": 69.31666666666668,
+    "kind": "wood hinge",
+    "duration": 0.4
+  },
+  {
+    "seconds": 3.8166666666666664,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 13.15,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 21.85833333333333,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 43.4,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 54.608333333333334,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 61.983333333333334,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 72.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 74.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 76.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]
