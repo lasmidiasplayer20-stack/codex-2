@@ -11,9 +11,9 @@
   },
   "upscaled": false,
   "full_decode_passed": true,
-  "bytes": 6692196,
-  "sha256": "37e7b70d2efdbc91cd00e2965f9514d1d147f2fbe5af89ac6bc7028f545cb309",
-  "source_sha256": "fac64e308001f552a226586289cd721a585a1aa507ffcf90771be58c0720cf3c",
+  "bytes": 11508850,
+  "sha256": "6741bc0e51c174abf0f4cafeacefc406ca6be75471bfd379e7d6d932871fb693",
+  "source_sha256": "fb8eec36ecebffe012fc6680ddd968c7b215dfe12ac8c5fd97d8b8c72357532e",
   "preview": "exports/preview-10s.mp4",
   "cta": {
     "count": 1,

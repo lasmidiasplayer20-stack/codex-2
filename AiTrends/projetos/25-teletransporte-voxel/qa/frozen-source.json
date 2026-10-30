@@ -4,7 +4,24 @@
     "runtime-style.json",
     "story/shots.json",
     "scenes/film.js",
-    "scenes/rig.js"
+    "scenes/rig.js",
+    "scenes/minecraft-world.js",
+    "assets/skins/lia-preview.png",
+    "assets/skins/lia.png",
+    "assets/skins/nico-preview.png",
+    "assets/skins/nico.png",
+    "assets/textures/cobblestone.png",
+    "assets/textures/dirt.png",
+    "assets/textures/glass.png",
+    "assets/textures/grass_side.png",
+    "assets/textures/grass_top.png",
+    "assets/textures/leaves.png",
+    "assets/textures/oak_log.png",
+    "assets/textures/oak_planks.png",
+    "assets/textures/pink_leaves.png",
+    "assets/textures/sand.png",
+    "assets/textures/stone.png",
+    "assets/textures/water.png"
   ],
-  "sha256": "fac64e308001f552a226586289cd721a585a1aa507ffcf90771be58c0720cf3c"
+  "sha256": "fb8eec36ecebffe012fc6680ddd968c7b215dfe12ac8c5fd97d8b8c72357532e"
 }

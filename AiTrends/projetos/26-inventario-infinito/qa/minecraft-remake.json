@@ -1,0 +1,44 @@
+{
+  "revision": 2,
+  "reason": "User rejected generic voxel; requested classic Minecraft model with own skins",
+  "skin_format": "64x64 classic 4px arm",
+  "proportions_pixels": {
+    "head": [
+      8,
+      8,
+      8
+    ],
+    "torso": [
+      4,
+      12,
+      8
+    ],
+    "arm": [
+      4,
+      12,
+      4
+    ],
+    "leg": [
+      4,
+      12,
+      4
+    ]
+  },
+  "straight_unsegmented_limbs": true,
+  "textures": "Original generated 16x16 PNG, nearest filtering",
+  "same_voice_no_api_call": true,
+  "audio_mp3_sha256": {
+    "mix.mp3": "9e813aa9ae8a498022254c56c58845c0948d52190dfe1269952422997fafd9e5",
+    "sfx.mp3": "d473e80b1401e195f621a2c1cfeb0191e7c11fb5ea2991b4604b4d3ea9bdb011",
+    "musica.mp3": "b2a34cb1797e4c64260412650dd00324c4df5f6b8acbb4447958bea6df085df3",
+    "narracao.mp3": "8def2be7232411bd0a04e2f809115f21422e4c4ee82ba37ba361d6a2f0ac84b5"
+  },
+  "dimension_axes": [
+    "depth_x",
+    "height_y",
+    "width_z"
+  ],
+  "new_tts_calls": 0,
+  "final_aac_identical_to_previous_export": true,
+  "final_aac_sha256": "SHA256=7db97bf8da5c52374c0c5c4ab3881c9c302a50acab74c11943a5cce156d501a6"
+}

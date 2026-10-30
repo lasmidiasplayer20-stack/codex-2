@@ -305,3 +305,11 @@ Novo pedido: sorte emprestada → apagar lembrança → dividir-se em dois. Prod
 - Chuva obrigatoriamente para baixo: y = 4.5 - ((tempo * 3.2 + fase) % 4.5); conferir piloto/quadros sequenciais. Foley Python inclui cama de chuva contínua além de contatos e inventário. Não substituir toda a sonoplastia por bipes.
 - Conferir personagem inteiro nos planos de objetos grandes; ampliar câmera antes do render final quando houver cortes nas bordas. Não corrigir somente miniaturas ou folhas antigas.
 - Mesma Puck/modelo, uma geração, sem acelerar; apenas pequenas inserções em pausas detectadas. 25 s exatos, 600 quadros, 24 fps e 1080×1920 nativo; CTA variante 6 em 18–25 s, prévia 10 s, capa vertical e arquivo único YOUTUBE.
+
+### Correção visual obrigatória — refação 25 e 26 em Minecraft clássico
+
+O usuário reprovou o voxel genérico: queria aparência de animação de Minecraft com skins dos nossos personagens. Não interpretar “Minecraft” apenas como cabeça cúbica, corpo fino articulado e cores chapadas. Na refação dos episódios 25 e 26, usar modelo clássico de 32 pixels de altura: cabeça 8×8×8, tronco 8×12×4, braços e pernas 4×12×4, membros retos e inteiriços girando em ombros/quadris. Sem cotovelos, joelhos segmentados ou cabeças aumentadas. Skins próprias PNG 64×64 no padrão Java clássico de braços com 4 pixels; rostos e roupas pixelados, nearest sem interpolação.
+
+Cenários com blocos de 1 unidade e texturas originais 16×16 de grama/terra, troncos, tábuas, pedra, folhas e vidro. Módulo `scenes/minecraft-world.js` em cada um. Não usar skins/texturas oficiais extraídas nem afirmar captura de gameplay: é animação por código no visual clássico, com skins utilizáveis fornecidas. Objetos seguem a extremidade real do braço reto. Gestos devem ficar abaixo do rosto. Entrada/saída das plataformas precisam conferir altura dos pés; não reaplicar a rampa do rig anterior sem revisão.
+
+Preservar byte a byte os MP3s de narração/mix/stems nesta refação; nenhuma nova chamada TTS é necessária. Reexportar ambos em 25 s / 600 quadros / 1080×1920 nativo e revisar arquivos finais, CTA e capas. Congelar fonte incluindo módulos externos, PNGs de skins e texturas. Atualizar as instruções para não repetir a interpretação visual reprovada.

@@ -1,6 +1,6 @@
 # 25 — Quem saiu da cabine?
 
-Short original de 25 segundos, 600 quadros a 24 fps, vertical 1080×1920 nativo. Primeiro episódio do canal Então com nossos personagens adaptados ao estilo voxel inspirado em Minecraft. Animação Three.js/aiTrends inteiramente por código, sem Blender ou imagens importadas nas cenas. Cabeças, membros, expressões, cidades, cabines e mapa construídos proceduralmente. A capa é uma ilustração gerada separadamente.
+Short original de 25 segundos, 600 quadros a 24 fps, vertical 1080×1920 nativo. Primeiro episódio do canal Então com modelo clássico de Minecraft e skins próprias. Animação Three.js/aiTrends inteiramente por código, sem Blender; skins e texturas PNG próprias geradas por código. Cabeças, membros, expressões, cidades, cabines e mapa construídos proceduralmente. A capa é uma ilustração gerada separadamente.
 
 Abertura: “Um segundo até Tóquio. Mas quem sai do outro lado?” Onze takes, transmissão em mapa e pergunta final sobre continuidade da identidade. Ficção; a máquina não representa uma tecnologia real nem explica teletransporte quântico.
 
@@ -18,6 +18,20 @@ Render: `node AiTrends/skill/scripts/render.mjs --project "$PWD/AiTrends/projeto
 
 Entrega em exports/ e QA em qa/. Prévia de 10 s; filme completo de 25 s. Capa e arquivo único YOUTUBE em ../../youtube/25 - Quem saiu da cabine/. Publicação no GitHub, sem upload ao YouTube.
 
-## Validação final
+## Refação visual solicitada pelo usuário
 
-MP4: 25,000 s / 600 quadros / 24 fps / 1080×1920 nativo, com áudio; decodificação integral sem erros. Prévia: 10 s / 240 quadros, mesma resolução. Áudio final medido: −19,0 LUFS / pico verdadeiro −3,7 dBFS. Maior silêncio detectado na mix: 0,93 s. Uma geração de voz preservada, sem acelerar. Auditoria numérica em 44 instantes: zero erros de execução ou matrizes não finitas; não é uma validação física completa. Revisão visual dos quadros extraídos do MP4 final cobre os onze takes, entrada, leitura, percurso, reconstrução, expressões e CTA. Não se alega escuta humana integral nem transcrição independente.
+A versão anterior foi reprovada por parecer voxel genérico. Esta revisão troca o personagem por um modelo de proporções clássicas Minecraft: cabeça 8×8×8, tronco 8×12×4, braços e pernas 4×12×4, membros retos e inteiriços. Não há cotovelos, joelhos segmentados, mãos arredondadas ou sapatos modelados separadamente. Skins próprias 64×64 no padrão Java clássico de braços com 4 pixels, disponíveis em assets/skins/; Nico verde-água e Lia lavanda. Rostos em pixels, filtro nearest, sem suavização das texturas.
+
+Vila e chão construídos com blocos de 1 unidade, grama/terra, troncos/tábuas, pedra e vidro; texturas originais 16×16 em assets/textures/. Materiais e personagens não são assets oficiais extraídos do jogo. É uma animação renderizada por código, não captura de gameplay.
+
+As narrações, músicas e efeitos publicados permanecem idênticos byte a byte; não houve chamada de TTS nesta refação. A conferência dos hashes está em qa/minecraft-remake.json. Duração, roteiro, cortes e CTA foram preservados. As versões anteriores continuam recuperáveis no histórico do Git.
+
+Gerar novamente as skins e texturas próprias: `AiTrends/.venv/bin/python AiTrends/projetos/25-teletransporte-voxel/scripts/build_minecraft_assets.py`. A semente é fixa.
+
+## Validação desta refação
+
+MP4 novo: 25,000 s / 600 quadros / 24 fps / 1080×1920 nativo, áudio presente, decodificação integral aprovada. Prévia de 10 s / 240 quadros, mesma resolução. Quadros do MP4 final revisados cobrindo todos os takes, ações e CTA; auditoria numérica em 44 instantes sem erros de execução ou matrizes não finitas.
+
+Áudio final: -19,0 LUFS, pico verdadeiro -3,7 dBFS. O fluxo AAC é idêntico ao do MP4 anterior; hashes dos stems MP3 também idênticos. Zero chamadas TTS nesta refação. Não é alegada audição humana integral ou ASR independente.
+
+SHA-256 do MP4: `6741bc0e51c174abf0f4cafeacefc406ca6be75471bfd379e7d6d932871fb693`.
