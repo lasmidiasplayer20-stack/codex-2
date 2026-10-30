@@ -1,0 +1,65 @@
+[
+  {
+    "cam": "storeCar",
+    "kind": "object enters inventory",
+    "duration": 0.35,
+    "amp": 0.005,
+    "low": 2200
+  },
+  {
+    "cam": "bike",
+    "kind": "object enters inventory",
+    "duration": 0.35,
+    "amp": 0.005,
+    "low": 2200
+  },
+  {
+    "cam": "sofa",
+    "kind": "object enters inventory",
+    "duration": 0.35,
+    "amp": 0.005,
+    "low": 2200
+  },
+  {
+    "cam": "house",
+    "kind": "object enters inventory",
+    "duration": 0.35,
+    "amp": 0.005,
+    "low": 2200
+  },
+  {
+    "cam": "rain",
+    "kind": "rain on pavement",
+    "duration": 1.7,
+    "amp": 0.005,
+    "low": 3600
+  },
+  {
+    "cam": "pullSofa",
+    "kind": "sofa landing",
+    "duration": 0.18,
+    "amp": 0.009,
+    "low": 650
+  },
+  {
+    "cam": "pullBike",
+    "kind": "bicycle wheels on floor",
+    "duration": 0.2,
+    "amp": 0.007,
+    "low": 1600
+  },
+  {
+    "cam": "search",
+    "kind": "menu",
+    "duration": 0.4,
+    "amp": 0.004,
+    "low": 2600
+  },
+  {
+    "cam": "rain",
+    "kind": "continuous rain bed",
+    "duration": 12.82,
+    "amp": 0.003,
+    "low": 5200
+  }
+]

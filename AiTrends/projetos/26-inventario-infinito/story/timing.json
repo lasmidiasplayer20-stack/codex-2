@@ -1,0 +1,50 @@
+{
+  "method": "Word-position estimates snapped to waveform pauses; no independent ASR.",
+  "raw_seconds": 24.210958333333334,
+  "markers": [
+    [
+      "car",
+      0.0
+    ],
+    [
+      "storeCar",
+      3.375
+    ],
+    [
+      "bike",
+      5.625
+    ],
+    [
+      "sofa",
+      8.5
+    ],
+    [
+      "house",
+      9.25
+    ],
+    [
+      "rain",
+      12.0
+    ],
+    [
+      "menu",
+      13.958333333333334
+    ],
+    [
+      "pullSofa",
+      15.875
+    ],
+    [
+      "pullBike",
+      17.083333333333332
+    ],
+    [
+      "search",
+      19.0
+    ],
+    [
+      "end",
+      22.791666666666668
+    ]
+  ]
+}

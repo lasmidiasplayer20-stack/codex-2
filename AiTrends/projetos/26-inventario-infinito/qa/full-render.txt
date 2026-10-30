@@ -1,0 +1,15 @@
+Rendering frames 0-600 (25.0 s) with 2 worker(s)…
+  48/600 frames  6.54 fps  elapsed 0m07s  eta 1m24s
+  96/600 frames  6.95 fps  elapsed 0m14s  eta 1m12s
+  144/600 frames  7.07 fps  elapsed 0m20s  eta 1m04s
+  192/600 frames  7.13 fps  elapsed 0m27s  eta 0m57s
+  240/600 frames  7.06 fps  elapsed 0m34s  eta 0m51s
+  288/600 frames  7.15 fps  elapsed 0m40s  eta 0m44s
+  336/600 frames  7.17 fps  elapsed 0m47s  eta 0m37s
+  384/600 frames  7.09 fps  elapsed 0m54s  eta 0m30s
+  432/600 frames  7.06 fps  elapsed 1m01s  eta 0m24s
+  480/600 frames  7.03 fps  elapsed 1m08s  eta 0m17s
+  528/600 frames  7.01 fps  elapsed 1m15s  eta 0m10s
+  576/600 frames  7.02 fps  elapsed 1m22s  eta 0m03s
+
+Done: /workspace/inventory-private/full-silent.mp4  (1m27s)

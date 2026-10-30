@@ -1,0 +1,17 @@
+{
+  "source": "User-provided green-screen CTA preserved from episode25 cta-b.mp4",
+  "variant": 6,
+  "intervals": [
+    [
+      18,
+      25
+    ]
+  ],
+  "width": 900,
+  "position": [
+    90,
+    1440
+  ],
+  "source_audio_mixed": false,
+  "reason": "Single brief CTA for a 25-second short; preserve narrative time."
+}

@@ -298,3 +298,10 @@ Novo pedido: sorte emprestada → apagar lembrança → dividir-se em dois. Prod
 - Leitura do corpo por plano de clipping progressivo e partículas pequenas; reconstrução inversa. Escalas animadas precisam multiplicar a escala-base dos cubos. Mapa vertical com destinos legíveis, sem flashes/cintilação.
 - 25 s exatos / 600 quadros / 24 fps / 1080×1920 nativo. Um CTA variante 6 em 18–25 s para preservar a história. Prévia 10 s. Mesma Puck/modelo, fonte em uma chamada e cache; EQ/mix discreta, sem acelerar. Foley e stems em Python obrigatórios.
 - O teletransporte de corpo em dados é ficção. Não apresentá-lo como ciência real nem confundir com teletransporte quântico. Análise visual da referência não equivale a transcrição integral do áudio.
+
+### Episódio 26 — Inventário infinito / 25 segundos
+- Continuidade autorizada do estilo voxel e duração 25 s. Sem abertura “E se” nem no título: “Nico colocou um carro no bolso. O problema foi tirar depois.” Projeto `projetos/26-inventario-infinito`; pacote `youtube/26 - Cade minha casa`.
+- Carro, bicicleta, sofá e casa encolhem em direção à palma, que se recolhe ao bolso. A casa deixa base vazia; objetos errados aparecem em takes distintos. Interface e ícones por canvas, sem assets do jogo.
+- Chuva obrigatoriamente para baixo: y = 4.5 - ((tempo * 3.2 + fase) % 4.5); conferir piloto/quadros sequenciais. Foley Python inclui cama de chuva contínua além de contatos e inventário. Não substituir toda a sonoplastia por bipes.
+- Conferir personagem inteiro nos planos de objetos grandes; ampliar câmera antes do render final quando houver cortes nas bordas. Não corrigir somente miniaturas ou folhas antigas.
+- Mesma Puck/modelo, uma geração, sem acelerar; apenas pequenas inserções em pausas detectadas. 25 s exatos, 600 quadros, 24 fps e 1080×1920 nativo; CTA variante 6 em 18–25 s, prévia 10 s, capa vertical e arquivo único YOUTUBE.

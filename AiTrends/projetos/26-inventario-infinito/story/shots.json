@@ -1,0 +1,159 @@
+{
+  "duration": 25,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.375,
+      "scene": "car",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "car"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.375,
+      "end": 5.625,
+      "scene": "storeCar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "storeCar"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.625,
+      "end": 8.5,
+      "scene": "bike",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "bike"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.5,
+      "end": 9.25,
+      "scene": "sofa",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "sofa"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 9.25,
+      "end": 12.0,
+      "scene": "house",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "house"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 12.0,
+      "end": 13.958333333333334,
+      "scene": "rain",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rain"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 13.958333333333334,
+      "end": 15.875,
+      "scene": "menu",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "menu"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 15.875,
+      "end": 17.083333333333332,
+      "scene": "pullSofa",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pullSofa"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 17.083333333333332,
+      "end": 19.0,
+      "scene": "pullBike",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "pullBike"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 19.0,
+      "end": 22.791666666666668,
+      "scene": "search",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "search"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 22.791666666666668,
+      "end": 25,
+      "scene": "end",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}
