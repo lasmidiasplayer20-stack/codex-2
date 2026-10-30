@@ -1,0 +1,1 @@
+[{"cam":"enter","kind":"steps","amp":0.007},{"cam":"scan","kind":"electrical scan","duration":0.65,"amp":0.006,"low":3600},{"cam":"map","kind":"data travel","duration":0.65,"amp":0.005,"low":2200},{"cam":"rebuild","kind":"reconstruction","duration":0.6,"amp":0.005,"low":3000},{"cam":"screen","kind":"button","hz":420,"amp":0.004}]

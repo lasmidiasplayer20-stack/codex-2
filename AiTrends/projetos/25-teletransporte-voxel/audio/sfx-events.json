@@ -1,0 +1,62 @@
+[
+  {
+    "seconds": 4.766666666666667,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 5.1866666666666665,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 5.6066666666666665,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 6.026666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 6.446666666666666,
+    "kind": "shoe on pavement",
+    "duration": 0.08
+  },
+  {
+    "seconds": 6.816666666666667,
+    "kind": "electrical scan",
+    "duration": 0.65
+  },
+  {
+    "seconds": 9.15,
+    "kind": "data travel",
+    "duration": 0.65
+  },
+  {
+    "seconds": 10.525,
+    "kind": "reconstruction",
+    "duration": 0.6
+  },
+  {
+    "seconds": 16.98333333333333,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 19.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 21.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 23.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]

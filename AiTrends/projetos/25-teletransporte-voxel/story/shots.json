@@ -1,0 +1,159 @@
+{
+  "duration": 25,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 2.25,
+      "scene": "hook",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "hook"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.25,
+      "end": 4.666666666666667,
+      "scene": "question",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "question"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 4.666666666666667,
+      "end": 6.666666666666667,
+      "scene": "enter",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "enter"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 6.666666666666667,
+      "end": 9.0,
+      "scene": "scan",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "scan"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 9.0,
+      "end": 10.375,
+      "scene": "map",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "map"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 10.375,
+      "end": 11.416666666666666,
+      "scene": "rebuild",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "rebuild"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 11.416666666666666,
+      "end": 13.75,
+      "scene": "arrival",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "arrival"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 13.75,
+      "end": 16.833333333333332,
+      "scene": "remember",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "remember"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 16.833333333333332,
+      "end": 20.125,
+      "scene": "screen",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "screen"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 20.125,
+      "end": 21.5,
+      "scene": "reaction",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "reaction"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 21.5,
+      "end": 25,
+      "scene": "end",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "end"
+      }
+    }
+  ]
+}

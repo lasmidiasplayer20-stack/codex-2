@@ -291,3 +291,10 @@ Novo pedido: sorte emprestada → apagar lembrança → dividir-se em dois. Prod
 - A fusão é um efeito mágico explícito, após soltar o aperto de mãos; partículas suaves, sem flashes. Não transformar poses intermediárias em supostos erros de articulação.
 - Mesma Puck/modelo, uma geração preservada. Medir cada arquivo, correção lenta e discreta apenas quando necessária, sem compressão agressiva nem mudança de velocidade. Efeitos obrigatórios sintetizados em Python: passos, bola, madeira, cadeira e contato das mãos. Não afirmar audição humana integral a partir de métricas.
 - 65 s exatos / 1560 quadros / 24 fps, 1080×1920 nativo; dois CTAs distintos nos intervalos 15–22 e 56–63 s. Capa vertical e arquivo único `YOUTUBE`. Revisar quadros do MP4 final, mãos/objetos e CTA antes de publicar.
+
+### Episódio 25 — Teletransporte voxel / 25 segundos
+- Pedido específico: estilo inspirado em Minecraft, nossos personagens em blocos; não começar a narração com “E se”. Projeto `projetos/25-teletransporte-voxel`, pacote `youtube/25 - Quem saiu da cabine`. Não mudar automaticamente o estilo dos próximos episódios sem contexto.
+- Geometria e expressões por código, sem skins/texturas/personagens do jogo. Membros mantêm IK de comprimento fixo; rosto acompanha a cabeça cúbica. Ao clonar materiais para clipping, preservar o material facial que a rotina de expressões atualiza.
+- Leitura do corpo por plano de clipping progressivo e partículas pequenas; reconstrução inversa. Escalas animadas precisam multiplicar a escala-base dos cubos. Mapa vertical com destinos legíveis, sem flashes/cintilação.
+- 25 s exatos / 600 quadros / 24 fps / 1080×1920 nativo. Um CTA variante 6 em 18–25 s para preservar a história. Prévia 10 s. Mesma Puck/modelo, fonte em uma chamada e cache; EQ/mix discreta, sem acelerar. Foley e stems em Python obrigatórios.
+- O teletransporte de corpo em dados é ficção. Não apresentá-lo como ciência real nem confundir com teletransporte quântico. Análise visual da referência não equivale a transcrição integral do áudio.

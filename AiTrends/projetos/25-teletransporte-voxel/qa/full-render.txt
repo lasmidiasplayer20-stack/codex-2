@@ -1,0 +1,15 @@
+Rendering frames 0-600 (25.0 s) with 2 worker(s)…
+  48/600 frames  5.26 fps  elapsed 0m09s  eta 1m45s
+  96/600 frames  5.90 fps  elapsed 0m16s  eta 1m25s
+  144/600 frames  6.16 fps  elapsed 0m23s  eta 1m14s
+  192/600 frames  6.22 fps  elapsed 0m31s  eta 1m06s
+  240/600 frames  5.95 fps  elapsed 0m40s  eta 1m01s
+  288/600 frames  5.80 fps  elapsed 0m50s  eta 0m54s
+  336/600 frames  5.70 fps  elapsed 0m59s  eta 0m46s
+  384/600 frames  5.63 fps  elapsed 1m08s  eta 0m38s
+  432/600 frames  5.55 fps  elapsed 1m18s  eta 0m30s
+  480/600 frames  5.62 fps  elapsed 1m25s  eta 0m21s
+  528/600 frames  5.65 fps  elapsed 1m33s  eta 0m13s
+  576/600 frames  5.64 fps  elapsed 1m42s  eta 0m04s
+
+Done: /workspace/teleport-private/full-silent.mp4  (1m47s)

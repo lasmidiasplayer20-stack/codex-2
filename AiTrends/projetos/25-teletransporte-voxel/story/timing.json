@@ -1,0 +1,50 @@
+{
+  "method": "Word-position estimates snapped to waveform pauses; no independent ASR.",
+  "raw_seconds": 22.530958333333334,
+  "markers": [
+    [
+      "hook",
+      0.0
+    ],
+    [
+      "question",
+      2.25
+    ],
+    [
+      "enter",
+      4.666666666666667
+    ],
+    [
+      "scan",
+      6.666666666666667
+    ],
+    [
+      "map",
+      9.0
+    ],
+    [
+      "rebuild",
+      10.375
+    ],
+    [
+      "arrival",
+      11.416666666666666
+    ],
+    [
+      "remember",
+      13.75
+    ],
+    [
+      "screen",
+      16.833333333333332
+    ],
+    [
+      "reaction",
+      20.125
+    ],
+    [
+      "end",
+      21.5
+    ]
+  ]
+}

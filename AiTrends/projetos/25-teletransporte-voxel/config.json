@@ -1,0 +1,38 @@
+{
+  "title": "25 - Quem saiu da cabine",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 25,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.15,
+  "fast3D": false,
+  "export_name": "25 - Quem saiu da cabine.mp4",
+  "qa_actions": [
+    "enter",
+    "scan",
+    "map",
+    "rebuild",
+    "remember",
+    "screen",
+    "end"
+  ],
+  "qaTimes": [
+    1.125,
+    3.4583333333333335,
+    5.666666666666667,
+    7.833333333333334,
+    9.6875,
+    10.895833333333332,
+    12.583333333333332,
+    15.291666666666666,
+    18.479166666666664,
+    20.8125,
+    23.25
+  ]
+}

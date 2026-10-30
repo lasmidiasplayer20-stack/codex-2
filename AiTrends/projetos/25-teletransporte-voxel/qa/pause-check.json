@@ -1,0 +1,6 @@
+{
+  "threshold_db": -38,
+  "max_mix_silence_seconds": 0.922542,
+  "silences_over_2s": [],
+  "method": "Signal only, not transcription"
+}
