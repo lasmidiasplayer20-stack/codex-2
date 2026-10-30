@@ -1,0 +1,5 @@
+{
+  "method": "FFmpeg -38dB/minimum0.2s, not ASR",
+  "max_detected_silence_seconds": 1.416708,
+  "gaps_above_2_seconds": 0
+}

@@ -1,0 +1,8 @@
+# 21 - Dez segundos do futuro
+
+80segundos, 33takes.
+
+E se você pudesse roubar dez segundos do futuro? Nico toca o relógio e vê uma versão azul da rua. Um copo vai cair. Ele volta ao presente e segura a bandeja antes do esbarrão. Parece infalível. Na praça, enxerga uma bola atravessando o caminho de Lia. Avisa, muda a posição dela e espera. Só que a bola bate num banco e segue por outro lado. O futuro mudou junto com a escolha. Nico tenta olhar outra vez. Dez segundos. Mais uma previsão. Mais uma correção. Cada desvio cria um detalhe que ele ainda não viu. Enquanto acompanha as imagens, deixa de notar uma bicicleta chegando no presente. Lia puxa seu braço e ele para a tempo. O relógio não havia mostrado aquilo. Nico respira e guarda a próxima visão para uma situação concreta. Ajuda um amigo a recolher livros antes de uma rajada espalhar tudo. Funciona, sem tentar controlar a rua inteira. Agora, quando o relógio oferece mais dez segundos, Nico olha primeiro para quem está ao lado dele.
+
+
+Roteiro original em português. Regras do poder e acontecimentos são ficcionais. Temporização aproximada por texto/pausas, sem alegar alinhamento ASR.

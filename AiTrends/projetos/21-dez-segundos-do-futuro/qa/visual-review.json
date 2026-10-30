@@ -1,0 +1,15 @@
+{
+  "all33take_midpoints_in_final_mp4_inspected": true,
+  "additional_action_sequences": [
+    "forecast cup and actual tray",
+    "ball reflection off bench",
+    "Nico/Lia stop before bicycle",
+    "forecast books and actual stack"
+  ],
+  "two_CTA_variants_inspected": true,
+  "native_pilot_seconds": 8.5,
+  "native_stills_before_full_render": 33,
+  "human_continuous_full_playback": false,
+  "human_full_listening": false,
+  "asr": false
+}

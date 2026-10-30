@@ -1,0 +1,87 @@
+[
+  {
+    "cam": "touch",
+    "kind": "clock",
+    "hz": 620,
+    "amp": 0.003,
+    "duration": 0.1
+  },
+  {
+    "cam": "again",
+    "kind": "clock",
+    "hz": 620,
+    "amp": 0.003,
+    "duration": 0.1
+  },
+  {
+    "cam": "ten",
+    "kind": "clock",
+    "hz": 620,
+    "amp": 0.003,
+    "duration": 0.1
+  },
+  {
+    "cam": "offer",
+    "kind": "clock",
+    "hz": 620,
+    "amp": 0.003,
+    "duration": 0.1
+  },
+  {
+    "cam": "cupFuture",
+    "kind": "cup in tray",
+    "duration": 0.2,
+    "low": 2100,
+    "amp": 0.004
+  },
+  {
+    "cam": "catch",
+    "kind": "tray and cup contact",
+    "duration": 0.15,
+    "low": 1800
+  },
+  {
+    "cam": "bounce",
+    "kind": "ball on wooden bench",
+    "duration": 0.13,
+    "low": 900
+  },
+  {
+    "cam": "move",
+    "kind": "steps"
+  },
+  {
+    "cam": "bike",
+    "kind": "bicycle tire / chain",
+    "duration": 0.4,
+    "low": 2000,
+    "amp": 0.003
+  },
+  {
+    "cam": "pull",
+    "kind": "cloth grip and stop",
+    "duration": 0.18,
+    "low": 1700
+  },
+  {
+    "cam": "stormFuture",
+    "kind": "wind and paper",
+    "duration": 0.5,
+    "low": 3500,
+    "amp": 0.003
+  },
+  {
+    "cam": "gather",
+    "kind": "book covers and pages",
+    "duration": 0.3,
+    "low": 2200,
+    "amp": 0.003
+  },
+  {
+    "cam": "gust",
+    "kind": "quiet breeze",
+    "duration": 0.4,
+    "low": 1800,
+    "amp": 0.002
+  }
+]

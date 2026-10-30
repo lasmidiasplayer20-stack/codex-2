@@ -1,0 +1,9 @@
+{
+  "reason": "Before final mux, stereo mix measured-17.1LUFS, louder than19(-19.0)and20(-19.9). Lowered mono static target by2.4dB to align finished stereo level near-19.5.",
+  "before_integrated_lufs": -17.1,
+  "mono_target_lufs": -22.2,
+  "additional_static_gain_db": -2.4,
+  "compression_added": false,
+  "voice_regenerated": false,
+  "final_measurement": "qa/final-audio-validation.json"
+}

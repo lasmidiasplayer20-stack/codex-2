@@ -1,0 +1,38 @@
+{
+  "seconds": 80,
+  "fps": 24,
+  "frames": 1920,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "post_color": {
+    "saturation": 1.12,
+    "contrast": 1.02
+  },
+  "upscaled": false,
+  "full_decode_passed": true,
+  "bytes": 11388230,
+  "sha256": "ed6bd7594935b10cda88ce4e9d259bc6e1fef7be719ba2af836b183ae171a6a3",
+  "source_sha256": "4d28ab26a4341703cb5b570873c36003afbc8f3b7324bed4435e302a2097de61",
+  "preview": "exports/preview-60s.mp4",
+  "cta": {
+    "different_variants": true,
+    "intervals": [
+      [
+        15,
+        22
+      ],
+      [
+        71,
+        78
+      ]
+    ],
+    "width": 900,
+    "position": [
+      90,
+      1440
+    ],
+    "source_audio_mixed": false
+  },
+  "audio_review": "Signal measures only; no full human listening/independent ASR claim."
+}

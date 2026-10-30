@@ -1,0 +1,43 @@
+Rendering frames 0-1920 (80.0 s) with 2 worker(s)…
+  48/1920 frames  5.94 fps  elapsed 0m08s  eta 5m15s
+  96/1920 frames  6.44 fps  elapsed 0m15s  eta 4m43s
+  144/1920 frames  6.58 fps  elapsed 0m22s  eta 4m30s
+  192/1920 frames  6.68 fps  elapsed 0m29s  eta 4m19s
+  240/1920 frames  6.63 fps  elapsed 0m36s  eta 4m13s
+  288/1920 frames  6.56 fps  elapsed 0m44s  eta 4m09s
+  336/1920 frames  6.63 fps  elapsed 0m51s  eta 3m59s
+  384/1920 frames  6.70 fps  elapsed 0m57s  eta 3m49s
+  432/1920 frames  6.76 fps  elapsed 1m04s  eta 3m40s
+  480/1920 frames  6.82 fps  elapsed 1m10s  eta 3m31s
+  528/1920 frames  6.83 fps  elapsed 1m17s  eta 3m24s
+  576/1920 frames  6.85 fps  elapsed 1m24s  eta 3m16s
+  624/1920 frames  6.84 fps  elapsed 1m31s  eta 3m10s
+  672/1920 frames  6.83 fps  elapsed 1m38s  eta 3m03s
+  720/1920 frames  6.84 fps  elapsed 1m45s  eta 2m56s
+  768/1920 frames  6.82 fps  elapsed 1m53s  eta 2m49s
+  816/1920 frames  6.82 fps  elapsed 1m60s  eta 2m42s
+  864/1920 frames  6.84 fps  elapsed 2m06s  eta 2m34s
+  912/1920 frames  6.86 fps  elapsed 2m13s  eta 2m27s
+  960/1920 frames  6.89 fps  elapsed 2m19s  eta 2m19s
+  1008/1920 frames  6.91 fps  elapsed 2m26s  eta 2m12s
+  1056/1920 frames  6.93 fps  elapsed 2m32s  eta 2m05s
+  1104/1920 frames  6.96 fps  elapsed 2m39s  eta 1m57s
+  1152/1920 frames  6.99 fps  elapsed 2m45s  eta 1m50s
+  1200/1920 frames  6.99 fps  elapsed 2m52s  eta 1m43s
+  1248/1920 frames  6.97 fps  elapsed 2m59s  eta 1m36s
+  1296/1920 frames  6.97 fps  elapsed 3m06s  eta 1m29s
+  1344/1920 frames  6.98 fps  elapsed 3m13s  eta 1m23s
+  1392/1920 frames  6.96 fps  elapsed 3m20s  eta 1m16s
+  1440/1920 frames  6.95 fps  elapsed 3m27s  eta 1m09s
+  1488/1920 frames  6.92 fps  elapsed 3m35s  eta 1m02s
+  1536/1920 frames  6.90 fps  elapsed 3m43s  eta 0m56s
+  1584/1920 frames  6.88 fps  elapsed 3m50s  eta 0m49s
+  1632/1920 frames  6.85 fps  elapsed 3m58s  eta 0m42s
+  1680/1920 frames  6.83 fps  elapsed 4m06s  eta 0m35s
+  1728/1920 frames  6.81 fps  elapsed 4m14s  eta 0m28s
+  1776/1920 frames  6.80 fps  elapsed 4m21s  eta 0m21s
+  1824/1920 frames  6.81 fps  elapsed 4m28s  eta 0m14s
+  1872/1920 frames  6.81 fps  elapsed 4m35s  eta 0m07s
+  1920/1920 frames  6.79 fps  elapsed 4m43s  eta 0m00s
+
+Done: /workspace/future-private/full-silent.mp4  (4m44s)
