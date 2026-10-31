@@ -1,0 +1,28 @@
+{
+  "title": "33 - Sem dor, ele perdeu o aviso",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "33 - nao-sentir-dor.mp4",
+  "theme": 4,
+  "qaTimes": [
+    1.2515,
+    3.9424,
+    7.3769,
+    10.7856,
+    13.5723,
+    16.9455,
+    20.847,
+    24.5613,
+    28.1871
+  ]
+}

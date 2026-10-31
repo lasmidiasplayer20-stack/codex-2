@@ -1,0 +1,14 @@
+{
+  "range_frames": [
+    455,
+    720
+  ],
+  "reason": "Place bench and seated foot away from the trip rock; add visible cloth marking and shoulder support",
+  "other_acts_unchanged": true,
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "base_sha256": "6922264aeeb2ac3ad5fdcc8dcd37292afbc897338949c55f9dca5894436fc3af",
+  "tts_regenerated": false
+}

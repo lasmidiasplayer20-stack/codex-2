@@ -1,0 +1,142 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 2.503,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "NÃO DOEU"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.503,
+      "end": 5.3817,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "PODER PERFEITO?"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.3817,
+      "end": 9.3722,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "O PÉ NÃO ESTÁ BEM"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.3722,
+      "end": 12.199,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "PARE UM POUCO"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.199,
+      "end": 14.9455,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "SEM DOR ≠ SEM LESÃO"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 14.9455,
+      "end": 18.9455,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "UM SINAL DE ALERTA"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 18.9455,
+      "end": 22.7485,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "ACEITE AJUDA"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 22.7485,
+      "end": 26.3742,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "SABER PARAR",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 26.3742,
+      "end": 30.0,
+      "scene": "nao-sentir-dor",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "SABER PARAR",
+        "view": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "method": "Map authored beat word positions into automatic phrase timestamps, subtract removed excessive silence; approximate, not forced alignment",
+  "starts": [
+    0,
+    2.502958,
+    5.381666,
+    9.372208,
+    12.199041999999999,
+    14.945457999999997,
+    18.945457999999995,
+    22.748457999999996
+  ],
+  "voice_end": 26.923291666666664
+}

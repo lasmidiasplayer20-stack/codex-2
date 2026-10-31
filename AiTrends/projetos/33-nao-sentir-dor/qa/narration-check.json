@@ -1,0 +1,51 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Nico tropeçou e não sentiu nada."
+    },
+    {
+      "start": 2.5,
+      "end": 5.5,
+      "text": "Achou que tinha ganhado o melhor poder do mundo,"
+    },
+    {
+      "start": 5.5,
+      "end": 9.5,
+      "text": "mas continuou andando sem perceber o pé machucado."
+    },
+    {
+      "start": 9.5,
+      "end": 12.5,
+      "text": "Lia viu a dificuldade e pediu que parasse."
+    },
+    {
+      "start": 12.5,
+      "end": 15.5,
+      "text": "Não sentir dor não impede uma lesão."
+    },
+    {
+      "start": 15.5,
+      "end": 19.5,
+      "text": "A dor costuma funcionar como um sinal de alerta."
+    },
+    {
+      "start": 19.5,
+      "end": 23.5,
+      "text": "Nico sentou, protegeu o pé e aceitou ajuda."
+    },
+    {
+      "start": 23.5,
+      "end": 27.5,
+      "text": "O melhor poder, naquele momento, foi saber parar."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Nico tropeçou e não sentiu nada.\n\nAchou que tinha ganhado o melhor poder do mundo.\n\nMas continuou andando sem perceber o pé machucado.\n\nLia viu a dificuldade e pediu que parasse.\n\nNão sentir dor não impede uma lesão.\n\nA dor costuma funcionar como um sinal de alerta.\n\nNico sentou, protegeu o pé e aceitou ajuda.\n\nO melhor poder, naquele momento, foi saber parar.\n",
+  "word_similarity": 1.0,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

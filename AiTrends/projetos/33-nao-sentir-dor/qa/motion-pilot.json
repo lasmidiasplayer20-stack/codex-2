@@ -1,0 +1,13 @@
+{
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "range": [
+    0,
+    4
+  ],
+  "seconds": 4,
+  "review": "Updated native sampled trip sequence: legs, shoulders and waist react then recover; feet support and standing recovery checked",
+  "limits": "Sampled visual review, not full physics or user approval"
+}

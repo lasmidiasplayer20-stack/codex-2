@@ -1,0 +1,80 @@
+[
+  {
+    "seconds": 1.1263500000000002,
+    "duration": 0.2,
+    "kind": "trip shoe scrape",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 7.1774249999999995,
+    "duration": 0.3,
+    "kind": "uneven footsteps",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 10.64426,
+    "duration": 0.1,
+    "kind": "stop shoe",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 20.65685,
+    "duration": 0.5,
+    "kind": "bandage cloth",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 24.380065,
+    "duration": 0.2,
+    "kind": "bench wood",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 10.078899999999999,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 10.785599999999999,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 11.4923,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 19.89625,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 20.847,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 21.79775,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

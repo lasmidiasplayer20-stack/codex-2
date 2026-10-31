@@ -1,0 +1,20 @@
+Rendering frames 0-720 (30.0 s) with 2 worker(s)…
+  48/720 frames  3.77 fps  elapsed 0m13s  eta 2m58s
+  96/720 frames  3.71 fps  elapsed 0m26s  eta 2m48s
+  144/720 frames  3.81 fps  elapsed 0m38s  eta 2m31s
+  192/720 frames  3.87 fps  elapsed 0m50s  eta 2m16s
+  240/720 frames  3.88 fps  elapsed 1m02s  eta 2m04s
+  288/720 frames  3.88 fps  elapsed 1m14s  eta 1m51s
+  336/720 frames  3.85 fps  elapsed 1m27s  eta 1m40s
+  384/720 frames  3.83 fps  elapsed 1m40s  eta 1m28s
+  432/720 frames  3.82 fps  elapsed 1m53s  eta 1m15s
+  480/720 frames  3.86 fps  elapsed 2m04s  eta 1m02s
+  528/720 frames  3.94 fps  elapsed 2m14s  eta 0m49s
+  576/720 frames  3.88 fps  elapsed 2m28s  eta 0m37s
+  624/720 frames  3.72 fps  elapsed 2m48s  eta 0m26s
+  672/720 frames  3.59 fps  elapsed 3m07s  eta 0m13s
+  720/720 frames  3.46 fps  elapsed 3m28s  eta 0m00s
+
+Done: /workspace/nine30-private/33/full-silent.mp4  (3m30s)
+
+Native correction: frames [455,720), bench position, visible bandage, shoulder support. Other acts unchanged. Reassembled native720frames. Done: revised full-silent.mp4
