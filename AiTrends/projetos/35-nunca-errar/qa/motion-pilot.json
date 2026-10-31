@@ -1,0 +1,13 @@
+{
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "seconds": 4,
+  "range": [
+    1,
+    5
+  ],
+  "review": "Sampled normal and backwards throws: body aims toward hoop first, turns away for backwards throw; ball arc and hoop remain framed",
+  "limits": "Sampled visual review, no complete physics claim"
+}

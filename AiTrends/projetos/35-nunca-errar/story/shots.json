@@ -1,0 +1,142 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 2.72,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "NUNCA ERRA"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.72,
+      "end": 5.6627,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "ATÉ DE COSTAS"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.6627,
+      "end": 8.3865,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "CADÊ TODO MUNDO?"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.3865,
+      "end": 13.169,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "NEM QUERENDO"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 13.169,
+      "end": 14.8578,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "SEM ESCOLHA"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 14.8578,
+      "end": 17.584,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "OUTRO JEITO DE JOGAR"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 17.584,
+      "end": 22.6085,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "A CESTA DELA"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 22.6085,
+      "end": 26.3042,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "JOGAR JUNTO",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 26.3042,
+      "end": 30.0,
+      "scene": "nunca-errar",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "JOGAR JUNTO",
+        "view": 2
+      }
+    }
+  ]
+}

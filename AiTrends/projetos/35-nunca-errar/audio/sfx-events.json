@@ -1,0 +1,86 @@
+[
+  {
+    "seconds": 2.3936,
+    "duration": 0.2,
+    "kind": "basketball net",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 5.603846,
+    "duration": 0.15,
+    "kind": "basketball bounce",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 6.88841,
+    "duration": 0.25,
+    "kind": "departing steps",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 12.5951,
+    "duration": 0.25,
+    "kind": "impossible basket",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 16.08459,
+    "duration": 0.2,
+    "kind": "ball set down",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 19.845025,
+    "duration": 0.15,
+    "kind": "celebration hands",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 9.582125,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 10.777750000000001,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 11.973375,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 18.840125,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 20.096249999999998,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 21.352375,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

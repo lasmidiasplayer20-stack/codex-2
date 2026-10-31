@@ -1,0 +1,38 @@
+{
+  "seconds": 30,
+  "fps": 24,
+  "frames": 720,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "full_decode_passed": true,
+  "sha256": "5634e777688fb806ef3730bab3db7855e492133d915a49d588a40217b9038149",
+  "source_sha256": "91c7064739842053cbcdd0733eb028a974f5e16024454f9cabb42ab9f2a9d70a",
+  "bytes": 48897404,
+  "preview": "exports/preview-10s.mp4",
+  "cta": {
+    "variants": [
+      5,
+      6
+    ],
+    "intervals": [
+      [
+        10,
+        17
+      ],
+      [
+        23,
+        30
+      ]
+    ],
+    "width": 650,
+    "position": [
+      215,
+      1580
+    ],
+    "source_audio_mixed": false
+  },
+  "audio_review": "Signal measures and automatic raw speech transcription; no human full listening claim",
+  "cover": "Own final scene plus code typography; not the reference channel image"
+}

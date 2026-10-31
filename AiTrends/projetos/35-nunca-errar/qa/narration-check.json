@@ -1,0 +1,61 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Nico não errava uma única cesta."
+    },
+    {
+      "start": 2.5,
+      "end": 5.5,
+      "text": "De costas, de longe, até sem olhar."
+    },
+    {
+      "start": 5.5,
+      "end": 8.5,
+      "text": "Logo, ninguém queria mais jogar com ele."
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "Então, tentou errar de propósito."
+    },
+    {
+      "start": 11.5,
+      "end": 13.5,
+      "text": "A bola entrou."
+    },
+    {
+      "start": 13.5,
+      "end": 15.5,
+      "text": "O poder não deixava escolha."
+    },
+    {
+      "start": 15.5,
+      "end": 18.5,
+      "text": "Ele guardou a bola e mudou a brincadeira."
+    },
+    {
+      "start": 18.5,
+      "end": 21.5,
+      "text": "Agora, ajudava a Lia a treinar."
+    },
+    {
+      "start": 21.5,
+      "end": 24.5,
+      "text": "Cada acerto dela virou uma festa."
+    },
+    {
+      "start": 24.5,
+      "end": 28.0,
+      "text": "Ganhar sempre não é tão divertido quanto jogar junto."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Nico não errava uma única cesta.\n\nDe costas, de longe, até sem olhar.\n\nLogo, ninguém queria mais jogar com ele.\n\nEntão, tentou errar de propósito. A bola entrou.\n\nO poder não deixava escolha.\n\nEle guardou a bola e mudou a brincadeira.\n\nAgora, ajudava Lia a treinar. Cada acerto dela virou uma festa.\n\nGanhar sempre não é tão divertido quanto jogar junto.\n",
+  "word_similarity": 0.991869918699187,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

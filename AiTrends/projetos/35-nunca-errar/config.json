@@ -1,0 +1,28 @@
+{
+  "title": "35 - Ele acertava tudo. Até isso acontecer",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "35 - nunca-errar.mp4",
+  "theme": 6,
+  "qaTimes": [
+    1.36,
+    4.1913,
+    7.0246,
+    10.7778,
+    14.0134,
+    16.2209,
+    20.0962,
+    24.4564,
+    28.1521
+  ]
+}

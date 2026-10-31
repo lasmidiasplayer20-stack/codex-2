@@ -1,0 +1,62 @@
+{
+  "seconds": 30,
+  "raw_voice_seconds": 28.530958333333334,
+  "treated_voice_seconds": 26.67675,
+  "voice_offset_seconds": 0.22,
+  "gain_db": -1.4764237285869948,
+  "speed_change": false,
+  "pitch_change": false,
+  "extra_compression": false,
+  "same_voice": "Puck/gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "silences_shortened": [
+    {
+      "start": 2.9575,
+      "end": 3.464833,
+      "kept": 0.45
+    },
+    {
+      "start": 6.259583,
+      "end": 6.985792,
+      "kept": 0.45
+    },
+    {
+      "start": 9.286833,
+      "end": 9.954333,
+      "kept": 0.45
+    },
+    {
+      "start": 12.118333,
+      "end": 12.536042,
+      "kept": 0.41770900000000033
+    },
+    {
+      "start": 13.389125,
+      "end": 14.150292,
+      "kept": 0.45
+    },
+    {
+      "start": 15.823333,
+      "end": 16.547125,
+      "kept": 0.45
+    },
+    {
+      "start": 18.959458,
+      "end": 19.650417,
+      "kept": 0.45
+    },
+    {
+      "start": 21.720667,
+      "end": 22.405167,
+      "kept": 0.45
+    },
+    {
+      "start": 24.378458,
+      "end": 25.071208,
+      "kept": 0.45
+    }
+  ],
+  "mix_peak_dbfs": -3.521440046286894,
+  "human_full_listening": false,
+  "asr_report": "qa/narration-check.json"
+}
