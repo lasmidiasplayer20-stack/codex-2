@@ -1,0 +1,142 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.5399,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "O QUE SÃO ESSES NÚMEROS?"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.5399,
+      "end": 5.3249,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "QUASE ZERO"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.3249,
+      "end": 8.0976,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "ELA NÃO ESTÁ VENDO"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.0976,
+      "end": 10.7159,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "A PONTE CEDEU"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 10.7159,
+      "end": 13.5609,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "VEM!"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 13.5609,
+      "end": 19.243,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "O NÚMERO SUMIU"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 19.243,
+      "end": 22.8563,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "OLHE PARA A PESSOA"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 22.8563,
+      "end": 26.4282,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "HISTÓRIA FICTÍCIA",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 26.4282,
+      "end": 30.0,
+      "scene": "contadores-de-vida",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "HISTÓRIA FICTÍCIA",
+        "view": 2
+      }
+    }
+  ]
+}

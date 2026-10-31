@@ -1,0 +1,61 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Sobre cada pessoa, Nico via um tempo diferente."
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "O de Lia tava quase acabando."
+    },
+    {
+      "start": 5.5,
+      "end": 8.5,
+      "text": "Ele tentou avisar, ela não entendia."
+    },
+    {
+      "start": 8.5,
+      "end": 11.5,
+      "text": "Então, uma ponte começou a ceder."
+    },
+    {
+      "start": 11.5,
+      "end": 14.5,
+      "text": "Nico correu e puxou Lia para a margem."
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "text": "O contador desapareceu."
+    },
+    {
+      "start": 17.5,
+      "end": 20.5,
+      "text": "O futuro já não estava escrito."
+    },
+    {
+      "start": 20.5,
+      "end": 24.5,
+      "text": "Ele parou de olhar números e abraçou a amiga."
+    },
+    {
+      "start": 24.5,
+      "end": 27.0,
+      "text": "Isso é uma história imaginária."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Ninguém tem um relógio visível de vida."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Sobre cada pessoa, Nico via um tempo diferente.\n\nO de Lia estava quase acabando.\n\nEle tentou avisar. Ela não entendia.\n\nEntão, uma ponte começou a ceder.\n\nNico correu e puxou Lia para a margem.\n\nO contador desapareceu. O futuro já não estava escrito.\n\nEle parou de olhar números e abraçou a amiga.\n\nIsso é uma história imaginária. Ninguém tem um relógio visível de vida.\n",
+  "word_similarity": 0.984375,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

@@ -1,0 +1,13 @@
+{
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "seconds": 4,
+  "range": [
+    8,
+    12
+  ],
+  "review": "Sampled bridge collapse and pulling sequence; refined feet support at deck height and checked updated native frames; hand contact follows actual rig palms",
+  "limits": "Not complete collision physics or human full video approval"
+}

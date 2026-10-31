@@ -1,0 +1,28 @@
+{
+  "title": "32 - Ele enxergou o tempo que ninguém vê",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "32 - contadores-de-vida.mp4",
+  "theme": 3,
+  "qaTimes": [
+    1.7699,
+    4.4324,
+    6.7112,
+    9.4067,
+    12.1384,
+    16.4019,
+    21.0496,
+    24.6423,
+    28.2141
+  ]
+}

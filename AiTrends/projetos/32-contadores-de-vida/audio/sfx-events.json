@@ -1,0 +1,86 @@
+[
+  {
+    "seconds": 1.592955,
+    "duration": 0.25,
+    "kind": "counter discovery",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 6.572615000000001,
+    "duration": 0.1,
+    "kind": "urgent footstep",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 9.275835,
+    "duration": 0.5,
+    "kind": "bridge wood crack",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 11.99615,
+    "duration": 0.3,
+    "kind": "running gravel",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 16.117845,
+    "duration": 0.25,
+    "kind": "counter resolves",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 20.868985,
+    "duration": 0.2,
+    "kind": "clothing embrace",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 8.752175,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 9.406749999999999,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 10.061325,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 20.146324999999997,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 21.04965,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 21.952975000000002,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

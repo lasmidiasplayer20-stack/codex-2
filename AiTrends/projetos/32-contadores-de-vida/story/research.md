@@ -1,0 +1,1 @@
+Premissa especulativa original; não é previsão, experiência real ou regra do Minecraft. O print forneceu temas e capas, não um vídeo completo para análise de takes. Não se afirma reprodução de animações do canal.

@@ -1,0 +1,15 @@
+{
+  "changed_act": 6,
+  "range_frames": [
+    462,
+    549
+  ],
+  "reason": "Make narrated embrace an actual mutual facing shoulder-level contact instead of parallel arm gesture",
+  "base_mp4_sha256": "845a93bcbb73ba43f8e0cd7df91f9010e8e63fcef8ba469c2521f89675aa8535",
+  "other_acts_unchanged": true,
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "tts_regenerated": false
+}
