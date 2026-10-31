@@ -1,0 +1,14 @@
+{
+  "frames": [
+    0,
+    359
+  ],
+  "first_last_identical": true,
+  "max_abs_channel_difference": 0,
+  "changed_pixels": 0,
+  "decoded_rgb_sha256": "922ae5765e79d8398c106ac052d0f28629ba954332031dee13829a76cb42720a",
+  "method": "Decode actual final MP4 frames; compare all RGB pixels",
+  "source_periodic_check": "source-loop-boundary.json",
+  "final_encode": "libx264 CQP18, matching endpoint IDRs, AQ/psy/mbtree/B-frames disabled, no fade",
+  "audio_pcm_boundary_equal": true
+}

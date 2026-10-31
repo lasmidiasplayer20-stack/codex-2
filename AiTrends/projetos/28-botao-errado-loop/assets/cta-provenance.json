@@ -1,0 +1,16 @@
+{
+  "source": "User-provided green-screen CTA variant6, previously used in episode27",
+  "intervals": [
+    [
+      4.5,
+      11.5
+    ]
+  ],
+  "width": 650,
+  "position": [
+    215,
+    1640
+  ],
+  "source_audio_mixed": false,
+  "loop_boundary": "absent at first and last frame"
+}

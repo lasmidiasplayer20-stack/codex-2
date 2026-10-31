@@ -1,0 +1,19 @@
+{
+  "duration": 15,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 15,
+      "scene": "loop",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "cam": "loop"
+      }
+    }
+  ]
+}

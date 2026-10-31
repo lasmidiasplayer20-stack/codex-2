@@ -1,0 +1,38 @@
+[
+  {
+    "time": 0,
+    "event": "hand ready at button"
+  },
+  {
+    "time": 1.2,
+    "event": "floor piston launches"
+  },
+  {
+    "time": 3.3,
+    "event": "slime bounce"
+  },
+  {
+    "time": 5.5,
+    "event": "upper landing"
+  },
+  {
+    "time": 5.9,
+    "event": "upper piston pushes"
+  },
+  {
+    "time": 7.2,
+    "event": "water slide"
+  },
+  {
+    "time": 10.5,
+    "event": "run back"
+  },
+  {
+    "time": 13.1,
+    "event": "approach button"
+  },
+  {
+    "time": 14.958333333333334,
+    "event": "initial state exactly"
+  }
+]

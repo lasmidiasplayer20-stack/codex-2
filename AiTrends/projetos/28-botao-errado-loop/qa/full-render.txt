@@ -1,0 +1,10 @@
+Rendering frames 0-360 (15.0 s) with 2 worker(s)…
+  48/360 frames  3.90 fps  elapsed 0m12s  eta 1m20s
+  96/360 frames  4.16 fps  elapsed 0m23s  eta 1m03s
+  144/360 frames  4.21 fps  elapsed 0m34s  eta 0m51s
+  192/360 frames  4.25 fps  elapsed 0m45s  eta 0m40s
+  240/360 frames  4.25 fps  elapsed 0m56s  eta 0m28s
+  288/360 frames  4.26 fps  elapsed 1m08s  eta 0m17s
+  336/360 frames  4.28 fps  elapsed 1m19s  eta 0m06s
+
+Done: /workspace/buttonloop-private/full-silent.mp4  (1m25s)

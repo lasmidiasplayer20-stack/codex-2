@@ -1,0 +1,436 @@
+{
+  "samples": 61,
+  "errors": [],
+  "nonfinite": 0,
+  "prop_contact_failures": 0,
+  "records": [
+    {
+      "seconds": 0,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 0.24930555555555559,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 0.49861111111111117,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 0.7479166666666667,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 0.9972222222222223,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 1.2465277777777777,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 1.4958333333333333,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 1.745138888888889,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 1.9944444444444447,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 2.24375,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 2.4930555555555554,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 2.7423611111111112,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 2.9916666666666667,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 3.240972222222222,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 3.490277777777778,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 3.7395833333333335,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 3.9888888888888894,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 4.238194444444445,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 4.4875,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 4.736805555555556,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 4.986111111111111,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 5.235416666666667,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 5.4847222222222225,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 5.7340277777777775,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 5.983333333333333,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.232638888888889,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.481944444444444,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.73125,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 6.980555555555556,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.229861111111111,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.479166666666667,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.728472222222222,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 7.977777777777779,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 8.227083333333333,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 8.47638888888889,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 8.725694444444445,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 8.975,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 9.224305555555556,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 9.473611111111111,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 9.722916666666666,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 9.972222222222221,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.221527777777778,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.470833333333333,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.720138888888888,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 10.969444444444445,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 11.21875,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 11.468055555555555,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 11.717361111111112,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 11.966666666666667,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 12.215972222222222,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 12.465277777777779,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 12.714583333333334,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 12.963888888888889,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 13.213194444444445,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 13.4625,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 13.711805555555555,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 13.961111111111112,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 14.210416666666667,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 14.459722222222222,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 14.709027777777777,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    },
+    {
+      "seconds": 14.958333333333334,
+      "cam": "loop",
+      "errors": [],
+      "finite": true,
+      "cup_error": 0
+    }
+  ],
+  "limits": "Sampled whole-loop finite matrix checks, not complete collision simulation or human perceptual approval."
+}

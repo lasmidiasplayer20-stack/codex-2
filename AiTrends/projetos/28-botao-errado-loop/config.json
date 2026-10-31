@@ -1,0 +1,19 @@
+{
+  "title": "28 - N\u00e3o aperta de novo!",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 15,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0,
+  "fast3D": false,
+  "export_name": "28 - Nao aperta de novo.mp4",
+  "qa_actions": [
+    "loop"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "seconds": 15,
+  "fps": 24,
+  "frames": 360,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "full_decode_passed": true,
+  "sha256": "e060de870795d758289e4d65ac5f15e7a01b83930fea773d02777d085f2af16e",
+  "source_sha256": "84b37b487ff058819243370796515d1bfad5ea5a14bf0845fb2087bca0347706",
+  "bytes": 3447870,
+  "first_last_identical": true,
+  "preview": "exports/preview-emenda-4s.mp4",
+  "cta": {
+    "variant": 6,
+    "intervals": [
+      [
+        4.5,
+        11.5
+      ]
+    ],
+    "width": 650,
+    "position": [
+      215,
+      1640
+    ],
+    "source_audio_mixed": false
+  },
+  "audio_review": "Signal measures, no full human listening or ASR claim"
+}

@@ -1,0 +1,11 @@
+{
+  "source_first_last_identical": true,
+  "max_abs_difference": 0,
+  "changed_pixels": 0,
+  "frames": [
+    0,
+    359
+  ],
+  "period_seconds": 14.958333333333334,
+  "method": "Compare native source PNGs before final encode"
+}

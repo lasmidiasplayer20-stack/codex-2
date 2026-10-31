@@ -1,0 +1,8 @@
+{
+  "seconds": 4,
+  "frames": 96,
+  "width": 1080,
+  "height": 1920,
+  "purpose": "Last2seconds followed immediately by first2seconds",
+  "full_decode_passed": true
+}
