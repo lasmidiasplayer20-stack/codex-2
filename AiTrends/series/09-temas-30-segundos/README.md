@@ -1,6 +1,6 @@
 # Nove ideias — 30 segundos cada
 
-**7 de 9 publicados no GitHub.** Esta página será atualizada ao concluir as exportações e revisões restantes. Todos os episódios usam nossos personagens no visual Minecraft clássico, voz Puck e formato vertical 1080p.
+**8 de 9 publicados no GitHub.** Esta página será atualizada ao concluir as exportações e revisões restantes. Todos os episódios usam nossos personagens no visual Minecraft clássico, voz Puck e formato vertical 1080p.
 
 | Tema | Situação | Vídeo e prévia | Projeto | Pacote YouTube |
 |---|---|---|---|---|
@@ -11,7 +11,7 @@
 | Não sentir dor | Publicado | [MP4 e prévia](../../projetos/33-nao-sentir-dor/exports/) | [Fonte e roteiro](../../projetos/33-nao-sentir-dor/) | [Capa + YOUTUBE](../../youtube/33%20-%20Sem%20dor%2C%20ele%20perdeu%20o%20aviso/) |
 | Invisibilidade | Publicado | [MP4 e prévia](../../projetos/34-invisibilidade/exports/) | [Fonte e roteiro](../../projetos/34-invisibilidade/) | [Capa + YOUTUBE](../../youtube/34%20-%20Ele%20sumiu.%20O%20problema%20ficou/) |
 | Nunca errar | Publicado | [MP4 e prévia](../../projetos/35-nunca-errar/exports/) | [Fonte e roteiro](../../projetos/35-nunca-errar/) | [Capa + YOUTUBE](../../youtube/35%20-%20Ele%20acertava%20tudo.%20At%C3%A9%20isso%20acontecer/) |
-| Repetir o mesmo dia | Em produção | — | — | — |
-| Imortalidade | Em produção | — | — | — |
+| Repetir o mesmo dia | Publicado | [MP4 e prévia](../../projetos/36-mesmo-dia-30/exports/) | [Fonte e roteiro](../../projetos/36-mesmo-dia-30/) | [Capa + YOUTUBE](../../youtube/36%20-%20O%20dia%20reiniciava.%20S%C3%B3%20ele%20lembrava/) |
+| Imortalidade | Em revisão | — | — | — |
 
 Cada entrega publicada inclui MP4 de 30 segundos, prévia de 10 segundos, fonte, narração/stems, validação e capa. Título, descrição e tags ficam juntos no arquivo `YOUTUBE`. Não houve upload para o YouTube.
