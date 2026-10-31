@@ -10,4 +10,4 @@ CTAs em vídeo fornecidos pelo usuário, duas variantes, 10–17 e 23–30 s, se
 
 Render: node AiTrends/skill/scripts/render-short-series.mjs --project CAMINHO_ABSOLUTO --scale 1 --workers 2 --format jpeg --ff-grade --preset fast --crf 20 --out PRIVADO/full-silent.mp4. Preserva MSAA e aplica cor/vinheta por FFmpeg na resolução nativa. Salvar full-render.log no mesmo diretório. Áudio: AiTrends/.venv/bin/python scripts/audio.py --work PRIVADO, reutilizando voice/block-01.wav. Finalização: scripts/finish.py --work PRIVADO --youtube PASTA --cover TEXTO. Chaves e fontes privadas não são publicadas. Skins e texturas próprias; licenças do kit preservadas.
 
-SHA-256: `552ec4c195299738c4ebaf2e4bfe86c66c6214c2b0451db0ad8fc6244e3c5600`. QA visual em qa/filme-completo.jpg; auditoria numérica amostrada não é simulação física completa nem aprovação estética automática.
+SHA-256: `d4d7d503cea84dbefed1ff60790b5f07bfaba291a20224e4d6d98fd794943ab3`. QA visual em qa/filme-completo.jpg; auditoria numérica amostrada não é simulação física completa nem aprovação estética automática.

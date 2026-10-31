@@ -4,12 +4,13 @@
     462,
     549
   ],
-  "reason": "Make narrated embrace an actual mutual facing shoulder-level contact instead of parallel arm gesture",
+  "reason": "Make narrated embrace an actual mutual facing shoulder-level contact instead of parallel arm gesture; separate opposing arm side planes in depth to remove coplanar shimmer",
   "base_mp4_sha256": "845a93bcbb73ba43f8e0cd7df91f9010e8e63fcef8ba469c2521f89675aa8535",
   "other_acts_unchanged": true,
   "native_resolution": [
     1080,
     1920
   ],
-  "tts_regenerated": false
+  "tts_regenerated": false,
+  "anti_coplanar_depth_offset_m": 0.07
 }

@@ -63,7 +63,7 @@ function draw(s,t,info){current=s;const H=s.H,k=cfg.theme,a=info.act,g=info.glob
   if(a>=3){for(let i=3;i<6;i++){const q=a===3?v:1;P['bridge'+i].position.y=.12-q*(.8+(i-3)*.15);P['bridge'+i].rotation.z=q*(i%2?.5:-.4);}}
   if(a===3){n.y=.24;n.x=-1.3;n.z=.3;l.expr='surprised';l.pose={armF:1.8,armB:-1.8,legF:.3,legB:-.2};}
   if(a===4){extra.pull=true;n.yaw=0;l.yaw=Math.PI;n.x=M(-1.3,-2.2,v);n.y=.24*(1-S((-n.x-1.5)/.3));n.z=.45;l.x=M(.6,-1.5,v);l.z=.45;n.pose={torso:.2,armF:1.5,armB:.4,legF:.5*Math.sin(v*12),legB:-.5*Math.sin(v*12)};l.pose={torso:-.25,armF:1.4,armB:1.4,legF:.3,legB:-.3};}
-  if(a>=5){n.x=-2.8;n.z=2;l.x=-1.8;l.y=0;l.z=2;focus=[-1.8,1,.8];n.expr=l.expr='joy';if(a===6){const q=S(u/.45),h=S(u/.55);n.yaw=M(-Math.PI/2,0,q);l.yaw=M(-Math.PI/2,-Math.PI,q);l.x=M(-1.8,-2.0,q);n.pose={torso:-.02,armF:1.45*h,armB:1.45*h};l.pose={torso:.02,armF:1.45*h,armB:1.45*h};} }
+  if(a>=5){n.x=-2.8;n.z=2;l.x=-1.8;l.y=0;l.z=2;focus=[-1.8,1,.8];n.expr=l.expr='joy';if(a===6){const q=S(u/.45),h=S(u/.55);n.yaw=M(-Math.PI/2,0,q);l.yaw=M(-Math.PI/2,-Math.PI,q);l.x=M(-1.8,-2.0,q);l.z=2+.07*q;n.pose={torso:-.02,armF:1.45*h,armB:1.45*h};l.pose={torso:.02,armF:1.45*h,armB:1.45*h};} }
  }
  if(k===4){show('stone');n.x=M(-1.8,.7,a<3?v:1);n.z=.7;l.x=1.8;l.z=.4;
   if(a===0){n.x=M(-1.8,.2,v);n.y=.18*Math.sin(Math.PI*u);n.pose={torso:.4*Math.sin(Math.PI*u),armF:-1.2,armB:1.5,legF:.6,legB:-.4};}

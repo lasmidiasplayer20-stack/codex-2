@@ -7,9 +7,9 @@
   "native_render": true,
   "upscaled": false,
   "full_decode_passed": true,
-  "sha256": "552ec4c195299738c4ebaf2e4bfe86c66c6214c2b0451db0ad8fc6244e3c5600",
-  "source_sha256": "b94f47a967a37947ba398711774f3302e2797beb8b305a28e9742827c04cf2cc",
-  "bytes": 38746240,
+  "sha256": "d4d7d503cea84dbefed1ff60790b5f07bfaba291a20224e4d6d98fd794943ab3",
+  "source_sha256": "a5786a185f450b725807011c69b2848f58f2464c85d3adf2f7bada00d11a77cb",
+  "bytes": 38795236,
   "preview": "exports/preview-10s.mp4",
   "cta": {
     "variants": [
