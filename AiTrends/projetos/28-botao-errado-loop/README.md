@@ -25,3 +25,11 @@ Animação aiTrends/Three.js por código, sem Blender ou imagens geradas nas cen
 Da raiz: `python3 AiTrends/studio.py doctor`; setup só se faltar dependência. Voz em cache privado: `AiTrends/.venv/bin/python AiTrends/projetos/28-botao-errado-loop/scripts/audio.py --work /CAMINHO/PRIVADO`, com voice/block-01.wav. Não regenerar voz para corrigir imagens, emenda ou mix. Chaves e fonte bruta não são publicadas; stems MP3 disponíveis.
 
 Render: `node AiTrends/skill/scripts/render.mjs --project "$PWD/AiTrends/projetos/28-botao-errado-loop" --scale 1 --workers 2 --format jpeg --preset fast --crf 20 --out /CAMINHO/PRIVADO/full-silent.mp4`, guardando log full-render.log no mesmo diretório. Finalizar com `AiTrends/.venv/bin/python AiTrends/projetos/28-botao-errado-loop/scripts/finish.py --work /CAMINHO/PRIVADO`, com mix.wav local. Fonte congelada inclui módulos, skins e texturas. Entrega e QA em exports/ e qa/; sem upload ao YouTube.
+
+## Validação da entrega
+
+15,000 s, 360 quadros a 24 fps, 1080×1920 nativo; áudio presente e decodificação integral sem erros. Primeiro e último quadro decodificados do MP4: diferença máxima 0 e zero pixels diferentes. Quadros finais revisados em todas as fases e na emenda; auditoria numérica em 61 instantes sem erros de execução ou matrizes não finitas. Não é uma simulação física completa.
+
+H.264 High, 4:2:0 de 8 bits em faixa completa (FFprobe identifica como yuvj420p). Áudio final medido: −19,5 LUFS, pico verdadeiro −4,2 dBFS. Prévia da emenda: 4 s / 96 quadros / 1080×1920, decodificação aprovada. Os samples inicial e final da mix PCM são coincidentes; métricas não substituem audição humana integral.
+
+SHA-256 do MP4: `e060de870795d758289e4d65ac5f15e7a01b83930fea773d02777d085f2af16e`.
