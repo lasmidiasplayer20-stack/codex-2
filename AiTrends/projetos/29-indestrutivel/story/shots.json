@@ -1,0 +1,125 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.5294,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "SEM ARRANHÃO"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.5294,
+      "end": 7.5093,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "NADA ME QUEBRA?"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.5093,
+      "end": 10.3283,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "LIA, CUIDADO!"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 10.3283,
+      "end": 12.2466,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "SEGURA!"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.2466,
+      "end": 16.2466,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "RESISTÊNCIA ≠ FORÇA"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.2466,
+      "end": 20.0965,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "UMA ALAVANCA"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 20.0965,
+      "end": 23.005,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "ELA CONSEGUIU"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 23.005,
+      "end": 30,
+      "scene": "indestrutivel",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "PODER TAMBÉM TEM LIMITE"
+      }
+    }
+  ]
+}

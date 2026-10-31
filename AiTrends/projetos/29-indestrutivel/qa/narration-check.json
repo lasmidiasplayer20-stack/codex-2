@@ -1,0 +1,56 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Nico caiu do alto e levantou sem um arranhão."
+    },
+    {
+      "start": 3.5,
+      "end": 4.5,
+      "text": "Indestrutível."
+    },
+    {
+      "start": 4.5,
+      "end": 7.5,
+      "text": "Agora nada parecia perigoso."
+    },
+    {
+      "start": 7.5,
+      "end": 10.5,
+      "text": "Até uma árvore começar a cair sobre Lia."
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "Ele correu para segurar o tronco."
+    },
+    {
+      "start": 12.5,
+      "end": 16.5,
+      "text": "O corpo aguentava, mas levantar aquele peso era outra história."
+    },
+    {
+      "start": 16.5,
+      "end": 20.5,
+      "text": "Então apoiou a árvore numa pedra e abriu uma passagem."
+    },
+    {
+      "start": 20.5,
+      "end": 23.5,
+      "text": "Lia escapou, o susto ficou."
+    },
+    {
+      "start": 23.5,
+      "end": 26.0,
+      "text": "Não quebrar não torna ninguém capaz de tudo."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Nico caiu do alto e levantou sem um arranhão.\n\nIndestrutível! Agora, nada parecia perigoso.\n\nAté uma árvore começar a cair sobre Lia.\n\nEle correu para segurar o tronco.\n\nO corpo aguentava. Mas levantar aquele peso era outra história.\n\nEntão, apoiou a árvore numa pedra e abriu uma passagem.\n\nLia escapou. O susto ficou.\n\nNão quebrar não torna ninguém capaz de tudo.\n",
+  "word_similarity": 1.0,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

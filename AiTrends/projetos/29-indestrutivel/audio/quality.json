@@ -1,0 +1,72 @@
+{
+  "seconds": 30,
+  "raw_voice_seconds": 26.290958333333332,
+  "treated_voice_seconds": 25.338708333333333,
+  "voice_offset_seconds": 0.22,
+  "gain_db": -2.0358232458304784,
+  "speed_change": false,
+  "pitch_change": false,
+  "extra_compression": false,
+  "same_voice": "Puck/gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "silences_shortened": [
+    {
+      "start": 0.0,
+      "end": 0.270625,
+      "kept": 0.08
+    },
+    {
+      "start": 3.488958,
+      "end": 3.959,
+      "kept": 0.45
+    },
+    {
+      "start": 5.216333,
+      "end": 5.599667,
+      "kept": 0.3833340000000005
+    },
+    {
+      "start": 7.713,
+      "end": 8.344042,
+      "kept": 0.45
+    },
+    {
+      "start": 10.537167,
+      "end": 11.068833,
+      "kept": 0.45
+    },
+    {
+      "start": 12.674417,
+      "end": 13.049958,
+      "kept": 0.3755410000000001
+    },
+    {
+      "start": 14.058875,
+      "end": 14.473917,
+      "kept": 0.4150419999999997
+    },
+    {
+      "start": 16.638292,
+      "end": 17.238375,
+      "kept": 0.45
+    },
+    {
+      "start": 20.642667,
+      "end": 21.184167,
+      "kept": 0.45
+    },
+    {
+      "start": 21.913292,
+      "end": 22.28325,
+      "kept": 0.36995800000000045
+    },
+    {
+      "start": 23.103125,
+      "end": 23.790417,
+      "kept": 0.45
+    }
+  ],
+  "mix_peak_dbfs": -3.5034859645212175,
+  "human_full_listening": false,
+  "asr_report": "qa/narration-check.json"
+}

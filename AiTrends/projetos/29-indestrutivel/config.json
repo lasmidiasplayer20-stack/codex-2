@@ -1,0 +1,27 @@
+{
+  "title": "29 - Indestrutível não significa invencível",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "29 - indestrutivel.mp4",
+  "theme": 0,
+  "qaTimes": [
+    1.7647,
+    5.5193,
+    8.9188,
+    11.2874,
+    14.2466,
+    18.1715,
+    21.5508,
+    26.5025
+  ]
+}
