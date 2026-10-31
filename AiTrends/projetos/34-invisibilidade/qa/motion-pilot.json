@@ -1,0 +1,22 @@
+{
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "ranges": [
+    [
+      13,
+      17
+    ],
+    [
+      24,
+      26
+    ],
+    [
+      1,
+      5
+    ]
+  ],
+  "review": "Reviewed updated recoil and floating crate sequence, plus both characters carrying crate between actual palms; front carrier backpedals with moving legs and turns head toward camera; box remains below faces; corrected transparency shader update, visually confirmed full disappearance and sampled 21 fully invisible states with zero unexpected visible roots",
+  "limits": "Sampled native visual review; not full physical simulation or user approval"
+}

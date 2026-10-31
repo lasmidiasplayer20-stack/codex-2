@@ -1,0 +1,142 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 2.5158,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "ELE SUMIU"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.5158,
+      "end": 6.3274,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "ATÉ A ROUPA!"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.3274,
+      "end": 9.7911,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "NINGUÉM VÊ"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.7911,
+      "end": 13.6775,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "ELA PRECISA DE AJUDA"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 13.6775,
+      "end": 18.3198,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "UMA CAIXA FLUTUANDO?"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 18.3198,
+      "end": 22.0026,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "AGORA EU ENTENDI"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 22.0026,
+      "end": 24.0026,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "JUNTOS"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 24.0026,
+      "end": 27.0013,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "APAREÇA POR ALGUÉM",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 27.0013,
+      "end": 30.0,
+      "scene": "invisibilidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "APAREÇA POR ALGUÉM",
+        "view": 2
+      }
+    }
+  ]
+}

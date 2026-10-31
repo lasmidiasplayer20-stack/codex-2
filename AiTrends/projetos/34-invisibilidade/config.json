@@ -1,0 +1,28 @@
+{
+  "title": "34 - Ele sumiu. O problema ficou",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "34 - invisibilidade.mp4",
+  "theme": 5,
+  "qaTimes": [
+    1.2579,
+    4.4216,
+    8.0593,
+    11.7343,
+    15.9987,
+    20.1612,
+    23.0026,
+    25.502,
+    28.5007
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Nico desapareceu bem no meio da praça."
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "A roupa também sumiu."
+    },
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": "Invisibilidade completa."
+    },
+    {
+      "start": 6.5,
+      "end": 10.5,
+      "text": "Ele passou por Lia e achou a brincadeira incrível."
+    },
+    {
+      "start": 10.5,
+      "end": 14.5,
+      "text": "Mas a amiga precisava carregar uma caixa pesada."
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "text": "Ele tentou ajudar sem aparecer."
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Ela levou um susto."
+    },
+    {
+      "start": 19.5,
+      "end": 23.5,
+      "text": "Nico voltou a ficar visível e explicou tudo."
+    },
+    {
+      "start": 23.5,
+      "end": 25.5,
+      "text": "Os dois levaram a caixa juntos."
+    },
+    {
+      "start": 25.5,
+      "end": 30.0,
+      "text": "Às vezes, ser visto é justamente o que alguém precisa."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Nico desapareceu bem no meio da praça.\n\nA roupa também sumiu. Invisibilidade completa!\n\nEle passou por Lia e achou a brincadeira incrível.\n\nMas a amiga precisava carregar uma caixa pesada.\n\nEle tentou ajudar sem aparecer. Ela levou um susto.\n\nNico voltou a ficar visível e explicou tudo.\n\nOs dois levaram a caixa juntos.\n\nÀs vezes, ser visto é justamente o que alguém precisa.\n",
+  "word_similarity": 1.0,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

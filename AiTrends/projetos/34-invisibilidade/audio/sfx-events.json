@@ -1,0 +1,86 @@
+[
+  {
+    "seconds": 1.13211,
+    "duration": 0.5,
+    "kind": "invisibility shimmer",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 7.886065,
+    "duration": 0.3,
+    "kind": "unseen footsteps",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 11.53998,
+    "duration": 0.4,
+    "kind": "crate strain",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 15.766535000000001,
+    "duration": 0.3,
+    "kind": "floating crate creak",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 19.97706,
+    "duration": 0.4,
+    "kind": "reappear air",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 22.9026,
+    "duration": 0.4,
+    "kind": "two pairs footsteps",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 10.7627,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 11.734300000000001,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.7059,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 22.5026,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 23.0026,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 23.5026,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

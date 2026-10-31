@@ -1,0 +1,6 @@
+{
+  "fully_invisible_samples": 21,
+  "unexpected_visible_samples": 0,
+  "root_hidden_and_materials_zero": true,
+  "method": "Read actual root visibility and material opacity in sampled rendered scene; visually review decoded final frames too"
+}
