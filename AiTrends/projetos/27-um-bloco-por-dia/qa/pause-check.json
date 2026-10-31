@@ -1,0 +1,5 @@
+{
+  "max_mix_silence_seconds": 1.25475,
+  "silences_over_2s": [],
+  "method": "Signal detection, not transcription"
+}

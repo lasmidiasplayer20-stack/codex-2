@@ -1,0 +1,25 @@
+Rendering frames 0-1080 (45.0 s) with 2 worker(s)…
+  48/1080 frames  4.23 fps  elapsed 0m11s  eta 4m04s
+  96/1080 frames  4.53 fps  elapsed 0m21s  eta 3m37s
+  144/1080 frames  4.61 fps  elapsed 0m31s  eta 3m23s
+  192/1080 frames  4.70 fps  elapsed 0m41s  eta 3m09s
+  240/1080 frames  4.67 fps  elapsed 0m51s  eta 2m60s
+  288/1080 frames  4.65 fps  elapsed 1m02s  eta 2m50s
+  336/1080 frames  4.62 fps  elapsed 1m13s  eta 2m41s
+  384/1080 frames  4.51 fps  elapsed 1m25s  eta 2m34s
+  432/1080 frames  4.39 fps  elapsed 1m38s  eta 2m28s
+  480/1080 frames  4.30 fps  elapsed 1m52s  eta 2m20s
+  528/1080 frames  4.23 fps  elapsed 2m05s  eta 2m10s
+  576/1080 frames  4.12 fps  elapsed 2m20s  eta 2m02s
+  624/1080 frames  4.12 fps  elapsed 2m32s  eta 1m51s
+  672/1080 frames  4.12 fps  elapsed 2m43s  eta 1m39s
+  720/1080 frames  4.15 fps  elapsed 2m54s  eta 1m27s
+  768/1080 frames  4.17 fps  elapsed 3m04s  eta 1m15s
+  816/1080 frames  4.15 fps  elapsed 3m17s  eta 1m04s
+  864/1080 frames  4.02 fps  elapsed 3m35s  eta 0m54s
+  912/1080 frames  3.96 fps  elapsed 3m50s  eta 0m42s
+  960/1080 frames  3.92 fps  elapsed 4m05s  eta 0m31s
+  1008/1080 frames  3.88 fps  elapsed 4m20s  eta 0m19s
+  1056/1080 frames  3.74 fps  elapsed 4m42s  eta 0m06s
+
+Done: /workspace/blockday-private/full-silent.mp4  (4m54s)

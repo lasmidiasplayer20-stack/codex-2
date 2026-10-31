@@ -1,0 +1,107 @@
+[
+  {
+    "seconds": 4.766666666666667,
+    "kind": "pickaxe impact stone",
+    "duration": 0.18
+  },
+  {
+    "seconds": 5.233333333333333,
+    "kind": "stone fragments",
+    "duration": 0.3
+  },
+  {
+    "seconds": 8.733333333333334,
+    "kind": "button",
+    "duration": 0.15
+  },
+  {
+    "seconds": 15.391943365787085,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 15.677066614326677,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.14651079497215,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 26.775,
+    "kind": "gravel rumble",
+    "duration": 0.6
+  },
+  {
+    "seconds": 31.041666666666668,
+    "kind": "gravel lands",
+    "duration": 0.25
+  },
+  {
+    "seconds": 36.4175,
+    "kind": "pickaxe breaks gravel",
+    "duration": 0.3
+  },
+  {
+    "seconds": 38.121976330366714,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 38.46709598559897,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 38.65760181748884,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 38.803112313401,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 38.97716832374255,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 39.2553382399141,
+    "kind": "shoe on stone / planted foot",
+    "duration": 0.08
+  },
+  {
+    "seconds": 16.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 18.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 20.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 38.4,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 40.2,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  },
+  {
+    "seconds": 42.6,
+    "kind": "quiet CTA click / bell",
+    "duration": 0.1
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "voice": "Puck",
+  "model": "gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "raw_seconds": 39.210958,
+  "speed_change": false,
+  "pitch_change": false,
+  "gain_automation": {
+    "seconds": [
+      0,
+      7.5,
+      22.5,
+      37.5,
+      45
+    ],
+    "db": [
+      1.0263329792758107,
+      1.0263329792758107,
+      0.0,
+      -1.4395913928101862,
+      -1.4395913928101862
+    ],
+    "reason": "Gentler treatment after negative feedback; Episode27: measured gradual source rise2.47dB; slow correction when spread exceeds2dB, limited to1.5dB per window, no rapid AGC",
+    "before_active_window_dbfs": [
+      -21.156030220878414,
+      -20.129697241602603,
+      -18.690105848792417
+    ],
+    "after_active_window_dbfs": [
+      -20.328783370567987,
+      -20.14841504755172,
+      -20.005668011437038
+    ],
+    "before_spread_db": 2.465924372085997,
+    "after_spread_db": 0.3231153591309486
+  },
+  "human_full_listening": false,
+  "asr": false
+}

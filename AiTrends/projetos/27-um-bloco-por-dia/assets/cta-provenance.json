@@ -1,0 +1,23 @@
+{
+  "source": "User-provided green-screen clips, same variants5 and6 used previously",
+  "variants": [
+    5,
+    6
+  ],
+  "intervals": [
+    [
+      15,
+      22
+    ],
+    [
+      37,
+      44
+    ]
+  ],
+  "width": 820,
+  "position": [
+    130,
+    1480
+  ],
+  "source_audio_mixed": false
+}

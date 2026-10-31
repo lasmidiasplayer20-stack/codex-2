@@ -1,0 +1,56 @@
+[
+  {
+    "cam": "mine",
+    "kind": "pickaxe impact stone",
+    "duration": 0.18,
+    "amp": 0.01,
+    "low": 1300,
+    "offset": 0.5166666666666665
+  },
+  {
+    "cam": "reveal",
+    "kind": "stone fragments",
+    "duration": 0.3,
+    "amp": 0.006,
+    "low": 2400
+  },
+  {
+    "cam": "blocked",
+    "kind": "button",
+    "hz": 220,
+    "amp": 0.004
+  },
+  {
+    "cam": "side",
+    "kind": "steps",
+    "amp": 0.006
+  },
+  {
+    "cam": "warning",
+    "kind": "gravel rumble",
+    "duration": 0.6,
+    "amp": 0.007,
+    "low": 1100
+  },
+  {
+    "cam": "fall",
+    "kind": "gravel lands",
+    "duration": 0.25,
+    "amp": 0.012,
+    "low": 1300,
+    "offset": 1.9999999999999991
+  },
+  {
+    "cam": "escapeMine",
+    "kind": "pickaxe breaks gravel",
+    "duration": 0.3,
+    "amp": 0.012,
+    "low": 1800,
+    "offset": 1.8341666666666636
+  },
+  {
+    "cam": "run",
+    "kind": "steps",
+    "amp": 0.008
+  }
+]
