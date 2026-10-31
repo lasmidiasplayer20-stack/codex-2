@@ -1,0 +1,13 @@
+{
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "seconds": 4,
+  "range": [
+    0,
+    4
+  ],
+  "review": "Sampled sequence inspected: hand release, basketball trajectory through hoop, shot change to copying; later staging changes retained same opening action",
+  "full_human_video_listening": false
+}

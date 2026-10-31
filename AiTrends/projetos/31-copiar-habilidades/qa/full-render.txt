@@ -1,0 +1,18 @@
+Rendering frames 0-720 (30.0 s) with 2 worker(s)…
+  48/720 frames  4.06 fps  elapsed 0m12s  eta 2m45s
+  96/720 frames  4.14 fps  elapsed 0m23s  eta 2m31s
+  144/720 frames  4.05 fps  elapsed 0m36s  eta 2m22s
+  192/720 frames  4.03 fps  elapsed 0m48s  eta 2m11s
+  240/720 frames  3.99 fps  elapsed 1m00s  eta 2m00s
+  288/720 frames  3.97 fps  elapsed 1m13s  eta 1m49s
+  336/720 frames  4.00 fps  elapsed 1m24s  eta 1m36s
+  384/720 frames  4.03 fps  elapsed 1m35s  eta 1m23s
+  432/720 frames  4.12 fps  elapsed 1m45s  eta 1m10s
+  480/720 frames  4.19 fps  elapsed 1m55s  eta 0m57s
+  528/720 frames  4.13 fps  elapsed 2m08s  eta 0m46s
+  576/720 frames  4.09 fps  elapsed 2m21s  eta 0m35s
+  624/720 frames  4.06 fps  elapsed 2m34s  eta 0m24s
+  672/720 frames  4.03 fps  elapsed 2m47s  eta 0m12s
+  720/720 frames  4.00 fps  elapsed 2m60s  eta 0m00s
+
+Done: /workspace/nine30-private/31/full-silent.mp4  (3m01s)

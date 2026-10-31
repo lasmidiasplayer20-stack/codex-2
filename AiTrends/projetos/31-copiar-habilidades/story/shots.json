@@ -1,0 +1,158 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 2.5435,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "UM OLHAR"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.5435,
+      "end": 4.5406,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "HABILIDADE COPIADA"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 4.5406,
+      "end": 7.438,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "CESTA!"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 7.438,
+      "end": 10.1963,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "PRECISÃO INSTANTÂNEA"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 10.1963,
+      "end": 13.9966,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "ELA PRECISA DE VOCÊ"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 13.9966,
+      "end": 16.8174,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "QUAL TALENTO RESOLVE?"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 16.8174,
+      "end": 20.6362,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "SÓ ESCUTA"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 20.6362,
+      "end": 23.7575,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "SEM ATALHO",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 23.7575,
+      "end": 26.8787,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "SEM ATALHO",
+        "view": 2
+      }
+    },
+    {
+      "id": "s10",
+      "start": 26.8787,
+      "end": 30.0,
+      "scene": "copiar-habilidades",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "SEM ATALHO",
+        "view": 6
+      }
+    }
+  ]
+}

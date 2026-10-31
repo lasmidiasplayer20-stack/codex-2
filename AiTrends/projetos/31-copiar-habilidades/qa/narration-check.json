@@ -1,0 +1,66 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Nico viu Lia acertar uma cesta impossível."
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "Olhou de novo e copiou a habilidade."
+    },
+    {
+      "start": 4.5,
+      "end": 7.5,
+      "text": "Na primeira tentativa, a bola entrou."
+    },
+    {
+      "start": 7.5,
+      "end": 10.5,
+      "text": "Depois, copiou a precisão de um construtor."
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "Tudo parecia fácil,"
+    },
+    {
+      "start": 12.5,
+      "end": 14.5,
+      "text": "até Lia precisar conversar."
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "text": "Ele procurou um talento que resolvesse aquilo."
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "Não havia nada para copiar."
+    },
+    {
+      "start": 19.5,
+      "end": 21.5,
+      "text": "Era hora de escutar."
+    },
+    {
+      "start": 21.5,
+      "end": 24.5,
+      "text": "Algumas coisas exigem presença,"
+    },
+    {
+      "start": 24.5,
+      "end": 26.5,
+      "text": "não um atalho."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Nico viu Lia acertar uma cesta impossível.\n\nOlhou de novo e copiou a habilidade.\n\nNa primeira tentativa, a bola entrou.\n\nDepois, copiou a precisão de um construtor.\n\nTudo parecia fácil, até Lia precisar conversar.\n\nEle procurou um talento que resolvesse aquilo.\n\nNão havia nada para copiar. Era hora de escutar.\n\nAlgumas coisas exigem presença, não um atalho.\n",
+  "word_similarity": 1.0,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

@@ -1,0 +1,9 @@
+{
+  "integrated_lufs": -19.1,
+  "true_peak_dbfs": -3.3,
+  "full_decode_passed": true,
+  "same_puck_model": true,
+  "speed_change": false,
+  "human_full_listening": false,
+  "raw_narration_asr": "narration-check.json"
+}

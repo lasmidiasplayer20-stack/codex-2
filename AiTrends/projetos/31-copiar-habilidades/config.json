@@ -1,0 +1,29 @@
+{
+  "title": "31 - Copiou o talento. Faltou uma coisa",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "31 - copiar-habilidades.mp4",
+  "theme": 2,
+  "qaTimes": [
+    1.2717,
+    3.5421,
+    5.9893,
+    8.8171,
+    12.0965,
+    15.407,
+    18.7268,
+    22.1968,
+    25.3181,
+    28.4393
+  ]
+}

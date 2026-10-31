@@ -1,0 +1,86 @@
+[
+  {
+    "seconds": 1.144575,
+    "duration": 0.13,
+    "kind": "basketball bounce",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 3.442195,
+    "duration": 0.4,
+    "kind": "copy shimmer",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 5.84443,
+    "duration": 0.25,
+    "kind": "basketball net",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 8.679235,
+    "duration": 0.15,
+    "kind": "stack wooden block",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 15.26596,
+    "duration": 0.2,
+    "kind": "puzzled breath cloth",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 18.53586,
+    "duration": 0.1,
+    "kind": "soft footstep",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 8.127575,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 8.81715,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 9.506725,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 17.7721,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 18.726799999999997,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 19.6815,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

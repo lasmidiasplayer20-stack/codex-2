@@ -1,0 +1,17 @@
+# Copiou o talento. Faltou uma coisa
+
+Nico viu Lia acertar uma cesta impossível.
+
+Olhou de novo e copiou a habilidade.
+
+Na primeira tentativa, a bola entrou.
+
+Depois, copiou a precisão de um construtor.
+
+Tudo parecia fácil, até Lia precisar conversar.
+
+Ele procurou um talento que resolvesse aquilo.
+
+Não havia nada para copiar. Era hora de escutar.
+
+Algumas coisas exigem presença, não um atalho.
