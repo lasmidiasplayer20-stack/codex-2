@@ -350,3 +350,13 @@ A assinatura do aplicativo Gemini não equivale a faturamento da API. O usuário
 Transcrição automática independente deve conferir palavras e repetições antes da mix. Indisponibilidade temporária de ASR não autoriza regenerar TTS. Registrar o modelo real usado na análise, sem confundi-lo com o modelo TTS. A verificação por texto e métricas não equivale a audição humana integral. Foley Python obrigatório, EQ discreto e ganho estático medido; sem acelerar ou alterar tom.
 
 Renderizador derivado `scripts/render-short-series.mjs`: mantém resolução nativa/MSAA; opção --ff-grade aplica saturação/contraste/vinheta suaves em FFmpeg. Não usar a saída intermediária silenciosa como entrega. Conferir o MP4 final, dimensões, 720 quadros, áudio presente, pico e decodificação integral; congelar fonte e guardar SHA. Capas verticais desta série derivam das próprias cenas com tipografia grande branca/amarela, sem imagens extraídas do outro canal.
+
+#### Contatos revisados nesta série
+
+Abraços em personagens de membros inteiriços: orientar os corpos um para o outro e apoiar mãos na região dos ombros. Braços opostos não podem compartilhar exatamente os mesmos planos laterais; isso produziu cintilação no teste do 32, corrigida separando-os alguns centímetros em profundidade e conferindo o MP4 final.
+
+Banco e pé protegido: verificar também os obstáculos ao redor do pé. No 33, mover banco/personagens para longe da pedra do tropeço preservou o cenário sem enfiar o pé no obstáculo; tornar a faixa legível. Na caixa do 34, palmas reais e centro do objeto não bastam: conferir corpo inteiro, distância entre carregadores e tamanho da caixa. O carregador da frente pode andar de costas, com pernas animadas e cabeça virada; o outro segue para a frente. Reação de susto inclui recuo e equilíbrio do corpo, além de expressão.
+
+Correções visuais isoladas podem usar render nativo do intervalo afetado e remontagem nos quadros exatos, preservando as outras ações. Registrar intervalo, fonte congelada e validação dos 720 quadros finais. Antes do push, conferir que SHA da fonte atual, SHA no relatório de exportação e arquivo MP4 correspondem à mesma revisão. Não encerrar após corrigir apenas a folha de imagens.
+
+Invisibilidade no Three.js: ao alterar `material.transparent`, marcar `material.needsUpdate = true` para não manter um shader opaco em cache. Para opacidade zero, ocultar explicitamente a raiz do personagem e sua sombra; continuar atualizando as matrizes das mãos para os objetos que ele carrega. Conferir quadros exportados em fases de desaparecimento, invisibilidade total e reaparição, além da opacidade numérica. A primeira exportação local do 34 manteve o personagem opaco; foi retida na revisão, corrigida e reexportada antes da publicação.
