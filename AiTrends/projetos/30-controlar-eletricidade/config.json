@@ -1,0 +1,27 @@
+{
+  "title": "30 - A cidade ficou nas mãos dele",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "30 - controlar-eletricidade.mp4",
+  "theme": 1,
+  "qaTimes": [
+    1.36,
+    3.9491,
+    6.9614,
+    10.5945,
+    14.1558,
+    17.6139,
+    20.6106,
+    25.9302
+  ]
+}

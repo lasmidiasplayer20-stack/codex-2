@@ -1,0 +1,86 @@
+[
+  {
+    "seconds": 1.2240000000000002,
+    "duration": 0.15,
+    "kind": "electric magic spark",
+    "amplitude": 0.007
+  },
+  {
+    "seconds": 3.8261900000000004,
+    "duration": 0.13,
+    "kind": "lamp switch",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 10.409555,
+    "duration": 0.8,
+    "kind": "electric crackle",
+    "amplitude": 0.007
+  },
+  {
+    "seconds": 13.984625000000001,
+    "duration": 0.1,
+    "kind": "retreat step",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 17.439210000000003,
+    "duration": 0.5,
+    "kind": "discharge fades",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 20.48562,
+    "duration": 0.15,
+    "kind": "small light",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 9.669575,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 10.59455,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 11.519525,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 19.9857,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 20.610599999999998,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 21.2355,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

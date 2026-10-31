@@ -1,0 +1,848 @@
+{
+  "samples": 40,
+  "errors": [],
+  "nonfinite": 0,
+  "records": [
+    {
+      "seconds": 0.054400000000000004,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.869532362773904,
+        3.5,
+        7.686152125192467
+      ],
+      "act": 0
+    },
+    {
+      "seconds": 0.68,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.9119495304897813,
+        3.5,
+        7.6616238520331
+      ],
+      "act": 0
+    },
+    {
+      "seconds": 1.36,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.204794132325349,
+        3.5,
+        7.482948348019068
+      ],
+      "act": 0
+    },
+    {
+      "seconds": 2.04,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.5188973558914345,
+        3.5,
+        7.27209880413223
+      ],
+      "act": 0
+    },
+    {
+      "seconds": 2.6656,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.569115042969216,
+        3.5,
+        7.2364281161096615
+      ],
+      "act": 0
+    },
+    {
+      "seconds": 2.7691640000000004,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        6.491467645967086,
+        7,
+        10.537352069140459
+      ],
+      "act": 1
+    },
+    {
+      "seconds": 3.33455,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        6.555559939194399,
+        7,
+        10.496826398635141
+      ],
+      "act": 1
+    },
+    {
+      "seconds": 3.9491000000000005,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        6.961401575984337,
+        7,
+        10.226908202326518
+      ],
+      "act": 1
+    },
+    {
+      "seconds": 4.563650000000001,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        7.423929997552961,
+        7,
+        9.889440819336958
+      ],
+      "act": 1
+    },
+    {
+      "seconds": 5.129036,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        7.491004439029959,
+        7,
+        9.837678791827075
+      ],
+      "act": 1
+    },
+    {
+      "seconds": 5.249528000000001,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.070606339344385,
+        2.6,
+        5.643675504140037
+      ],
+      "act": 2
+    },
+    {
+      "seconds": 6.069800000000001,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.099921151712108,
+        2.6,
+        5.624600587797877
+      ],
+      "act": 2
+    },
+    {
+      "seconds": 6.9614,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.323712281479309,
+        2.6,
+        5.470926905597599
+      ],
+      "act": 2
+    },
+    {
+      "seconds": 7.853,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.538189846912234,
+        2.6,
+        5.309378388946813
+      ],
+      "act": 2
+    },
+    {
+      "seconds": 8.673272,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.5703766914253565,
+        2.6,
+        5.283842342769711
+      ],
+      "act": 2
+    },
+    {
+      "seconds": 8.818598,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        0.9336151234864593,
+        9.5,
+        5.553350614446747
+      ],
+      "act": 3
+    },
+    {
+      "seconds": 9.669575,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        0.966736444751947,
+        9.5,
+        5.547468620421102
+      ],
+      "act": 3
+    },
+    {
+      "seconds": 10.59455,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        1.1952084122256288,
+        9.5,
+        5.501082611254525
+      ],
+      "act": 3
+    },
+    {
+      "seconds": 11.519525,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        1.4285336634311334,
+        9.5,
+        5.443023132930469
+      ],
+      "act": 3
+    },
+    {
+      "seconds": 12.370502,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        1.4633331292034932,
+        9.5,
+        5.433417253857704
+      ],
+      "act": 3
+    },
+    {
+      "seconds": 12.51295,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        3.769659261080808,
+        3.8,
+        7.681153268496881
+      ],
+      "act": 4
+    },
+    {
+      "seconds": 13.300125,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        3.813318568417776,
+        3.8,
+        7.6564908879877125
+      ],
+      "act": 4
+    },
+    {
+      "seconds": 14.155750000000001,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        4.106453827980989,
+        3.8,
+        7.48162337503026
+      ],
+      "act": 4
+    },
+    {
+      "seconds": 15.011375000000001,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        4.425224011355112,
+        3.8,
+        7.272050738055463
+      ],
+      "act": 4
+    },
+    {
+      "seconds": 15.79855,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.18,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.9,
+        "armB": -1.1,
+        "hip": 0.75
+      },
+      "camera": [
+        4.469326446012014,
+        3.8,
+        7.241363715949027
+      ],
+      "act": 4
+    },
+    {
+      "seconds": 15.936876000000002,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.17999793160530114,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.8999793160530114,
+        "armB": -1.099987359810174,
+        "hip": 0.75
+      },
+      "camera": [
+        5.94707676064986,
+        2.65,
+        4.185610418838465
+      ],
+      "act": 5
+    },
+    {
+      "seconds": 16.740450000000003,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.1699459124543605,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.7994591245436051,
+        "armB": -1.0385583538877587,
+        "hip": 0.75
+      },
+      "camera": [
+        5.9677292912709206,
+        2.65,
+        4.150805753623528
+      ],
+      "act": 5
+    },
+    {
+      "seconds": 17.6139,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.09464218562016993,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.0464218562016994,
+        "armB": -0.5783689121232608,
+        "hip": 0.75
+      },
+      "camera": [
+        6.11621015305461,
+        2.65,
+        3.8864942235413884
+      ],
+      "act": 5
+    },
+    {
+      "seconds": 18.48735,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.012408859993206733,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 0.2240885999320672,
+        "armB": -0.07583192218070778,
+        "hip": 0.75
+      },
+      "camera": [
+        6.265570519272165,
+        2.65,
+        3.591047465583925
+      ],
+      "act": 5
+    },
+    {
+      "seconds": 19.290924,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": 0.00002296453500802431,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 0.10022964535008039,
+        "armB": -0.00014033882504915773,
+        "hip": 0.75
+      },
+      "camera": [
+        6.286891599152699,
+        2.65,
+        3.5459679193660705
+      ],
+      "act": 5
+    },
+    {
+      "seconds": 19.410792,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.395136932065576,
+        3.1,
+        7.161793100499168
+      ],
+      "act": 6
+    },
+    {
+      "seconds": 19.9857,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.4316474603863782,
+        3.1,
+        7.141638824487669
+      ],
+      "act": 6
+    },
+    {
+      "seconds": 20.610599999999998,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        3.7041688306509974,
+        3.1,
+        6.982773250864455
+      ],
+      "act": 6
+    },
+    {
+      "seconds": 21.2355,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.000077387149818,
+        3.1,
+        6.79247683537712
+      ],
+      "act": 6
+    },
+    {
+      "seconds": 21.810408,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.044813313391065,
+        3.1,
+        6.761995942262622
+      ],
+      "act": 6
+    },
+    {
+      "seconds": 22.023191999999998,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.593934575374033,
+        4,
+        8.43988865927101
+      ],
+      "act": 7
+    },
+    {
+      "seconds": 23.8953,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.643806580964382,
+        4,
+        8.411885315723294
+      ],
+      "act": 7
+    },
+    {
+      "seconds": 25.9302,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        4.996022268708098,
+        4,
+        8.20248470730015
+      ],
+      "act": 7
+    },
+    {
+      "seconds": 27.9651,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        5.344617655910101,
+        4,
+        7.973999106774712
+      ],
+      "act": 7
+    },
+    {
+      "seconds": 29.837208,
+      "errors": [],
+      "finite": true,
+      "pose": {
+        "torso": -0.07,
+        "roll": 0,
+        "twist": 0,
+        "legF": 0,
+        "legB": 0,
+        "armF": 1.45,
+        "armB": 0.15,
+        "hip": 0.75
+      },
+      "camera": [
+        5.3935580767819316,
+        4,
+        7.940124758192233
+      ],
+      "act": 7
+    }
+  ],
+  "limits": "Sampled finite matrix and execution checks; not collision simulation or human editorial approval."
+}

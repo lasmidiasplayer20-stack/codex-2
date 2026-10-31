@@ -1,0 +1,125 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 2.72,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "UMA FAÍSCA"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.72,
+      "end": 5.1782,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "A RUA ACENDEU"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.1782,
+      "end": 8.7446,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "CONTROLE TOTAL?"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.7446,
+      "end": 12.4445,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "SAIU DO CONTROLE"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.4445,
+      "end": 15.867,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "AFASTE-SE"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 15.867,
+      "end": 19.3608,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "PARE A DESCARGA"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 19.3608,
+      "end": 21.8604,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "MENOS É MAIS"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 21.8604,
+      "end": 30,
+      "scene": "controlar-eletricidade",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "MAGIA É FICÇÃO"
+      }
+    }
+  ]
+}
