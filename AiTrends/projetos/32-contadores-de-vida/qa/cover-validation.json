@@ -1,0 +1,20 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "bytes": 367354,
+  "sha256": "ffe9e2a5c83b21486cadd59592ee99d2368217c04361e4cab777b28b1f29b089",
+  "native_render": true,
+  "requested_seconds": 4.4324,
+  "source_movie_revision": "a5786a185f450b725807011c69b2848f58f2464c85d3adf2f7bada00d11a77cb",
+  "source_scene": "scenes/film.js",
+  "cover_only_variant": true,
+  "geometry_variants": "Outline hulls; original procedural basketball livery in basketball covers; backboard staged for cover35",
+  "renderer": "AiTrends/skill/scripts/render-cover.mjs",
+  "renderer_sha256": "5a56aa8fd68d668da75bdeb01b80f312001809546dc2aa7899b907e505e9cb3d",
+  "typography": "AiTrends/skill/scripts/cover_poster.py",
+  "typography_sha256": "e98f26b03135ecb08d3502428fa66441031f9fd480f4e4484857a0779f30a733",
+  "font": "Bundled Anton, OFL; source license retained",
+  "image_generation_api_calls": 0,
+  "same_skin": true,
+  "visual_grid_reviewed": true
+}

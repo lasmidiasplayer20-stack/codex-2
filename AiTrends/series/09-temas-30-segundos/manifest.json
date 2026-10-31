@@ -1,0 +1,196 @@
+{
+  "count": 9,
+  "total_seconds": 270,
+  "total_frames": 6480,
+  "episodes": [
+    {
+      "number": 29,
+      "theme": "Indestrutível",
+      "title": "Indestrutível não significa invencível",
+      "project": "AiTrends/projetos/29-indestrutivel",
+      "youtube": "AiTrends/youtube/29 - Indestrutível não significa invencível",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "b91a0d39cb8ddb64180bcdcf82e87355686d30722fe279b1f653c4d04bd26d3c",
+      "published_commit": "b6db91ce5325cc0470716f3be82a2501c40957bd",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -20.7,
+        "true_peak_dbfs": -3.5,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 30,
+      "theme": "Controlar eletricidade",
+      "title": "A cidade ficou nas mãos dele",
+      "project": "AiTrends/projetos/30-controlar-eletricidade",
+      "youtube": "AiTrends/youtube/30 - A cidade ficou nas mãos dele",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "46914100a113ed3782ddc5770de5ff4d171a088c6b8027251b9b57b067e0ed8f",
+      "published_commit": "7940652c52255424351935e7316c160d96679494",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -18.3,
+        "true_peak_dbfs": -3.5,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 31,
+      "theme": "Copiar habilidades",
+      "title": "Copiou o talento. Faltou uma coisa",
+      "project": "AiTrends/projetos/31-copiar-habilidades",
+      "youtube": "AiTrends/youtube/31 - Copiou o talento. Faltou uma coisa",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "04754aea9dcbf4b711811d6a123ed171792bb8c18ea4183a80033c0584203972",
+      "published_commit": "cfa71ec3ab2d30ea333a36fb3e209233a3ad00cb",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -19.1,
+        "true_peak_dbfs": -3.3,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 32,
+      "theme": "Contadores de vida",
+      "title": "Ele enxergou o tempo que ninguém vê",
+      "project": "AiTrends/projetos/32-contadores-de-vida",
+      "youtube": "AiTrends/youtube/32 - Ele enxergou o tempo que ninguém vê",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "d4d7d503cea84dbefed1ff60790b5f07bfaba291a20224e4d6d98fd794943ab3",
+      "published_commit": "47b7fad40338af70e96bc81d71df78660335d1f0",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -19.3,
+        "true_peak_dbfs": -3.5,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 33,
+      "theme": "Não sentir dor",
+      "title": "Sem dor, ele perdeu o aviso",
+      "project": "AiTrends/projetos/33-nao-sentir-dor",
+      "youtube": "AiTrends/youtube/33 - Sem dor, ele perdeu o aviso",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "cbc405287f1d0eb3316d5ac23c3ac6275a394ab2dcd6dbe0bd5821ecd8f5a803",
+      "published_commit": "18f4093c2dde41aba42651829133b1cb34a62565",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -17.5,
+        "true_peak_dbfs": -4.8,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 34,
+      "theme": "Invisibilidade",
+      "title": "Ele sumiu. O problema ficou",
+      "project": "AiTrends/projetos/34-invisibilidade",
+      "youtube": "AiTrends/youtube/34 - Ele sumiu. O problema ficou",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "317ebe07f259135bc35f51571aafd59126b01dea33465d2e5358c8c89a8ff059",
+      "published_commit": "70b82b21ef0b138db5f1322bea5e300d166adcb1",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -17.5,
+        "true_peak_dbfs": -4.1,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 35,
+      "theme": "Nunca errar",
+      "title": "Ele acertava tudo. Até isso acontecer",
+      "project": "AiTrends/projetos/35-nunca-errar",
+      "youtube": "AiTrends/youtube/35 - Ele acertava tudo. Até isso acontecer",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "5634e777688fb806ef3730bab3db7855e492133d915a49d588a40217b9038149",
+      "published_commit": "e7dbe42b1aaca87e96c956646502cfe8b99996bf",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -17.7,
+        "true_peak_dbfs": -3.5,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 36,
+      "theme": "Repetir o mesmo dia",
+      "title": "O dia reiniciava. Só ele lembrava",
+      "project": "AiTrends/projetos/36-mesmo-dia-30",
+      "youtube": "AiTrends/youtube/36 - O dia reiniciava. Só ele lembrava",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "bec3685d60cfb894e47ad38553f32c8878d67d76b2e81cd2c4a00d8db5306059",
+      "published_commit": "109eef9b121d05d39b546a295b2af9e8c652dc10",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -17.4,
+        "true_peak_dbfs": -3.6,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    },
+    {
+      "number": 37,
+      "theme": "Imortalidade",
+      "title": "Ele ficou. O mundo continuou",
+      "project": "AiTrends/projetos/37-imortal-30",
+      "youtube": "AiTrends/youtube/37 - Ele ficou. O mundo continuou",
+      "seconds": 30,
+      "frames": 720,
+      "sha256": "803e18fadee75111c2117baf76d032352e493af9257de1a5cf0f9b3291c9236b",
+      "published_commit": "ea9fc6531c7f928d5a76e19fd8bbc46398455a77",
+      "voice": "Puck/gemini-2.5-flash-preview-tts",
+      "audio_qa": {
+        "integrated_lufs": -18.9,
+        "true_peak_dbfs": -3.3,
+        "full_decode_passed": true,
+        "same_puck_model": true,
+        "speed_change": false,
+        "human_full_listening": false,
+        "raw_narration_asr": "narration-check.json"
+      }
+    }
+  ]
+}

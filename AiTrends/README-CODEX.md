@@ -125,3 +125,7 @@ O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da 
 [07 — E se uma aranha aprendesse sua rotina?](projetos/07-aranha-rotina/) adapta uma referência de suspense para história original com Nico/Lia, apartamento procedural, câmera de rodapé/macro, Foley Python e capa neon. Consulte o README/QA para o estado real de voz, prévia e exportação.
 
 [08 — E se você tivesse Modo Criativo na vida real?](projetos/08-modo-criativo/) traz história original com voo, construção por peças, rig próprio, quatro blocos Puck na mesma sessão e limite máximo10min. Consulte README/QA para o estado real de render e entrega.
+
+## Série curta — nove temas em 30 segundos
+
+[Índice dos episódios 29–37](series/09-temas-30-segundos/README.md): nove histórias originais em vertical 1080p, voz Puck, personagens/skins Minecraft próprios, Foley Python e dois CTAs em vídeo. O índice reúne MP4s, prévias, fontes, capas e os arquivos únicos `YOUTUBE`. As capas finais têm render próprio por código com câmera próxima e luz neon; receita e script de reprodução estão em cada projeto. Consulte a skill local antes de produzir o próximo episódio.

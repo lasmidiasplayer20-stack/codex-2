@@ -360,3 +360,11 @@ Banco e pé protegido: verificar também os obstáculos ao redor do pé. No 33, 
 Correções visuais isoladas podem usar render nativo do intervalo afetado e remontagem nos quadros exatos, preservando as outras ações. Registrar intervalo, fonte congelada e validação dos 720 quadros finais. Antes do push, conferir que SHA da fonte atual, SHA no relatório de exportação e arquivo MP4 correspondem à mesma revisão. Não encerrar após corrigir apenas a folha de imagens.
 
 Invisibilidade no Three.js: ao alterar `material.transparent`, marcar `material.needsUpdate = true` para não manter um shader opaco em cache. Para opacidade zero, ocultar explicitamente a raiz do personagem e sua sombra; continuar atualizando as matrizes das mãos para os objetos que ele carrega. Conferir quadros exportados em fases de desaparecimento, invisibilidade total e reaparição, além da opacidade numérica. A primeira exportação local do 34 manteve o personagem opaco; foi retida na revisão, corrigida e reexportada antes da publicação.
+
+#### Capas finais 29–37 — retrato Minecraft com luz neon, por código
+
+Capa final usa a cena e a skin próprias, com câmera próxima, iluminação noturna ciano/magenta, contorno ciano no rosto e tipografia Anton branca/amarela com borda preta. Não voltar ao frame distante com faixa azul como padrão. O personagem ocupa boa parte da capa, sem texto sobre os olhos. Capas são composições próprias, com luz/câmera específicas; não alegar que são frames idênticos ao MP4. Bola com textura procedural e enquadramento do aro podem ser adaptados para leitura da capa.
+
+Ferramentas: `scripts/render-cover.mjs` (render nativo 1080×1920 de uma variante da própria cena) e `scripts/cover_poster.py` (tipografia/ícones). Cada projeto contém `scripts/make_cover.py`, receita `story/cover.json` e `qa/cover-validation.json`. Reproduzir pelo Python do ambiente AiTrends. Fonte Anton do kit preserva OFL. Nenhuma API de imagem é necessária; não refazer TTS para gerar capas.
+
+Ao clonar somente o Git em outro chat, reutilizar os stems MP3 publicados para revisões visuais. Se o finalizador precisar de WAV, decodificar `audio/mix.mp3` para `audio/mix.wav` local, sem chamar a API. Não tratar ausência do cache WAV privado como autorização para regenerar uma voz já entregue. Índice da série: `../series/09-temas-30-segundos/README.md`.
