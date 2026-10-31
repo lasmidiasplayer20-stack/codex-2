@@ -1,35 +1,25 @@
-# 28 — NÃO APERTA DE NOVO!
+# 28 — NÃO APERTA DE NOVO! — revisão 2
 
-Short original de 15,000 s / 360 quadros / 24 fps / 1080×1920 nativo. Título sem nome de personagem, conforme pedido. Ação contínua em Minecraft clássico, skin própria do Nico; botão dispara uma sequência de pistões, slime e água que devolve o personagem à posição inicial.
+Short de 15 segundos, 360 quadros, 24 fps e 1080×1920 nativo. Animação por código aiTrends/Three.js, visual Minecraft clássico com skin própria. Título sem nome do personagem.
 
-## Loop comprovado
+## Correções solicitadas
 
-O primeiro e o último quadro do MP4 final foram decodificados em RGB e comparados integralmente: **zero pixels diferentes**, diferença máxima por canal **0**. PNGs em qa/primeiro-quadro.png e qa/ultimo-quadro.png; resultado em qa/loop-boundary.json. O teste dos PNGs nativos da cena, antes da codificação, também registrou igualdade em qa/source-loop-boundary.json.
+A primeira versão foi reprovada por corpo rígido na descida e repetição de fala. Agora tronco, ombros e quadris têm poses independentes: braços equilibram o corpo, pernas alternam, cabeça acompanha a ação, pousos têm preparação e reação. Membros continuam inteiriços, conforme o modelo clássico. A câmera acompanha a descida e retorna suavemente ao enquadramento inicial. O trajeto de volta passa pela frente do pedestal; as poses do empurrão foram ajustadas para afastar o corpo do pistão. Não é simulação física completa.
 
-A cena usa quadro módulo 359: com 360 quadros totais, o estado do quadro 359 é o mesmo do quadro 0. Todos os movimentos, expressões e mecanismos usam essa fase, com câmera e iluminação fixas. O finalizador ainda copia o quadro inicial para a posição final para proteger a igualdade contra variações da compressão intermediária. Encode H.264 compatível em yuv420p, QP constante e IDRs nas duas extremidades com mesmo QP, sem AQ/psy/mbtree/B-frames ou fade. O teste é no MP4 de entrega, não apenas no projeto.
+A fala foi substituída por uma única frase: “Não aperta esse botão!”. Uma nova geração de substituição com a mesma Puck / gemini-2.5-flash-preview-tts, preservada em cache. Transcrição automática independente por gemini-3-flash-preview confirmou uma ocorrência e nenhuma repetição no áudio bruto; ver qa/narration-check.json. O modelo de análise não altera a voz TTS. A fonte tem 1,691 s, colocada uma vez em 0,25 s, sem mudança de velocidade/tom nem compressão extra. Não se afirma audição humana integral.
 
-A prévia exports/preview-emenda-4s.mp4 mostra os últimos dois segundos seguidos dos primeiros dois, sem pausa inserida. O filme principal continua tendo exatamente 15 segundos.
+Foley sintetizado em Python: botão, pistões, slime, água e passos, incluindo contatos durante a descida. Mix discreta e música periódica; bordas da mix PCM coincidentes não garantem igualdade bit a bit após AAC. CTA fornecido pelo usuário, variante 6, somente em 4,5–11,5 s, ausente na emenda.
 
-## Áudio e CTA
+## Loop e revisão
 
-Mesma Puck / gemini-2.5-flash-preview-tts / generateContent e direção aceita. Uma geração em cache. Foram encurtados somente silêncios detectados; palavras preservadas, sem mudar velocidade ou tom. EQ suave e ganho estático, sem compressão extra. Voz curta: “Era só não apertar. Agora aguenta.” Os mecanismos e a trilha acompanham a ação restante; não há locução contínua nos 15 s.
+Fase periódica quadro módulo 359 aplicada a movimentos e câmera. A igualdade visual é verificada novamente nos quadros extremos decodificados do MP4 final em qa/loop-boundary.json. O finalizador protege o último quadro com cópia do primeiro e IDRs com QP idêntico. H.264 High 4:2:0 de 8 bits em faixa completa, identificado pelo FFprobe como yuvj420p. Prévia de emenda de quatro segundos em exports/preview-emenda-4s.mp4.
 
-Foley sintetizado em Python, stems publicados: botão, pistões, impulso, slime, água, saída e passos. Música com número inteiro de ciclos e primeiro/último sample PCM coincidentes; eventos terminam antes da emenda. AAC é o codec de distribuição, não se afirma igualdade bit a bit do PCM após essa compressão. Não é alegada audição humana integral nem ASR independente.
-
-Um CTA em vídeo variante 6 fornecida pelo usuário, em 4,5–11,5 s, 650 px em x215/y1640, áudio original omitido, key/despill apenas no asset. Está ausente tanto no primeiro quanto no último quadro. Marca Então constante. Capa e arquivo único YOUTUBE em ../../youtube/28 - Nao aperta de novo/.
+Auditoria de 61 instantes e amplitudes medidas nos transformadores reais do rig em qa/body-motion.json. Métricas não substituem avaliação estética. Quadros do filme completo e da emenda em qa/. Capa e arquivo único YOUTUBE em ../../youtube/28 - Nao aperta de novo/.
 
 ## Reproduzir
 
-Animação aiTrends/Three.js por código, sem Blender ou imagens geradas nas cenas. Skins/texturas próprias geradas em Python, filtro nearest; licenças do kit preservadas. Capa ilustrada gerada separadamente. Não é captura de gameplay ou mecanismo testado no Minecraft.
+Da raiz: python3 AiTrends/studio.py doctor. Render: node AiTrends/skill/scripts/render.mjs --project CAMINHO_ABSOLUTO_DO_PROJETO --scale 1 --workers 2 --format jpeg --preset fast --crf 20 --out DIRETORIO_PRIVADO/full-silent.mp4, com log full-render.log. Finalizar: AiTrends/.venv/bin/python CAMINHO_DO_PROJETO/scripts/finish.py --work DIRETORIO_PRIVADO, com mix.wav local. Para áudio, scripts/audio.py reutiliza voice/block-01.wav privado. Não regenerar voz para corrigir imagem. Chaves e fontes privadas não são publicadas. Skins/texturas originais por código; não é captura de gameplay. Sem upload ao YouTube.
 
-Da raiz: `python3 AiTrends/studio.py doctor`; setup só se faltar dependência. Voz em cache privado: `AiTrends/.venv/bin/python AiTrends/projetos/28-botao-errado-loop/scripts/audio.py --work /CAMINHO/PRIVADO`, com voice/block-01.wav. Não regenerar voz para corrigir imagens, emenda ou mix. Chaves e fonte bruta não são publicadas; stems MP3 disponíveis.
+## Entrega validada da revisão 2
 
-Render: `node AiTrends/skill/scripts/render.mjs --project "$PWD/AiTrends/projetos/28-botao-errado-loop" --scale 1 --workers 2 --format jpeg --preset fast --crf 20 --out /CAMINHO/PRIVADO/full-silent.mp4`, guardando log full-render.log no mesmo diretório. Finalizar com `AiTrends/.venv/bin/python AiTrends/projetos/28-botao-errado-loop/scripts/finish.py --work /CAMINHO/PRIVADO`, com mix.wav local. Fonte congelada inclui módulos, skins e texturas. Entrega e QA em exports/ e qa/; sem upload ao YouTube.
-
-## Validação da entrega
-
-15,000 s, 360 quadros a 24 fps, 1080×1920 nativo; áudio presente e decodificação integral sem erros. Primeiro e último quadro decodificados do MP4: diferença máxima 0 e zero pixels diferentes. Quadros finais revisados em todas as fases e na emenda; auditoria numérica em 61 instantes sem erros de execução ou matrizes não finitas. Não é uma simulação física completa.
-
-H.264 High, 4:2:0 de 8 bits em faixa completa (FFprobe identifica como yuvj420p). Áudio final medido: −19,5 LUFS, pico verdadeiro −4,2 dBFS. Prévia da emenda: 4 s / 96 quadros / 1080×1920, decodificação aprovada. Os samples inicial e final da mix PCM são coincidentes; métricas não substituem audição humana integral.
-
-SHA-256 do MP4: `e060de870795d758289e4d65ac5f15e7a01b83930fea773d02777d085f2af16e`.
+MP4 final: 15 s / 360 quadros / 1080×1920, decodificação integral aprovada. Comparação RGB dos extremos: zero pixels diferentes. Áudio: -20.8 LUFS, pico verdadeiro -7.7 dBFS. Quadros exportados revisados em filme-completo.jpg e emenda.jpg. SHA-256: `7ca3ce884dadbd8f992a029f0a1bc0f009d58d9760d075d62fef811f85b62ecb`.

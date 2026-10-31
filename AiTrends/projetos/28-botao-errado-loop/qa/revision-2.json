@@ -1,0 +1,14 @@
+{
+  "reason": [
+    "rigid body on descent",
+    "unwanted repeated speech"
+  ],
+  "voice": "Puck/gemini-2.5-flash-preview-tts",
+  "new_replacement_generations": 1,
+  "phrase": "Não aperta esse botão!",
+  "phrase_occurrences": 1,
+  "asr_report": "narration-check.json",
+  "motion_report": "body-motion.json",
+  "human_full_listening": false,
+  "supersedes_original_mp4_sha256": "e060de870795d758289e4d65ac5f15e7a01b83930fea773d02777d085f2af16e"
+}

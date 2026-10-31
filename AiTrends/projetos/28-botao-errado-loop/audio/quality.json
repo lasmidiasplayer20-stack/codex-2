@@ -1,9 +1,9 @@
 {
   "seconds": 15,
-  "raw_voice_seconds": 8.941916666666666,
-  "treated_voice_seconds": 7.544791666666667,
+  "raw_voice_seconds": 1.6909583333333333,
+  "treated_voice_seconds": 1.6909583333333333,
   "voice_offset_seconds": 0.25,
-  "gain_db": -2.6400000000000006,
+  "gain_db": -2.9499999999999993,
   "headroom_gain": 1,
   "speed_change": false,
   "pitch_change": false,
@@ -12,44 +12,16 @@
   "successful_generations": 1,
   "silences_shortened": [
     {
-      "start": 0.0,
-      "end": 0.257042,
-      "kept_seconds": 0.08
-    },
-    {
-      "start": 0.890958,
-      "end": 1.146875,
-      "kept_seconds": 0.18
-    },
-    {
-      "start": 2.463375,
-      "end": 2.876958,
-      "kept_seconds": 0.18
-    },
-    {
-      "start": 3.898792,
-      "end": 4.383333,
-      "kept_seconds": 0.18
-    },
-    {
-      "start": 5.271583,
-      "end": 5.767042,
-      "kept_seconds": 0.18
-    },
-    {
-      "start": 6.516125,
-      "end": 6.95875,
-      "kept_seconds": 0.18
-    },
-    {
-      "start": 8.813958,
-      "end": 8.941917,
-      "kept_seconds": 0.1
+      "start": 0.445417,
+      "end": 0.597292,
+      "kept_seconds": 0.15187500000000004
     }
   ],
   "pcm_first_last_sample_equal": true,
   "music_periodic": true,
-  "mix_peak_dbfs": -4.01893571234675,
+  "mix_peak_dbfs": -7.844810534100169,
   "human_full_listening": false,
-  "asr": false
+  "asr": true,
+  "asr_report": "qa/narration-check.json",
+  "successful_generations_scope": "one replacement generation in revision 2; original generation superseded"
 }

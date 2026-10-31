@@ -7,5 +7,5 @@
     359
   ],
   "period_seconds": 14.958333333333334,
-  "method": "Compare native source PNGs before final encode"
+  "method": "Compare native revised source PNGs before final encode"
 }

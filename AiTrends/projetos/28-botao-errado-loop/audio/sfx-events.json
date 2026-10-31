@@ -45,37 +45,62 @@
     "kind": "splash on exit"
   },
   {
-    "seconds": 11.136429773377664,
+    "seconds": 7.5,
+    "duration": 0.13,
+    "kind": "foot splash / balance on chute"
+  },
+  {
+    "seconds": 8.05,
+    "duration": 0.13,
+    "kind": "foot splash / balance on chute"
+  },
+  {
+    "seconds": 8.65,
+    "duration": 0.13,
+    "kind": "foot splash / balance on chute"
+  },
+  {
+    "seconds": 9.25,
+    "duration": 0.13,
+    "kind": "foot splash / balance on chute"
+  },
+  {
+    "seconds": 9.85,
+    "duration": 0.13,
+    "kind": "foot splash / balance on chute"
+  },
+  {
+    "seconds": 11.138336285473505,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },
   {
-    "seconds": 11.46628781560597,
+    "seconds": 11.469182462408462,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },
   {
-    "seconds": 11.656469647096044,
+    "seconds": 11.659934009485882,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },
   {
-    "seconds": 11.79884341575952,
+    "seconds": 11.802745828775622,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },
   {
-    "seconds": 11.940617318816535,
+    "seconds": 11.946990694900778,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },
   {
-    "seconds": 12.129547099227516,
+    "seconds": 12.140779225874565,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },
   {
-    "seconds": 12.454069874144194,
+    "seconds": 12.48525336989373,
     "duration": 0.09,
     "kind": "shoe on cobblestone"
   },

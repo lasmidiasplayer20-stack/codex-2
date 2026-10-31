@@ -1,0 +1,14 @@
+{
+  "samples": 14,
+  "actual_rigid_part_angle_ranges_radians": {
+    "torso": 0.6797759130658443,
+    "roll": 0.23434692215363495,
+    "legF": 0.4473170653292181,
+    "legB": 1.2602087620027447,
+    "armF": 0.8936299725651575,
+    "armB": 0.8299784593621393
+  },
+  "independent_descent_motion": true,
+  "method": "Read actual waist/shoulder/hip transforms sampled from rendered scene",
+  "limits": "Does not prove complete collision-free physics or human approval."
+}

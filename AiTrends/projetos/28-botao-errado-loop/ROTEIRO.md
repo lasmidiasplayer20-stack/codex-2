@@ -1,6 +1,6 @@
 # NÃO APERTA DE NOVO!
 
-Era só não apertar. Agora aguenta.
+Não aperta esse botão! (uma única vez, no início)
 
 ## Ação contínua
 

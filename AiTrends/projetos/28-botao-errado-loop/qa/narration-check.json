@@ -1,0 +1,16 @@
+{
+  "asr_model": "gemini-3-flash-preview",
+  "source": "New raw Puck recording",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Não aperta esse botão"
+    }
+  ],
+  "detected_repeated_phrases": [],
+  "expected_text": "Não aperta esse botão!",
+  "phrase_occurrences": 1,
+  "timing": "approximate automatic transcription",
+  "human_full_listening": false
+}

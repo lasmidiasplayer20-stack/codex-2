@@ -7,9 +7,9 @@
   "native_render": true,
   "upscaled": false,
   "full_decode_passed": true,
-  "sha256": "e060de870795d758289e4d65ac5f15e7a01b83930fea773d02777d085f2af16e",
-  "source_sha256": "84b37b487ff058819243370796515d1bfad5ea5a14bf0845fb2087bca0347706",
-  "bytes": 3447870,
+  "sha256": "7ca3ce884dadbd8f992a029f0a1bc0f009d58d9760d075d62fef811f85b62ecb",
+  "source_sha256": "284eb107ad7202c3012182c45ddee11b5fc35b25f91157e873f56daeccc07417",
+  "bytes": 24013715,
   "first_last_identical": true,
   "preview": "exports/preview-emenda-4s.mp4",
   "cta": {
@@ -27,5 +27,5 @@
     ],
     "source_audio_mixed": false
   },
-  "audio_review": "Signal measures, no full human listening or ASR claim"
+  "audio_review": "Signal measures plus automatic transcription of raw narration in qa/narration-check.json; no full human listening claim"
 }
