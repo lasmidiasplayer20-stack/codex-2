@@ -1,0 +1,10 @@
+{
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Puck",
+  "source": "second distinct user-supplied credential, after explicit authorization to use available keys",
+  "successful_generations": 1,
+  "new_model": false,
+  "billing_activated": false,
+  "billing_tier_verified": false,
+  "reused_old_audio": false
+}

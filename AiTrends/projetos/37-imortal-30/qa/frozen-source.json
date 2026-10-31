@@ -1,0 +1,31 @@
+{
+  "files": [
+    "config.json",
+    "runtime-style.json",
+    "story/shots.json",
+    "scenes/film.js",
+    "scenes/minecraft-world.js",
+    "scenes/rig.js",
+    "assets/skins/lia-preview.png",
+    "assets/skins/lia.png",
+    "assets/skins/nico-preview.png",
+    "assets/skins/nico.png",
+    "assets/textures/cobblestone.png",
+    "assets/textures/diamond_ore.png",
+    "assets/textures/dirt.png",
+    "assets/textures/glass.png",
+    "assets/textures/grass_side.png",
+    "assets/textures/grass_top.png",
+    "assets/textures/gravel.png",
+    "assets/textures/leaves.png",
+    "assets/textures/oak_log.png",
+    "assets/textures/oak_planks.png",
+    "assets/textures/pink_leaves.png",
+    "assets/textures/sand.png",
+    "assets/textures/stone.png",
+    "assets/textures/water.png"
+  ],
+  "sha256": "80693fd08c961306818bc77214bad75e217cfefff1b39b19045c1abe719a85b2",
+  "renderer": "AiTrends/skill/scripts/render-short-series.mjs",
+  "renderer_sha256": "3a394b01bb46ccef08730d5ddcb19e949adea7cbc6613ef2929b85f72ba361e3"
+}

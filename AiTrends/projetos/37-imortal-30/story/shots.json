@@ -1,0 +1,158 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.72,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "TODOS OS DIAS"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.72,
+      "end": 7.4519,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "ESTA CONVERSA"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.4519,
+      "end": 10.3585,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "ESTA AMIZADE"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 10.3585,
+      "end": 11.5264,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "ELE FECHOU O CADERNO"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 11.5264,
+      "end": 15.0978,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "CHEGOU NA HORA"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 15.0978,
+      "end": 18.7953,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "O TEMPO CONTINUA"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 18.7953,
+      "end": 21.3469,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "SEM MAIS DESCULPAS"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 21.3469,
+      "end": 24.2313,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "VIVER AGORA",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 24.2313,
+      "end": 27.1156,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "VIVER AGORA",
+        "view": 2
+      }
+    },
+    {
+      "id": "s10",
+      "start": 27.1156,
+      "end": 30.0,
+      "scene": "imortal-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "VIVER AGORA",
+        "view": 6
+      }
+    }
+  ]
+}

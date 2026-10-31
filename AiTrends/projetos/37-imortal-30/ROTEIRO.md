@@ -1,0 +1,17 @@
+# O tempo não para
+
+Ser imortal parece oferecer todos os dias.
+
+Mas não oferece de novo exatamente esta conversa,
+
+esta amizade ou esta tarde.
+
+Nico fecha o caderno,
+
+atravessa a praça e chega ao encontro na hora marcada.
+
+A novidade não é ter aprendido a vencer o tempo.
+
+É ter parado de usar a eternidade
+
+como desculpa para adiar.

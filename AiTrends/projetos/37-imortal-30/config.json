@@ -1,0 +1,29 @@
+{
+  "title": "37 - Ele ficou. O mundo continuou",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "37 - imortal-30.mp4",
+  "theme": 8,
+  "qaTimes": [
+    1.86,
+    5.586,
+    8.9052,
+    10.9425,
+    13.3121,
+    16.9466,
+    20.0711,
+    22.7891,
+    25.6735,
+    28.5578
+  ]
+}

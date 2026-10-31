@@ -1,0 +1,98 @@
+[
+  {
+    "seconds": 1.6740000000000002,
+    "duration": 0.12,
+    "kind": "quiet clock tick",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 5.399355,
+    "duration": 0.2,
+    "kind": "distant conversation cloth",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 8.75987,
+    "duration": 0.7,
+    "kind": "tree wind",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 11.432968,
+    "duration": 0.12,
+    "kind": "book closes",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 13.13353,
+    "duration": 0.35,
+    "kind": "arriving footsteps",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 16.761675,
+    "duration": 0.15,
+    "kind": "bench clothing",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 19.94352,
+    "duration": 0.2,
+    "kind": "friendly gesture cloth",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 22.64488,
+    "duration": 0.7,
+    "kind": "leaves breeze",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 10.650475,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 10.942450000000001,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 11.234425,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 19.4332,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 20.0711,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 20.709000000000003,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

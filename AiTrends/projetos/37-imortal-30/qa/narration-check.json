@@ -1,0 +1,41 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Ser imortal parece oferecer todos os dias,"
+    },
+    {
+      "start": 3.5,
+      "end": 7.5,
+      "text": "mas não oferece de novo exatamente esta conversa,"
+    },
+    {
+      "start": 7.5,
+      "end": 10.5,
+      "text": "esta amizade ou esta tarde."
+    },
+    {
+      "start": 10.5,
+      "end": 15.5,
+      "text": "Nico fecha o caderno, atravessa a praça e chega ao encontro na hora marcada."
+    },
+    {
+      "start": 15.5,
+      "end": 19.5,
+      "text": "A novidade não é ter aprendido a vencer o tempo,"
+    },
+    {
+      "start": 19.5,
+      "end": 24.0,
+      "text": "é ter parado de usar a eternidade como desculpa para adiar."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Ser imortal parece oferecer todos os dias.\n\nMas não oferece de novo exatamente esta conversa,\n\nesta amizade ou esta tarde.\n\nNico fecha o caderno,\n\natravessa a praça e chega ao encontro na hora marcada.\n\nA novidade não é ter aprendido a vencer o tempo.\n\nÉ ter parado de usar a eternidade\n\ncomo desculpa para adiar.\n",
+  "word_similarity": 1.0,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}
