@@ -1,0 +1,142 @@
+{
+  "duration": 30,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0,
+      "end": 3.7995,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 0,
+        "label": "DE NOVO"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.7995,
+      "end": 7.5271,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 1,
+        "label": "ELE JÁ SABE"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.5271,
+      "end": 10.8674,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 2,
+        "label": "VAI CAIR"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 10.8674,
+      "end": 13.545,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 3,
+        "label": "TUDO SE REPETE"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 13.545,
+      "end": 16.545,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 4,
+        "label": "DIA 300"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.545,
+      "end": 20.2125,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 5,
+        "label": "HOJE VAI SER DIFERENTE"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 20.2125,
+      "end": 24.3621,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 6,
+        "label": "00:01 — OUTRO DIA"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 24.3621,
+      "end": 27.181,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "MUDE A ATITUDE",
+        "view": 7
+      }
+    },
+    {
+      "id": "s09",
+      "start": 27.181,
+      "end": 30.0,
+      "scene": "mesmo-dia-30",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": 7,
+        "label": "MUDE A ATITUDE",
+        "view": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "seconds": 30,
+  "raw_voice_seconds": 31.250958333333333,
+  "treated_voice_seconds": 28.617166666666666,
+  "voice_offset_seconds": 0.22,
+  "gain_db": -3.9800000000000004,
+  "speed_change": false,
+  "pitch_change": false,
+  "extra_compression": false,
+  "same_voice": "Puck/gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "silences_shortened": [
+    {
+      "start": 0.0,
+      "end": 0.2975,
+      "kept": 0.08
+    },
+    {
+      "start": 1.562333,
+      "end": 2.215292,
+      "kept": 0.45
+    },
+    {
+      "start": 3.178333,
+      "end": 3.615375,
+      "kept": 0.43704199999999993
+    },
+    {
+      "start": 4.496417,
+      "end": 5.195958,
+      "kept": 0.45
+    },
+    {
+      "start": 7.527125,
+      "end": 8.342542,
+      "kept": 0.45
+    },
+    {
+      "start": 10.881542,
+      "end": 11.64875,
+      "kept": 0.45
+    },
+    {
+      "start": 14.102833,
+      "end": 14.875208,
+      "kept": 0.45
+    },
+    {
+      "start": 18.449917,
+      "end": 19.232375,
+      "kept": 0.45
+    },
+    {
+      "start": 19.99025,
+      "end": 20.291458,
+      "kept": 0.30120799999999903
+    },
+    {
+      "start": 22.240583,
+      "end": 23.041,
+      "kept": 0.45
+    },
+    {
+      "start": 24.952417,
+      "end": 25.34275,
+      "kept": 0.39033299999999826
+    },
+    {
+      "start": 26.096417,
+      "end": 26.346917,
+      "kept": 0.2505000000000024
+    },
+    {
+      "start": 27.036,
+      "end": 27.761917,
+      "kept": 0.45
+    },
+    {
+      "start": 28.633292,
+      "end": 28.873125,
+      "kept": 0.23983300000000085
+    },
+    {
+      "start": 30.901583,
+      "end": 31.250958,
+      "kept": 0.349375000000002
+    }
+  ],
+  "mix_peak_dbfs": -3.685404233817188,
+  "human_full_listening": false,
+  "asr_report": "qa/narration-check.json"
+}

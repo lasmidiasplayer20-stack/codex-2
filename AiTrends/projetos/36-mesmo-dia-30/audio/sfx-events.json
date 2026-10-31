@@ -1,0 +1,92 @@
+[
+  {
+    "seconds": 1.709775,
+    "duration": 0.25,
+    "kind": "alarm clock",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 5.47692,
+    "duration": 0.15,
+    "kind": "caught ball",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 10.733788,
+    "duration": 0.2,
+    "kind": "crate falls",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 12.07232,
+    "duration": 0.6,
+    "kind": "time rewind",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 14.895000000000001,
+    "duration": 0.1,
+    "kind": "clock tick",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 18.928874999999998,
+    "duration": 0.15,
+    "kind": "crate caught",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 22.07982,
+    "duration": 0.4,
+    "kind": "new day chime",
+    "amplitude": 0.012
+  },
+  {
+    "seconds": 11.5368,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.206199999999999,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.8756,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 21.2499,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 22.287300000000002,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 23.3247,
+    "duration": 0.075,
+    "kind": "foot contact / cloth",
+    "amplitude": 0.004
+  },
+  {
+    "seconds": 12.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  },
+  {
+    "seconds": 25.2,
+    "duration": 0.08,
+    "kind": "CTA click",
+    "amplitude": 0.002
+  }
+]

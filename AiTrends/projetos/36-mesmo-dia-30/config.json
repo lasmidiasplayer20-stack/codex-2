@@ -1,0 +1,28 @@
+{
+  "title": "36 - O dia reiniciava. Só ele lembrava",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "style": "entaoSpeed",
+  "duration": 30,
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "captions": false,
+  "bars": "none",
+  "fadeIn": 0,
+  "fadeOut": 0.12,
+  "fast3D": false,
+  "export_name": "36 - mesmo-dia-30.mp4",
+  "theme": 7,
+  "qaTimes": [
+    1.8998,
+    5.6633,
+    9.1973,
+    12.2062,
+    15.045,
+    18.3788,
+    22.2873,
+    25.7716,
+    28.5905
+  ]
+}
