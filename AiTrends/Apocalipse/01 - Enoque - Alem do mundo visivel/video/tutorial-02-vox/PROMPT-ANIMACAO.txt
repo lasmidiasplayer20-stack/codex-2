@@ -1,4 +1,4 @@
-Use a imagem fornecida como composição final de uma animação documental de colagem com duração-alvo de seis segundos, se o gerador oferecer essa duração.
+Use a imagem fornecida como composição final de uma animação documental de colagem com duração-alvo de quatro segundos, se o gerador oferecer essa duração.
 
 Comece pela folha de papel ao fundo. Faça os recortes visuais principais entrarem separadamente, como peças físicas leves colocadas sobre a página, com pequena rotação, sombra de contato e acomodação suave. Depois, revele os elementos de apoio e trace a linha de ligação. Termine com a composição exatamente igual à imagem de referência e reserve um breve instante para sua leitura.
 

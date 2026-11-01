@@ -17,3 +17,7 @@ O kit contém uma especificação original para o Tool Builder, storyboard provi
 ## Referência posterior — tutorial_2
 
 O usuário esclareceu o visual com `tutorial_2.mp4`: colagem documental de papel, mapas e recortes, não a proposta anterior de personagens ilustrados. A tela mostra Nano Banana 2 nas imagens, Omni Flash na animação e uma alternativa Qwen3.8-Max com Criar Vídeo. O prompt de animação visível trata a imagem como quadro final da composição. Ver [análise e prompts de teste](../../Apocalipse/01%20-%20Enoque%20-%20Alem%20do%20mundo%20visivel/video/tutorial-02-vox/README.md). Não chamar a imagem de Lameque gerada no chat ou o storyboard anterior de amostra desse novo visual. Preservar a Algenib; não repetir a etapa ElevenLabs/realce de voz do tutorial. Limites e disponibilidade dos geradores permanecem dependentes da conta e não foram testados aqui.
+
+### Duração definida depois pelo usuário
+
+Enoque passa a ter 25 partes de um minuto, com 15 cenas de quatro segundos cada: 375 cenas. Imagens no Nano Banana 2 e animações no Omni dentro do Flow. O usuário informou conta paga; isso não estabelece acesso conectado ao chat. Não afirmar que o modelo aceita quatro segundos nativos sem verificar na conta: a edição pode aproveitar uma janela de quatro segundos de uma origem maior, preservando a construção e a composição final, sem acelerar. A especificação está em `video/tutorial-02-vox/production-spec.json`; os 15 prompts da parte 01 foram preparados, sem gerar assets ou gastar créditos de vídeo.

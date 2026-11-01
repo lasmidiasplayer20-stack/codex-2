@@ -1,5 +1,7 @@
 # Tutorial 2 — colagem documental animada
 
+**Especificação atual do usuário:** 25 partes × 60 s, cada uma com 15 cenas de 4 s: 375 cenas no total. Imagens e animações no Flow, com Nano Banana 2 e Omni. Conta paga informada; acesso ao Flow não está conectado ao chat. [Primeiro lote de 15 cenas](partes/01%20-%20O%20medo%20no%20berco/README.md).
+
 Referência solicitada pelo usuário: `tutorial_2.mp4`, ID Drive `1xD6sLbYfCYDhT7RQoHQJzhzUX00F5I_e`. Duração 640,569 s (10min41s), 1280×720. Inspeção de 48 quadros distribuídos pelo vídeo, oito quadros adicionais em resolução original e análise automática da fala integral em quatro trechos. Não houve escuta humana integral, teste ao vivo na conta Flow ou validação dos custos anunciados. O vídeo e a transcrição de terceiros permanecem fora do Git.
 
 ## O estilo observado
@@ -37,7 +39,7 @@ A descrição completa dos comandos do autor não é legível em todos os trecho
 5. Juntar os clipes à narração existente, cortando entradas estáticas e ajustando a duração real de cada beat. Isso pode ser feito em Python/Remotion/FFmpeg aqui, em lugar da edição manual do CapCut. Foley Python e trilha discreta entram em camadas separadas.
 6. Validar um trecho curto em movimento antes de ampliar o projeto. A aprovação da voz permanece válida; ela não aprova automaticamente a nova estética visual.
 
-Se cada clipe oferecer seis segundos úteis, 25 minutos pedem aproximadamente 250 clipes. Cortes mais curtos, continuações e reaproveitamento editorial mudam essa conta. O orçamento anterior de 200 tomadas de 7,5 s não deve ser aplicado diretamente a clipes limitados a seis segundos.
+A estimativa inicial para clipes de seis segundos era de aproximadamente 250 clipes. A escolha posterior do usuário é quatro segundos por cena: agora são 375 cenas. Cortes mais curtos, continuações e reaproveitamento editorial mudam essa conta. O orçamento anterior de 200 tomadas de 7,5 s não deve ser aplicado diretamente a clipes limitados a seis segundos.
 
 ## Situação
 
