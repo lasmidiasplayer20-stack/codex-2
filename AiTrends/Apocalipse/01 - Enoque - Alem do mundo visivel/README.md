@@ -60,3 +60,7 @@ Enoque_01 (27:11) e Enoque_02 (24:35) tiveram análise automática da fala em 11
 ## Planejamento visual pelo tutorial
 
 [Kit de adaptação do tutorial Google Flow](video/tutorial-flow/README.md): análise, proposta de oito tomadas para o primeiro minuto, prompts, índice dos 25 capítulos e montador Python/FFmpeg testado. Os clipes reais do Flow ainda não foram gerados e os cortes do piloto são provisórios. A narração aprovada permanece a fonte definitiva.
+
+## Nova referência: tutorial_2
+
+[Análise e adaptação da colagem documental](video/tutorial-02-vox/README.md): Nano Banana 2 para composições, animação de recortes até o quadro final e montagem segundo a narração. Esta é a referência mais recente solicitada; o storyboard ilustrado anterior não representa sua estética. Há prompts novos para teste, ainda sem geração de vídeo.

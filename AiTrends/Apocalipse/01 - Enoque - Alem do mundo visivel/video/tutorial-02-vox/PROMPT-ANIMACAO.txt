@@ -1,0 +1,7 @@
+Use a imagem fornecida como composição final de uma animação documental de colagem com duração-alvo de seis segundos, se o gerador oferecer essa duração.
+
+Comece pela folha de papel ao fundo. Faça os recortes visuais principais entrarem separadamente, como peças físicas leves colocadas sobre a página, com pequena rotação, sombra de contato e acomodação suave. Depois, revele os elementos de apoio e trace a linha de ligação. Termine com a composição exatamente igual à imagem de referência e reserve um breve instante para sua leitura.
+
+Preserve desenhos, proporções, cores e disposição final. Não transforme objetos em outros, não invente texto nem redesenhe rostos. Use movimento contido, profundidade de camadas e iluminação estável. Não agite a câmera nem faça a textura piscar. Evite animações internas desnecessárias da gravura: o movimento principal está na montagem editorial dos recortes. Sem voz, fala, música, logotipos ou novos elementos. Qualquer áudio retornado será descartado na montagem.
+
+Se houver fichas vazias na referência, mantenha-as vazias; os títulos serão inseridos por código. Não sustentar a duração com uma longa introdução estática. Este é um pedido de animação generativa a testar, não uma garantia de execução por qualquer modelo ou conta.
