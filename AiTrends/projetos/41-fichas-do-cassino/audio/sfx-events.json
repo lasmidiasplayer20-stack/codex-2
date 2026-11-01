@@ -1,0 +1,79 @@
+[
+  {
+    "seconds": 2.3967666666666667,
+    "duration": 0.22,
+    "kind": "paper",
+    "amplitude": 0.025,
+    "pan": 0
+  },
+  {
+    "seconds": 4.407233333333334,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": -0.23431506828939894
+  },
+  {
+    "seconds": 5.4870833333333335,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": -0.12131846684305062
+  },
+  {
+    "seconds": 6.806900000000001,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": 0.030534608708965627
+  },
+  {
+    "seconds": 8.2467,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": -0.020228797513923147
+  },
+  {
+    "seconds": 11.147025000000001,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": 0.0026690661275065586
+  },
+  {
+    "seconds": 14.068075,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": -0.04182988252542763
+  },
+  {
+    "seconds": 16.502283333333335,
+    "duration": 0.1,
+    "kind": "chip tap",
+    "amplitude": 0.02,
+    "pan": -0.03177041990049989
+  },
+  {
+    "seconds": 26.993675000000003,
+    "duration": 0.16,
+    "kind": "chip tap",
+    "amplitude": 0.014,
+    "pan": 0
+  },
+  {
+    "seconds": 15.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  },
+  {
+    "seconds": 37.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  }
+]

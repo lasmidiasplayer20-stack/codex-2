@@ -1,0 +1,9 @@
+{
+  "integrated_lufs": -17.9,
+  "true_peak_dbfs": -3.2,
+  "clipping_detected": false,
+  "same_voice": "Puck/gemini-2.5-flash-preview-tts",
+  "speed_change": false,
+  "human_full_listening": false,
+  "asr": "narration-check.json"
+}

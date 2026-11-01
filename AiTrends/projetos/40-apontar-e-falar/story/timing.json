@@ -1,0 +1,83 @@
+{
+  "duration": 45,
+  "voice_offset": 0.18,
+  "voice_end": 43.349916666666665,
+  "beats": [
+    {
+      "beat": 0,
+      "start": 0.18,
+      "end": 4.861916666666667,
+      "raw_start": 0.0,
+      "raw_end": 4.857082999999999
+    },
+    {
+      "beat": 1,
+      "start": 5.100708333333333,
+      "end": 12.0525,
+      "raw_start": 4.857082999999999,
+      "raw_end": 12.2665
+    },
+    {
+      "beat": 2,
+      "start": 12.291291666666666,
+      "end": 19.258125,
+      "raw_start": 12.2665,
+      "raw_end": 19.720792
+    },
+    {
+      "beat": 3,
+      "start": 19.496916666666667,
+      "end": 27.147166666666667,
+      "raw_start": 19.720792,
+      "raw_end": 28.051582999999997
+    },
+    {
+      "beat": 4,
+      "start": 27.385958333333335,
+      "end": 35.321416666666664,
+      "raw_start": 28.051582999999997,
+      "raw_end": 36.51375
+    },
+    {
+      "beat": 5,
+      "start": 35.56020833333333,
+      "end": 43.34991666666666,
+      "raw_start": 36.51375,
+      "raw_end": 45.21095833333333
+    }
+  ],
+  "boundary_method": "Approximate ASR, rescaled to actual PCM duration, nearest detected quiet interval; not word-perfect forced alignment",
+  "asr_duration_scale": 1.0046879629629628,
+  "added_inter_beat_pauses_seconds": 0.23880833333333412,
+  "deleted_raw_intervals": [
+    [
+      0.08,
+      0.255167
+    ],
+    [
+      5.087083,
+      5.544708
+    ],
+    [
+      12.4965,
+      12.983958
+    ],
+    [
+      19.950792,
+      20.631333
+    ],
+    [
+      28.281582999999998,
+      28.808292
+    ],
+    [
+      36.743750000000006,
+      37.228875
+    ],
+    [
+      40.001000000000005,
+      40.423375
+    ]
+  ],
+  "editorial_edits": []
+}

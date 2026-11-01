@@ -1,0 +1,13 @@
+{
+  "raw_voice_seconds": 48.21095833333333,
+  "treated_speech_before_added_pauses": 42.483375,
+  "voice_end_seconds": 43.35004166666667,
+  "gain_db": -5.03832774370318,
+  "speed_change": false,
+  "pitch_change": false,
+  "extra_compression": false,
+  "voice": "Puck/gemini-2.5-flash-preview-tts",
+  "successful_generations": 1,
+  "mix_peak_dbfs": -3.707455556971243,
+  "human_full_listening": false
+}

@@ -1,0 +1,159 @@
+{
+  "duration": 45,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.68733,
+      "params": {
+        "act": 0,
+        "view": 0,
+        "label": "DINHEIRO POR FICHAS",
+        "sub": "Por que usar discos coloridos?"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.68733,
+      "end": 6.68692,
+      "params": {
+        "act": 1,
+        "view": 0,
+        "label": "MOVER • EMPILHAR • CONTAR",
+        "sub": "Valores padronizados naquele local"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.68692,
+      "end": 9.6865,
+      "params": {
+        "act": 1,
+        "view": 1,
+        "label": "MOVER • EMPILHAR • CONTAR",
+        "sub": "Valores padronizados naquele local"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.6865,
+      "end": 12.93211,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "CORES NÃO SÃO UNIVERSAIS",
+        "sub": "Valores mostrados são ilustrativos"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.93211,
+      "end": 16.17772,
+      "params": {
+        "act": 2,
+        "view": 1,
+        "label": "CORES NÃO SÃO UNIVERSAIS",
+        "sub": "Valores mostrados são ilustrativos"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.17772,
+      "end": 19.42333,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "CORES NÃO SÃO UNIVERSAIS",
+        "sub": "Valores mostrados são ilustrativos"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 19.42333,
+      "end": 22.29033,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "RECURSOS VARIAM",
+        "sub": "Algumas fichas têm proteção adicional"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 22.29033,
+      "end": 25.15733,
+      "params": {
+        "act": 3,
+        "view": 1,
+        "label": "RECURSOS VARIAM",
+        "sub": "Algumas fichas têm proteção adicional"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 25.15733,
+      "end": 28.2179,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "A FICHA REPRESENTA UM VALOR",
+        "sub": "A troca segue as regras do local"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 28.2179,
+      "end": 31.27847,
+      "params": {
+        "act": 4,
+        "view": 1,
+        "label": "A FICHA REPRESENTA UM VALOR",
+        "sub": "A troca segue as regras do local"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 31.27847,
+      "end": 34.33904,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "A FICHA REPRESENTA UM VALOR",
+        "sub": "A troca segue as regras do local"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 34.33904,
+      "end": 37.89269,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "A MATEMÁTICA NÃO MUDA",
+        "sub": "Aposta não vira investimento"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 37.89269,
+      "end": 41.44635,
+      "params": {
+        "act": 5,
+        "view": 1,
+        "label": "A MATEMÁTICA NÃO MUDA",
+        "sub": "Aposta não vira investimento"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 41.44635,
+      "end": 45.0,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "A MATEMÁTICA NÃO MUDA",
+        "sub": "Aposta não vira investimento"
+      }
+    }
+  ]
+}

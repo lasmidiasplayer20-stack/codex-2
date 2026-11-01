@@ -1,0 +1,159 @@
+{
+  "duration": 45,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.18727,
+      "params": {
+        "act": 0,
+        "view": 0,
+        "label": "CADÊ A JANELA?",
+        "sub": "Uma moldura cheia de parede"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.18727,
+      "end": 6.37454,
+      "params": {
+        "act": 0,
+        "view": 1,
+        "label": "CADÊ A JANELA?",
+        "sub": "Uma moldura cheia de parede"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.37454,
+      "end": 10.28735,
+      "params": {
+        "act": 1,
+        "view": 0,
+        "label": "UM IMPOSTO HISTÓRICO",
+        "sub": "Grã-Bretanha: 1696–1851"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 10.28735,
+      "end": 14.20017,
+      "params": {
+        "act": 1,
+        "view": 1,
+        "label": "UM IMPOSTO HISTÓRICO",
+        "sub": "Grã-Bretanha: 1696–1851"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 14.20017,
+      "end": 17.77602,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "ALGUMAS ABERTURAS FORAM FECHADAS",
+        "sub": "Reconstituição ilustrativa"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 17.77602,
+      "end": 21.35187,
+      "params": {
+        "act": 2,
+        "view": 1,
+        "label": "ALGUMAS ABERTURAS FORAM FECHADAS",
+        "sub": "Reconstituição ilustrativa"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 21.35187,
+      "end": 24.36539,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "O FECHAMENTO NÃO PROVA A CAUSA",
+        "sub": "Reformas e novos usos também contam"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 24.36539,
+      "end": 27.3789,
+      "params": {
+        "act": 3,
+        "view": 1,
+        "label": "O FECHAMENTO NÃO PROVA A CAUSA",
+        "sub": "Reformas e novos usos também contam"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 27.3789,
+      "end": 30.39242,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "O FECHAMENTO NÃO PROVA A CAUSA",
+        "sub": "Reformas e novos usos também contam"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 30.39242,
+      "end": 33.04335,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "ÀS VEZES É SÓ SIMETRIA",
+        "sub": "Uma janela falsa pode ser decorativa"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 33.04335,
+      "end": 35.69429,
+      "params": {
+        "act": 4,
+        "view": 1,
+        "label": "ÀS VEZES É SÓ SIMETRIA",
+        "sub": "Uma janela falsa pode ser decorativa"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 35.69429,
+      "end": 38.79619,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "INVESTIGUE O PRÉDIO",
+        "sub": "A fachada, sozinha, não conta tudo"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 38.79619,
+      "end": 41.8981,
+      "params": {
+        "act": 5,
+        "view": 1,
+        "label": "INVESTIGUE O PRÉDIO",
+        "sub": "A fachada, sozinha, não conta tudo"
+      }
+    },
+    {
+      "id": "s14",
+      "start": 41.8981,
+      "end": 45.0,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "INVESTIGUE O PRÉDIO",
+        "sub": "A fachada, sozinha, não conta tudo"
+      }
+    }
+  ]
+}

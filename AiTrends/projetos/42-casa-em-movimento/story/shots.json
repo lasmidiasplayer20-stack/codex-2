@@ -1,0 +1,126 @@
+{
+  "duration": 45,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.11383,
+      "params": {
+        "act": 0,
+        "view": 0,
+        "label": "A CASA VAI ANDAR",
+        "sub": "Transporte de uma construção inteira"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.11383,
+      "end": 7.07102,
+      "params": {
+        "act": 1,
+        "view": 0,
+        "label": "PRIMEIRO: AVALIAR A ESTRUTURA",
+        "sub": "Nem toda construção pode ser movida"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.07102,
+      "end": 11.02821,
+      "params": {
+        "act": 1,
+        "view": 1,
+        "label": "PRIMEIRO: AVALIAR A ESTRUTURA",
+        "sub": "Nem toda construção pode ser movida"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 11.02821,
+      "end": 15.31975,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "DISTRIBUIR A CARGA E ERGUER",
+        "sub": "Apoios e macacos: esquema ilustrativo"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 15.31975,
+      "end": 19.61129,
+      "params": {
+        "act": 2,
+        "view": 1,
+        "label": "DISTRIBUIR A CARGA E ERGUER",
+        "sub": "Apoios e macacos: esquema ilustrativo"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 19.61129,
+      "end": 23.89733,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "TRANSPORTAR COM CONTROLE",
+        "sub": "O conjunto segue sobre uma plataforma"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 23.89733,
+      "end": 28.18337,
+      "params": {
+        "act": 3,
+        "view": 1,
+        "label": "TRANSPORTAR COM CONTROLE",
+        "sub": "O conjunto segue sobre uma plataforma"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 28.18337,
+      "end": 32.36335,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "A ROTA TAMBÉM É UM PROJETO",
+        "sub": "Fios, curvas, largura e terreno"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 32.36335,
+      "end": 36.54333,
+      "params": {
+        "act": 4,
+        "view": 1,
+        "label": "A ROTA TAMBÉM É UM PROJETO",
+        "sub": "Fios, curvas, largura e terreno"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 36.54333,
+      "end": 40.77167,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "PESO E INTEGRIDADE",
+        "sub": "Não basta um caminhão forte"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 40.77167,
+      "end": 45.0,
+      "params": {
+        "act": 5,
+        "view": 1,
+        "label": "PESO E INTEGRIDADE",
+        "sub": "Não basta um caminhão forte"
+      }
+    }
+  ]
+}

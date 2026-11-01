@@ -1,0 +1,90 @@
+{
+  "duration": 45,
+  "voice_offset": 0.18,
+  "voice_end": 43.35004166666667,
+  "beats": [
+    {
+      "beat": 0,
+      "start": 0.18,
+      "end": 3.5500000000000003,
+      "raw_start": 0.0,
+      "raw_end": 6.434208
+    },
+    {
+      "beat": 1,
+      "start": 3.6873333333333336,
+      "end": 9.549166666666666,
+      "raw_start": 6.434208,
+      "raw_end": 13.0553335
+    },
+    {
+      "beat": 2,
+      "start": 9.6865,
+      "end": 19.286,
+      "raw_start": 13.0553335,
+      "raw_end": 23.263292
+    },
+    {
+      "beat": 3,
+      "start": 19.423333333333336,
+      "end": 25.020000000000003,
+      "raw_start": 23.263292,
+      "raw_end": 29.198186032863845
+    },
+    {
+      "beat": 4,
+      "start": 25.157333333333337,
+      "end": 34.201708333333336,
+      "raw_start": 29.198186032863845,
+      "raw_end": 38.704572183098584
+    },
+    {
+      "beat": 5,
+      "start": 34.33904166666667,
+      "end": 43.35004166666667,
+      "raw_start": 38.704572183098584,
+      "raw_end": 48.21095833333333
+    }
+  ],
+  "boundary_method": "Approximate ASR, rescaled to actual PCM duration, nearest detected quiet interval; not word-perfect forced alignment",
+  "asr_duration_scale": 1.3580551643192487,
+  "added_inter_beat_pauses_seconds": 0.13732499999999986,
+  "deleted_raw_intervals": [
+    [
+      3.37,
+      7.1935
+    ],
+    [
+      14.228499999999999,
+      14.725542
+    ],
+    [
+      18.846958,
+      18.958375
+    ],
+    [
+      23.493292,
+      23.8315
+    ],
+    [
+      31.046457999999998,
+      31.479208
+    ],
+    [
+      34.85275,
+      34.882042
+    ],
+    [
+      40.207333000000006,
+      40.702708
+    ]
+  ],
+  "editorial_edits": [
+    {
+      "raw_start": 3.37,
+      "raw_end": 6.9935,
+      "removed_text": "Por que o cassino coloca essa etapa no caminho?",
+      "reason": "Remove the optional second hook at surrounding real pauses, preserving natural speech rate and the factual caveats."
+    }
+  ]
+}

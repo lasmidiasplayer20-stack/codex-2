@@ -1,0 +1,15 @@
+{
+  "root": "AiTrends",
+  "files": [
+    "projetos/40-apontar-e-falar/config.json",
+    "projetos/40-apontar-e-falar/story/shots.json",
+    "projetos/40-apontar-e-falar/scenes/world.js",
+    "projetos/40-apontar-e-falar/scenes/rig.js",
+    "projetos/40-apontar-e-falar/audio/mix.mp3",
+    "remotion/src/FactShort.tsx",
+    "remotion/src/fact-scenes.ts",
+    "remotion/scripts/render-fact.mjs"
+  ],
+  "sha256": "f1ca7d5114e8c601481322fcd72bfaaed68fd9673b6dfd7c17da535a81ba040b",
+  "note": "Active project snapshot and relevant Remotion adapter. Other theme modules are not executed for this project."
+}

@@ -1,0 +1,15 @@
+{
+  "root": "AiTrends",
+  "files": [
+    "projetos/39-terreo-aberto/config.json",
+    "projetos/39-terreo-aberto/story/shots.json",
+    "projetos/39-terreo-aberto/scenes/world.js",
+    "projetos/39-terreo-aberto/scenes/rig.js",
+    "projetos/39-terreo-aberto/audio/mix.mp3",
+    "remotion/src/FactShort.tsx",
+    "remotion/src/fact-scenes.ts",
+    "remotion/scripts/render-fact.mjs"
+  ],
+  "sha256": "64a164dc29d983e21e480151bcbf1f6ee4323e4b4c59b2c57626fd1e41cc7037",
+  "note": "Active project snapshot and relevant Remotion adapter. Other theme modules are not executed for this project."
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "seconds": 5.883864583333333,
+    "duration": 0.32,
+    "kind": "paper",
+    "amplitude": 0.02,
+    "pan": 0
+  },
+  {
+    "seconds": 11.028208333333334,
+    "duration": 8.070708333333334,
+    "kind": "hydraulic",
+    "amplitude": 0.028,
+    "pan": 0
+  },
+  {
+    "seconds": 19.611291666666666,
+    "duration": 8.059708333333333,
+    "kind": "motor",
+    "amplitude": 0.022,
+    "pan": 0
+  },
+  {
+    "seconds": 21.159825455995897,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 21.873833966009318,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 22.4626968821908,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 22.995047724075615,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 23.499333874337374,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 23.99259453704208,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 24.48842725148052,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 25.00118727500488,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 25.550926801167428,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 26.175541951758163,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 26.989636689426995,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 15.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  },
+  {
+    "seconds": 37.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  }
+]

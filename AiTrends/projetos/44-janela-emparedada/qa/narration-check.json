@@ -1,0 +1,56 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Essa fachada tem moldura, desenho de janela e uma parede bem no meio."
+    },
+    {
+      "start": 3.5,
+      "end": 5.0,
+      "text": "O que aconteceu aqui?"
+    },
+    {
+      "start": 5.0,
+      "end": 11.5,
+      "text": "Na Grã-Bretanha, um imposto sobre janelas foi criado no fim do século XVII."
+    },
+    {
+      "start": 11.5,
+      "end": 18.5,
+      "text": "A cobrança considerava o número de janelas e algumas aberturas foram fechadas para reduzir o imposto."
+    },
+    {
+      "start": 18.5,
+      "end": 22.5,
+      "text": "Mas cuidado, uma janela emparedada não prova essa história sozinha."
+    },
+    {
+      "start": 22.5,
+      "end": 27.5,
+      "text": "Reformas e mudanças de uso também podem explicar o fechamento."
+    },
+    {
+      "start": 27.5,
+      "end": 32.5,
+      "text": "Outras janelas falsas foram feitas apenas para manter a simetria da fachada."
+    },
+    {
+      "start": 32.5,
+      "end": 36.5,
+      "text": "Então, antes de culpar um imposto antigo, procure a história daquele prédio."
+    },
+    {
+      "start": 36.5,
+      "end": 40.0,
+      "text": "A parede pode guardar mais de uma explicação."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Essa fachada tem moldura, desenho de janela e uma parede bem no meio. O que aconteceu aqui?\n\nNa Grã-Bretanha, um imposto sobre janelas foi criado no fim do século dezessete.\n\nA cobrança considerava o número de janelas, e algumas aberturas foram fechadas para reduzir o imposto.\n\nMas cuidado: uma janela emparedada não prova essa história sozinha. Reformas e mudanças de uso também podem explicar o fechamento.\n\nOutras janelas falsas foram feitas apenas para manter a simetria da fachada.\n\nEntão, antes de culpar um imposto antigo, procure a história daquele prédio. A parede pode guardar mais de uma explicação.\n",
+  "word_similarity": 0.98989898989899,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

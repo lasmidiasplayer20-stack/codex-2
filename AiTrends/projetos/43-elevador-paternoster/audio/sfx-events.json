@@ -1,0 +1,198 @@
+[
+  {
+    "seconds": 0.0,
+    "duration": 44.6,
+    "kind": "motor",
+    "amplitude": 0.012,
+    "pan": 0
+  },
+  {
+    "seconds": 0.7,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 2.5,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 4.3,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 6.1000000000000005,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 7.9,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 9.7,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 11.5,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 13.299999999999999,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 15.1,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 16.9,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 18.7,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 20.5,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 22.3,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 24.1,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 25.9,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 27.7,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 29.5,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 31.3,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 33.1,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 34.900000000000006,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 36.7,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 38.50000000000001,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 40.300000000000004,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 42.1,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": 0.2
+  },
+  {
+    "seconds": 43.900000000000006,
+    "duration": 0.1,
+    "kind": "wood tap",
+    "amplitude": 0.004,
+    "pan": -0.2
+  },
+  {
+    "seconds": 15.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  },
+  {
+    "seconds": 37.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  }
+]

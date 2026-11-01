@@ -1,0 +1,51 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Você entrega dinheiro e recebe fichas."
+    },
+    {
+      "start": 2.5,
+      "end": 8.5,
+      "text": "Na mesa, fichas de valores padronizados são práticas de mover, empilhar e contar."
+    },
+    {
+      "start": 8.5,
+      "end": 14.0,
+      "text": "As cores e as marcações ajudam a identificar os valores."
+    },
+    {
+      "start": 14.0,
+      "end": 18.5,
+      "text": "Não existe, porém, uma tabela universal para todos os cassinos."
+    },
+    {
+      "start": 18.5,
+      "end": 26.5,
+      "text": "Elas também podem incluir recursos de segurança que variam conforme o fabricante e o estabelecimento."
+    },
+    {
+      "start": 26.5,
+      "end": 31.5,
+      "text": "A ficha não faz o dinheiro perder o valor."
+    },
+    {
+      "start": 31.5,
+      "end": 36.5,
+      "text": "Ela representa uma quantia sujeita às regras de troca daquele local."
+    },
+    {
+      "start": 36.5,
+      "end": 44.0,
+      "text": "E trocar notas por discos coloridos não muda a matemática do jogo, nem transforma a aposta em investimento."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Você entrega dinheiro e recebe fichas.\n\nNa mesa, fichas de valores padronizados são práticas de mover, empilhar e contar.\n\nAs cores e as marcações ajudam a identificar os valores. Não existe, porém, uma tabela universal para todos os cassinos.\n\nElas também podem incluir recursos de segurança, que variam conforme o fabricante e o estabelecimento.\n\nA ficha não faz o dinheiro perder o valor. Ela representa uma quantia, sujeita às regras de troca daquele local.\n\nE trocar notas por discos coloridos não muda a matemática do jogo, nem transforma aposta em investimento.\n",
+  "word_similarity": 0.994535519125683,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

@@ -1,0 +1,29 @@
+{
+  "title": "43 - O elevador que não espera por você",
+  "theme": 43,
+  "slug": "elevador-paternoster",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "duration": 45,
+  "renderer": "Remotion/Three.js",
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "export_name": "43 - elevador-paternoster.mp4",
+  "cover_text": "ELE NÃO PARA?",
+  "qaTimes": [
+    0.9775,
+    2.9324,
+    5.99,
+    10.15,
+    14.2028,
+    18.1482,
+    21.9092,
+    25.4857,
+    29.3626,
+    33.5397,
+    37.1902,
+    40.3141,
+    43.4381
+  ]
+}

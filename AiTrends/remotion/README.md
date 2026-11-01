@@ -32,3 +32,14 @@ Não há API de geração ou hospedagem paga neste pacote. A licença do Remotio
 Ver `qa/validation.json` para testes realmente executados e `exports/` para os previews. Nenhuma demo silenciosa deve ser anunciada como episódio narrado final.
 
 Neste Chromium, o teste WebGL com `--gl=swiftshader` falhou na criação do contexto; `--gl=swangle` funcionou. Usar a opção validada ao reproduzir o demo 3D.
+
+## Episódios informativos 39–44
+
+`FactShort` é uma composição 3D nativa, não apenas uma montagem de vídeos existentes. Usa snapshots locais do cenário/rig de cada projeto e timeline própria de 45 s. Comandos:
+
+```bash
+node scripts/render-fact.mjs --project ../projetos/39-terreo-aberto --sheet --scale 0.32 --out /tmp/39-stills
+node scripts/render-fact.mjs --project ../projetos/39-terreo-aberto --workers 2 --out /tmp/39/full-silent.mp4
+```
+
+Guardar o log em `/tmp/39/full-render.log`. Finalização e Foley Python ficam nos scripts compartilhados `../skill/scripts/facts45_{audio,finish}.py`. O finalizador exige fonte congelada e ASR aprovado e confere 45 s/1.080 quadros, áudio, pico e decodificação. Fonte Puck privada não é necessária para revisar imagens; reutilizar o mix MP3 publicado. Não confundir o render silencioso com entrega pronta. Índice: `../series/06-curiosidades-45-segundos/`.

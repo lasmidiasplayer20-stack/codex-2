@@ -1,0 +1,8 @@
+[
+  {
+    "raw_start": 3.37,
+    "raw_end": 6.9935,
+    "removed_text": "Por que o cassino coloca essa etapa no caminho?",
+    "reason": "Remove the optional second hook at surrounding real pauses, preserving natural speech rate and the factual caveats."
+  }
+]

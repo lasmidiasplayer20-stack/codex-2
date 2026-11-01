@@ -1,0 +1,81 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Você olha para a porta e a cabine passa sem esperar."
+    },
+    {
+      "start": 3.5,
+      "end": 4.5,
+      "text": "Logo vem outra."
+    },
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": "Esse é o Paternoster,"
+    },
+    {
+      "start": 6.5,
+      "end": 12.0,
+      "text": "um tipo antigo de elevador com várias cabines abertas em movimento contínuo."
+    },
+    {
+      "start": 12.0,
+      "end": 14.5,
+      "text": "Elas circulam em um circuito,"
+    },
+    {
+      "start": 14.5,
+      "end": 17.5,
+      "text": "sobem por um lado e descem pelo outro,"
+    },
+    {
+      "start": 17.5,
+      "end": 20.5,
+      "text": "permanecendo na posição vertical."
+    },
+    {
+      "start": 20.5,
+      "end": 24.5,
+      "text": "O desenho permite um fluxo constante de passageiros,"
+    },
+    {
+      "start": 24.5,
+      "end": 28.5,
+      "text": "mas traz limitações de segurança e acessibilidade."
+    },
+    {
+      "start": 28.5,
+      "end": 32.5,
+      "text": "Não é um elevador comum com portas que fecham antes da viagem."
+    },
+    {
+      "start": 32.5,
+      "end": 37.5,
+      "text": "Os exemplares existentes seguem condições e regras locais."
+    },
+    {
+      "start": 37.5,
+      "end": 40.5,
+      "text": "Nesta animação mostramos o mecanismo."
+    },
+    {
+      "start": 40.5,
+      "end": 42.5,
+      "text": "Não é convite para experimentar."
+    },
+    {
+      "start": 42.5,
+      "end": 45.0,
+      "text": "Observe a máquina sem testar seus limites."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Você olha para a porta, e a cabine passa sem esperar. Logo vem outra.\n\nEsse é o paternoster: um tipo antigo de elevador com várias cabines abertas em movimento contínuo.\n\nElas circulam em um circuito: sobem por um lado e descem pelo outro, permanecendo na posição vertical.\n\nO desenho permitia um fluxo constante de passageiros, mas traz limitações de segurança e acessibilidade.\n\nNão é um elevador comum com portas que fecham antes da viagem. Os exemplares existentes seguem condições e regras locais.\n\nNesta animação, mostramos o mecanismo. Não é convite para experimentar: observe a máquina, sem testar seus limites.\n",
+  "word_similarity": 0.98989898989899,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

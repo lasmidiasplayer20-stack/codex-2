@@ -1,0 +1,19 @@
+{
+  "native_range_seconds": [
+    8,
+    20
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frames": 288,
+  "consecutive_frames_inspected": 12,
+  "covered": [
+    "lowered arm",
+    "look at signal",
+    "deliberate arm raise",
+    "pointing finger",
+    "two camera angles"
+  ],
+  "human_full_playback": false
+}

@@ -1,0 +1,137 @@
+{
+  "duration": 45,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.29142,
+      "params": {
+        "act": 0,
+        "view": 0,
+        "label": "UM ANDAR A MENOS?",
+        "sub": "O vazio faz parte do projeto"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.29142,
+      "end": 6.58283,
+      "params": {
+        "act": 0,
+        "view": 1,
+        "label": "UM ANDAR A MENOS?",
+        "sub": "O vazio faz parte do projeto"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 6.58283,
+      "end": 10.86988,
+      "params": {
+        "act": 1,
+        "view": 0,
+        "label": "APARTAMENTOS SOBRE PILARES",
+        "sub": "O térreo fica aberto"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 10.86988,
+      "end": 15.15692,
+      "params": {
+        "act": 1,
+        "view": 1,
+        "label": "APARTAMENTOS SOBRE PILARES",
+        "sub": "O térreo fica aberto"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 15.15692,
+      "end": 19.25494,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "UM ESPAÇO COMPARTILHADO",
+        "sub": "Circulação e convivência"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 19.25494,
+      "end": 23.35296,
+      "params": {
+        "act": 2,
+        "view": 1,
+        "label": "UM ESPAÇO COMPARTILHADO",
+        "sub": "Circulação e convivência"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 23.35296,
+      "end": 27.3321,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "ABRIGO E CIRCULAÇÃO DE AR",
+        "sub": "Laterais abertas; cobertura acima"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 27.3321,
+      "end": 31.31125,
+      "params": {
+        "act": 3,
+        "view": 1,
+        "label": "ABRIGO E CIRCULAÇÃO DE AR",
+        "sub": "Laterais abertas; cobertura acima"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 31.31125,
+      "end": 34.26633,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "NÃO É UM FURO NO PRÉDIO",
+        "sub": "A chuva cai do lado de fora"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 34.26633,
+      "end": 37.22142,
+      "params": {
+        "act": 4,
+        "view": 1,
+        "label": "NÃO É UM FURO NO PRÉDIO",
+        "sub": "A chuva cai do lado de fora"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 37.22142,
+      "end": 41.11071,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "UM LUGAR PARA O BAIRRO",
+        "sub": "Exemplo: void decks de Singapura"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 41.11071,
+      "end": 45.0,
+      "params": {
+        "act": 5,
+        "view": 1,
+        "label": "UM LUGAR PARA O BAIRRO",
+        "sub": "Exemplo: void decks de Singapura"
+      }
+    }
+  ]
+}

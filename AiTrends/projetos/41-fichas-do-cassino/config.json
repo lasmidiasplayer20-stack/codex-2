@@ -1,0 +1,30 @@
+{
+  "title": "41 - Por que o cassino troca dinheiro por fichas?",
+  "theme": 41,
+  "slug": "fichas-do-cassino",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "duration": 45,
+  "renderer": "Remotion/Three.js",
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "export_name": "41 - fichas-do-cassino.mp4",
+  "cover_text": "POR QUE FICHAS?",
+  "qaTimes": [
+    1.8437,
+    5.1871,
+    8.1867,
+    11.3093,
+    14.5549,
+    17.8005,
+    20.8568,
+    23.7238,
+    26.6876,
+    29.7482,
+    32.8088,
+    36.1159,
+    39.6695,
+    43.2232
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "42 - Essa casa vai mudar de endereço inteira",
+  "theme": 42,
+  "slug": "casa-em-movimento",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "duration": 45,
+  "renderer": "Remotion/Three.js",
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "export_name": "42 - casa-em-movimento.mp4",
+  "cover_text": "A CASA VAI ANDAR!",
+  "qaTimes": [
+    1.5569,
+    5.0924,
+    9.0496,
+    13.174,
+    17.4655,
+    21.7543,
+    26.0404,
+    30.2734,
+    34.4533,
+    38.6575,
+    42.8858
+  ]
+}

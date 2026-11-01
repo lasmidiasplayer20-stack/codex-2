@@ -1,0 +1,148 @@
+{
+  "duration": 45,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 2.55035,
+      "params": {
+        "act": 0,
+        "view": 0,
+        "label": "ELE APONTA E FALA",
+        "sub": "Uma tarefa, não uma conversa"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 2.55035,
+      "end": 5.10071,
+      "params": {
+        "act": 0,
+        "view": 1,
+        "label": "ELE APONTA E FALA",
+        "sub": "Uma tarefa, não uma conversa"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 5.10071,
+      "end": 8.696,
+      "params": {
+        "act": 1,
+        "view": 0,
+        "label": "UMA CONFERÊNCIA DELIBERADA",
+        "sub": "Técnica usada em operações japonesas"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.696,
+      "end": 12.29129,
+      "params": {
+        "act": 1,
+        "view": 1,
+        "label": "UMA CONFERÊNCIA DELIBERADA",
+        "sub": "Técnica usada em operações japonesas"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.29129,
+      "end": 15.8941,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "OLHAR • APONTAR • CONFIRMAR",
+        "sub": "O procedimento guia a checagem"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 15.8941,
+      "end": 19.49692,
+      "params": {
+        "act": 2,
+        "view": 1,
+        "label": "OLHAR • APONTAR • CONFIRMAR",
+        "sub": "O procedimento guia a checagem"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 19.49692,
+      "end": 23.44144,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "ATENÇÃO NA ROTINA",
+        "sub": "Um gesto ligado à verificação"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 23.44144,
+      "end": 27.38596,
+      "params": {
+        "act": 3,
+        "view": 1,
+        "label": "ATENÇÃO NA ROTINA",
+        "sub": "Um gesto ligado à verificação"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 27.38596,
+      "end": 31.47308,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "NÃO SUBSTITUI A SEGURANÇA",
+        "sub": "Treinamento e sistemas continuam essenciais"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 31.47308,
+      "end": 35.56021,
+      "params": {
+        "act": 4,
+        "view": 1,
+        "label": "NÃO SUBSTITUI A SEGURANÇA",
+        "sub": "Treinamento e sistemas continuam essenciais"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 35.56021,
+      "end": 38.70681,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "CONFERIR ANTES DE SEGUIR",
+        "sub": "Procedimentos variam por operação"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 38.70681,
+      "end": 41.8534,
+      "params": {
+        "act": 5,
+        "view": 1,
+        "label": "CONFERIR ANTES DE SEGUIR",
+        "sub": "Procedimentos variam por operação"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 41.8534,
+      "end": 45.0,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "CONFERIR ANTES DE SEGUIR",
+        "sub": "Procedimentos variam por operação"
+      }
+    }
+  ]
+}

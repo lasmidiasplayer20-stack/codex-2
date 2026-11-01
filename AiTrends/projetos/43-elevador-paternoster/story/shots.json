@@ -1,0 +1,148 @@
+{
+  "duration": 45,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 1.95496,
+      "params": {
+        "act": 0,
+        "view": 0,
+        "label": "A CABINE NÃO ESPERA",
+        "sub": "Um tipo antigo de elevador"
+      }
+    },
+    {
+      "id": "s02",
+      "start": 1.95496,
+      "end": 3.90992,
+      "params": {
+        "act": 0,
+        "view": 1,
+        "label": "A CABINE NÃO ESPERA",
+        "sub": "Um tipo antigo de elevador"
+      }
+    },
+    {
+      "id": "s03",
+      "start": 3.90992,
+      "end": 8.07,
+      "params": {
+        "act": 1,
+        "view": 0,
+        "label": "P A T E R N O S T E R",
+        "sub": "Circuito contínuo de cabines abertas"
+      }
+    },
+    {
+      "id": "s04",
+      "start": 8.07,
+      "end": 12.23008,
+      "params": {
+        "act": 1,
+        "view": 1,
+        "label": "P A T E R N O S T E R",
+        "sub": "Circuito contínuo de cabines abertas"
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.23008,
+      "end": 16.17548,
+      "params": {
+        "act": 2,
+        "view": 0,
+        "label": "SOBE DE UM LADO, DESCE DO OUTRO",
+        "sub": "As cabines permanecem verticais"
+      }
+    },
+    {
+      "id": "s06",
+      "start": 16.17548,
+      "end": 20.12087,
+      "params": {
+        "act": 2,
+        "view": 1,
+        "label": "SOBE DE UM LADO, DESCE DO OUTRO",
+        "sub": "As cabines permanecem verticais"
+      }
+    },
+    {
+      "id": "s07",
+      "start": 20.12087,
+      "end": 23.69746,
+      "params": {
+        "act": 3,
+        "view": 0,
+        "label": "FLUXO CONTÍNUO TEM LIMITES",
+        "sub": "Segurança e acessibilidade importam"
+      }
+    },
+    {
+      "id": "s08",
+      "start": 23.69746,
+      "end": 27.27404,
+      "params": {
+        "act": 3,
+        "view": 1,
+        "label": "FLUXO CONTÍNUO TEM LIMITES",
+        "sub": "Segurança e acessibilidade importam"
+      }
+    },
+    {
+      "id": "s09",
+      "start": 27.27404,
+      "end": 31.45117,
+      "params": {
+        "act": 4,
+        "view": 0,
+        "label": "NÃO É UM ELEVADOR COMUM",
+        "sub": "Condições e regras locais"
+      }
+    },
+    {
+      "id": "s10",
+      "start": 31.45117,
+      "end": 35.62829,
+      "params": {
+        "act": 4,
+        "view": 1,
+        "label": "NÃO É UM ELEVADOR COMUM",
+        "sub": "Condições e regras locais"
+      }
+    },
+    {
+      "id": "s11",
+      "start": 35.62829,
+      "end": 38.75219,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "OBSERVE O MECANISMO",
+        "sub": "Animação explicativa, não tutorial de uso"
+      }
+    },
+    {
+      "id": "s12",
+      "start": 38.75219,
+      "end": 41.8761,
+      "params": {
+        "act": 5,
+        "view": 1,
+        "label": "OBSERVE O MECANISMO",
+        "sub": "Animação explicativa, não tutorial de uso"
+      }
+    },
+    {
+      "id": "s13",
+      "start": 41.8761,
+      "end": 45.0,
+      "params": {
+        "act": 5,
+        "view": 0,
+        "label": "OBSERVE O MECANISMO",
+        "sub": "Animação explicativa, não tutorial de uso"
+      }
+    }
+  ]
+}

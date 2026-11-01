@@ -1,0 +1,51 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Ele aponta para o sinal e fala em voz alta."
+    },
+    {
+      "start": 3.0,
+      "end": 4.5,
+      "text": "Não está conversando com o trem."
+    },
+    {
+      "start": 5.0,
+      "end": 11.5,
+      "text": "Em operações ferroviárias japonesas, apontar e falar é uma técnica usada na conferência de tarefas."
+    },
+    {
+      "start": 12.0,
+      "end": 19.5,
+      "text": "O trabalhador identifica um item, direciona o gesto e confirma verbalmente o que precisa verificar."
+    },
+    {
+      "start": 20.0,
+      "end": 27.5,
+      "text": "A ideia é transformar uma observação automática em uma ação deliberada: olhar, apontar e dizer."
+    },
+    {
+      "start": 28.0,
+      "end": 36.5,
+      "text": "Isso ajuda a manter a atenção durante tarefas repetitivas, mas não substitui treinamento, regras ou sistemas de proteção."
+    },
+    {
+      "start": 37.0,
+      "end": 40.5,
+      "text": "Os procedimentos variam conforme a operação."
+    },
+    {
+      "start": 41.0,
+      "end": 45.0,
+      "text": "O importante não é fazer um gesto teatral, é conferir antes de seguir."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Ele aponta para o sinal e fala em voz alta. Não está conversando com o trem.\n\nEm operações ferroviárias japonesas, apontar e falar é uma técnica usada na conferência de tarefas.\n\nO trabalhador identifica um item, direciona o gesto e confirma verbalmente o que precisa verificar.\n\nA ideia é transformar uma observação automática em uma ação deliberada: olhar, apontar e dizer.\n\nIsso ajuda a manter a atenção durante tarefas repetitivas. Mas não substitui treinamento, regras ou sistemas de proteção.\n\nOs procedimentos variam conforme a operação. O importante não é fazer um gesto teatral. É conferir antes de seguir.\n",
+  "word_similarity": 1.0,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

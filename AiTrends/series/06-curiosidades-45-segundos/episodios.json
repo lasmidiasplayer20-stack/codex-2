@@ -1,0 +1,74 @@
+[
+  {
+    "episode": 39,
+    "title": "O andar vazio foi de propósito",
+    "status": "Validado",
+    "project": "projetos/39-terreo-aberto",
+    "youtube": "youtube/39 - O andar vazio foi de propósito",
+    "seconds": 45,
+    "native_width": 1080,
+    "native_height": 1920,
+    "fps": 24,
+    "frames": 1080
+  },
+  {
+    "episode": 40,
+    "title": "Por que ele aponta e fala sozinho?",
+    "status": "Em produção",
+    "project": "projetos/40-apontar-e-falar",
+    "youtube": "youtube/40 - Por que ele aponta e fala sozinho",
+    "seconds": 45,
+    "native_width": 1080,
+    "native_height": 1920,
+    "fps": 24,
+    "frames": 1080
+  },
+  {
+    "episode": 41,
+    "title": "Por que o cassino troca dinheiro por fichas?",
+    "status": "Em produção",
+    "project": "projetos/41-fichas-do-cassino",
+    "youtube": "youtube/41 - Por que o cassino troca dinheiro por fichas",
+    "seconds": 45,
+    "native_width": 1080,
+    "native_height": 1920,
+    "fps": 24,
+    "frames": 1080
+  },
+  {
+    "episode": 42,
+    "title": "Essa casa vai mudar de endereço inteira",
+    "status": "Em produção",
+    "project": "projetos/42-casa-em-movimento",
+    "youtube": "youtube/42 - Essa casa vai mudar de endereço inteira",
+    "seconds": 45,
+    "native_width": 1080,
+    "native_height": 1920,
+    "fps": 24,
+    "frames": 1080
+  },
+  {
+    "episode": 43,
+    "title": "O elevador que não espera por você",
+    "status": "Em produção",
+    "project": "projetos/43-elevador-paternoster",
+    "youtube": "youtube/43 - O elevador que não espera por você",
+    "seconds": 45,
+    "native_width": 1080,
+    "native_height": 1920,
+    "fps": 24,
+    "frames": 1080
+  },
+  {
+    "episode": 44,
+    "title": "A janela que virou parede",
+    "status": "Em produção",
+    "project": "projetos/44-janela-emparedada",
+    "youtube": "youtube/44 - A janela que virou parede",
+    "seconds": 45,
+    "native_width": 1080,
+    "native_height": 1920,
+    "fps": 24,
+    "frames": 1080
+  }
+]

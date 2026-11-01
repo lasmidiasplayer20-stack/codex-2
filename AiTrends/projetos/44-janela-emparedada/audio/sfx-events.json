@@ -1,0 +1,128 @@
+[
+  {
+    "seconds": 8.722229166666667,
+    "duration": 0.35,
+    "kind": "paper",
+    "amplitude": 0.025,
+    "pan": 0
+  },
+  {
+    "seconds": 14.9153375,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 15.435461742424243,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 15.955585984848485,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 16.475710227272728,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 16.99583446969697,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 17.51595871212121,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 18.036082954545456,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 18.556207196969698,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 19.07633143939394,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 19.596455681818185,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 20.116579924242426,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 20.636704166666668,
+    "duration": 0.1,
+    "kind": "masonry",
+    "amplitude": 0.01,
+    "pan": 0
+  },
+  {
+    "seconds": 39.70681545749182,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 42.28926187261815,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 42.673572916666664,
+    "duration": 0.3,
+    "kind": "paper",
+    "amplitude": 0.016,
+    "pan": 0
+  },
+  {
+    "seconds": 15.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  },
+  {
+    "seconds": 37.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  }
+]

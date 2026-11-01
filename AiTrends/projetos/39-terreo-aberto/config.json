@@ -1,0 +1,28 @@
+{
+  "title": "39 - O andar vazio foi de propósito",
+  "theme": 39,
+  "slug": "terreo-aberto",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "duration": 45,
+  "renderer": "Remotion/Three.js",
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "export_name": "39 - terreo-aberto.mp4",
+  "cover_text": "UM ANDAR A MENOS?",
+  "qaTimes": [
+    1.6457,
+    4.9371,
+    8.7264,
+    13.0134,
+    17.2059,
+    21.304,
+    25.3425,
+    29.3217,
+    32.7888,
+    35.7439,
+    39.1661,
+    43.0554
+  ]
+}

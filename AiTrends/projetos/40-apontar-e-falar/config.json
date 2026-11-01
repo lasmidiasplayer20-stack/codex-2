@@ -1,0 +1,29 @@
+{
+  "title": "40 - Por que ele aponta e fala sozinho?",
+  "theme": 40,
+  "slug": "apontar-e-falar",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "duration": 45,
+  "renderer": "Remotion/Three.js",
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "export_name": "40 - apontar-e-falar.mp4",
+  "cover_text": "ELE FALA SOZINHO?",
+  "qaTimes": [
+    1.2752,
+    3.8255,
+    6.8984,
+    10.4936,
+    14.0927,
+    17.6955,
+    21.4692,
+    25.4137,
+    29.4295,
+    33.5166,
+    37.1335,
+    40.2801,
+    43.4267
+  ]
+}

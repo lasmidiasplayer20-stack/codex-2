@@ -1,0 +1,58 @@
+[
+  {
+    "seconds": 3.315460416666667,
+    "duration": 0.09,
+    "kind": "gentle chime",
+    "amplitude": 0.003,
+    "pan": 0
+  },
+  {
+    "seconds": 14.092697916666665,
+    "duration": 0.09,
+    "kind": "gentle chime",
+    "amplitude": 0.003,
+    "pan": 0
+  },
+  {
+    "seconds": 23.835889583333334,
+    "duration": 0.09,
+    "kind": "gentle chime",
+    "amplitude": 0.003,
+    "pan": 0
+  },
+  {
+    "seconds": 27.385958333333335,
+    "duration": 17.214041666666667,
+    "kind": "train",
+    "amplitude": 0.023,
+    "pan": 0
+  },
+  {
+    "seconds": 39.44735472006723,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 41.83470058019583,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
+    "seconds": 15.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  },
+  {
+    "seconds": 37.2,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "title": "44 - A janela que virou parede",
+  "theme": 44,
+  "slug": "janela-emparedada",
+  "aspect": "9:16",
+  "resolution": "1080p",
+  "fps": 24,
+  "duration": 45,
+  "renderer": "Remotion/Three.js",
+  "voiceover": "audio/narracao.mp3",
+  "script": "input/narracao.txt",
+  "export_name": "44 - janela-emparedada.mp4",
+  "cover_text": "CADÊ A JANELA?",
+  "qaTimes": [
+    1.5936,
+    4.7809,
+    8.3309,
+    12.2438,
+    15.9881,
+    19.5639,
+    22.8586,
+    25.8721,
+    28.8857,
+    31.7179,
+    34.3688,
+    37.2452,
+    40.3471,
+    43.449
+  ]
+}

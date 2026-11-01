@@ -1,0 +1,61 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Você entrega dinheiro e recebe fichas."
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "Por que o cassino coloca essa etapa no caminho?"
+    },
+    {
+      "start": 4.5,
+      "end": 9.0,
+      "text": "Na mesa, fichas de valores padronizados são práticas de mover, empilhar e contar."
+    },
+    {
+      "start": 9.0,
+      "end": 12.5,
+      "text": "As cores e as marcações ajudam a identificar os valores."
+    },
+    {
+      "start": 12.5,
+      "end": 16.5,
+      "text": "Não existe, porém, uma tabela universal para todos os cassinos."
+    },
+    {
+      "start": 16.5,
+      "end": 21.5,
+      "text": "Elas também podem incluir recursos de segurança, que variam conforme o fabricante e o estabelecimento."
+    },
+    {
+      "start": 21.5,
+      "end": 24.5,
+      "text": "A ficha não faz o dinheiro perder o valor."
+    },
+    {
+      "start": 24.5,
+      "end": 28.5,
+      "text": "Ela representa uma quantia sujeita às regras de troca daquele local."
+    },
+    {
+      "start": 28.5,
+      "end": 32.5,
+      "text": "E trocar notas por discos coloridos não muda a matemática do jogo,"
+    },
+    {
+      "start": 32.5,
+      "end": 35.5,
+      "text": "nem transforma a aposta em investimento."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Você entrega dinheiro e recebe fichas. Por que o cassino coloca essa etapa no caminho?\n\nNa mesa, fichas de valores padronizados são práticas de mover, empilhar e contar.\n\nAs cores e as marcações ajudam a identificar os valores. Não existe, porém, uma tabela universal para todos os cassinos.\n\nElas também podem incluir recursos de segurança, que variam conforme o fabricante e o estabelecimento.\n\nA ficha não faz o dinheiro perder o valor. Ela representa uma quantia, sujeita às regras de troca daquele local.\n\nE trocar notas por discos coloridos não muda a matemática do jogo, nem transforma aposta em investimento.\n",
+  "word_similarity": 0.9950248756218906,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}
