@@ -1,0 +1,10 @@
+{
+  "kind": "Analytical transfer-of-support check using active source constants; not full structural engineering",
+  "samples": 1001,
+  "maximum_jack_to_beam_support_gap_before_transfer_m": 2.220446049250313e-16,
+  "unsupported_samples": 0,
+  "movement_starts_after_normalized_act_phase": 0.35,
+  "load_lowering_finishes_by_phase": 0.25,
+  "cart_structure": "Open steel beam frame avoids the four jack positions",
+  "route_geometry": "Illustrative; no real load rating or lift plan asserted"
+}

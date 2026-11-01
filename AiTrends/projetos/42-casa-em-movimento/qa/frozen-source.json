@@ -1,0 +1,15 @@
+{
+  "root": "AiTrends",
+  "files": [
+    "projetos/42-casa-em-movimento/config.json",
+    "projetos/42-casa-em-movimento/story/shots.json",
+    "projetos/42-casa-em-movimento/scenes/world.js",
+    "projetos/42-casa-em-movimento/scenes/rig.js",
+    "projetos/42-casa-em-movimento/audio/mix.mp3",
+    "remotion/src/FactShort.tsx",
+    "remotion/src/fact-scenes.ts",
+    "remotion/scripts/render-fact.mjs"
+  ],
+  "sha256": "0619a0cefb84f43a30bb93d2c4ef58981010ebf0246f58732cf67ab1bc602ce4",
+  "note": "Active project snapshot and relevant Remotion adapter. Other theme modules are not executed for this project."
+}

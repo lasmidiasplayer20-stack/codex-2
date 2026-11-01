@@ -1,6 +1,10 @@
 # 42 — Essa casa vai mudar de endereço inteira
 
-**Estado: em produção.** Só considerar publicado depois do MP4 e QA disponíveis na revisão remota.
+**Exportado e validado:** 45,000 s / 1.080 quadros / 1080×1920. A publicação depende de esta revisão estar no GitHub.
+
+[MP4 completo](exports/42%20-%20casa-em-movimento.mp4) · [Prévia de 12 s](exports/preview-12s.mp4) · [QA visual](qa/filme-completo.jpg)
+
+Mix final: -20.1 LUFS, pico verdadeiro -3.7 dBTP; decodificação integral aprovada.
 
 45 segundos exatos / 1.080 quadros / 24 fps / 1080×1920 nativo. Remotion + Three.js, elenco arredondado original, sem Minecraft. História e cenários próprios.
 

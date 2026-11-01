@@ -1,0 +1,20 @@
+{
+  "native_range_seconds": [
+    11,
+    23
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frames": 288,
+  "consecutive_frames_inspected": 12,
+  "covered": [
+    "lift synchronization",
+    "steel beam support",
+    "jack extension",
+    "settling on cart",
+    "two camera angles"
+  ],
+  "mechanical_layout": "qa/mechanism-layout.json",
+  "human_full_playback": false
+}
