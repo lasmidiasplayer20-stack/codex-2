@@ -1,0 +1,37 @@
+{
+  "source_drive_file_id": "1Rzpo1KztzFYc-xDLG50QL1erDTD3cAQG",
+  "source_name": "enoque-01.mp4",
+  "source_video_frames": 94,
+  "source_video_seconds": 3.9166666666666665,
+  "source_width": 1920,
+  "source_height": 1080,
+  "fps": 24,
+  "source_full_decode_passed": true,
+  "visual_inspection": "16 distributed frames and first 10 consecutive frames inspected; first frame shows complete composition followed by empty background, then collage assembles.",
+  "removed_source_frame_indices": [
+    0
+  ],
+  "final_composition_read_hold_added_frames": 3,
+  "final_composition_read_hold_added_seconds": 0.125,
+  "note": "Three-frame editorial hold at the already assembled final composition, not a loop of character motion. No animation speed change.",
+  "output_frames": 96,
+  "output_seconds": 4,
+  "output_audio": false,
+  "incoming_audio_discarded": true,
+  "narration_regenerated": false,
+  "full_decode_passed": true,
+  "source_sha256": "0aa0fd9307a8afc6b264d57fd2fe5e483ddc3468807c95bcf6b99574a0598fcf",
+  "output_sha256": "1d2625a1d9e49ece56b4f1ed59cd86518cc1d3d0dbefd4a86e50c7c69084820d",
+  "user_approval_of_visual": "not_yet_recorded",
+  "generated_by": "user_in_external_tool",
+  "paid_generation_requested_by_assistant": false,
+  "ffmpeg_video_filter": "trim=start_frame=1,tpad=stop_mode=clone:stop=-1,setpts=N/(24*TB)",
+  "output_options": {
+    "frames_v": 96,
+    "r": 24,
+    "fps_mode": "cfr",
+    "audio": "discarded",
+    "pixel_format": "yuv420p"
+  },
+  "timestamp_note": "Set frame timestamps after the padding filter so all 96 frames decode at unique 24 fps timestamps."
+}

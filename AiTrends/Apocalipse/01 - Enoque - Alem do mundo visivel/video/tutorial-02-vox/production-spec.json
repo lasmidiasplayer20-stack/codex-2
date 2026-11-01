@@ -13,7 +13,7 @@
   "flow_session_connected": false,
   "native_model_duration_verified": false,
   "approved_voice": "Algenib original v1",
-  "generation_started": false,
+  "generation_started": true,
   "chapters": [
     {
       "part": 1,
@@ -615,5 +615,9 @@
       ],
       "prompt_status": "not_written_yet"
     }
-  ]
+  ],
+  "generation_started_by": "user_external_Flow",
+  "assistant_can_operate_flow": false,
+  "user_generated_clips_received": 1,
+  "locally_prepared_four_second_clips": 1
 }
