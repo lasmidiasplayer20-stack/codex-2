@@ -6,7 +6,8 @@
   "compositions": [
     "EntaoDemo",
     "Original3DDemo",
-    "EpisodeMontage"
+    "EpisodeMontage",
+    "FactShort"
   ],
   "actual_renders": [
     {
@@ -48,5 +49,6 @@
   "bridge_source_project": "24-dividir-em-dois",
   "bridge_note": "Reuses a 2-second excerpt and the existing mix; not new episode content",
   "human_full_playback_claimed": false,
-  "representative_3d_frame_inspected": "qa/remotion-3d.jpg"
+  "representative_3d_frame_inspected": "qa/remotion-3d.jpg",
+  "native_fact_episodes": "../../series/06-curiosidades-45-segundos/VALIDATION.json"
 }

@@ -1,13 +1,14 @@
 {
-  "raw_voice_seconds": 45.25095833333334,
-  "treated_speech_before_added_pauses": 43.76241666666667,
-  "voice_end_seconds": 43.94241666666667,
-  "gain_db": -3.2399999999999984,
+  "raw_voice_seconds": 43.89095833333333,
+  "treated_speech_before_added_pauses": 42.79595833333333,
+  "voice_end_seconds": 43.349916666666665,
+  "gain_db": -4.904876436394376,
   "speed_change": false,
   "pitch_change": false,
   "extra_compression": false,
   "voice": "Puck/gemini-2.5-flash-preview-tts",
-  "successful_generations": 1,
-  "mix_peak_dbfs": -3.732616119710896,
-  "human_full_listening": false
+  "successful_generations": 2,
+  "mix_peak_dbfs": -3.6607893310087958,
+  "human_full_listening": false,
+  "used_generations_in_final": 1
 }

@@ -136,4 +136,4 @@ O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da 
 
 [38 — A janela do pachinko](projetos/38-janela-pachinko/README.md): roteiro novo e elenco arredondado original, 69 s verticais nativos 1080p, 22 takes, Puck e Foley Python. Inclui análise da referência, limites da consulta factual, QA, prévia e [pacote YouTube](youtube/38%20-%20A%20janela%20do%20pachinko/).
 
-[Série 39–44 — seis curiosidades de 45 segundos](series/06-curiosidades-45-segundos/README.md): composição Remotion/Three.js nativa, elenco original, Puck e Foley Python. O índice distingue os episódios validados dos ainda em produção.
+[Série 39–44 — seis curiosidades de 45 segundos](series/06-curiosidades-45-segundos/README.md): composição Remotion/Three.js nativa, elenco original, Puck e Foley Python. Os seis episódios estão exportados e validados; o índice reúne MP4s, prévias, fontes, capas, metadados e QA.

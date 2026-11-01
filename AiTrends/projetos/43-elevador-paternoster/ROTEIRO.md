@@ -12,4 +12,4 @@
 
 **Beat 5** — Não é um elevador comum com portas que fecham antes da viagem. Os exemplares existentes seguem condições e regras locais.
 
-**Beat 6** — Nesta animação, mostramos o mecanismo. Não é convite para experimentar: observe a máquina, sem testar seus limites.
+**Beat 6** — Logo aparece outra cabine porque várias compartilham o mesmo circuito. É uma lógica diferente do elevador que atende a uma chamada.

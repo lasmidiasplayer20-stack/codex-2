@@ -7,74 +7,49 @@
     },
     {
       "start": 3.5,
-      "end": 4.5,
+      "end": 5.0,
       "text": "Logo vem outra."
     },
     {
-      "start": 4.5,
-      "end": 6.5,
-      "text": "Esse é o Paternoster,"
-    },
-    {
-      "start": 6.5,
+      "start": 5.0,
       "end": 12.0,
-      "text": "um tipo antigo de elevador com várias cabines abertas em movimento contínuo."
+      "text": "Esse é o paternoster, um tipo antigo de elevador com várias cabines abertas em movimento contínuo."
     },
     {
       "start": 12.0,
-      "end": 14.5,
-      "text": "Elas circulam em um circuito,"
+      "end": 19.0,
+      "text": "Elas circulam em um circuito, sobem por um lado e descem pelo outro, permanecendo na posição vertical."
     },
     {
-      "start": 14.5,
-      "end": 17.5,
-      "text": "sobem por um lado e descem pelo outro,"
+      "start": 19.0,
+      "end": 26.5,
+      "text": "O desenho permitia um fluxo constante de passageiros, mas traz limitações de segurança e acessibilidade."
     },
     {
-      "start": 17.5,
-      "end": 20.5,
-      "text": "permanecendo na posição vertical."
-    },
-    {
-      "start": 20.5,
-      "end": 24.5,
-      "text": "O desenho permite um fluxo constante de passageiros,"
-    },
-    {
-      "start": 24.5,
-      "end": 28.5,
-      "text": "mas traz limitações de segurança e acessibilidade."
-    },
-    {
-      "start": 28.5,
-      "end": 32.5,
+      "start": 26.5,
+      "end": 31.5,
       "text": "Não é um elevador comum com portas que fecham antes da viagem."
     },
     {
-      "start": 32.5,
-      "end": 37.5,
+      "start": 31.5,
+      "end": 35.5,
       "text": "Os exemplares existentes seguem condições e regras locais."
     },
     {
-      "start": 37.5,
-      "end": 40.5,
-      "text": "Nesta animação mostramos o mecanismo."
+      "start": 35.5,
+      "end": 39.5,
+      "text": "Logo aparece outra cabine, porque várias compartilham o mesmo circuito."
     },
     {
-      "start": 40.5,
-      "end": 42.5,
-      "text": "Não é convite para experimentar."
-    },
-    {
-      "start": 42.5,
-      "end": 45.0,
-      "text": "Observe a máquina sem testar seus limites."
+      "start": 39.5,
+      "end": 44.0,
+      "text": "É uma lógica diferente do elevador que atende a uma chamada."
     }
   ],
   "repeated_phrases": [],
   "model": "gemini-3-flash-preview",
-  "expected": "Você olha para a porta, e a cabine passa sem esperar. Logo vem outra.\n\nEsse é o paternoster: um tipo antigo de elevador com várias cabines abertas em movimento contínuo.\n\nElas circulam em um circuito: sobem por um lado e descem pelo outro, permanecendo na posição vertical.\n\nO desenho permitia um fluxo constante de passageiros, mas traz limitações de segurança e acessibilidade.\n\nNão é um elevador comum com portas que fecham antes da viagem. Os exemplares existentes seguem condições e regras locais.\n\nNesta animação, mostramos o mecanismo. Não é convite para experimentar: observe a máquina, sem testar seus limites.\n",
-  "word_similarity": 0.98989898989899,
+  "expected": "Você olha para a porta, e a cabine passa sem esperar. Logo vem outra.\n\nEsse é o paternoster: um tipo antigo de elevador com várias cabines abertas em movimento contínuo.\n\nElas circulam em um circuito: sobem por um lado e descem pelo outro, permanecendo na posição vertical.\n\nO desenho permitia um fluxo constante de passageiros, mas traz limitações de segurança e acessibilidade.\n\nNão é um elevador comum com portas que fecham antes da viagem. Os exemplares existentes seguem condições e regras locais.\n\nLogo aparece outra cabine porque várias compartilham o mesmo circuito. É uma lógica diferente do elevador que atende a uma chamada.\n",
+  "word_similarity": 1.0,
   "human_full_listening": false,
   "timing": "approximate automatic transcription",
   "passed": true

@@ -388,3 +388,9 @@ Cuidado com render de prévias: usar `scale` do Remotion, não alterar a largura
 Mecanismos ilustrativos precisam ser coerentes: térreo aberto fica sob cobertura, chuva só de cima para baixo; apontar inclui preparação/gesto/retorno, não braço imóvel por vinte segundos; casa apoiada em vigas, macacos e depois plataforma, com transferência de carga antes do deslocamento; cabines do paternoster permanecem verticais no circuito e não atravessam vigas/solo. Não mostrar personagem testando a passagem pelo topo/fundo do elevador. Janelas emparedadas não provam imposto; fichas não alteram as probabilidades do jogo.
 
 Consultas externas podem falhar: registrar 403/429 e não inventar citações nem declarar páginas lidas. Sem números de eficiência ou casos específicos sem evidência. A aprovação técnica do export não é aprovação editorial do usuário; revisar quadros consecutivos, contatos e amostras do MP4 final.
+
+### Entrega final da série 39–44
+
+Seis MP4s completos, cada um com 45,000 s / 1.080 quadros / 1080×1920/24 fps, mais prévia de 12 s, capa vertical e arquivo único YOUTUBE. Agregação em `../series/06-curiosidades-45-segundos/VALIDATION.json`. Os renders são Remotion/Three.js de fato, não os exemplos SVG ou uma remontagem de imagens externas.
+
+Conferir também o desfecho: quando o personagem se aproxima da câmera, o alvo deve acompanhar sua posição atual para não cortar rosto/corpo. Um contracampo colocado atrás da parede produz um quadro vazio; manter câmera dentro do cômodo ou usar um vão real. No livro/ledger, alinhar a palma à borda, não ao centro do texto. Fazer essas correções com a voz em cache. O episódio 43 recebeu uma substituição editorial de voz completa antes do render; o filme usa uma única geração contínua, sem colar timbres. Foram duas gerações editoriais para esse episódio, registradas em QA; não declarar uma só nem regenerar novamente para revisões visuais.

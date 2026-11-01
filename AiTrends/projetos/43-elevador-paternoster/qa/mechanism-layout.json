@@ -1,0 +1,12 @@
+{
+  "kind": "Analytical layout sample using constants matched to the source; not a general physics simulation",
+  "frames": 1080,
+  "cabins": 8,
+  "sampled_cabin_pair_aabb_overlaps": 0,
+  "sampled_center_post_aabb_overlaps": 0,
+  "minimum_upper_beam_clearance_m": 0.20000046530127413,
+  "minimum_lower_beam_clearance_m": 0.20000046530127324,
+  "orientation": "Cabins remain upright; source explicitly sets zero rotation",
+  "ground_cutout": true,
+  "boarding_shown": false
+}

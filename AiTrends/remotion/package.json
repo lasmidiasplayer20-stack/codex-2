@@ -8,7 +8,8 @@
     "typecheck": "tsc --noEmit",
     "demo": "remotion render src/index.ts EntaoDemo exports/remotion-demo.mp4 --browser-executable=/usr/bin/chromium --concurrency=1 --codec=h264 --crf=20",
     "episode": "node scripts/render-episode.mjs",
-    "demo:3d": "remotion render src/index.ts Original3DDemo exports/remotion-3d-demo.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=1 --codec=h264 --crf=20"
+    "demo:3d": "remotion render src/index.ts Original3DDemo exports/remotion-3d-demo.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=1 --codec=h264 --crf=20",
+    "facts": "node scripts/render-fact.mjs"
   },
   "dependencies": {
     "@react-three/fiber": "9.4.0",

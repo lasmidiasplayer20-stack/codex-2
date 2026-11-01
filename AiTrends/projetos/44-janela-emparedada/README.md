@@ -1,6 +1,10 @@
 # 44 — A janela que virou parede
 
-**Estado: em produção.** Só considerar publicado depois do MP4 e QA disponíveis na revisão remota.
+**Exportado e validado:** 45,000 s / 1.080 quadros / 1080×1920. A publicação depende de esta revisão estar no GitHub.
+
+[MP4 completo](exports/44%20-%20janela-emparedada.mp4) · [Prévia de 12 s](exports/preview-12s.mp4) · [QA visual](qa/filme-completo.jpg)
+
+Mix final: -17.6 LUFS, pico verdadeiro -4.5 dBTP; decodificação integral aprovada.
 
 45 segundos exatos / 1.080 quadros / 24 fps / 1080×1920 nativo. Remotion + Three.js, elenco arredondado original, sem Minecraft. História e cenários próprios.
 

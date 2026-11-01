@@ -1,11 +1,13 @@
 {
   "voice": "Puck",
   "model": "gemini-2.5-flash-preview-tts",
-  "successful_generations": 1,
+  "successful_generations": 2,
   "blocks": 1,
   "same_approved_direction": true,
   "cache_reused_for_render": true,
   "credentials_published": false,
   "speed_change": false,
-  "pitch_change": false
+  "pitch_change": false,
+  "used_generations_in_final": 1,
+  "editorial_revision": "One full replacement before render, same Puck/model, replacing the meta/disclaimer ending with a factual mechanism explanation. Initial voice retained privately, not mixed."
 }

@@ -1,0 +1,15 @@
+{
+  "root": "AiTrends",
+  "files": [
+    "projetos/43-elevador-paternoster/config.json",
+    "projetos/43-elevador-paternoster/story/shots.json",
+    "projetos/43-elevador-paternoster/scenes/world.js",
+    "projetos/43-elevador-paternoster/scenes/rig.js",
+    "projetos/43-elevador-paternoster/audio/mix.mp3",
+    "remotion/src/FactShort.tsx",
+    "remotion/src/fact-scenes.ts",
+    "remotion/scripts/render-fact.mjs"
+  ],
+  "sha256": "690e94fef229985b377f8b4df8b19726938cedf9d0e5a85484b0e86234938e8d",
+  "note": "Active project snapshot and relevant Remotion adapter. Other theme modules are not executed for this project."
+}

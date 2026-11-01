@@ -135,13 +135,13 @@ export function updateFactScene(s,camera,time,shots,cover=false){
  s.actors.nico.update(n);s.actors.lia.update(l);s.actors.nico.root.visible=true;s.actors.lia.root.visible=showL;
  if(holding==='umbrella'){p.shaft.position.copy(s.actors.nico.point());p.shaft.rotation.set(0,0,0);}
  if(holding==='clipboard'){p.clipboard.position.copy(s.actors.nico.point());p.clipboard.position.x+=.05;p.clipboard.rotation.y=n.yaw+Math.PI/2;}
- if(holding==='ledger'){p.ledger.position.copy(s.actors.lia.point());p.ledger.position.y+=.04;p.ledger.rotation.set(.05,.05,0);}
+ if(holding==='ledger'){p.ledger.position.copy(s.actors.lia.point());p.ledger.position.x+=.18;p.ledger.position.y+=.02;p.ledger.rotation.set(.05,.05,0);}
  if(theme===41&&act===0){const q=A(0),to=new H.Vector3(.08,1.20,-.36);p.money.position.copy(s.actors.nico.point()).lerp(to,E((q-.15)/.5));}
  if(theme===41&&act===4){p.chips[0].position.copy(s.actors.nico.point());p.chips[0].position.y+=.06;}
  if(cover){
   s.actors.nico.update({time:1,x:theme===42?-2.2:theme===43?2.1:0,y:0,z:theme===43?2.1:1.15,yaw:-Math.PI/2,headYaw:.1,moving:false,expr:'surprised',gesture:'point',gestureWeight:.55});s.actors.lia.root.visible=false;
   const center=s.actors.nico.root.position;pos=[center.x+1.55,2.5,center.z+4.5];target=[center.x,1.4,center.z];fov=43;
-  if(!s.coverLights){const a=new H.PointLight('#92edff',11,12,2),b=new H.PointLight('#ee65d0',13,12,2);s.root.add(a,b);s.coverLights=[a,b];}s.coverLights[0].position.set(center.x+2,3,center.z+2);s.coverLights[1].position.set(center.x-2,3,center.z-1);s.hemi.intensity=.8;s.sun.intensity=.65;
+  if(!s.coverLights){const a=new H.PointLight('#92edff',11,12,2),b=new H.PointLight('#ee65d0',13,12,2);s.root.add(a,b);s.coverLights=[a,b];}if(theme===44){p.ledger.position.copy(s.actors.nico.point());p.ledger.position.x+=.18;p.ledger.position.y+=.02;}s.coverLights[0].position.set(center.x+2,3,center.z+2);s.coverLights[1].position.set(center.x-2,3,center.z-1);s.hemi.intensity=.8;s.sun.intensity=.65;
  }
  camera.position.set(...pos);camera.lookAt(...target);camera.fov=fov;camera.updateProjectionMatrix();s.root.updateMatrixWorld(true);s.state={time:g,act,view,nico:{...n},lia:{...l},theme,cover};return sh;
 }

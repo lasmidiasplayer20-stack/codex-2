@@ -1,0 +1,20 @@
+{
+  "native_range_seconds": [
+    6,
+    18
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frames": 288,
+  "consecutive_frames_inspected": 12,
+  "covered": [
+    "continuous vertical travel",
+    "upper turnaround",
+    "cabins remaining upright",
+    "multiple camera angles",
+    "character outside the mechanism"
+  ],
+  "analytical_layout": "qa/mechanism-layout.json",
+  "human_full_playback": false
+}

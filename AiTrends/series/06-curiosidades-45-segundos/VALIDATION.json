@@ -1,0 +1,134 @@
+{
+  "episodes": 6,
+  "total_seconds": 270,
+  "total_frames": 6480,
+  "renderer": "Remotion 4.0.539 + Three.js, native original rounded cast",
+  "native_render": true,
+  "upscaled": false,
+  "same_voice_model": true,
+  "human_full_listening_claimed": false,
+  "external_source_access": "Direct reads blocked with 403; grounded research limited with 429; factual notes disclose this in each project",
+  "youtube_upload_performed": false,
+  "records": [
+    {
+      "episode": 39,
+      "title": "O andar vazio foi de propósito",
+      "file": "projetos/39-terreo-aberto/exports/39 - terreo-aberto.mp4",
+      "sha256": "0d26976f6d07987133c08d3a7c9594f1c9d6961214b1e3ac9159a2081ce649e2",
+      "seconds": 45,
+      "frames": 1080,
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "fps": 24,
+      "full_decode_passed": true,
+      "representative_frames_inspected": true,
+      "integrated_lufs": -17.9,
+      "true_peak_dbfs": -3.2,
+      "youtube": "youtube/39 - O andar vazio foi de propósito",
+      "used_voice": "Puck/gemini-2.5-flash-preview-tts",
+      "successful_voice_generations": 1
+    },
+    {
+      "episode": 40,
+      "title": "Por que ele aponta e fala sozinho?",
+      "file": "projetos/40-apontar-e-falar/exports/40 - apontar-e-falar.mp4",
+      "sha256": "e3bb301a9d353b2a6626f13ab4a4ef4cad1f8508100e3b1691cce814ee428fde",
+      "seconds": 45,
+      "frames": 1080,
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "fps": 24,
+      "full_decode_passed": true,
+      "representative_frames_inspected": true,
+      "integrated_lufs": -17.6,
+      "true_peak_dbfs": -4.9,
+      "youtube": "youtube/40 - Por que ele aponta e fala sozinho",
+      "used_voice": "Puck/gemini-2.5-flash-preview-tts",
+      "successful_voice_generations": 1
+    },
+    {
+      "episode": 41,
+      "title": "Por que o cassino troca dinheiro por fichas?",
+      "file": "projetos/41-fichas-do-cassino/exports/41 - fichas-do-cassino.mp4",
+      "sha256": "1f8767e3a5a5b125968d042125fb0cd3b1199e025a470b6eb2141a32e0d5fa24",
+      "seconds": 45,
+      "frames": 1080,
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "fps": 24,
+      "full_decode_passed": true,
+      "representative_frames_inspected": true,
+      "integrated_lufs": -18.3,
+      "true_peak_dbfs": -3.9,
+      "youtube": "youtube/41 - Por que o cassino troca dinheiro por fichas",
+      "used_voice": "Puck/gemini-2.5-flash-preview-tts",
+      "successful_voice_generations": 1
+    },
+    {
+      "episode": 42,
+      "title": "Essa casa vai mudar de endereço inteira",
+      "file": "projetos/42-casa-em-movimento/exports/42 - casa-em-movimento.mp4",
+      "sha256": "cbc5c541a1bbc9cc29167786159414f80999a4254ed7775114b835441b84005b",
+      "seconds": 45,
+      "frames": 1080,
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "fps": 24,
+      "full_decode_passed": true,
+      "representative_frames_inspected": true,
+      "integrated_lufs": -20.1,
+      "true_peak_dbfs": -3.7,
+      "youtube": "youtube/42 - Essa casa vai mudar de endereço inteira",
+      "used_voice": "Puck/gemini-2.5-flash-preview-tts",
+      "successful_voice_generations": 1
+    },
+    {
+      "episode": 43,
+      "title": "O elevador que não espera por você",
+      "file": "projetos/43-elevador-paternoster/exports/43 - elevador-paternoster.mp4",
+      "sha256": "1ce0da2ac718b508f3b886d9fa57c031d0fa880ec1c37e1cfb131b5279ded881",
+      "seconds": 45,
+      "frames": 1080,
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "fps": 24,
+      "full_decode_passed": true,
+      "representative_frames_inspected": true,
+      "integrated_lufs": -17.4,
+      "true_peak_dbfs": -3.3,
+      "youtube": "youtube/43 - O elevador que não espera por você",
+      "used_voice": "Puck/gemini-2.5-flash-preview-tts",
+      "successful_voice_generations": 2
+    },
+    {
+      "episode": 44,
+      "title": "A janela que virou parede",
+      "file": "projetos/44-janela-emparedada/exports/44 - janela-emparedada.mp4",
+      "sha256": "f3fc4ad52e2d57ea223b51fdbba7952faf9ab92f8503f44d37ccc6ae1b77160b",
+      "seconds": 45,
+      "frames": 1080,
+      "native_dimensions": [
+        1080,
+        1920
+      ],
+      "fps": 24,
+      "full_decode_passed": true,
+      "representative_frames_inspected": true,
+      "integrated_lufs": -17.6,
+      "true_peak_dbfs": -4.5,
+      "youtube": "youtube/44 - A janela que virou parede",
+      "used_voice": "Puck/gemini-2.5-flash-preview-tts",
+      "successful_voice_generations": 1
+    }
+  ]
+}

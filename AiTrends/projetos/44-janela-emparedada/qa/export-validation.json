@@ -1,0 +1,41 @@
+{
+  "seconds": 45,
+  "frames": 1080,
+  "fps": 24,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "renderer": "Remotion 4.0.539 + Three.js",
+  "style": "Original rounded cast, not Minecraft",
+  "full_decode_passed": true,
+  "sha256": "f3fc4ad52e2d57ea223b51fdbba7952faf9ab92f8503f44d37ccc6ae1b77160b",
+  "source_sha256": "b1ae4b2c131658a0bc41817fd0ef66d0b9a0ab31e8da3ac62913ff684219700f",
+  "bytes": 11444978,
+  "preview": "exports/preview-12s.mp4",
+  "cta": {
+    "variants": [
+      5,
+      6
+    ],
+    "intervals": [
+      [
+        15,
+        22
+      ],
+      [
+        37,
+        44
+      ]
+    ],
+    "width": 740,
+    "position": [
+      170,
+      1500
+    ],
+    "source_audio_mixed": false
+  },
+  "audio_review": "Automatic raw speech transcription, edited-stem ASR for 41, and signal measures; no human full listening claim",
+  "representative_final_frames_inspected": true,
+  "review": "All take midpoints, four CTA samples and 12 pilot frames inspected; book grip revised and checked in additional stills before native render"
+}

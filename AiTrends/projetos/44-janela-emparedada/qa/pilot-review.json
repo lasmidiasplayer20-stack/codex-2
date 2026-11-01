@@ -1,0 +1,19 @@
+{
+  "native_range_seconds": [
+    14,
+    26
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frames": 288,
+  "consecutive_frames_inspected": 12,
+  "covered": [
+    "brick-by-brick illustrative closure",
+    "facade detail",
+    "shift to a different explanation",
+    "two camera angles"
+  ],
+  "later_grip_revision": "Ledger center offset to keep palm on the edge and text readable; additional stills at 12,26,40 seconds",
+  "human_full_playback": false
+}

@@ -1,0 +1,15 @@
+{
+  "root": "AiTrends",
+  "files": [
+    "projetos/44-janela-emparedada/config.json",
+    "projetos/44-janela-emparedada/story/shots.json",
+    "projetos/44-janela-emparedada/scenes/world.js",
+    "projetos/44-janela-emparedada/scenes/rig.js",
+    "projetos/44-janela-emparedada/audio/mix.mp3",
+    "remotion/src/FactShort.tsx",
+    "remotion/src/fact-scenes.ts",
+    "remotion/scripts/render-fact.mjs"
+  ],
+  "sha256": "b1ae4b2c131658a0bc41817fd0ef66d0b9a0ab31e8da3ac62913ff684219700f",
+  "note": "Active project snapshot and relevant Remotion adapter. Other theme modules are not executed for this project."
+}
