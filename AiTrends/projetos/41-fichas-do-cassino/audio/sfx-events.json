@@ -63,6 +63,27 @@
     "pan": 0
   },
   {
+    "seconds": 33.35150165698635,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 37.32702235750487,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": -0.16
+  },
+  {
+    "seconds": 39.2500763817989,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.012,
+    "pan": 0.16
+  },
+  {
     "seconds": 15.2,
     "duration": 0.1,
     "kind": "gentle chime",

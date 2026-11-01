@@ -75,9 +75,9 @@ if theme==40:
 if theme==41:
  add(at(0,.65),.22,'paper',.025)
  for t in [at(1,.12),at(1,.30),at(1,.52),at(1,.76),at(2,.15),at(2,.45),at(2,.7)]:add(t,.10,'chip tap',.020,float(rng.uniform(-.3,.3)))
- add(at(4,.20),.16,'chip tap',.014)
+ add(at(4,.20),.16,'chip tap',.014);footsteps(at(4,.78),at(4,1),.50);footsteps(at(5,0),at(5,.65),.65)
 if theme==42:
- add(at(1,.35),.32,'paper',.020);add(at(2,0),timings[2]['end']-timings[2]['start'],'hydraulic',.028);add(at(3,0),timings[3]['end']-timings[3]['start'],'motor',.022);footsteps(at(3,0),at(3,1),3.0)
+ add(at(1,.35),.32,'paper',.020);add(at(2,0),timings[2]['end']-timings[2]['start'],'hydraulic',.028);add(at(3,0),timings[3]['end']-timings[3]['start'],'motor',.022);footsteps(at(3,.35),at(3,1),3.0)
 if theme==43:
  add(.0,44.6,'motor',.012)
  for t in np.arange(.7,44,1.8):add(float(t),.10,'wood tap',.004,-.2 if int(t)%2 else .2)

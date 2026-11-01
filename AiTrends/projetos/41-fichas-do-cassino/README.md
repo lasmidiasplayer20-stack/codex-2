@@ -1,6 +1,10 @@
 # 41 — Por que o cassino troca dinheiro por fichas?
 
-**Estado: em produção.** Só considerar publicado depois do MP4 e QA disponíveis na revisão remota.
+**Exportado e validado:** 45,000 s / 1.080 quadros / 1080×1920. A publicação depende de esta revisão estar no GitHub.
+
+[MP4 completo](exports/41%20-%20fichas-do-cassino.mp4) · [Prévia de 12 s](exports/preview-12s.mp4) · [QA visual](qa/filme-completo.jpg)
+
+Mix final: -18.3 LUFS, pico verdadeiro -3.9 dBTP; decodificação integral aprovada.
 
 45 segundos exatos / 1.080 quadros / 24 fps / 1080×1920 nativo. Remotion + Three.js, elenco arredondado original, sem Minecraft. História e cenários próprios.
 

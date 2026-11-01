@@ -1,0 +1,19 @@
+{
+  "native_range_seconds": [
+    2,
+    14
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frames": 288,
+  "consecutive_frames_inspected": 12,
+  "covered": [
+    "money placement",
+    "chip delivery",
+    "counter contacts",
+    "front and reverse angle"
+  ],
+  "later_changes": "Nico turns and walks away carrying a chip; checked additional stills at 28,33,39 seconds",
+  "human_full_playback": false
+}

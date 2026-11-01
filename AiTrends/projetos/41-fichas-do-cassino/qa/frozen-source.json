@@ -1,0 +1,15 @@
+{
+  "root": "AiTrends",
+  "files": [
+    "projetos/41-fichas-do-cassino/config.json",
+    "projetos/41-fichas-do-cassino/story/shots.json",
+    "projetos/41-fichas-do-cassino/scenes/world.js",
+    "projetos/41-fichas-do-cassino/scenes/rig.js",
+    "projetos/41-fichas-do-cassino/audio/mix.mp3",
+    "remotion/src/FactShort.tsx",
+    "remotion/src/fact-scenes.ts",
+    "remotion/scripts/render-fact.mjs"
+  ],
+  "sha256": "7764fd0802d24db00e2f09c25c2e2117112611d1526e916fdd883ffea4ae0bfe",
+  "note": "Active project snapshot and relevant Remotion adapter. Other theme modules are not executed for this project."
+}
