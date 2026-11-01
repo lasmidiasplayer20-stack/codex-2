@@ -1,0 +1,338 @@
+[
+  {
+    "seconds": 8.556558089713915,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 9.06514924287314,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 9.499117778381821,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 9.908985593098208,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 10.32213851191043,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 10.768505447924921,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 11.315749343854359,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 12.3004689,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.0010809407317636799
+  },
+  {
+    "seconds": 12.4904689,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.11191042482167551
+  },
+  {
+    "seconds": 12.6804689,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.3276978344512742
+  },
+  {
+    "seconds": 12.870468899999999,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.35165319982286103
+  },
+  {
+    "seconds": 13.060468899999998,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.024778686735446864
+  },
+  {
+    "seconds": 13.250468899999998,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.051473768451703705
+  },
+  {
+    "seconds": 13.440468899999997,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.20194716750533237
+  },
+  {
+    "seconds": 13.630468899999997,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.08699749138792578
+  },
+  {
+    "seconds": 13.820468899999996,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.1089733114166081
+  },
+  {
+    "seconds": 14.010468899999996,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.25043316457383347
+  },
+  {
+    "seconds": 14.200468899999995,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.36732729591023794
+  },
+  {
+    "seconds": 14.390468899999995,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.29805211132439874
+  },
+  {
+    "seconds": 14.580468899999994,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.1474139471880015
+  },
+  {
+    "seconds": 14.770468899999994,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.3816172208235922
+  },
+  {
+    "seconds": 14.960468899999993,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.3595487799289533
+  },
+  {
+    "seconds": 15.150468899999993,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": -0.2913508727947563
+  },
+  {
+    "seconds": 15.340468899999992,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.23593320751355173
+  },
+  {
+    "seconds": 15.530468899999992,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.26462167248995994
+  },
+  {
+    "seconds": 15.720468899999991,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.1934858454901326
+  },
+  {
+    "seconds": 15.91046889999999,
+    "duration": 0.11,
+    "kind": "steel ball",
+    "amplitude": 0.008,
+    "pan": 0.07690883107134966
+  },
+  {
+    "seconds": 16.388875,
+    "duration": 0.15,
+    "kind": "tray set",
+    "amplitude": 0.015,
+    "pan": 0
+  },
+  {
+    "seconds": 25.927017499999998,
+    "duration": 0.12,
+    "kind": "prize tap",
+    "amplitude": 0.022,
+    "pan": 0
+  },
+  {
+    "seconds": 28.271314999999998,
+    "duration": 0.16,
+    "kind": "cloth",
+    "amplitude": 0.014,
+    "pan": 0
+  },
+  {
+    "seconds": 30.61598285236734,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 30.79190796002823,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 30.938031554456767,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 31.07125061140078,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 31.198811344359576,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 31.32541535530156,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 31.455405534437475,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 31.59448197679275,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 31.753470225622234,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": -0.12
+  },
+  {
+    "seconds": 31.968981299692093,
+    "duration": 0.09,
+    "kind": "footstep",
+    "amplitude": 0.011,
+    "pan": 0.12
+  },
+  {
+    "seconds": 33.99554579,
+    "duration": 0.12,
+    "kind": "prize tap",
+    "amplitude": 0.022,
+    "pan": 0
+  },
+  {
+    "seconds": 35.77392558,
+    "duration": 0.3,
+    "kind": "paper cash",
+    "amplitude": 0.025,
+    "pan": 0
+  },
+  {
+    "seconds": 36.921267379999996,
+    "duration": 0.22,
+    "kind": "paper cash",
+    "amplitude": 0.021,
+    "pan": 0
+  },
+  {
+    "seconds": 39.364814839999994,
+    "duration": 0.38,
+    "kind": "gentle chime",
+    "amplitude": 0.005,
+    "pan": 0
+  },
+  {
+    "seconds": 45.0085742,
+    "duration": 0.38,
+    "kind": "gentle chime",
+    "amplitude": 0.005,
+    "pan": 0
+  },
+  {
+    "seconds": 50.82870104,
+    "duration": 0.38,
+    "kind": "gentle chime",
+    "amplitude": 0.005,
+    "pan": 0
+  },
+  {
+    "seconds": 15.1,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  },
+  {
+    "seconds": 61.0,
+    "duration": 0.1,
+    "kind": "gentle chime",
+    "amplitude": 0.002,
+    "pan": 0
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Essa janela compra um prêmio que acabou de sair do salão ao lado."
+    },
+    {
+      "start": 4.0,
+      "end": 7.5,
+      "text": "Parece uma troca simples, mas por que separar as duas portas?"
+    },
+    {
+      "start": 7.5,
+      "end": 12.0,
+      "text": "No Japão, o pachinko usa bolinhas de aço em máquinas."
+    },
+    {
+      "start": 12.0,
+      "end": 16.5,
+      "text": "O jogador pode trocar as bolinhas obtidas por mercadorias."
+    },
+    {
+      "start": 16.5,
+      "end": 18.5,
+      "text": "O detalhe tá no balcão."
+    },
+    {
+      "start": 18.5,
+      "end": 23.5,
+      "text": "O salão não pode entregar dinheiro como prêmio, nem recomprar o que entregou."
+    },
+    {
+      "start": 23.5,
+      "end": 26.5,
+      "text": "Entre as opções, existem prêmios especiais."
+    },
+    {
+      "start": 26.5,
+      "end": 31.5,
+      "text": "Eles não são dinheiro, embora possam ser vendidos em outro estabelecimento."
+    },
+    {
+      "start": 31.5,
+      "end": 33.5,
+      "text": "Nico sai com um desses."
+    },
+    {
+      "start": 33.5,
+      "end": 37.5,
+      "text": "Na loja de compra, entrega o objeto e recebe dinheiro."
+    },
+    {
+      "start": 37.5,
+      "end": 39.5,
+      "text": "É uma operação separada."
+    },
+    {
+      "start": 39.5,
+      "end": 41.5,
+      "text": "E falta uma peça."
+    },
+    {
+      "start": 41.5,
+      "end": 45.5,
+      "text": "Um atacadista compra esses objetos e os fornece novamente aos salões."
+    },
+    {
+      "start": 45.5,
+      "end": 48.5,
+      "text": "O prêmio completa um circuito."
+    },
+    {
+      "start": 48.5,
+      "end": 52.5,
+      "text": "Esse arranjo é conhecido como sistema de três estabelecimentos."
+    },
+    {
+      "start": 52.5,
+      "end": 57.5,
+      "text": "O salão entrega, a loja compra, o atacadista redistribui."
+    },
+    {
+      "start": 57.5,
+      "end": 61.5,
+      "text": "Isso não significa que qualquer aposta seja permitida."
+    },
+    {
+      "start": 61.5,
+      "end": 65.5,
+      "text": "O Japão restringe jogos de azar, com exceções legais."
+    },
+    {
+      "start": 65.5,
+      "end": 70.0,
+      "text": "O segredo dessa história não é a janela, é a separação das operações."
+    }
+  ],
+  "repeated_phrases": [],
+  "model": "gemini-3-flash-preview",
+  "expected": "Esta janela compra um prêmio que acabou de sair do salão ao lado. Parece uma troca simples. Mas por que separar as duas portas?\n\nNo Japão, o pachinko usa bolinhas de aço em máquinas. O jogador pode trocar as bolinhas obtidas por mercadorias.\n\nO detalhe está no balcão: o salão não pode entregar dinheiro como prêmio, nem recomprar o que entregou.\n\nEntre as opções existem prêmios especiais. Eles não são dinheiro, embora possam ser vendidos em outro estabelecimento.\n\nNico sai com um desses prêmios. Na loja de compra, entrega o objeto e recebe dinheiro. É uma operação separada.\n\nE falta uma peça: um atacadista compra esses objetos e os fornece novamente aos salões. O prêmio completa um circuito.\n\nEsse arranjo é conhecido como sistema de três estabelecimentos. O salão entrega, a loja compra, o atacadista redistribui.\n\nIsso não significa que qualquer aposta seja permitida. O Japão restringe jogos de azar, com exceções legais. O segredo desta história não é a janela. É a separação das operações.\n",
+  "word_similarity": 0.9788519637462235,
+  "human_full_listening": false,
+  "timing": "approximate automatic transcription",
+  "passed": true
+}

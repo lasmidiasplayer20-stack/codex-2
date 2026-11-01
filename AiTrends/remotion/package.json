@@ -1,0 +1,30 @@
+{
+  "name": "entao-remotion-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --browser-executable=/usr/bin/chromium",
+    "compositions": "remotion compositions src/index.ts --browser-executable=/usr/bin/chromium",
+    "typecheck": "tsc --noEmit",
+    "demo": "remotion render src/index.ts EntaoDemo exports/remotion-demo.mp4 --browser-executable=/usr/bin/chromium --concurrency=1 --codec=h264 --crf=20",
+    "episode": "node scripts/render-episode.mjs",
+    "demo:3d": "remotion render src/index.ts Original3DDemo exports/remotion-3d-demo.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=1 --codec=h264 --crf=20"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.4.0",
+    "@remotion/bundler": "4.0.539",
+    "@remotion/cli": "4.0.539",
+    "@remotion/renderer": "4.0.539",
+    "@remotion/three": "4.0.539",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.539",
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0",
+    "@types/three": "0.180.0",
+    "typescript": "5.8.3"
+  }
+}

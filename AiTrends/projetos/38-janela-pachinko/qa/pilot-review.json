@@ -1,0 +1,22 @@
+{
+  "range_seconds": [
+    22,
+    38
+  ],
+  "native_width": 1080,
+  "native_height": 1920,
+  "frames": 384,
+  "fps": 24,
+  "viewed_consecutive_frames": 16,
+  "covered": [
+    "counter reverse angle",
+    "prize set on countertop",
+    "pickup",
+    "carry",
+    "street tracking",
+    "exchange window handoff"
+  ],
+  "review": "Representative consecutive frames inspected, not human full playback. Subsequent changes: cash withdrawal, additional diagram angles, street signage.",
+  "rig": "fixed-length two-bone IK with stable pole; inherited rounded original rig",
+  "remaining_limits": "Illustrative animation, no collision/physics solver; no frame-by-frame human review claim."
+}

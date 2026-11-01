@@ -129,3 +129,9 @@ O usuário reprovou o áudio do episódio 04 e relatou cintilação em parte da 
 ## Série curta — nove temas em 30 segundos
 
 [Índice dos episódios 29–37](series/09-temas-30-segundos/README.md): nove histórias originais em vertical 1080p, voz Puck, personagens/skins Minecraft próprios, Foley Python e dois CTAs em vídeo. O índice reúne MP4s, prévias, fontes, capas e os arquivos únicos `YOUTUBE`. As capas finais têm render próprio por código com câmera próxima e luz neon; receita e script de reprodução estão em cada projeto. Consulte a skill local antes de produzir o próximo episódio.
+
+## Remotion local
+
+[Base Remotion](remotion/README.md) adicionada ao estúdio: React/TypeScript, composições de demonstração, integração com nosso rig 3D e montagem de vídeos aiTrends com mix local. Dependências fixadas, sem serviço de render em nuvem ou API de voz nessa etapa. Ver QA e previews da pasta; o episódio 38 mantém o motor aiTrends/Three.js.
+
+[38 — A janela do pachinko](projetos/38-janela-pachinko/README.md): roteiro novo e elenco arredondado original, 69 s verticais nativos 1080p, 22 takes, Puck e Foley Python. Inclui análise da referência, limites da consulta factual, QA, prévia e [pacote YouTube](youtube/38%20-%20A%20janela%20do%20pachinko/).

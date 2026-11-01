@@ -1,0 +1,357 @@
+{
+  "duration": 69,
+  "shots": [
+    {
+      "id": "s01",
+      "start": 0.0,
+      "end": 3.74621,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "window",
+        "cam": "wide",
+        "label": ""
+      }
+    },
+    {
+      "id": "s02",
+      "start": 3.74621,
+      "end": 7.49242,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "window",
+        "cam": "detail",
+        "label": ""
+      }
+    },
+    {
+      "id": "s03",
+      "start": 7.49242,
+      "end": 9.85644,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "hall",
+        "cam": "crane",
+        "label": ""
+      }
+    },
+    {
+      "id": "s04",
+      "start": 9.85644,
+      "end": 12.22047,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "hall",
+        "cam": "track",
+        "label": ""
+      }
+    },
+    {
+      "id": "s05",
+      "start": 12.22047,
+      "end": 14.15467,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "machine",
+        "cam": "over",
+        "label": ""
+      }
+    },
+    {
+      "id": "s06",
+      "start": 14.15467,
+      "end": 16.08887,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "machine",
+        "cam": "macro",
+        "label": ""
+      }
+    },
+    {
+      "id": "s07",
+      "start": 16.08887,
+      "end": 19.38206,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "counter",
+        "cam": "wide",
+        "label": ""
+      }
+    },
+    {
+      "id": "s08",
+      "start": 19.38206,
+      "end": 22.67525,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "counter",
+        "cam": "reverse",
+        "label": ""
+      }
+    },
+    {
+      "id": "s09",
+      "start": 22.67525,
+      "end": 26.45637,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "prize",
+        "cam": "over",
+        "label": ""
+      }
+    },
+    {
+      "id": "s10",
+      "start": 26.45637,
+      "end": 30.2375,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "prize",
+        "cam": "macro",
+        "label": ""
+      }
+    },
+    {
+      "id": "s11",
+      "start": 30.2375,
+      "end": 31.22733,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "walk",
+        "cam": "track",
+        "label": ""
+      }
+    },
+    {
+      "id": "s12",
+      "start": 31.22733,
+      "end": 32.21717,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "walk",
+        "cam": "low",
+        "label": ""
+      }
+    },
+    {
+      "id": "s13",
+      "start": 32.21717,
+      "end": 35.08552,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "exchange",
+        "cam": "over",
+        "label": ""
+      }
+    },
+    {
+      "id": "s14",
+      "start": 35.08552,
+      "end": 37.95387,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "exchange",
+        "cam": "detail",
+        "label": ""
+      }
+    },
+    {
+      "id": "s15",
+      "start": 37.95387,
+      "end": 41.48122,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "cycle",
+        "cam": "top",
+        "label": ""
+      }
+    },
+    {
+      "id": "s16",
+      "start": 41.48122,
+      "end": 45.00857,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "cycle",
+        "cam": "shop",
+        "label": ""
+      }
+    },
+    {
+      "id": "s17",
+      "start": 45.00857,
+      "end": 48.53592,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "cycle",
+        "cam": "wholesaler",
+        "label": ""
+      }
+    },
+    {
+      "id": "s18",
+      "start": 48.53592,
+      "end": 52.06327,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "cycle",
+        "cam": "van",
+        "label": ""
+      }
+    },
+    {
+      "id": "s19",
+      "start": 52.06327,
+      "end": 55.59062,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "cycle",
+        "cam": "orbit",
+        "label": ""
+      }
+    },
+    {
+      "id": "s20",
+      "start": 55.59062,
+      "end": 60.06042,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "end",
+        "cam": "wide",
+        "label": ""
+      }
+    },
+    {
+      "id": "s21",
+      "start": 60.06042,
+      "end": 64.53021,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "end",
+        "cam": "side",
+        "label": ""
+      }
+    },
+    {
+      "id": "s22",
+      "start": 64.53021,
+      "end": 69.0,
+      "scene": "pachinko",
+      "bars": "none",
+      "in": {
+        "type": "cut",
+        "dur": 0
+      },
+      "params": {
+        "act": "end",
+        "cam": "close",
+        "label": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "seconds": 69,
+  "fps": 24,
+  "frames": 1656,
+  "width": 1080,
+  "height": 1920,
+  "native_render": true,
+  "upscaled": false,
+  "full_decode_passed": true,
+  "sha256": "13387ddb014b9af51ab220f840d85208bc0858c388598ae25eff0e096c7d4423",
+  "source_sha256": "04bbd3decab3d7e85e1be638255650773417549ec8e5010378056a116300d733",
+  "bytes": 25189992,
+  "preview": "exports/preview-15s.mp4",
+  "cta": {
+    "variants": [
+      5,
+      6
+    ],
+    "intervals": [
+      [
+        15,
+        22
+      ],
+      [
+        60,
+        67
+      ]
+    ],
+    "width": 740,
+    "position": [
+      170,
+      1500
+    ],
+    "source_audio_mixed": false
+  },
+  "audio_review": "Signal measures and automatic raw speech transcription; no human full listening claim",
+  "cover": "Separate composition of own original rounded cast and procedural booth; not reference frames",
+  "style": "Original rounded cast; not Minecraft",
+  "renderer": "aiTrends/Three.js; Remotion installed alongside, not used for this episode",
+  "representative_final_frames_inspected": true,
+  "final_frame_review": "22 take midpoints plus four CTA samples inspected; not a full human playback"
+}

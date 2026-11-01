@@ -1,0 +1,15 @@
+{
+  "project": "24-dividir-em-dois",
+  "composition": "EpisodeMontage",
+  "source": "24 - Eu sou o original.mp4",
+  "range": [
+    528,
+    575
+  ],
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "audio": "Local published mix, no new TTS",
+  "output": "aitrends-bridge-preview.mp4",
+  "remotion": "4.0.539"
+}

@@ -1,0 +1,52 @@
+{
+  "remotion": "4.0.539",
+  "node": "v24.19.0",
+  "browser": "/usr/bin/chromium",
+  "typecheck_passed": true,
+  "compositions": [
+    "EntaoDemo",
+    "Original3DDemo",
+    "EpisodeMontage"
+  ],
+  "actual_renders": [
+    {
+      "file": "exports/remotion-demo.mp4",
+      "seconds": 10,
+      "frames": 240,
+      "width": 1080,
+      "height": 1920,
+      "fps": 24,
+      "has_audio": false,
+      "full_decode_passed": true,
+      "sha256": "1550840cc4dca41284dd507e7d0005a97073d07212bd23b23077202cc4d286d1"
+    },
+    {
+      "file": "exports/remotion-3d-demo.mp4",
+      "seconds": 5,
+      "frames": 120,
+      "width": 1080,
+      "height": 1920,
+      "fps": 24,
+      "has_audio": false,
+      "full_decode_passed": true,
+      "sha256": "c3f9a58dedd2cef98e8945bff0a8b785931ca40c9dc673385468d59b2cc2817d"
+    },
+    {
+      "file": "exports/aitrends-bridge-preview.mp4",
+      "seconds": 2,
+      "frames": 48,
+      "width": 1080,
+      "height": 1920,
+      "fps": 24,
+      "has_audio": true,
+      "full_decode_passed": true,
+      "sha256": "f6ece10aa1ec1bd0345df2643ca8f18ced2db1d0f59281092be4b9f13f5551eb"
+    }
+  ],
+  "api_generation_used_for_remotion": false,
+  "webgl": "swangle worked; swiftshader failed and was replaced",
+  "bridge_source_project": "24-dividir-em-dois",
+  "bridge_note": "Reuses a 2-second excerpt and the existing mix; not new episode content",
+  "human_full_playback_claimed": false,
+  "representative_3d_frame_inspected": "qa/remotion-3d.jpg"
+}

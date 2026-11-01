@@ -1,0 +1,13 @@
+{
+  "files": [
+    "config.json",
+    "runtime-style.json",
+    "story/shots.json",
+    "scenes/film.js",
+    "scenes/rig.js"
+  ],
+  "sha256": "04bbd3decab3d7e85e1be638255650773417549ec8e5010378056a116300d733",
+  "duration": 69,
+  "frames": 1656,
+  "note": "Source used for the complete native render"
+}

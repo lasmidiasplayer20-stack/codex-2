@@ -1,0 +1,37 @@
+Rendering frames 0-1656 (69.0 s) with 2 worker(s)…
+  48/1656 frames  4.34 fps  elapsed 0m11s  eta 6m11s
+  96/1656 frames  4.33 fps  elapsed 0m22s  eta 6m01s
+  144/1656 frames  4.33 fps  elapsed 0m33s  eta 5m49s
+  192/1656 frames  4.16 fps  elapsed 0m46s  eta 5m52s
+  240/1656 frames  4.29 fps  elapsed 0m56s  eta 5m30s
+  288/1656 frames  4.36 fps  elapsed 1m06s  eta 5m14s
+  336/1656 frames  4.43 fps  elapsed 1m16s  eta 4m58s
+  384/1656 frames  4.46 fps  elapsed 1m26s  eta 4m45s
+  432/1656 frames  4.49 fps  elapsed 1m36s  eta 4m32s
+  480/1656 frames  4.53 fps  elapsed 1m46s  eta 4m19s
+  528/1656 frames  4.56 fps  elapsed 1m56s  eta 4m07s
+  576/1656 frames  4.59 fps  elapsed 2m05s  eta 3m55s
+  624/1656 frames  4.62 fps  elapsed 2m15s  eta 3m43s
+  672/1656 frames  4.64 fps  elapsed 2m25s  eta 3m32s
+  720/1656 frames  4.64 fps  elapsed 2m35s  eta 3m22s
+  768/1656 frames  4.64 fps  elapsed 2m46s  eta 3m12s
+  816/1656 frames  4.60 fps  elapsed 2m57s  eta 3m03s
+  864/1656 frames  4.56 fps  elapsed 3m09s  eta 2m54s
+  912/1656 frames  4.58 fps  elapsed 3m19s  eta 2m42s
+  960/1656 frames  4.58 fps  elapsed 3m29s  eta 2m32s
+  1008/1656 frames  4.54 fps  elapsed 3m42s  eta 2m23s
+  1056/1656 frames  4.48 fps  elapsed 3m56s  eta 2m14s
+  1104/1656 frames  4.45 fps  elapsed 4m08s  eta 2m04s
+  1152/1656 frames  4.41 fps  elapsed 4m21s  eta 1m54s
+  1200/1656 frames  4.40 fps  elapsed 4m33s  eta 1m44s
+  1248/1656 frames  4.38 fps  elapsed 4m45s  eta 1m33s
+  1296/1656 frames  4.38 fps  elapsed 4m56s  eta 1m22s
+  1344/1656 frames  4.38 fps  elapsed 5m07s  eta 1m11s
+  1392/1656 frames  4.39 fps  elapsed 5m17s  eta 1m00s
+  1440/1656 frames  4.39 fps  elapsed 5m28s  eta 0m49s
+  1488/1656 frames  4.34 fps  elapsed 5m43s  eta 0m39s
+  1536/1656 frames  4.24 fps  elapsed 6m02s  eta 0m28s
+  1584/1656 frames  4.18 fps  elapsed 6m19s  eta 0m17s
+  1632/1656 frames  4.18 fps  elapsed 6m31s  eta 0m06s
+
+Done: /workspace/pachinko-private/full-silent.mp4  (6m37s)
