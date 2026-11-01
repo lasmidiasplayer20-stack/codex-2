@@ -75,9 +75,35 @@ for part in json.loads((P/'roteiro/partes.json').read_text()):
  limited=o.work/f'{n:02}-limited.wav'
  subprocess.run(['ffmpeg','-v','error','-y','-i',str(comp),'-af',f'volume={gain}dB,alimiter=limit=0.668344:attack=5:release=100:level=false:latency=true','-c:a','pcm_f32le',str(limited)],check=True)
  _,x=wavfile.read(limited);x=x.astype(float);assert len(x)==target and np.max(np.abs(x))<.99
+ # Remove only sustained low-energy voids after filtering; redistribute their time.
+ post_pause_removed=0
+ for begin,finish in sorted(intervals(x,fs),reverse=True):
+  if begin>0 and finish<len(x)-int(.03*fs) and finish-begin>int(1.3*fs):
+   count=finish-begin-int(.8*fs);pos=begin+(finish-begin-count)//2;x=np.r_[x[:pos],x[pos+count:]];post_pause_removed+=count
+ if post_pause_removed:
+  remaining=target-len(x);gaps=intervals(x,fs);additions=[];tail_padding=0
+  for index,(begin,finish)in enumerate(gaps):
+   if begin<int(.1*fs)or finish>len(x)-int(.2*fs)or finish-begin<int(.18*fs):continue
+   if index and begin-gaps[index-1][1]<int(.15*fs):continue
+   if index+1<len(gaps)and gaps[index+1][0]-finish<int(.15*fs):continue
+   capacity=max(0,int(1.25*fs)-(finish-begin))
+   if capacity:additions.append([begin+(finish-begin)//2,0,capacity])
+  while remaining>0:
+   active=[z for z in additions if z[1]<z[2]]
+   if not active:
+    final_gaps=intervals(x,fs);trailing=(final_gaps[-1][1]-final_gaps[-1][0])if final_gaps and final_gaps[-1][1]>=len(x)-int(.02*fs)else 0
+    if remaining<=max(0,int(.8*fs)-trailing):tail_padding=remaining;remaining=0;break
+    raise SystemExit(f'Part {n}: insufficient safe pause capacity')
+   share=max(1,remaining//len(active))
+   for z in active:
+    extra=min(share,z[2]-z[1],remaining);z[1]+=extra;remaining-=extra
+  for pos,count,_ in sorted(additions,reverse=True):
+   if count:x=np.r_[x[:pos],np.zeros(count),x[pos:]]
+  if tail_padding:x=np.pad(x,(0,tail_padding))
+ assert len(x)==target
  name=f"{n:02} - {part['title']}";folder=P/'audio/partes';folder.mkdir(exist_ok=True);out=folder/(name+'.wav');wavfile.write(out,fs,np.rint(x*32767).astype(np.int16));mp3=out.with_suffix('.mp3');subprocess.run(['ffmpeg','-v','error','-y','-i',str(out),'-c:a','libmp3lame','-b:a','192k',str(mp3)],check=True)
  final=measure(mp3);assert float(final['input_tp'])< -2.5
  subprocess.run(['ffmpeg','-v','error','-xerror','-i',str(mp3),'-f','null','-'],check=True)
  silences=intervals(x,fs);long=max((e-s for s,e in silences),default=0)/fs
- report={'part':n,'title':part['title'],'raw_seconds':rawlen/fs,'editorial_audio_cuts_seconds':plan.get('cuts_seconds',[]),'pcm_seconds':len(x)/fs,'sample_rate':fs,'pcm_frames':len(x),'integrated_lufs':float(final['input_i']),'true_peak_dbtp':float(final['input_tp']),'lra_lu':float(final['input_lra']),'static_gain_db':gain,'maximum_quiet_interval_seconds_threshold_minus43db':long,'duration_method':'quiet-edge trimming, bounded phrase-pause edits and short tail only','pitch_shift':False,'speed_change':False,'compression_ratio':1.4,'peak_only_limiter_dbfs':-3.5,'moving_auto_gain':False,'full_decode_passed':True,'human_full_listening':False,'voice':'Algenib','model':'gemini-2.5-flash-preview-tts','approved_profile_revision':1,'wav':str(out.relative_to(P)),'mp3':str(mp3.relative_to(P))}
+ report={'part':n,'title':part['title'],'raw_seconds':rawlen/fs,'editorial_audio_cuts_seconds':plan.get('cuts_seconds',[]),'pcm_seconds':len(x)/fs,'sample_rate':fs,'pcm_frames':len(x),'integrated_lufs':float(final['input_i']),'true_peak_dbtp':float(final['input_tp']),'lra_lu':float(final['input_lra']),'static_gain_db':gain,'post_filter_quiet_seconds_redistributed':post_pause_removed/fs,'maximum_quiet_interval_seconds_threshold_minus43db':long,'duration_method':'quiet-edge trimming, bounded phrase-pause edits and short tail only','pitch_shift':False,'speed_change':False,'compression_ratio':1.4,'peak_only_limiter_dbfs':-3.5,'moving_auto_gain':False,'full_decode_passed':True,'human_full_listening':False,'voice':'Algenib','model':'gemini-2.5-flash-preview-tts','approved_profile_revision':1,'wav':str(out.relative_to(P)),'mp3':str(mp3.relative_to(P))}
  (P/f'qa/part-{n:02}.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print('FINISHED',n,'raw',rawlen/fs,'lufs',report['integrated_lufs'],'peak',report['true_peak_dbtp'],'maxquiet',long,flush=True)

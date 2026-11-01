@@ -11,3 +11,9 @@ Este comando chama Gemini somente para gerações ou transcrições sem cache. N
 A montagem usa silêncio identificado por energia e não acelera nem altera pitch. Frases maiores que o minuto sem pausas suficientes exigem revisão editorial. O master é montado a partir dos WAVs PCM exatos, não concatenando MP3s com padding.
 
 `check_speech.py` solicita transcrição independente, sem fornecer o roteiro esperado no prompt. Diferenças devem ser avaliadas: grafia de nomes, números e pequenas variantes de fala não justificam regeneração automática. As transcrições e medições são verificações técnicas, não uma escuta humana integral. O QA registra essa limitação.
+
+## Blocos usados nesta entrega
+
+Para economizar chamadas à API, as partes 17–19 foram geradas como uma tomada contínua. As próximas podem usar pares. `generate_block.py` guarda a tomada; `align_block.py` estima tempos por frase; `split_block.py` só aceita cortes em regiões silenciosas. Conferir as palavras de cada arquivo depois de dividir: os tempos do modelo são aproximados. Nunca aplicar os mesmos tempos a uma geração nova.
+
+A parte 19 recebeu uma breve transição original adicional para completar o minuto com fala e pausas naturais. `append_supplement.py` preserva a tomada anterior, ajusta o ganho fixo da transição e registra a composição. O texto final está no roteiro. A parte 10 teve uma frase de ligação removida; os cortes e o motivo estão em `roteiro/audio-edits.json`. Essas intervenções reaproveitam a voz existente.

@@ -13,7 +13,8 @@ for idx in [0,2,1]:
  try:
   with urllib.request.urlopen(req,timeout=240)as f:q=json.load(f)
   text=''.join(z.get('text','')for c in q.get('candidates',[])for z in c.get('content',{}).get('parts',[])if not z.get('thought'));parsed=json.loads(text)
-  if isinstance(parsed,list):parsed={'segments':parsed}
+  if isinstance(parsed,list):parsed=parsed[0]if len(parsed)==1 and isinstance(parsed[0],dict)and'segments'in parsed[0]else{'segments':parsed}
+  while len(parsed.get('segments',[]))==1 and 'segments'in parsed['segments'][0]:parsed['segments']=parsed['segments'][0]['segments']
   parsed['actual_pcm_seconds']=duration;parsed['warning']='Approximate model timestamps; snap to quiet intervals and validate all split words independently.';out.write_text(json.dumps(parsed,ensure_ascii=False,indent=2)+'\n');print('ALIGNMENT_READY',duration,len(parsed['segments']));break
  except urllib.error.HTTPError as e:
   print('ALIGNMENT_HTTP',idx+1,e.code,flush=True)

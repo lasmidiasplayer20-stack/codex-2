@@ -8,5 +8,8 @@
   "spoken_instructions": [],
   "asr_reported_audio_issues": [],
   "human_full_listening": false,
-  "status": "pass_automatic_word_check"
+  "status": "pass_automatic_word_check",
+  "post_word_check_local_edit": "Sustained low-energy pauses redistributed locally after word check; no new TTS, pitch or speed change. The transcript check was reused for the same generated speech.",
+  "delivered_audio_wav_sha256": "1a9c75a66e7b5c1602d28b790f8ca383e1164aae3cc04d2500d2e17fd8181c5b",
+  "expected_script_sha256": "c154077ad12a16d2718c24ac11fad76af002cb66aefc4ddd053048ddfec3eeb9"
 }

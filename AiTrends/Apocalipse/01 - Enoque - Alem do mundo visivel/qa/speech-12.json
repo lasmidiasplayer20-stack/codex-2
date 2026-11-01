@@ -21,5 +21,7 @@
   "human_full_listening": false,
   "status": "pass_after_number_notation_review",
   "editorial_review": "accepted_asr_spelling_only",
-  "review_note": "The two differences are exact number notation equivalents: trezentos e sessenta e quatro = 364, trezentos e sessenta e cinco = 365. No missing wording established."
+  "review_note": "The two differences are exact number notation equivalents: trezentos e sessenta e quatro = 364, trezentos e sessenta e cinco = 365. No missing wording established.",
+  "delivered_audio_wav_sha256": "25c09461dd04d833d325a8a5bc4c43ab5c2411923d534742608162199779e8e4",
+  "expected_script_sha256": "7dcb45e99e3043490d7207f5517ddc190485cc748e4d106bcf9e5bbd49283396"
 }

@@ -1,0 +1,22 @@
+{
+  "part": 22,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Os fragmentos enóquicos encontrados entre os manuscritos do Mar Morto deram ao estudo uma base material importante. Testemunhos em aramaico ajudam a acompanhar a circulação dessas tradições no judaísmo antigo. O achado impede que o conjunto seja tratado simplesmente como uma invenção medieval. Mas o manuscrito precisa ser interrogado sobre aquilo que realmente pode demonstrar. Sua existência documenta um texto e uma história de transmissão. Não transforma automaticamente cada acontecimento narrado em um fato comprovado. Também não responde, sozinho, a todas as questões de autoria ou composição. Esse cuidado não diminui a descoberta. Dá a ela seu peso adequado. Uma pequena superfície escrita pode alterar a compreensão de séculos de leitura, desde que não seja obrigada a sustentar conclusões maiores do que os vestígios permitem.",
+  "word_sequence_similarity": 0.992,
+  "differences": [
+    {
+      "kind": "replace",
+      "expected": "um",
+      "heard": "o"
+    }
+  ],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_after_minor_delivery_review",
+  "editorial_review": "accepted_minor_delivery_and_asr_variants",
+  "review_note": "The transcription uses o manuscrito rather than um manuscrito. This article variant preserves the statement about the limits of manuscript evidence; accepted minor delivery variant.",
+  "delivered_audio_wav_sha256": "79bd18596719b2a5251412e13459f06ddcfdf43e1e656bbdeb2ea12e7797987b",
+  "expected_script_sha256": "9d06417d387731315bc556b724f11fac2681aadeb7a565f4924b6cd983c1bda5"
+}

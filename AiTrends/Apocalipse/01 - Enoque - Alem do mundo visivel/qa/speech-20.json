@@ -1,0 +1,27 @@
+{
+  "part": 20,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "O caminho do livro através dos séculos é outra história de continuidade. A tradição etíope preservou o texto completo em Ge'ez e lhe atribuiu um lugar de autoridade que não se tornou universal entre as igrejas. Por isso, dizer que Enoque desapareceu esconde parte importante de sua trajetória. Ele permaneceu vivo em comunidades que o liam e copiavam. No século XVIII, manuscritos levados por James Bruce ampliaram seu acesso no ambiente europeu. No século seguinte, a tradução inglesa de Richard Laurence contribuiu para novos estudos. Esses episódios não tornam os leitores ocidentais responsáveis pela existência do livro. A preservação já tinha seus guardiões. Uma história contada como redescoberta muda de sentido quando perguntamos quem continuou cuidando daquilo que outros haviam deixado de conhecer por inteiro.",
+  "word_sequence_similarity": 0.9800796812749004,
+  "differences": [
+    {
+      "kind": "replace",
+      "expected": "gees",
+      "heard": "ge ez"
+    },
+    {
+      "kind": "replace",
+      "expected": "dezoito",
+      "heard": "xviii"
+    }
+  ],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_after_name_and_number_notation_review",
+  "editorial_review": "accepted_asr_spelling_only",
+  "review_note": "geês/Ge'ez names the same Ethiopian language; dezoito/XVIII is the same century in word/Roman notation. No spoken content omission established.",
+  "delivered_audio_wav_sha256": "f915f34e1da86a71130f477324da0be43be7f1776620f02499c9b78309a5fb48",
+  "expected_script_sha256": "2b535872cc9d8ad95e203053c54c7d9e196553dc7aea4e741639be57e9357b1c"
+}

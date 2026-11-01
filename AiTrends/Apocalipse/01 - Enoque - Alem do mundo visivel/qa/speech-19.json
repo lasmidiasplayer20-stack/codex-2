@@ -1,0 +1,14 @@
+{
+  "part": 19,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "O dilúvio pertence ao horizonte dessa narrativa de julgamento. A história associa a crise a uma violência que tomou proporções insustentáveis. Gênesis e Primeiro Enoque desenvolvem esses temas de maneiras diferentes. Ao acompanhá-los, percebemos como leitores antigos procuraram compreender a relação entre corrupção, limite e preservação da vida. Noé se torna parte dessa reflexão sobre o que pode atravessar uma catástrofe. O futuro não depende simplesmente de possuir mais força que os outros. A narrativa abre espaço para uma vida que deve ser guardada e para uma ordem que precisa ser reconstruída. A pergunta deixa de estar apenas no que será destruído, passa a estar também no que merece continuar e no cuidado necessário para que essa continuidade seja possível. Essa mesma pergunta acompanha os próprios manuscritos. Para uma história atravessar os séculos, alguém precisa escolher preservá-la e transmiti-la.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check",
+  "delivered_audio_wav_sha256": "bb9e3fb43c0758c4d42a4399ee0b9152130c9f2d13d826ab946124269795ba28",
+  "expected_script_sha256": "c073cedbae0955c03e998ab0dce507450a65702f53e8097cebc47aeaf3dca8b9"
+}

@@ -11,5 +11,9 @@
   "speed_change": false,
   "sample_revision": 1,
   "approval_user_quote": "volte com a primeira versão e manda ver",
-  "approved_sample": "audio/00 - Amostra Algenib.mp3"
+  "approved_sample": "audio/00 - Amostra Algenib.mp3",
+  "full_batch_completed": true,
+  "completed_parts": 25,
+  "total_pcm_seconds": 1500,
+  "delivery_manifest": "qa/DELIVERY.json"
 }

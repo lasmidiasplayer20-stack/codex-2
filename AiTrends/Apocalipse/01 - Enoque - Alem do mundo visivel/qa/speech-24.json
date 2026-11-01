@@ -1,0 +1,14 @@
+{
+  "part": 24,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Entre seres poderosos, visões e calendários, existe uma preocupação que atravessa a tradição enóquica: a vida submetida à injustiça em suas exortações. Riqueza e força não oferecem proteção automática contra o julgamento. A esperança de renovação fala também àqueles que não controlam os acontecimentos. Essa dimensão pode desaparecer quando o livro é apresentado apenas como uma coleção de criaturas assustadoras. As imagens extraordinárias carregam perguntas sobre o modo como as pessoas vivem juntas. Quem sofre será esquecido? Quem explora os outros permanecerá sem resposta? A linguagem religiosa oferece suas respostas dentro de uma visão do mundo. Mesmo para quem a estuda de outra perspectiva, é possível reconhecer a inquietação humana que a sustenta. A força dessa narrativa está na atenção que devolve a quem sofre.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check",
+  "delivered_audio_wav_sha256": "f3dc53e6f643f9ae657774e8f46368c9b2f87ec9dfd4ea565fcbc591775616af",
+  "expected_script_sha256": "e68eb83cf36ed1ccdefa9f1e1b4f60dec386d26d9414525dacfd2f8d6e2fe073"
+}

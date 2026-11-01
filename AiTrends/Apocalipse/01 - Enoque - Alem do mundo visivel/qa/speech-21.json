@@ -1,0 +1,14 @@
+{
+  "part": 21,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "A relação de Enoque com a Bíblia não pode ser resumida a uma ordem que apagou um livro universalmente aceito. Comunidades diferentes construíram e transmitiram seus cânones em processos históricos. Houve debates sobre autoridade, autoria, uso e interpretação. A carta de Judas recorda uma profecia atribuída a Enoque, próxima de uma passagem de Primeiro Enoque. Essa presença mostra sua relevância naquele ambiente antigo, mas a definição do cânone envolve mais do que uma citação isolada. Houve leitores cristãos que defenderam o escrito e outros que lhe atribuíram estatutos diferentes. A tradição etíope preserva uma situação distinta de muitas tradições cristãs. Reconhecer essa diversidade mantém abertas as perguntas religiosas, permite formulá-las sem depender de uma história simples demais para representar todos os caminhos que o livro percorreu.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check",
+  "delivered_audio_wav_sha256": "d1a88fe081bffd8b023f6e169904a183723102d8eeb22ba2da01d8df44dff6e9",
+  "expected_script_sha256": "06032053e186242d5d3631d8af1a5e4f6a56525b58011af062e2fe4d6bf0b044"
+}

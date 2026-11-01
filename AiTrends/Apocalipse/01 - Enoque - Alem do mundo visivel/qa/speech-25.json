@@ -1,0 +1,15 @@
+{
+  "part": 25,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Voltemos agora ao berço. Lameque procurava compreender a criança, mas seu medo carregava a memória de um mundo ferido. A resposta procurada ligou a família a uma história maior. Enoque permaneceu nos escritos e nas comunidades que transmitiram essa reflexão. Não precisamos apagar suas diferenças para perceber o que os une. Há uma busca por ordem, exigência de responsabilidade e uma esperança de que a violência não tenha a última palavra. As visões conduzem o olhar para longe, mas a pergunta retorna à vida humana. O que fazemos com aquilo que aprendemos? Que consequências deixamos para quem ainda não pode escolher? No início, um pai temia o que seu filho seria. Outra pergunta permanece: que mundo estamos preparando para os filhos que acabam de chegar?",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check",
+  "post_word_check_local_edit": "Sustained low-energy pauses redistributed locally after word check; no new TTS, pitch or speed change. The transcript check was reused for the same generated speech.",
+  "delivered_audio_wav_sha256": "8997a0cafec1d476f8fc6d97346ca5ab05b6506f9cf33f1bafe58fdfdea2141c",
+  "expected_script_sha256": "60cc2560032ce3df3ca9dcf48d4ebf7a6ee2ae76c1dd68ad4499966cff3c6886"
+}

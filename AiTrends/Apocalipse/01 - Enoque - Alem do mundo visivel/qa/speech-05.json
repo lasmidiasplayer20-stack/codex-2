@@ -32,5 +32,7 @@
   "status": "pass_after_asr_discrepancy_review",
   "editorial_review": "accepted_minor_delivery_and_asr_variants",
   "review_note": "200/duzentos and Hermom/Hermon are notation variants; Semiazá/Semihazah varies in transliteration and the focused second ASR supports Semiaza. The later phrase begins com uma concordância rather than the scripted como uma concordância; accepted as a minor grammatical delivery variant without substantive meaning change. The second ASR of seconds 15–35 does not verify that later phrase.",
-  "second_pass_transcript": "Semiaza ocupa posição de liderança. A decisão é compartilhada, como se a união do grupo pudesse tornar suportável o peso de cada participante. O juramento não elimina a responsabilidade, ao contrário, mostra que eles compreendem a gravidade do que pretendem fazer."
+  "second_pass_transcript": "Semiaza ocupa posição de liderança. A decisão é compartilhada, como se a união do grupo pudesse tornar suportável o peso de cada participante. O juramento não elimina a responsabilidade, ao contrário, mostra que eles compreendem a gravidade do que pretendem fazer.",
+  "delivered_audio_wav_sha256": "2a9f4580897224a5b4d567ebb90c6a9bfdfb6dee897adaa8617b9cc150c56458",
+  "expected_script_sha256": "bf9e06693c39bd1b570b64a5115f2bdd86ba9e8a4ae12476c9299f99562efabf"
 }

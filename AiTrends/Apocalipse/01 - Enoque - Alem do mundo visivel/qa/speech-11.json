@@ -8,5 +8,7 @@
   "spoken_instructions": [],
   "asr_reported_audio_issues": [],
   "human_full_listening": false,
-  "status": "pass_automatic_word_check"
+  "status": "pass_automatic_word_check",
+  "delivered_audio_wav_sha256": "c579401b309f199ed7f394b30fd95457704a03a80e8213ea20aa9a5f812808ac",
+  "expected_script_sha256": "e81d674a5b2fc17792d1b01b8969b10085d53049452310058b828c683b2b0341"
 }

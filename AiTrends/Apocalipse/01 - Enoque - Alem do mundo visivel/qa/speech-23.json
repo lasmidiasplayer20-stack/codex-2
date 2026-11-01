@@ -1,0 +1,24 @@
+{
+  "part": 23,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Ler um fragmento antigo pode exigir mais do que aproximar os olhos. Fotografia especializada e técnicas de análise ajudam pesquisadores a distinguir marcas, comparar escrita e reconstruir problemas de transmissão. Ferramentas computacionais podem participar desse trabalho. Seus resultados, porém, dependem dos materiais, dos métodos e das perguntas escolhidas. Uma imagem mais legível não dispensa interpretação. E uma estimativa não se transforma em certeza por ter sido produzida por uma máquina. Esse encontro entre tecnologia e estudo histórico nos devolve algo mais interessante do que uma revelação instantânea. Mostra uma tarefa paciente. Cada leitura precisa explicar seus critérios e reconhecer seus limites. O livro que descreve segredos celestes também nos conduz, no presente, a um trabalho muito terreno: observar com cuidado aquilo que o tempo deixou.",
+  "word_sequence_similarity": 0.9800796812749004,
+  "differences": [
+    {
+      "kind": "replace",
+      "expected": "aproxima lo dos",
+      "heard": "aproximar os"
+    }
+  ],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_after_minor_delivery_review",
+  "editorial_review": "accepted_minor_delivery_and_asr_variants",
+  "review_note": "The full ASR returned aproximar os olhos; a focused second ASR returned o aproximar dos olhos. The difference concerns a short clitic/liaison around aproximá-lo dos olhos. Both preserve the sentence sense; transcription/pronunciation ambiguity remains, without evidence of an editing cut. Not human-confirmed.",
+  "second_pass_transcript": "Ler um fragmento antigo pode exigir mais do que o aproximar dos olhos. Fotografia especializada e técnicas de análise ajudam pesquisadores a distinguir marcas, comparar escrita e reconstruir...",
+  "post_word_check_local_edit": "Sustained low-energy pauses redistributed locally after word check; no new TTS, pitch or speed change. The transcript check was reused for the same generated speech.",
+  "delivered_audio_wav_sha256": "def3b8c282f6cd904655988937b142e06a72cd93eb4b3c37af5fae99ff34d77f",
+  "expected_script_sha256": "25aa9f111274d19d907a4b29a39d1eb33780d127e0a9bda10bf7ebbfb08bc751"
+}

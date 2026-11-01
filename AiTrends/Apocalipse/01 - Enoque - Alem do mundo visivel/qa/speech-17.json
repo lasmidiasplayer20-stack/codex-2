@@ -1,0 +1,14 @@
+{
+  "part": 17,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Agora podemos retornar à casa de Lameque. O medo diante do nascimento não surgiu num mundo neutro. A narrativa já havia apresentado a ruptura dos vigilantes e a desordem de seus descendentes. É nesse universo que a aparência extraordinária da criança desperta suspeita. Lameque procura Matusalém e a busca pela explicação alcança Enoque. O episódio preservado em passagens finais de Primeiro Enoque amplia uma história familiar que os leitores do Gênesis conhecem de outra forma. A cena liga nascimento, memória e futuro. A família tenta compreender o que vê à luz de acontecimentos que teme. Antes de ouvir uma resposta, precisa enfrentar uma dificuldade profundamente reconhecível: uma lembrança de perigo pode transformar até a chegada de uma criança em motivo de desconfiança.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check",
+  "delivered_audio_wav_sha256": "0220592caabca2471ace4e96f7762cc0f16786f64dfaf6f967b794f44770cff9",
+  "expected_script_sha256": "42c3d34566b89e499fe92eda7f6c5b56088d324a5b016e66218a247583b097e7"
+}

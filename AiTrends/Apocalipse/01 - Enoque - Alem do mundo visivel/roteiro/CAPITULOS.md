@@ -1,6 +1,6 @@
 # Capítulos — Enoque: além do mundo visível
 
-Planejamento de 25 partes, cada uma com 60 segundos. Tempos finais serão confirmados no manifesto de entrega.
+25 partes concluídas, cada uma com 60 segundos. Tempos confirmados em qa/DELIVERY.json.
 
 00:00 — 01 — O medo no berco
 01:00 — 02 — Um nome entre genealogias
