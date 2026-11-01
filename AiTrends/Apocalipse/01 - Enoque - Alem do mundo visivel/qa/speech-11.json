@@ -1,0 +1,12 @@
+{
+  "part": 11,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Entre as visões, aparecem lugares de espera dos mortos pelo julgamento. O relato distingue destinos e condições, como se a morte não encerrasse automaticamente a questão da justiça. Para vítimas da violência, essa ideia tem uma força particular. O opressor pode escapar da resposta imediata, mas o texto não o coloca fora de toda prestação de contas. Ao mesmo tempo, a vítima não é reduzida àquilo que sofreu. A paisagem celeste sustenta uma esperança que a experiência terrena nem sempre oferece. Estamos diante de uma elaboração religiosa sobre justiça, memória e destino. Suas imagens receberam diversas leituras ao longo do tempo. Aqui, elas marcam uma mudança na viagem. Enoque não observa apenas o funcionamento do mundo. Ele encontra perguntas que acompanham a humanidade mesmo depois da morte.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check"
+}

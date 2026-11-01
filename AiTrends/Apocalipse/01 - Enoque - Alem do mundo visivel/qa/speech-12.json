@@ -1,0 +1,25 @@
+{
+  "part": 12,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "A tradição enóquica também se ocupa do tempo. O chamado livro astronômico descreve movimentos celestes e apresenta um calendário de 364 dias. Organizado em semanas completas, esse modelo oferece forma regular de distribuir o ano. Essa conta não deve ser confundida com os 365 anos atribuídos ao personagem no Gênesis. Uma informação pertence à apresentação de uma vida, a outra a um sistema de organização do tempo. Esse sistema pertence ao horizonte religioso e cosmológico da obra. O interesse do texto é religioso: reconhecer a ordem, organizar celebrações e preservar um modo correto de acompanhar os dias. Para seus leitores, o calendário podia dizer mais do que a data, podia expressar uma maneira de pertencer ao mundo.",
+  "word_sequence_similarity": 0.9504132231404959,
+  "differences": [
+    {
+      "kind": "replace",
+      "expected": "trezentos e sessenta e quatro",
+      "heard": "364"
+    },
+    {
+      "kind": "replace",
+      "expected": "trezentos e sessenta e cinco",
+      "heard": "365"
+    }
+  ],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_after_number_notation_review",
+  "editorial_review": "accepted_asr_spelling_only",
+  "review_note": "The two differences are exact number notation equivalents: trezentos e sessenta e quatro = 364, trezentos e sessenta e cinco = 365. No missing wording established."
+}

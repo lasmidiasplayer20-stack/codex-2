@@ -1,0 +1,12 @@
+{
+  "part": 15,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Visões recorrem a animais para representar personagens e acontecimentos. Essa mudança de forma não abandona o interesse pela humanidade. Ela oferece uma linguagem para contar sua história. Povos, lideranças, conflitos e transformações podem ser reconhecidos por meio de imagens que condensam relações complexas. É assim que parte do conjunto conhecido como Livro dos Sonhos conduz o leitor. A aparência extraordinária pede interpretação. Uma figura animal pode falar de poder, pertencimento ou ameaça, sem funcionar como uma descrição literal de um corpo. Perceber esse recurso ajuda a ler o restante da obra com atenção ao gênero de cada passagem. Nem toda imagem faz o mesmo trabalho. Uma genealogia, uma visão e um anúncio de julgamento podem compartilhar temas sem pedir exatamente a mesma maneira de leitura.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check"
+}

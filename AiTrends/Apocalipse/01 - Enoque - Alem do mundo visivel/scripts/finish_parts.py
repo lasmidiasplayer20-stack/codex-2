@@ -17,7 +17,13 @@ def intervals(x,fs):
 for part in json.loads((P/'roteiro/partes.json').read_text()):
  n=part['part']
  if not o.from_part<=n<=o.to_part:continue
- raw=o.work/f'{n:02}-raw.wav';fs,v=wavfile.read(raw);assert fs==fs_expected and v.ndim==1;x=v.astype(float)/32768;rawlen=len(x);quiet=intervals(x,fs)
+ raw=o.work/f'{n:02}-raw.wav';fs,v=wavfile.read(raw);assert fs==fs_expected and v.ndim==1;x=v.astype(float)/32768;rawlen=len(x)
+ edit_path=P/'roteiro/audio-edits.json';plan=json.loads(edit_path.read_text()).get(str(n),{})if edit_path.exists()else{}
+ for begin,end_cut in sorted(plan.get('cuts_seconds',[]),reverse=True):
+  a=int(round(begin*fs));b=int(round(end_cut*fs));assert 0<=a<b<=len(x)
+  assert np.max(np.abs(x[a-int(.02*fs):a+int(.02*fs)]))<.02 and np.max(np.abs(x[b-int(.02*fs):b+int(.02*fs)]))<.02,'Edit endpoints must be quiet'
+  x=np.r_[x[:a],x[b:]]
+ quiet=intervals(x,fs)
  # Remove only demonstrably quiet edges, leaving breath margins.
  start=0;end=len(x)
  if quiet and quiet[0][0]==0:start=max(0,quiet[0][1]-int(.09*fs))
@@ -73,5 +79,5 @@ for part in json.loads((P/'roteiro/partes.json').read_text()):
  final=measure(mp3);assert float(final['input_tp'])< -2.5
  subprocess.run(['ffmpeg','-v','error','-xerror','-i',str(mp3),'-f','null','-'],check=True)
  silences=intervals(x,fs);long=max((e-s for s,e in silences),default=0)/fs
- report={'part':n,'title':part['title'],'raw_seconds':rawlen/fs,'pcm_seconds':len(x)/fs,'sample_rate':fs,'pcm_frames':len(x),'integrated_lufs':float(final['input_i']),'true_peak_dbtp':float(final['input_tp']),'lra_lu':float(final['input_lra']),'static_gain_db':gain,'maximum_quiet_interval_seconds_threshold_minus43db':long,'duration_method':'quiet-edge trimming, bounded phrase-pause edits and short tail only','pitch_shift':False,'speed_change':False,'compression_ratio':1.4,'peak_only_limiter_dbfs':-3.5,'moving_auto_gain':False,'full_decode_passed':True,'human_full_listening':False,'voice':'Algenib','model':'gemini-2.5-flash-preview-tts','approved_profile_revision':1,'wav':str(out.relative_to(P)),'mp3':str(mp3.relative_to(P))}
+ report={'part':n,'title':part['title'],'raw_seconds':rawlen/fs,'editorial_audio_cuts_seconds':plan.get('cuts_seconds',[]),'pcm_seconds':len(x)/fs,'sample_rate':fs,'pcm_frames':len(x),'integrated_lufs':float(final['input_i']),'true_peak_dbtp':float(final['input_tp']),'lra_lu':float(final['input_lra']),'static_gain_db':gain,'maximum_quiet_interval_seconds_threshold_minus43db':long,'duration_method':'quiet-edge trimming, bounded phrase-pause edits and short tail only','pitch_shift':False,'speed_change':False,'compression_ratio':1.4,'peak_only_limiter_dbfs':-3.5,'moving_auto_gain':False,'full_decode_passed':True,'human_full_listening':False,'voice':'Algenib','model':'gemini-2.5-flash-preview-tts','approved_profile_revision':1,'wav':str(out.relative_to(P)),'mp3':str(mp3.relative_to(P))}
  (P/f'qa/part-{n:02}.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print('FINISHED',n,'raw',rawlen/fs,'lufs',report['integrated_lufs'],'peak',report['true_peak_dbtp'],'maxquiet',long,flush=True)

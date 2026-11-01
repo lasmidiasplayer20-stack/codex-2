@@ -1,0 +1,12 @@
+{
+  "10": {
+    "cuts_seconds": [
+      [
+        27.12,
+        30.58
+      ]
+    ],
+    "removed_text": "O mundo visível deixa de parecer isolado.",
+    "reason": "Remove a redundant complete bridge sentence to fit 60 s without accelerating speech; cut endpoints fall inside quiet intervals. Verify by independent ASR."
+  }
+}

@@ -8,10 +8,11 @@ assert keys,'No recognized credentials';profile=json.loads((P/'audio/voice-profi
 for part in parts:
  n=part['part']
  if not o.from_part<=n<=o.to_part:continue
- out=o.work/f'{n:02}-raw.wav'; meta=out.with_suffix('.json'); record={'part':n,'text':part['text'],'voice':profile['voice'],'model':profile['model'],'direction':profile['direction']}; sha=hashlib.sha256(json.dumps(record,sort_keys=True).encode()).hexdigest();record['request_sha256']=sha
+ out=o.work/f'{n:02}-raw.wav'; meta=out.with_suffix('.json'); record={'part':n,'text':part.get('tts_source_text',part['text']),'voice':profile['voice'],'model':profile['model'],'direction':profile['direction']}; sha=hashlib.sha256(json.dumps(record,sort_keys=True).encode()).hexdigest();record['request_sha256']=sha
  if out.exists():
   assert json.loads(meta.read_text())['request_sha256']==sha,'Cache mismatch';print('CACHED',n,flush=True);continue
- body={'contents':[{'parts':[{'text':profile['direction']+'\n\nNARRAÇÃO:\n'+part['text']}]}],'generationConfig':{'responseModalities':['AUDIO'],'speechConfig':{'voiceConfig':{'prebuiltVoiceConfig':{'voiceName':profile['voice']}}}}}
+ if (o.work/f'pause-before-{n:02}').exists():raise SystemExit('Planned pause before shared-request generation; existing cache preserved')
+ body={'contents':[{'parts':[{'text':profile['direction']+'\n\nNARRAÇÃO:\n'+part.get('tts_source_text',part['text'])}]}],'generationConfig':{'responseModalities':['AUDIO'],'speechConfig':{'voiceConfig':{'prebuiltVoiceConfig':{'voiceName':profile['voice']}}}}}
  success=False
  for idx in [1,0,2]:
   if idx>=len(keys)or idx in blocked:continue

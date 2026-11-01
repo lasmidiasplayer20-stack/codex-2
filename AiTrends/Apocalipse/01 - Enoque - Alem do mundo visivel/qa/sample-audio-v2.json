@@ -27,8 +27,9 @@
   ],
   "full_decode_passed": true,
   "human_full_listening": false,
-  "user_approval": "pending",
+  "user_approval": "not_selected_user_returned_to_v1",
   "successful_generations": 1,
   "editorial_sample_generations_total": 2,
-  "revision_reason": "User requested more presence and firmness; approval pending"
+  "revision_reason": "User requested more presence and firmness; approval pending",
+  "selection_user_quote": "volte com a primeira versão e manda ver"
 }

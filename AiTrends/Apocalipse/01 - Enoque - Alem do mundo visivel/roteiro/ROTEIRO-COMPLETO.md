@@ -40,7 +40,7 @@ O sofrimento não permanece escondido na paisagem. No relato, a violência produ
 
 ## 10 — O universo como testemunha
 
-A jornada leva Enoque a paisagens que não pertencem à experiência cotidiana. Montanhas, ventos e estrelas participam de um universo organizado por limites e destinos. Alguns lugares são apresentados como espaços de contenção para seres que romperam sua ordem. A viagem impressiona por suas imagens, e sua função vai além do espetáculo. O mundo visível deixa de parecer isolado. Cada ação se insere numa estrutura moral maior. Essas descrições expressam a imaginação cosmológica e religiosa dos textos antigos. Sua cartografia combina paisagem, visão e uma interpretação religiosa do mundo. A pergunta que as atravessa não é apenas onde cada coisa está. É por que ela ocupa aquele lugar. Para o viajante, conhecer o universo significa também perceber que posição, poder e responsabilidade estão relacionados.
+A jornada leva Enoque a paisagens que não pertencem à experiência cotidiana. Montanhas, ventos e estrelas participam de um universo organizado por limites e destinos. Alguns lugares são apresentados como espaços de contenção para seres que romperam sua ordem. A viagem impressiona por suas imagens, e sua função vai além do espetáculo. Cada ação se insere numa estrutura moral maior. Essas descrições expressam a imaginação cosmológica e religiosa dos textos antigos. Sua cartografia combina paisagem, visão e uma interpretação religiosa do mundo. A pergunta que as atravessa não é apenas onde cada coisa está. É por que ela ocupa aquele lugar. Para o viajante, conhecer o universo significa também perceber que posição, poder e responsabilidade estão relacionados.
 
 ## 11 — Os lugares de espera
 
