@@ -1,0 +1,8 @@
+{
+  "reference_transcripts": "automatic transcription of user-provided Enoque_01 and Enoque_02; private source files",
+  "method": "normalized consecutive 10-word overlap scan",
+  "reference_words": 7852,
+  "original_script_words": 3113,
+  "overlaps_10_words": [],
+  "limitation": "A lexical check does not prove literary originality or verify historical claims; editorial structure and factual distinctions are documented separately."
+}

@@ -1,0 +1,12 @@
+{
+  "part": 4,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Uma seção apresenta os vigilantes. No relato, são seres celestes que contemplam a humanidade e ultrapassam o limite que separava sua condição da vida dos homens. A aproximação não é descrita como um encontro inocente. Ela envolve desejo, decisão e consequências. Primeiro, Enoque desenvolve temas que leitores relacionam à passagem dos filhos de Deus em Gênesis. Essa relação mantém as diferenças entre os textos e as distintas interpretações religiosas da passagem bíblica. Dentro da narrativa enóquica, a fronteira rompida reorganiza o mundo. O problema não está apenas no poder de quem desce. Está no uso que esse poder fará da proximidade. Antes dos gigantes e das grandes punições, o livro coloca diante de nós uma escolha e transforma essa escolha no início de uma crise.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check"
+}

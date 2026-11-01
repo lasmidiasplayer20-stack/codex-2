@@ -6,8 +6,8 @@ Título provisório. Produção em áudio, com análise de duas referências for
 
 **Estado:** roteiro original de 25 partes escrito em [ROTEIRO-COMPLETO](roteiro/ROTEIRO-COMPLETO.md). As duas referências tiveram análise automática da fala completa, em 11 trechos, e inspeção de 20 imagens representativas de cada vídeo; isso não equivale a escuta humana integral.
 
-A pedido do usuário, a [amostra Algenib v2](audio/00%20-%20Amostra%20Algenib%20-%20v2.mp3) tem mais presença e firmeza. Dura 24,29 s; medição: −18,8 LUFS e pico verdadeiro −3,2 dBTP. Sem mudança artificial de pitch ou velocidade. A versão anterior fica preservada para comparação.
+**Voz aprovada:** o usuário pediu “volte com a primeira versão e manda ver”. A referência é a [amostra Algenib original](audio/00%20-%20Amostra%20Algenib.mp3), não a v2. A direção original foi restaurada no perfil. A v2 permanece apenas como histórico.
 
-**Aguardando avaliação da amostra v2 antes de gerar as 25 partes completas.** A duração de 60 s por parte é o alvo da produção, ainda não uma duração de áudio validada. O roteiro tem cerca de 125 palavras por parte; a divisão final depende da fala real, preservando palavras e frases.
+**Narração completa em produção.** O alvo é 25 partes de 60 s, com ajustes apenas em pausas silenciosas, sem alterar velocidade/pitch nem cortar palavras. Cada parte recebe conferência automática independente das palavras e análise de volume/pico. Os relatórios não constituem avaliação humana integral do timbre.
 
 Não há vídeo nesta entrega inicial. Nenhuma chave deve ser colocada no repositório. Voz bruta/cache ficam fora do Git; revisões de mix usam a mesma geração, sem gastar novamente a API.

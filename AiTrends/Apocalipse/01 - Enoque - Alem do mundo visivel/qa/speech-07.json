@@ -1,0 +1,12 @@
+{
+  "part": 7,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "Os descendentes dessa união são apresentados como gigantes. O relato amplia seu tamanho, sua força e sua fome até transformar a terra num lugar incapaz de sustentá-los. Eles consomem o trabalho humano e depois espalham violência. A linguagem amplia corpos e apetites para tornar visível a gravidade da crise. É uma descrição antiga de excesso, construída para causar espanto. Há leituras que aproximam essa imagem do comportamento de poderes que devoram tudo ao redor. Essa interpretação não esgota o texto, mas ajuda a perceber sua força. A fome dos gigantes não conhece reciprocidade. Recebe sem devolver. Cresce sem reconhecer o limite do mundo que a alimenta. A terra deixa de ser morada compartilhada e se torna recurso para um apetite que nunca encontra satisfação.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check"
+}

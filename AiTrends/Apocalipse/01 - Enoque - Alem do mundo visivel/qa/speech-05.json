@@ -1,0 +1,36 @@
+{
+  "part": 5,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "O livro dos vigilantes apresenta 200 seres reunidos para assumir um compromisso. A montanha associada ao pacto é o Hermon. Os nomes variam nas traduções, mas uma figura geralmente chamada Semihazah ocupa posição de liderança. A decisão é compartilhada, como se a união do grupo pudesse tornar suportável o peso de cada participante. O juramento não elimina a responsabilidade. Ao contrário, mostra que eles compreendem a gravidade do que pretendem fazer. Essa é uma peça importante do relato. A transgressão não acontece por distração, ela é organizada. A montanha se torna o lugar de uma passagem deliberada. O que será apresentado depois como desordem espalhada pela terra começa aqui com uma concordância entre poucos. Uma decisão tomada em conjunto ainda pode produzir um desastre coletivo.",
+  "word_sequence_similarity": 0.968,
+  "differences": [
+    {
+      "kind": "replace",
+      "expected": "duzentos",
+      "heard": "200"
+    },
+    {
+      "kind": "replace",
+      "expected": "hermom",
+      "heard": "hermon"
+    },
+    {
+      "kind": "replace",
+      "expected": "semiaza",
+      "heard": "semihazah"
+    },
+    {
+      "kind": "replace",
+      "expected": "como",
+      "heard": "com"
+    }
+  ],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_after_asr_discrepancy_review",
+  "editorial_review": "accepted_minor_delivery_and_asr_variants",
+  "review_note": "200/duzentos and Hermom/Hermon are notation variants; Semiazá/Semihazah varies in transliteration and the focused second ASR supports Semiaza. The later phrase begins com uma concordância rather than the scripted como uma concordância; accepted as a minor grammatical delivery variant without substantive meaning change. The second ASR of seconds 15–35 does not verify that later phrase.",
+  "second_pass_transcript": "Semiaza ocupa posição de liderança. A decisão é compartilhada, como se a união do grupo pudesse tornar suportável o peso de cada participante. O juramento não elimina a responsabilidade, ao contrário, mostra que eles compreendem a gravidade do que pretendem fazer."
+}

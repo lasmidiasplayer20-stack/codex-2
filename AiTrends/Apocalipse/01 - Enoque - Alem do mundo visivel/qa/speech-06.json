@@ -1,0 +1,12 @@
+{
+  "part": 6,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "A descida também traz ensinamentos. O relato associa certos vigilantes à fabricação de armas, ao trabalho com metais e a saberes apresentados como indevidamente revelados. Azazel aparece ligado a parte desse conhecimento. Esses ensinamentos estão no centro de uma crítica antiga à corrupção. O fascínio pela novidade se mistura à vantagem que ela oferece. Quem domina uma técnica pode alterar a posição dos outros e o equilíbrio da comunidade. A questão narrativa está na combinação entre capacidade e responsabilidade. O que acontece quando alguém aprende a produzir mais força sem aprender a responder por seus efeitos? Na história, o conhecimento amplia a violência. A habilidade de fazer uma coisa não resolve por si a pergunta sobre quando ela deveria ser feita. O aprendizado também exige discernimento.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check"
+}

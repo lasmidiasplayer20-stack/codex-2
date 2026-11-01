@@ -1,0 +1,12 @@
+{
+  "part": 9,
+  "asr_model": "gemini-3-flash-preview",
+  "method": "independent transcription, no expected script in prompt",
+  "transcript": "É nessa crise que Enoque aparece como intermediário. Os vigilantes procuram aquele que pertence à humanidade, mas acessa o mundo celeste. Pedem que sua solicitação seja apresentada. Agora, seres que pareciam superiores dependem de um escriba para buscar uma resposta. Enoque registra, transmite e recebe um anúncio que não corresponde ao desejo deles. O pedido não apaga as consequências da transgressão. O acesso a alguém capaz de falar não oferece controle sobre o julgamento. A função do personagem é diferente da de um guerreiro. Sua autoridade está no testemunho e na transmissão. Ele vê o que outros não veem e comunica o que não pode alterar. O livro mostra, assim, um limite para a palavra. Ela pode apresentar uma causa sem garantir a resposta esperada.",
+  "word_sequence_similarity": 1.0,
+  "differences": [],
+  "spoken_instructions": [],
+  "asr_reported_audio_issues": [],
+  "human_full_listening": false,
+  "status": "pass_automatic_word_check"
+}

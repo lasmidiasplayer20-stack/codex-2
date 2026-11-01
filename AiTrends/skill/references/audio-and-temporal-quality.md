@@ -52,3 +52,11 @@ A amostra usa tratamento leve (65 Hz, compressão 1,6:1, −18 LUFS), harmonia e
 ## Feedback posterior do episódio 05
 
 O usuário avaliou a entrega: “a voz ficou ok”, mas algumas articulações ficaram toscas. Assim, a voz do episódio 05 está aceita; preservar seu perfil e cache. A etapa de reavaliar voz é necessária se mudar voz/modelo/estilo, sem pedir de novo aprovação da mesma configuração já aceita. O novo controle obrigatório de articulações e efeitos Python está em [joints-and-python-foley.md](joints-and-python-foley.md). Essa aceitação não aprova a animação inteira.
+
+## Apocalipse — Algenib original aprovada
+
+Para o projeto `Apocalipse/01 - Enoque - Alem do mundo visivel`, o usuário escolheu a **primeira** amostra Algenib após comparar uma revisão de maior presença: “volte com a primeira versão e manda ver”. Referência aprovada: `audio/00 - Amostra Algenib.mp3`; modelo `gemini-2.5-flash-preview-tts`. A revisão v2 não é o perfil a usar neste projeto. Direção exata e decisão ficam em `audio/voice-profile.json`. Não reabrir a aprovação desta configuração já autorizada.
+
+Conservar o tratamento leve da v1: passa-altas 50 Hz, passa-baixas 10,5 kHz, atenuação pequena em 1,9–4,3 kHz, compressão 1,4:1 com ataque 25 ms e recuperação 350 ms, ajuste de ganho fixo por trecho e conferência de pico verdadeiro após MP3. Intermediários de EQ/compressão em ponto flutuante evitam overflow antes da exportação PCM16. Não fazer mudança artificial de pitch/velocidade. Na montagem completa, combinar ganho fixo com proteção apenas dos picos isolados (limitador com antecipação de 5 ms, recuperação de 100 ms, sem ganho automático). Um pico isolado não deve fazer um minuto inteiro soar mais baixo que os outros; medir novamente o MP3.
+
+Nesta produção, a duração é rígida: 25 partes de 60 segundos. Medir cada geração; o mesmo número de palavras não garante a mesma duração. Ajustar apenas pausas em regiões silenciosas identificadas e manter frases completas; se a fala não couber, revisar o texto antes de gerar de novo somente o trecho necessário. Não preencher um minuto com um vazio longo no final. A transcrição automática independente verifica palavras e possíveis instruções lidas; não substitui avaliação humana de timbre e expressividade. Guardar os áudios brutos fora do Git e publicar a procedência e o QA sem segredos.

@@ -11,7 +11,7 @@
   "compression_ratio": 1.4,
   "attack_ms": 25,
   "release_ms": 350,
-  "eq": "50Hz HP / 10.5kHz LP / very small 1.9\u20134.3kHz dip",
+  "eq": "50Hz HP / 10.5kHz LP / very small 1.9–4.3kHz dip",
   "pitch_shift": false,
   "speed_change": false,
   "auto_gain_control": false,
@@ -26,6 +26,7 @@
   ],
   "full_decode_passed": true,
   "human_full_listening": false,
-  "user_approval": "pending",
-  "successful_generations": 1
+  "user_approval": "approved",
+  "successful_generations": 1,
+  "approval_user_quote": "volte com a primeira versão e manda ver"
 }
