@@ -2,11 +2,12 @@
   "model": "gemini-2.5-flash-preview-tts",
   "voice": "Algenib",
   "language": "pt-BR",
-  "direction": "Narre em português brasileiro com a voz Algenib, em registro naturalmente grave, firme, sóbrio e envolvente. Presença vocal forte com intensidade moderada e uniforme. Dicção clara, ritmo confortável, respirações breves e pausas naturais. Não grite, não sussurre, não cante e não dramatize como trailer. Evite alternar frases muito baixas com explosões de volume. Não imite um narrador específico. Leia SOMENTE o texto após NARRAÇÃO, sem comentários ou instruções.",
+  "direction": "Narre em português brasileiro com a voz Algenib. Entrega documental grave, imponente e segura, com peso natural e projeção firme. Articule com precisão e sustente a presença da voz até o final de cada frase. Ritmo assentado e envolvente, sem lentidão excessiva. A força vem da intenção e da ressonância, não de gritos. Mantenha intensidade uniforme, sem sussurros, sem explosões de volume e sem rouquidão provocada. Não cante nem imite um narrador específico. Leia SOMENTE o texto após NARRAÇÃO, sem comentários ou instruções.",
   "requested_by_user": true,
-  "sample_approval": "pending",
+  "sample_approval": "revision_requested_more_presence_and_firmness",
   "new_voice_authorized": true,
   "full_batch_started": false,
   "pitch_shift": false,
-  "speed_change": false
+  "speed_change": false,
+  "sample_revision": 2
 }

@@ -4,7 +4,7 @@
 
 ## O que já foi observado
 
-As duas referências foram baixadas da pasta fornecida. Enoque_01 dura 27min11s; Enoque_02 dura 24min35s. A amostragem visual do primeiro mostra apresentação direta à câmera alternada com manuscritos, sítios históricos, arte religiosa, diagramas e citações. O segundo usa sobretudo arte religiosa/manuscritos e cartelas. A análise automática da fala está em andamento em trechos limitados; não se afirma escuta humana integral.
+As duas referências foram baixadas da pasta fornecida. Enoque_01 dura 27min11s; Enoque_02 dura 24min35s. A amostragem visual do primeiro mostra apresentação direta à câmera alternada com manuscritos, sítios históricos, arte religiosa, diagramas e citações. O segundo usa sobretudo arte religiosa/manuscritos e cartelas. A análise automática da fala foi concluída em 11 trechos de até cinco minutos; não se afirma escuta humana integral.
 
 O início de Enoque_01 usa um enigma, imagens fortes e uma descoberta arqueológica como promessa de explicação. O tom é grave e pausado, com ênfase dramática. Esses recursos gerais podem orientar nossa versão; o gancho, a ordem das ideias, exemplos e frases serão nossos. Não copiar o CTA, nome do canal ou frases marcantes do vídeo.
 
@@ -14,7 +14,7 @@ Separar Gênesis, Judas e outras passagens bíblicas dos relatos atribuídos a E
 
 ## Voz
 
-Algenib, grave/firme e clara, com presença sem gritos. Preservar expressividade no ritmo e na construção das frases, sem sustos de volume. Não baixar o pitch artificialmente. Teste de 23,33 s, com tratamento leve e medição em qa/sample-audio.json. Aguardar avaliação da voz antes do lote completo, conforme a skill do estúdio.
+Algenib, grave/firme e clara, com presença sem gritos. Preservar expressividade no ritmo e na construção das frases, sem sustos de volume. Não baixar o pitch artificialmente. Amostra v2 de 24,29 s, com mais presença e firmeza a pedido do usuário, tratamento leve e medição em qa/sample-audio-v2.json. Aguardar avaliação da voz antes do lote completo, conforme a skill do estúdio.
 
 ## Entrega planejada
 
