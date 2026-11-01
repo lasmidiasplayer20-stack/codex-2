@@ -1,0 +1,12 @@
+{
+  "model": "gemini-2.5-flash-preview-tts",
+  "voice": "Algenib",
+  "language": "pt-BR",
+  "direction": "Narre em português brasileiro com a voz Algenib, em registro naturalmente grave, firme, sóbrio e envolvente. Presença vocal forte com intensidade moderada e uniforme. Dicção clara, ritmo confortável, respirações breves e pausas naturais. Não grite, não sussurre, não cante e não dramatize como trailer. Evite alternar frases muito baixas com explosões de volume. Não imite um narrador específico. Leia SOMENTE o texto após NARRAÇÃO, sem comentários ou instruções.",
+  "requested_by_user": true,
+  "sample_approval": "pending",
+  "new_voice_authorized": true,
+  "full_batch_started": false,
+  "pitch_shift": false,
+  "speed_change": false
+}

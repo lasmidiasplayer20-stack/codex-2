@@ -1,0 +1,31 @@
+{
+  "voice": "Algenib",
+  "model": "gemini-2.5-flash-preview-tts",
+  "seconds_pcm": 23.330958333333335,
+  "sample_rate": 24000,
+  "integrated_lufs": -19.4,
+  "true_peak_dbfs": -4.4,
+  "static_gain_db": -1.6600000000000001,
+  "eq_intermediate_float_pcm": true,
+  "gain_cap_based_on_true_peak": true,
+  "compression_ratio": 1.4,
+  "attack_ms": 25,
+  "release_ms": 350,
+  "eq": "50Hz HP / 10.5kHz LP / very small 1.9\u20134.3kHz dip",
+  "pitch_shift": false,
+  "speed_change": false,
+  "auto_gain_control": false,
+  "rms_dbfs_by_3s_window": [
+    -17.381978410238837,
+    -18.998753516236725,
+    -19.54206703747377,
+    -17.907790274450488,
+    -20.776734804100208,
+    -18.05579085426856,
+    -20.019141982615672
+  ],
+  "full_decode_passed": true,
+  "human_full_listening": false,
+  "user_approval": "pending",
+  "successful_generations": 1
+}

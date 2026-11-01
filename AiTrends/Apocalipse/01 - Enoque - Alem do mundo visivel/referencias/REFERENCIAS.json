@@ -1,0 +1,11 @@
+{
+  "folder": "https://drive.google.com/drive/folders/1ETm8j2h3MB0MOXHsHg24xRPQjPHlfVOT",
+  "files": [
+    {"name":"Enoque_01.mp4","drive_id":"1EftUnSxa8tnHJvwSNtKsVdIvDOvu9ejE","seconds":1631.108934,"resolution":[1280,720],"bytes":304757063},
+    {"name":"Enoque_02.mp4","drive_id":"127Y3QPMkqsOvLcKX_Sv5CNIX0aPNqn3E","seconds":1475.047619,"resolution":[1280,720],"bytes":116978660}
+  ],
+  "visual_review":"20 representative frames per reference inspected; not a claim of human continuous playback",
+  "speech_review":"Automatic full-reference transcription/analysis in bounded chunks in progress; original transcripts remain private",
+  "source_footage_published":false,
+  "voice_imitation":false
+}
