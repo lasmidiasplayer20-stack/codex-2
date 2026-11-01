@@ -56,3 +56,7 @@ Enoque_01 (27:11) e Enoque_02 (24:35) tiveram análise automática da fala em 11
 ## Reprodução
 
 [Scripts, cache e cuidados para retomar](scripts/README.md). Não regenerar tudo para corrigir ganho, pausas ou mix.
+
+## Planejamento visual pelo tutorial
+
+[Kit de adaptação do tutorial Google Flow](video/tutorial-flow/README.md): análise, proposta de oito tomadas para o primeiro minuto, prompts, índice dos 25 capítulos e montador Python/FFmpeg testado. Os clipes reais do Flow ainda não foram gerados e os cortes do piloto são provisórios. A narração aprovada permanece a fonte definitiva.

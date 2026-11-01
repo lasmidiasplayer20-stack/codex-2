@@ -1,0 +1,1 @@
+Colocar aqui os clipes próprios baixados do gerador, nomeados 001.mp4 a 008.mp4 para o piloto. Cada um precisa ter ao menos a duração de uso mais o ponto de entrada. O montador ignora o áudio desses clipes. Nenhum clipe do tutorial foi copiado.

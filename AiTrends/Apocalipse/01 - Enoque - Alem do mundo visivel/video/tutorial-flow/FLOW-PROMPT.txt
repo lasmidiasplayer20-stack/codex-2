@@ -1,0 +1,25 @@
+Crie uma ferramenta personalizada chamada Apocalipse Visual Studio, seguindo os recursos de geração realmente disponíveis nesta conta do Google Flow.
+
+OBJETIVO
+Gerar apenas os clipes visuais de um documentário ilustrado original. A narração em português já existe, foi aprovada e NÃO será gerada novamente. Não criar vozes, trocar narrador, sintetizar falas de personagens ou reutilizar uma voz do Flow. A montagem definitiva usará o áudio externo Algenib.
+
+ENTRADA
+Uma lista de cenas JSON, com id, title, visual, camera, generation_prompt, requested_source_seconds e duration_seconds. Ler shots do manifesto. duration_seconds é tempo de uso na edição; requested_source_seconds é a duração desejada para o clipe de origem. Exibir os campos para revisão. Não reescrever o roteiro e não inventar novas falas.
+
+INTERFACE
+Uma ficha por cena com ID, descrição, câmera, prompt, referência visual do personagem, duração de origem solicitada, duração útil de montagem, estado e resultado. Permitir trabalhar em um lote pequeno selecionado. Gerar somente após acionar o botão do lote; não iniciar ao abrir/importar a ferramenta. Mostrar uso/estimativa de créditos apenas quando o ambiente realmente fornecer esses dados; não inventar preço ou saldo.
+
+PERSONAGENS E IMAGEM
+Usar personagens e cenários originais. Manter a mesma referência visual de rosto, roupa, escala e paleta entre as cenas. Respeitar os personagens descritos nos prompts. Contorno desenhado expressivo, cenários pintados com profundidade, iluminação estável e movimentos de câmera motivados. Preservar articulações, mãos e contato dos pés com o chão. Não usar strobe, cintilação, deslocamento com pés parados, morphing contínuo ou texto gerado ilegível. Evitar fala e movimento labial: será narração em off.
+
+GERAÇÃO
+Usar somente mecanismos de geração disponíveis e documentados pelo ambiente. Se a duração solicitada não estiver disponível, indicar a duração real e permitir continuação ou revisão; não fingir que o clipe ficou longo o suficiente. Não congelar, repetir ou acelerar automaticamente o clipe para preencher tempo. Evitar fala, música e efeitos no clipe; se o modelo retornar áudio, indicar que será descartado na montagem externa.
+
+RETOMADA
+Identificar resultados por ID da cena. Não gerar novamente as cenas concluídas ao recarregar ou reabrir. Exibir cenas faltantes, falhas e a opção de refazer somente a cena selecionada. Não prometer persistência ou acesso a arquivos além do que esta plataforma realmente oferecer.
+
+SAÍDA
+Permitir baixar os MP4s individuais, com os IDs ou nomes previstos no manifesto quando o ambiente permitir. Não afirmar que sincronizou a nossa narração externa sem realmente importá-la e verificar a linha do tempo. Se o ambiente não aceitar o WAV externo ou não montar o master, exportar apenas os clipes; a montagem local em Python/FFmpeg fará o restante.
+
+PRIMEIRO LOTE
+Somente oito cenas do primeiro minuto. A geração dos demais minutos fica fora desse lote. O piloto serve para revisar aparência, continuidade, movimento e encaixe com a Algenib antes de ampliar a produção.

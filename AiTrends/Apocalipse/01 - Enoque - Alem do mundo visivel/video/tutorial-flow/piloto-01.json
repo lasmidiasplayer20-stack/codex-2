@@ -1,0 +1,141 @@
+{
+  "project": "Enoque — piloto de adaptação do tutorial",
+  "timing_status": "draft_visual_plan",
+  "timing_note": "Slots de 7,5 s para orçamento e piloto. Refinar cortes conforme as frases realmente ouvidas antes de finalizar. Não são timestamps de palavras obtidos por alinhamento forçado.",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration_seconds": 60,
+  "audio_files": [
+    "../../audio/partes/01 - O medo no berco.wav"
+  ],
+  "shots": [
+    {
+      "id": "ENQ-01-01",
+      "start_seconds": 0.0,
+      "duration_seconds": 7.5,
+      "clip": "clips/001.mp4",
+      "source_in_seconds": 0,
+      "title": "O medo no berço",
+      "visual": "Interior de uma casa simbólica da antiguidade. Lameque se aproxima do berço, apoia a mão na borda e hesita.",
+      "camera": "Plano médio com avanço lento e discreto de câmera. O peito e os ombros acompanham a respiração; pés e mãos mantêm contato com os apoios.",
+      "characters": [
+        "LAMEQUE",
+        "NOE_BEBE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Adult man with short curly dark hair and a short dark beard, muted burgundy woven tunic and sand-colored mantle. Same face and costume throughout. Newborn wrapped in plain cream-colored cloth, resting in a simple woven cradle. Calm breathing, natural proportions, no supernatural glowing eyes. Inside a modest ancient-inspired room, Lamech approaches the woven cradle, places one hand on its rim and hesitates. Slow medium dolly-in. Keep baby calm; the father shows concern through posture and eyes, without exaggerated gestures.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-02",
+      "start_seconds": 7.5,
+      "duration_seconds": 7.5,
+      "clip": "clips/002.mp4",
+      "source_in_seconds": 0,
+      "title": "A dúvida",
+      "visual": "A mão de Lameque recua levemente do berço; a expressão passa de alegria a incerteza.",
+      "camera": "Detalhe da mão, foco transferido ao rosto do pai; transição de enquadramento motivada, sem teletransporte.",
+      "characters": [
+        "LAMEQUE",
+        "NOE_BEBE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Adult man with short curly dark hair and a short dark beard, muted burgundy woven tunic and sand-colored mantle. Same face and costume throughout. Newborn wrapped in plain cream-colored cloth, resting in a simple woven cradle. Calm breathing, natural proportions, no supernatural glowing eyes. Begin on Lamech's hand at the cradle. His hand gently withdraws as his expression shifts from joy to uncertainty. Rack focus from the hand to his face, with continuous stable anatomy and lighting.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-03",
+      "start_seconds": 15.0,
+      "duration_seconds": 7.5,
+      "clip": "clips/003.mp4",
+      "source_in_seconds": 0,
+      "title": "Lameque e Noé",
+      "visual": "Pai e recém-nascido no mesmo quadro. Uma página ilustrada surge como ligação visual com o relato de Primeiro Enoque.",
+      "camera": "Plano sobre o ombro de Lameque para a criança; corte posterior para a página será feito na edição, sem texto gerado.",
+      "characters": [
+        "LAMEQUE",
+        "NOE_BEBE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Adult man with short curly dark hair and a short dark beard, muted burgundy woven tunic and sand-colored mantle. Same face and costume throughout. Newborn wrapped in plain cream-colored cloth, resting in a simple woven cradle. Calm breathing, natural proportions, no supernatural glowing eyes. Over Lamech's shoulder, reveal the peacefully wrapped newborn in the cradle. Gentle lateral camera drift. Keep both clearly readable. Use only abstract manuscript decoration in the background, without readable generated writing.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-04",
+      "start_seconds": 22.5,
+      "duration_seconds": 7.5,
+      "clip": "clips/004.mp4",
+      "source_in_seconds": 0,
+      "title": "Alguém distante",
+      "visual": "Enoque atravessa uma crista rochosa ao amanhecer, pequeno diante da paisagem.",
+      "camera": "Plano geral lateral com deslocamento real dos passos e movimento discreto da túnica.",
+      "characters": [
+        "ENOQUE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Older man with long silver hair and a narrow silver beard, earth-colored robe and blue-gray mantle. Same face and costume throughout. Enoch walks along a distant rocky ridge at dawn. Wide lateral tracking shot, real forward progress, grounded alternating footfalls, subtle cloth motion and atmospheric depth. Keep the established costume and face.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-05",
+      "start_seconds": 30.0,
+      "duration_seconds": 7.5,
+      "clip": "clips/005.mp4",
+      "source_in_seconds": 0,
+      "title": "Do nome ao relato",
+      "visual": "Um leitor abre um manuscrito; a composição sugere uma genealogia e conduz o olhar à figura de Enoque.",
+      "camera": "Detalhe de página e recuo suave. Títulos factuais serão adicionados na edição, se usados.",
+      "characters": [
+        "ENOQUE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Older man with long silver hair and a narrow silver beard, earth-colored robe and blue-gray mantle. Same face and costume throughout. A hand opens an aged manuscript on a simple table; abstract genealogical marks and a small illustrated figure suggest a story growing around an ancestral name. Slow pull-back, warm lamp light. Do not generate readable writing, Bible quotations or modern typography.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-06",
+      "start_seconds": 37.5,
+      "duration_seconds": 7.5,
+      "clip": "clips/006.mp4",
+      "source_in_seconds": 0,
+      "title": "Um universo maior",
+      "visual": "Enoque observa montanhas e um céu estrelado, sugerindo a expansão do relato para jornadas e ordem celeste.",
+      "camera": "Plano geral por trás do personagem com arco suave de câmera, sem rotação excessiva.",
+      "characters": [
+        "ENOQUE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Older man with long silver hair and a narrow silver beard, earth-colored robe and blue-gray mantle. Same face and costume throughout. Enoch stands beneath a vast star-filled sky above distant mountains. Slow shallow camera arc from behind his shoulder, creating foreground-background parallax. Stable stars and exposure, subtle wind in the mantle, no strobing or rapidly morphing scenery.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-07",
+      "start_seconds": 45.0,
+      "duration_seconds": 7.5,
+      "clip": "clips/007.mp4",
+      "source_in_seconds": 0,
+      "title": "A pergunta humana",
+      "visual": "Enoque ergue o olhar; a mão aperta a borda do manto. A expressão combina inquietação e atenção.",
+      "camera": "Plano próximo em três quartos; movimento mínimo de olhos, respiração e mão.",
+      "characters": [
+        "ENOQUE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Older man with long silver hair and a narrow silver beard, earth-colored robe and blue-gray mantle. Same face and costume throughout. Three-quarter close shot of Enoch looking upward with concern and attention. His fingers lightly grip the edge of his mantle. Gentle breathing and small eye movement, restrained performance, stable face and hands. Slow camera push, no talking or lip synchronization.",
+      "requested_source_seconds": 8
+    },
+    {
+      "id": "ENQ-01-08",
+      "start_seconds": 52.5,
+      "duration_seconds": 7.5,
+      "clip": "clips/008.mp4",
+      "source_in_seconds": 0,
+      "title": "Esperança e temor",
+      "visual": "Voltamos ao berço: Lameque ajeita o tecido da criança enquanto entra luz suave na casa.",
+      "camera": "Plano próximo descendente, encerrando com espaço para a continuação do capítulo seguinte.",
+      "characters": [
+        "LAMEQUE",
+        "NOE_BEBE"
+      ],
+      "generation_prompt": "Original expressive illustrated characters, confident dark hand-drawn outlines, elongated but anatomically coherent bodies, dimensional painted historical environments, warm amber practical light and cool blue shadows, cinematic composition, restrained paper texture. Consistent faces and clothing across all shots. Natural human movement, stable anatomy and exposure, no flickering. Historical-religious narrative illustration, not a claimed archaeological reconstruction. No modern objects, no Minecraft, no photorealistic presenter. No generated text, subtitles, logos, speech, narration, music or sound effects. Adult man with short curly dark hair and a short dark beard, muted burgundy woven tunic and sand-colored mantle. Same face and costume throughout. Newborn wrapped in plain cream-colored cloth, resting in a simple woven cradle. Calm breathing, natural proportions, no supernatural glowing eyes. Return to the same cradle and room. Lamech gently straightens the edge of the newborn's blanket. Soft dawn light enters the room as the camera slowly tilts down. Preserve the established father, baby and costume; understated hope, no magical glow or invented dialogue.",
+      "requested_source_seconds": 8
+    }
+  ],
+  "generate_voice": false,
+  "paid_generation_started": false,
+  "flow_session_connected": false
+}

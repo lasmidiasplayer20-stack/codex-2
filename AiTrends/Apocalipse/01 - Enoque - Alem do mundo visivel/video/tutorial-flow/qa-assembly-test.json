@@ -1,0 +1,28 @@
+{
+  "plan": "test.json",
+  "duration_seconds": 2.0,
+  "frames": 48,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "shots": 2,
+  "missing_clips": [],
+  "audio_seconds": 2.0,
+  "timing_status": "ready",
+  "generates_voice": false,
+  "calls_paid_apis": false,
+  "full_decode_passed": true,
+  "rendered_frames": 48,
+  "output_sha256": "28434b70033917ca2fa450013aff39e5d533c15837b190feb660fe515b62187f",
+  "narration_pcm_sha256": "76903447f8d84304ae9db6d752b38661ec20659f03f42e53219bfc3208f05ba8",
+  "incoming_clip_audio_discarded": true,
+  "voice_pitch_or_speed_changed": false,
+  "draft_preview": false,
+  "output_audio_matches_independent_reference_aac": true,
+  "input_clips_contained_test_tones": true,
+  "test_scope": "Technical assembly only: two solid-color fixtures and 2 seconds of existing narration. Not a Flow-generated visual pilot.",
+  "flow_generation_tested": false,
+  "test_video_published": false
+}
