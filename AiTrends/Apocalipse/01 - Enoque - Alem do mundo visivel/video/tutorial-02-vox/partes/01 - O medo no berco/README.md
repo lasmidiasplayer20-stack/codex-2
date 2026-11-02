@@ -20,3 +20,7 @@ Da raiz do repositório, conferir o plano com o `assemble.py` de `video/tutorial
 O usuário disponibilizou `enoque-01.mp4` no Drive. Original preservado em `originais/001-flow-original.mp4`. A versão `clips/001.mp4` tem exatamente quatro segundos, 96 quadros, 1080p/24 fps, sem áudio. Foi removido o quadro inicial isolado que mostrava a composição pronta antes de ela desaparecer e ser reconstruída. Uma pausa editorial de três quadros foi acrescentada na composição final já formada; não houve aceleração nem repetição de movimento. A narração permanece intacta para a montagem do minuto completo. Ver `QA-001.json`. Os outros 14 clipes ainda faltam.
 
 O quadro final `imagens/001-referencia-final.png` está disponível como referência visual para os próximos lotes. Os prompts seguintes foram ajustados para adultos e objetos simbólicos e para túnicas/mantos/sandálias em lugar de roupas modernas. A imagem anterior com bebê sofreu bloqueio do Google. Os lotes marcam a cena 001 como concluída para evitar nova geração desnecessária.
+
+## Execução por comando mestre
+
+Usar preferencialmente o [comando mestre e o guia](../../automation/COMO-USAR.md), que incluem referências fixas dos personagens e excluem a cena 001 já concluída. Os lotes de texto anteriores continuam como alternativa de consulta, mas o comando mestre é a versão consolidada com regras de continuidade.

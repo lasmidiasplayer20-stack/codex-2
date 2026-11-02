@@ -47,3 +47,7 @@ Análise e proposta de adaptação registradas. Não foram geradas imagens ou an
 
 - [Prompt original de imagem para teste](PROMPT-IMAGEM.txt)
 - [Prompt original de animação para teste](PROMPT-ANIMACAO.txt)
+
+## Comando mestre e consistência
+
+[Executar a parte 01 com o agente do Flow](automation/COMO-USAR.md): um comando autocontido por parte, biblioteca de personagens, referência de estilo e instrução de retomada. O comando da parte 01 exclui o primeiro clipe já pronto e reúne as 14 imagens e 14 animações faltantes. O agente pode exigir confirmações ou continuação; não há execução remota do Flow por este chat. O comportamento desse comando no Flow ainda precisa ser observado na conta real.

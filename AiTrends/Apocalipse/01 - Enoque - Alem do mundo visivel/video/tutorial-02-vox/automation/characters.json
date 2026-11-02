@@ -1,0 +1,44 @@
+{
+  "series": "Apocalipse / Enoque",
+  "revision": 1,
+  "style_reference": "partes/01 - O medo no berco/imagens/001-referencia-final.png",
+  "style_reference_status": "first_clip_accepted_by_user_ok",
+  "rules": [
+    "Referências visuais prevalecem sobre descrições textuais se houver conflito.",
+    "Usar os mesmos assets de personagem, sem redesenhar rostos a cada cena.",
+    "Novas poses precisam manter cabelo, barba, roupa, proporção e desenho do rosto.",
+    "Animação principal é de recortes; não pedir transformação facial ou fala.",
+    "Cenas de nascimento usam adultos e objetos simbólicos, sem figuras de menores.",
+    "Não substituir o elenco desta série por Nico nem alterar o elenco dos shorts."
+  ],
+  "characters": {
+    "LAMEQUE_01": {
+      "display_name": "Lameque",
+      "status": "scene_reference_available",
+      "reference_file": "partes/01 - O medo no berco/imagens/001-referencia-final.png",
+      "identity_instruction": "O homem adulto em primeiro plano à direita, inclinado em direção ao cesto, é LAMEQUE_01. As gravuras laterais NÃO são este personagem. Preservar exatamente seu rosto, barba escura, cabelo escuro ondulado, túnica comprida, manto de tecido e sandálias. Não trocar por outro homem de túnica.",
+      "new_reference_prompt": null
+    },
+    "ENOQUE_01": {
+      "display_name": "Enoque",
+      "status": "reference_needed",
+      "reference_file": null,
+      "identity_instruction": "Adulto mais velho, cabelo prateado até os ombros, barba prateada longa e estreita, rosto alongado e sereno, túnica longa simples, manto cinza-claro sem estampas e sandálias. Deve ser claramente distinto de Lameque. Depois de criada a referência, conservar a aparência dela.",
+      "new_reference_prompt": "Criar uma única ficha visual de ENOQUE_01 na mesma linguagem de gravura recortada da referência de estilo anexada: um homem mais velho, cabelo prateado até os ombros, barba longa e estreita, rosto alongado, túnica longa e manto simples cinza-claro, sandálias. Mostrar frente e três quartos na mesma ficha, sem duplicar pessoas na cena de produção. Fundo de papel neutro, sem texto, coroas, adereços modernos ou efeitos sobrenaturais. Esta ficha será a referência fixa para todas as composições posteriores."
+    },
+    "MATUSALEM_01": {
+      "display_name": "Matusalém",
+      "status": "reference_needed_when_first_used",
+      "reference_file": null,
+      "identity_instruction": "Adulto idoso distinto de Enoque: testa alta, cabelo grisalho recuado, barba cheia e curta, túnica escura e manto cinza médio, sandálias. Fixar uma referência antes de sua primeira cena.",
+      "new_reference_prompt": "Criar ficha visual original de MATUSALEM_01 em gravura documental recortada: adulto idoso de testa alta, cabelo grisalho recuado, barba cheia e curta, túnica escura simples e manto cinza médio, sandálias. Diferente de Enoque e Lameque. Frente e três quartos, fundo de papel neutro, sem texto."
+    },
+    "VIGILANTE_01": {
+      "display_name": "Vigilante simbólico",
+      "status": "reference_needed_when_first_used",
+      "reference_file": null,
+      "identity_instruction": "Representação simbólica adulta, rosto parcialmente em sombra, cabelo escuro comprido e túnica longa lisa. Não é retrato histórico ou evidência de seres celestes. Fixar referência antes de reutilizar.",
+      "new_reference_prompt": "Criar ficha visual original de uma figura adulta simbólica para os vigilantes de Primeiro Enoque: cabelo escuro comprido, rosto parcialmente em sombra, túnica longa lisa, aparência sóbria. Gravura recortada em meio-tom, sem armas em ação, ferimentos, criaturas infantis, texto ou mudanças sobrenaturais de corpo."
+    }
+  }
+}

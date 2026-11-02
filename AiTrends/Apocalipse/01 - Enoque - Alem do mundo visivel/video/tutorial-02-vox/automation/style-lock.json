@@ -1,0 +1,27 @@
+{
+  "revision": 1,
+  "reference_image": "partes/01 - O medo no berco/imagens/001-referencia-final.png",
+  "palette": [
+    "papel bege claro",
+    "tinta preta e cinza",
+    "vermelho editorial contido",
+    "amarelo-mostarda pontual"
+  ],
+  "materials": [
+    "papel rasgado",
+    "gravura em meio-tom",
+    "fita de papel",
+    "linhas e marcações editoriais",
+    "sombras suaves de camadas"
+  ],
+  "forbidden_drift": [
+    "roupas modernas",
+    "estética cartoon colorida da proposta anterior",
+    "nova aparência para personagem já estabelecido",
+    "texto bíblico inventado",
+    "mudança de textura entre planos",
+    "rosto se transformando durante animação"
+  ],
+  "animation": "Peças de papel entram e se acomodam; a imagem é o quadro final. Preservar o desenho dos personagens. A duração de uso é quatro segundos; não presumir duração nativa disponível.",
+  "narration": "Algenib original aprovada, arquivos existentes, sem nova voz no Flow."
+}

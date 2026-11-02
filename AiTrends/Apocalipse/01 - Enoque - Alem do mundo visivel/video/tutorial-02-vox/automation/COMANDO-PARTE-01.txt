@@ -1,0 +1,150 @@
+PROJETO ENOQUE — PARTE 01 — COMANDO MESTRE PARA O AGENTE DO FLOW
+
+Este texto é uma instrução a executar no projeto Flow do usuário, NÃO uma conexão ao ChatGPT e NÃO um programa já executado. Trabalhar somente nesta parte. A imagem de referência visual deve estar anexada à conversa. Não iniciar se não conseguir acessar essa referência; informar o que falta.
+
+OBJETIVO
+Produzir as imagens e animações faltantes desta parte, em colagem documental original. São 15 cenas de quatro segundos úteis cada, 60 segundos no total. A narração Algenib já existe e será colocada na montagem externa; não criar voz, fala, música, efeitos ou novo roteiro. Imagens: Nano Banana 2 disponível na conta. Vídeo: Omni disponível na conta. Não substituir modelos silenciosamente. Se um recurso não estiver disponível, informar a limitação real.
+
+JÁ CONCLUÍDO — NÃO REFAZER
+ENQ-01-01
+
+CONSISTÊNCIA GLOBAL
+Usar a imagem anexada como referência de materiais, gravura, papel, sombras e acabamento. Paleta: papel bege claro, tinta preta e cinza, vermelho editorial contido, amarelo-mostarda pontual. A mesma pessoa deve manter o rosto, cabelo, barba, corpo, roupa e sandálias. Sempre reutilizar as referências de identidade; uma descrição textual isolada não garante consistência. Preferir reutilizar o mesmo recorte de personagem e mudar a composição ao redor dele. Novas poses não podem reinventar a identidade. Figuras decorativas secundárias devem ser silhuetas discretas, sem novos protagonistas. Preservar as mesmas identidades durante a animação; mover peças de papel, não transformar rostos. Não inserir menores na imagem: passagens de nascimento serão representadas por adultos e objetos simbólicos.
+
+BIBLIOTECA DE PERSONAGENS NECESSÁRIOS NESTA PARTE
+
+ESTILO COMUM A TODAS AS IMAGENS
+Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal.
+
+CONTINUIDADE DE REFERÊNCIAS
+Antes de criar qualquer ficha, procurar no projeto e no histórico uma referência já existente com o ID do personagem. Reutilizá-la se existir. Ausência de arquivo local não prova ausência no Flow. Gerar uma referência nova somente se ela realmente não existir. Rotular como REF-ID-v1 quando a ferramenta permitir e registrar o nome real para futuras partes.
+
+ENOQUE_01 — Enoque
+Adulto mais velho, cabelo prateado até os ombros, barba prateada longa e estreita, rosto alongado e sereno, túnica longa simples, manto cinza-claro sem estampas e sandálias. Deve ser claramente distinto de Lameque. Depois de criada a referência, conservar a aparência dela.
+Criar UMA referência visual fixa antes das cenas que usam este personagem. Guardá-la no projeto, registrar o nome real do asset e reutilizá-la nas próximas solicitações. Não criar uma versão diferente por cena.
+Criar uma única ficha visual de ENOQUE_01 na mesma linguagem de gravura recortada da referência de estilo anexada: um homem mais velho, cabelo prateado até os ombros, barba longa e estreita, rosto alongado, túnica longa e manto simples cinza-claro, sandálias. Mostrar frente e três quartos na mesma ficha, sem duplicar pessoas na cena de produção. Fundo de papel neutro, sem texto, coroas, adereços modernos ou efeitos sobrenaturais. Esta ficha será a referência fixa para todas as composições posteriores.
+
+LAMEQUE_01 — Lameque
+O homem adulto em primeiro plano à direita, inclinado em direção ao cesto, é LAMEQUE_01. As gravuras laterais NÃO são este personagem. Preservar exatamente seu rosto, barba escura, cabelo escuro ondulado, túnica comprida, manto de tecido e sandálias. Não trocar por outro homem de túnica.
+Referência já existente: a imagem anexada. O homem em primeiro plano à direita é LAMEQUE_01; ignorar as figuras laterais para essa identidade.
+
+EXECUÇÃO
+1. Preparar apenas as referências de personagem faltantes listadas acima.
+2. Gerar imagens faltantes em lotes de no máximo dez, com referência de estilo e identidade em cada solicitação. Uma imagem por cena, nunca uma prancha com várias cenas. Pedir uma única saída por cena quando esse controle existir; não gerar variações extras automaticamente.
+3. Conferir a continuidade das referências nos resultados. Se um rosto ou roupa mudou, revisar somente aquela imagem antes de animá-la. Não afirmar que a verificação ocorreu se não conseguir comparar os assets.
+4. Animar as imagens prontas em lotes de no máximo cinco. A imagem é o quadro FINAL: os recortes entram e se encaixam até formar a composição.
+5. Solicitar quatro segundos quando o modelo oferecer essa duração. Não fingir suporte a uma duração indisponível. Se exportar mais, construir a composição principal nos primeiros quatro segundos e prolongar apenas sua leitura final. O corte útil será conferido na edição.
+6. Evitar o problema do teste 001: não exibir a composição pronta em um quadro isolado e depois voltar ao papel vazio. Começar no fundo e iniciar a entrada dos recortes prontamente.
+7. Não gerar novamente cenas prontas ao retomar. Manter IDs, nomes reais dos assets e estado por cena. Se precisar de outra interação, parar em um ponto identificável e informar de onde continuar.
+8. Se uma solicitação falhar por política, cota ou outro erro, registrar o ID e o aviso. Não repetir indefinidamente, comprar créditos, mudar de conta ou contornar a recusa. Prosseguir apenas nas etapas que a plataforma permitir.
+9. Respeitar as confirmações nativas que a plataforma exigir. Não declarar que um download/exportação foi concluído sem arquivo real.
+
+IMAGENS PENDENTES
+
+ENQ-01-02 — Uma criança difícil de compreender
+PERSONAGENS: LAMEQUE_01
+Detalhe das mãos do mesmo homem adulto junto aos tecidos dobrados no cesto de junco, com um recorte de seu olhar apreensivo ao lado. Sem figuras dentro do cesto.
+
+ENQ-01-03 — Da alegria à dúvida
+PERSONAGENS: LAMEQUE_01
+Dois adultos ao lado de uma casa esquemática antiga de barro, ligados a uma ficha vazia com um ponto de interrogação gráfico simples e separado.
+
+ENQ-01-04 — A origem do relato
+PERSONAGENS: Objetos; nenhum protagonista novo.
+Um caderno antigo ilustrativo aberto, um recorte do berço e uma ficha vazia conectados por fio vermelho. Não usar escrita antiga legível nem páginas de artefatos reais.
+
+ENQ-01-05 — Lameque
+PERSONAGENS: LAMEQUE_01
+Retrato em gravura do mesmo pai da primeira imagem, barba escura, túnica de época. Ficha vazia lateral e borda de papel rasgado.
+
+ENQ-01-06 — Noé
+PERSONAGENS: Objetos; nenhum protagonista novo.
+O mesmo cesto de junco com tecidos dobrados, ficha vazia e um pequeno ramo gráfico de continuidade familiar. Representação simbólica do nascimento, sem figura humana no cesto.
+
+ENQ-01-07 — A resposta procurada
+PERSONAGENS: LAMEQUE_01
+Três recortes ligados: a família, uma ficha de pergunta sem palavras e um mensageiro humano simbólico levando um rolo.
+
+ENQ-01-08 — Enoque distante
+PERSONAGENS: ENOQUE_01
+Gravura original de um homem mais velho com barba clara e manto de época, pequeno diante de uma crista montanhosa. Papel rasgado sugere distância.
+
+ENQ-01-09 — A breve figura do Gênesis
+PERSONAGENS: ENOQUE_01
+Árvore genealógica esquemática sem nomes, uma folha de livro ilustrativa e um recorte do mesmo homem mais velho. Sem inventar citações.
+
+ENQ-01-10 — Um universo de escritos
+PERSONAGENS: ENOQUE_01
+Um pequeno conjunto de cadernos e folhas antigas ilustrativas, unidos a um retrato em gravura de Enoque por um fio vermelho.
+
+ENQ-01-11 — Do berço às montanhas
+PERSONAGENS: ENOQUE_01
+Berço em recorte no primeiro plano, montanhas em segundo plano e uma faixa de papel que conecta visualmente os dois.
+
+ENQ-01-12 — Mensageiros e calendários
+PERSONAGENS: ENOQUE_01
+Uma gravura simbólica de mensageiro, diagrama circular de estrelas e calendário esquemático vazio em papel. Sem datas inventadas.
+
+ENQ-01-13 — Lugares de julgamento
+PERSONAGENS: ENOQUE_01
+Paisagem simbólica em recortes de montanhas e um espaço vazio diante de um assento monumental esquemático, sugerindo uma visão narrada. Não mostrar punições inventadas.
+
+ENQ-01-14 — Uma inquietação humana
+PERSONAGENS: LAMEQUE_01, ENOQUE_01
+Retrato em gravura do pai preocupado em uma metade da composição e a silhueta de Enoque na outra, unidos por uma linha discreta.
+
+ENQ-01-15 — Esperança e temor
+PERSONAGENS: LAMEQUE_01
+Retorno ao mesmo pai adulto e cesto de junco com tecidos; uma faixa clara de papel atravessa a composição com pequeno detalhe amarelo-mostarda. Esperança contida, sem efeitos sobrenaturais.
+
+REGRA DE ANIMAÇÃO COMUM
+Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição.
+
+ANIMAÇÕES PENDENTES
+
+ENQ-01-02 — Uma criança difícil de compreender
+Dois recortes chegam de direções opostas e se fixam; pequena linha de ligação aparece.
+
+ENQ-01-03 — Da alegria à dúvida
+A casa é montada primeiro; a família entra e a ficha se sobrepõe sem cobrir os rostos.
+
+ENQ-01-04 — A origem do relato
+O livro desliza e abre como peça gráfica; o recorte é colocado; a linha se desenha.
+
+ENQ-01-05 — Lameque
+Retrato se acomoda sobre a folha; ficha e fita de papel chegam em sequência.
+
+ENQ-01-06 — Noé
+Berço entra suavemente; a ficha é colocada; o ramo aparece em traço progressivo.
+
+ENQ-01-07 — A resposta procurada
+Os recortes são colocados um de cada vez; a linha vermelha percorre a conexão.
+
+ENQ-01-08 — Enoque distante
+Montanhas entram em planos; a gravura do homem se fixa; câmera faz deslocamento muito discreto.
+
+ENQ-01-09 — A breve figura do Gênesis
+A árvore é revelada em linhas; a folha desliza; o retrato se encaixa no ponto de destaque.
+
+ENQ-01-10 — Um universo de escritos
+As folhas chegam em sequência curta, sem chuva de papéis; o fio liga o conjunto ao retrato.
+
+ENQ-01-11 — Do berço às montanhas
+Berço se acomoda; montanhas sobem como camada; a faixa se desenrola e liga as peças.
+
+ENQ-01-12 — Mensageiros e calendários
+Diagrama entra; mensageiro e calendário se fixam; estrelas são reveladas sem piscar.
+
+ENQ-01-13 — Lugares de julgamento
+Camadas da paisagem se acomodam, seguidas do elemento central; breve profundidade de papel.
+
+ENQ-01-14 — Uma inquietação humana
+Retratos entram e param; a linha conecta os dois; não animar bocas ou mudar os rostos.
+
+ENQ-01-15 — Esperança e temor
+A gravura se encaixa; a faixa clara desliza suavemente; composição completa permanece legível no final.
+
+ENTREGA E RETOMADA
+Rotular cada asset com seu ID de cena quando o Flow permitir. Exportar os MP4s individuais; os nomes desejados são ENQ-PP-CC.mp4, com PP=parte e CC=cena. Se a ferramenta exportar nomes diferentes, entregar uma tabela ID da cena → nome real do arquivo. Não presumir que há ZIP ou renomeação automática: usar apenas os recursos reais disponíveis.
+Ao encerrar, informar em tabela: ID, referência de personagem usada, nome da imagem, nome do vídeo, duração real e estado (pronto/falhou/pendente). Não confundir imagem gerada com vídeo concluído.
+Não montar uma nova voz nem inserir a narração dentro de clipes separados. A montagem local juntará os clipes à faixa Algenib contínua, com som procedural discreto.

@@ -27,7 +27,11 @@
       "status": "candidate_clip_received_and_locally_corrected",
       "reference_final_frame": "imagens/001-referencia-final.png",
       "source_original": "originais/001-flow-original.mp4",
-      "qa": "QA-001.json"
+      "qa": "QA-001.json",
+      "character_ids": [
+        "LAMEQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-02",
@@ -43,7 +47,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. Detalhe das mãos do mesmo homem adulto junto aos tecidos dobrados no cesto de junco, com um recorte de seu olhar apreensivo ao lado. Sem figuras dentro do cesto.",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Dois recortes chegam de direções opostas e se fixam; pequena linha de ligação aparece. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "LAMEQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-03",
@@ -59,7 +67,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. Dois adultos ao lado de uma casa esquemática antiga de barro, ligados a uma ficha vazia com um ponto de interrogação gráfico simples e separado.",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: A casa é montada primeiro; a família entra e a ficha se sobrepõe sem cobrir os rostos. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "LAMEQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-04",
@@ -75,7 +87,9 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Um caderno antigo ilustrativo aberto, um recorte do berço e uma ficha vazia conectados por fio vermelho. Não usar escrita antiga legível nem páginas de artefatos reais. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: O livro desliza e abre como peça gráfica; o recorte é colocado; a linha se desenha. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [],
+      "continuity_instruction": "Cena de objetos; não acrescentar rostos ou personagens desnecessários."
     },
     {
       "id": "ENQ-01-05",
@@ -91,7 +105,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Retrato em gravura do mesmo pai da primeira imagem, barba escura, túnica de época. Ficha vazia lateral e borda de papel rasgado. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Retrato se acomoda sobre a folha; ficha e fita de papel chegam em sequência. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "LAMEQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-06",
@@ -107,7 +125,9 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. O mesmo cesto de junco com tecidos dobrados, ficha vazia e um pequeno ramo gráfico de continuidade familiar. Representação simbólica do nascimento, sem figura humana no cesto.",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Berço entra suavemente; a ficha é colocada; o ramo aparece em traço progressivo. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [],
+      "continuity_instruction": "Cena de objetos; não acrescentar rostos ou personagens desnecessários."
     },
     {
       "id": "ENQ-01-07",
@@ -123,7 +143,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Três recortes ligados: a família, uma ficha de pergunta sem palavras e um mensageiro humano simbólico levando um rolo. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Os recortes são colocados um de cada vez; a linha vermelha percorre a conexão. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "LAMEQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-08",
@@ -139,7 +163,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Gravura original de um homem mais velho com barba clara e manto de época, pequeno diante de uma crista montanhosa. Papel rasgado sugere distância. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Montanhas entram em planos; a gravura do homem se fixa; câmera faz deslocamento muito discreto. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-09",
@@ -155,7 +183,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Árvore genealógica esquemática sem nomes, uma folha de livro ilustrativa e um recorte do mesmo homem mais velho. Sem inventar citações. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: A árvore é revelada em linhas; a folha desliza; o retrato se encaixa no ponto de destaque. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-10",
@@ -171,7 +203,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Um pequeno conjunto de cadernos e folhas antigas ilustrativas, unidos a um retrato em gravura de Enoque por um fio vermelho. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: As folhas chegam em sequência curta, sem chuva de papéis; o fio liga o conjunto ao retrato. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-11",
@@ -187,7 +223,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Berço em recorte no primeiro plano, montanhas em segundo plano e uma faixa de papel que conecta visualmente os dois. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Berço se acomoda; montanhas sobem como camada; a faixa se desenrola e liga as peças. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-12",
@@ -203,7 +243,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Uma gravura simbólica de mensageiro, diagrama circular de estrelas e calendário esquemático vazio em papel. Sem datas inventadas. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Diagrama entra; mensageiro e calendário se fixam; estrelas são reveladas sem piscar. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-13",
@@ -219,7 +263,11 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Paisagem simbólica em recortes de montanhas e um espaço vazio diante de um assento monumental esquemático, sugerindo uma visão narrada. Não mostrar punições inventadas. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Camadas da paisagem se acomodam, seguidas do elemento central; breve profundidade de papel. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-14",
@@ -235,7 +283,12 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Retrato em gravura do pai preocupado em uma metade da composição e a silhueta de Enoque na outra, unidos por uma linha discreta. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. ",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: Retratos entram e param; a linha conecta os dois; não animar bocas ou mudar os rostos. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "LAMEQUE_01",
+        "ENOQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01, ENOQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     },
     {
       "id": "ENQ-01-15",
@@ -251,12 +304,18 @@
       "animation_model_requested": "Omni, conforme disponibilidade real no Flow",
       "image_prompt": "Composição final original para documentário de colagem editorial, horizontal 16:9. Papel de arquivo bege-claro, recortes em preto e branco com meio-tom, bordas rasgadas, sombras suaves de camadas, pequenos acentos vermelhos e amarelo-mostarda. Hierarquia clara, no máximo três elementos principais. Manter materiais e aparência entre imagens. Gravuras próprias e simbólicas da narrativa religiosa; não simular descoberta de documento autêntico. Sem logotipos, interface, texto legível inventado ou objetos modernos. Fichas vazias para tipografia posterior. Não copiar composições de outro canal. Figuras humanas adultas com túnica longa simples, manto de lã cru e sandálias, coerentes com uma representação simbólica do Oriente Próximo antigo. Sem vestuário europeu moderno ou móveis industrializados. Usar objetos e adultos para representar a passagem; não mostrar bebês ou crianças. Retorno ao mesmo pai adulto e cesto de junco com tecidos; uma faixa clara de papel atravessa a composição com pequeno detalhe amarelo-mostarda. Esperança contida, sem efeitos sobrenaturais.",
       "animation_prompt": "Usar esta imagem como QUADRO FINAL. Montagem editorial de recortes com sombras suaves: 0–0,3 s fundo de papel; 0,3–2,6 s entrada dos elementos principais; 2,6–3,2 s detalhes; 3,2–4,0 s composição final estável para leitura. Preservar exatamente a disposição final e a identidade dos recortes. Sem redesenhar rostos, inventar texto, morphing, cintilação, tremor ou movimentação labial. Sem voz, música ou efeitos: será usada a narração Algenib já existente. Solicitar quatro segundos se o modelo oferecer. Se a origem tiver duração maior, manter a montagem principal nos primeiros quatro segundos e prolongar apenas o quadro final. A duração real e a janela aproveitável precisam ser conferidas na edição. Movimento específico: A gravura se encaixa; a faixa clara desliza suavemente; composição completa permanece legível no final. Não mostrar a composição inteira em um quadro isolado na abertura antes de voltar ao fundo vazio. Começar de fato no papel e iniciar a entrada do primeiro recorte prontamente.",
-      "status": "prompts_ready_assets_not_generated"
+      "status": "prompts_ready_assets_not_generated",
+      "character_ids": [
+        "LAMEQUE_01"
+      ],
+      "continuity_instruction": "Reutilizar as referências fixas LAMEQUE_01. Preservar rostos, cabelo, barba, roupa e proporções; não reinventar o personagem."
     }
   ],
   "generation_location": "Google Flow",
   "generation_started": true,
   "flow_account_paid_user_reported": true,
   "flow_session_connected": false,
-  "generation_started_by": "user_external_Flow"
+  "generation_started_by": "user_external_Flow",
+  "character_registry": "../../automation/characters.json",
+  "style_registry": "../../automation/style-lock.json"
 }

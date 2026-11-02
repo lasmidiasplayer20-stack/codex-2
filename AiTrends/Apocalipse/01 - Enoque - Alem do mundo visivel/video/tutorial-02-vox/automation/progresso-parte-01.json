@@ -1,0 +1,178 @@
+{
+  "part": 1,
+  "flow_control_available_in_this_chat": false,
+  "command_exported_not_executed": true,
+  "plan_sha256": "842cb22d146d0432c23cae50f08eb54b33ad55000c9aca7e3bc9769a44644791",
+  "style_reference": "partes/01 - O medo no berco/imagens/001-referencia-final.png",
+  "character_references_not_received_locally_find_or_create_in_flow": [
+    "ENOQUE_01"
+  ],
+  "scenes": [
+    {
+      "id": "ENQ-01-01",
+      "image_received": true,
+      "video_received": true,
+      "video_sha256": "1d2625a1d9e49ece56b4f1ed59cd86518cc1d3d0dbefd4a86e50c7c69084820d",
+      "local_qa_exists": true,
+      "status": "video_received",
+      "character_ids": [
+        "LAMEQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-02",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "LAMEQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-03",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "LAMEQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-04",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": []
+    },
+    {
+      "id": "ENQ-01-05",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "LAMEQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-06",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": []
+    },
+    {
+      "id": "ENQ-01-07",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "LAMEQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-08",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-09",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-10",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-11",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-12",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-13",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-14",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "LAMEQUE_01",
+        "ENOQUE_01"
+      ]
+    },
+    {
+      "id": "ENQ-01-15",
+      "image_received": false,
+      "video_received": false,
+      "video_sha256": null,
+      "local_qa_exists": false,
+      "status": "not_received",
+      "character_ids": [
+        "LAMEQUE_01"
+      ]
+    }
+  ],
+  "videos_received": 1,
+  "images_received": 1,
+  "videos_pending": 14,
+  "output_command": "COMANDO-PARTE-01.txt"
+}

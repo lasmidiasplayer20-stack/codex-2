@@ -1,0 +1,13 @@
+{
+  "exporter_repeatable": true,
+  "image_jobs": 14,
+  "video_jobs": 14,
+  "completed_scene_001_excluded": true,
+  "unneeded_character_reference_jobs_excluded": true,
+  "style_reference_unchanged": true,
+  "master_command_sha256": "aa8d6facdd1ca268d3d7ad97f9ee2d75931d134be6375eadcb1a276b2169406e",
+  "command_characters": 12033,
+  "flow_execution_tested": false,
+  "paid_generation_started_by_script": false,
+  "media_generated_by_script": false
+}
