@@ -1,0 +1,66 @@
+EXECUTAR ANIMAÇÕES — ENOQUE PARTE 01
+
+Use as ferramentas reais do projeto Flow aberto para gerar os VÍDEOS das imagens já prontas. Este pedido é de execução, não de escrever novos prompts. Se você não tiver acesso às ferramentas de imagem-para-vídeo ou ao modelo Omni disponível na conta, informe claramente a limitação; não declare que gerou arquivos.
+
+FONTE E CONTINUIDADE
+Localize no projeto as imagens ENQ-01-02 a ENQ-01-15. Se os nomes forem diferentes, use a tabela de IDs da geração anterior. Não adivinhe correspondência de imagens. A cena ENQ-01-01 já foi gerada e não deve ser refeita.
+Use cada imagem como referência da composição FINAL. Preserve os recortes e os rostos; reutilize LAMEQUE_01 e ENOQUE_01 existentes, sem criar novas fichas ou identidades. O movimento é da colagem se montando, não de transformação das pessoas.
+
+CONFIGURAÇÃO
+Modelo solicitado: Omni disponível nesta conta Flow; não substituir automaticamente por outro. Solicitar quatro segundos quando houver esse controle. Se a duração nativa for maior, informe a duração real e concentre a montagem nos primeiros quatro segundos, preservando a leitura final. Não acelerar o movimento.
+Uma saída por cena. Sem narração, fala, música ou efeitos: a Algenib existente e o som serão montados externamente. Evitar boca se movendo, morphing, cintilação e tremor. Começar no papel vazio e formar a composição sem mostrar um quadro pronto isolado na abertura.
+
+SEQUÊNCIA
+1. Conferir quais vídeos desta lista já existem no projeto e excluí-los do trabalho pendente. Arquivos não baixados ainda podem existir no Flow; procurar antes de gerar.
+2. Processar as cenas restantes em lotes de no máximo cinco vídeos, seguindo os IDs abaixo.
+3. Depois de um lote, conferir os resultados e prosseguir ao seguinte enquanto a ferramenta permitir. Respeitar as confirmações nativas exigidas.
+4. Se uma imagem estiver ausente, registrar o ID e continuar apenas nas imagens corretamente identificadas. Não gerar outra imagem por conta própria nesta etapa.
+5. Se houver bloqueio, falta de cota ou falha, registrar o aviso e o ID; não repetir indefinidamente nem contornar a recusa.
+6. Ao interromper, registrar o último ID concluído e o próximo pendente. Ao retomar, não gerar os vídeos já existentes.
+
+MOVIMENTOS POR CENA
+
+ENQ-01-02 — Uma criança difícil de compreender
+Dois recortes chegam de direções opostas e se fixam; pequena linha de ligação aparece.
+
+ENQ-01-03 — Da alegria à dúvida
+A casa é montada primeiro; a família entra e a ficha se sobrepõe sem cobrir os rostos.
+
+ENQ-01-04 — A origem do relato
+O livro desliza e abre como peça gráfica; o recorte é colocado; a linha se desenha.
+
+ENQ-01-05 — Lameque
+Retrato se acomoda sobre a folha; ficha e fita de papel chegam em sequência.
+
+ENQ-01-06 — Noé
+Berço entra suavemente; a ficha é colocada; o ramo aparece em traço progressivo.
+
+ENQ-01-07 — A resposta procurada
+Os recortes são colocados um de cada vez; a linha vermelha percorre a conexão.
+
+ENQ-01-08 — Enoque distante
+Montanhas entram em planos; a gravura do homem se fixa; câmera faz deslocamento muito discreto.
+
+ENQ-01-09 — A breve figura do Gênesis
+A árvore é revelada em linhas; a folha desliza; o retrato se encaixa no ponto de destaque.
+
+ENQ-01-10 — Um universo de escritos
+As folhas chegam em sequência curta, sem chuva de papéis; o fio liga o conjunto ao retrato.
+
+ENQ-01-11 — Do berço às montanhas
+Berço se acomoda; montanhas sobem como camada; a faixa se desenrola e liga as peças.
+
+ENQ-01-12 — Mensageiros e calendários
+Diagrama entra; mensageiro e calendário se fixam; estrelas são reveladas sem piscar.
+
+ENQ-01-13 — Lugares de julgamento
+Camadas da paisagem se acomodam, seguidas do elemento central; breve profundidade de papel.
+
+ENQ-01-14 — Uma inquietação humana
+Retratos entram e param; a linha conecta os dois; não animar bocas ou mudar os rostos.
+
+ENQ-01-15 — Esperança e temor
+A gravura se encaixa; a faixa clara desliza suavemente; composição completa permanece legível no final.
+
+ENTREGA
+Mostrar os vídeos realmente gerados e uma tabela com ID, nome real do asset, duração real e estado. Quando possível, nomear os downloads com o ID da cena. Não confundir uma imagem com um vídeo e não declarar um download concluído sem arquivo. Não juntar uma voz nova aos clipes.

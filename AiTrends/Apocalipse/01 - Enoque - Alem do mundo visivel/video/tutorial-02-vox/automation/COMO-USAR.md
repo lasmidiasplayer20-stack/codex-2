@@ -38,3 +38,7 @@ python3 export_flow.py --part 1
 Ele lê o plano, exclui clipes já recebidos e escreve o comando e o estado local. O exportador só aceita partes que já tenham um plano escrito; as outras 24 partes ainda não possuem seus prompts completos. Após a revisão do primeiro minuto, o mesmo método pode ser aplicado a elas, conservando as referências.
 
 A montagem local está em `../../tutorial-flow/assemble.py`. Ela exige os 15 clipes, descarta o áudio de origem e usa os WAVs aprovados. Foley e revisão final de som entram na etapa de vídeo; não regenerar a voz para corrigir a montagem.
+
+## Se o agente parou depois das imagens
+
+Usar [ANIMAR-PARTE-01-FLOW.txt](ANIMAR-PARTE-01-FLOW.txt), um comando menor exclusivamente para executar a animação das imagens prontas em lotes de até cinco. Ele não regenera imagens, personagens ou narração. O comando exige arquivos reais e uma tabela de resultados, mas sua execução ainda depende das ferramentas e permissões disponíveis no Flow. Apenas salvar instruções ou receber uma resposta de planejamento não comprova que os vídeos foram gerados.
