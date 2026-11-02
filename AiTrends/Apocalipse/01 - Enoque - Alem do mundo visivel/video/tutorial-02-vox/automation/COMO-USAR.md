@@ -46,3 +46,5 @@ A montagem local está em `../../tutorial-flow/assemble.py`. Ela exige os 15 cli
 ## Se o agente parou depois das imagens
 
 Usar [ANIMAR-PARTE-01-FLOW.txt](ANIMAR-PARTE-01-FLOW.txt), um comando menor exclusivamente para executar a animação das imagens prontas em lotes de até cinco. Ele não regenera imagens, personagens ou narração. O comando exige arquivos reais e uma tabela de resultados, mas sua execução ainda depende das ferramentas e permissões disponíveis no Flow. Apenas salvar instruções ou receber uma resposta de planejamento não comprova que os vídeos foram gerados.
+
+Atualização: o usuário confirmou que as outras 14 imagens existem no Flow. Não pedir nova geração de imagens. Falta receber a resposta do agente após o vídeo único e identificar o vídeo/cena concluído e eventuais confirmações pendentes. O mapeamento dos nomes reais dos assets ainda não foi recebido.

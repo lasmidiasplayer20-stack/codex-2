@@ -178,6 +178,9 @@
   "remote_batch_execution_verified": false,
   "user_reported_remote_batch_result": "one_video_generated",
   "new_remote_video_id_known": false,
-  "remote_images_inventory_known": false,
-  "do_not_repeat_full_batch_before_inventory_check": true
+  "remote_images_inventory_known": true,
+  "do_not_repeat_full_batch_before_inventory_check": true,
+  "remote_images_available_user_confirmed": 14,
+  "remote_asset_id_mapping_received": false,
+  "remote_next_step": "Inspect agent response and pending confirmations without new generation; do not regenerate images."
 }
