@@ -2,6 +2,10 @@
 
 O comando mestre contém as instruções da parte inteira, mas não é uma integração remota já executada. Este chat não controla o Flow. O agente dentro da conta do usuário precisa realizar as gerações e pode exigir confirmações ou continuação. O comportamento do agente com este comando ainda não foi testado ao vivo.
 
+## Resultado relatado na conta
+
+O usuário informou que o comando produziu somente um vídeo. Portanto, a execução em lote NÃO foi validada. Não repetir o comando inteiro para tentar forçar o lote: primeiro conferir quantas imagens existem e qual cena corresponde ao vídeo novo. Usar [DIAGNOSTICO-FLOW.txt](DIAGNOSTICO-FLOW.txt) para pedir ao agente apenas inventário e motivo observável da interrupção, sem nova geração. Um único resultado não comprova um limite de um vídeo por conta, plano ou ferramenta.
+
 ## Primeiro envio
 
 1. Abra o mesmo projeto do Flow onde fez o primeiro clipe. Manter o projeto ajuda a conservar as referências e os resultados.

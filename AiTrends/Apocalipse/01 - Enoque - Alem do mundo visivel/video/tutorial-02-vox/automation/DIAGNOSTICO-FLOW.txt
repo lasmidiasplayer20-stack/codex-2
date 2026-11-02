@@ -1,0 +1,10 @@
+Não gere imagens nem vídeos nesta mensagem. Não refaça nenhum asset.
+
+Confira apenas o projeto aberto e informe:
+1. Quais imagens das cenas ENQ-01-01 a ENQ-01-15 realmente existem, com seus nomes ou IDs reais.
+2. Quais vídeos dessas cenas realmente existem, com seus nomes ou IDs reais.
+3. Qual imagem foi usada no único vídeo que você acabou de gerar.
+4. Se as outras imagens já estavam disponíveis quando recebeu o pedido de animação.
+5. O que interrompeu o lote: uma confirmação pendente, falha de ferramenta, falta de imagens, limite informado pela plataforma ou outro motivo observável. Não adivinhe limites.
+
+Se você não conseguir consultar os assets ou o histórico de execução, diga exatamente isso. Não invente uma lista de cenas concluídas ou capacidades de lote. Esta é apenas uma conferência, sem novas gerações.

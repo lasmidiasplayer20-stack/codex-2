@@ -174,5 +174,10 @@
   "videos_received": 1,
   "images_received": 1,
   "videos_pending": 14,
-  "output_command": "COMANDO-PARTE-01.txt"
+  "output_command": "COMANDO-PARTE-01.txt",
+  "remote_batch_execution_verified": false,
+  "user_reported_remote_batch_result": "one_video_generated",
+  "new_remote_video_id_known": false,
+  "remote_images_inventory_known": false,
+  "do_not_repeat_full_batch_before_inventory_check": true
 }
